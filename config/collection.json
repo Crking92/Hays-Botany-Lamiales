@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "collection_id": "lamiales",
+  "repository_full_name": "Crking92/Hays-Botany-Lamiales",
+  "planning_status": "STAGING_ONLY_NOT_AUTHORITATIVE",
+  "canonical_repository_until_approved_handoff": "Crking92/Hays-County-Botany",
+  "family_assignments": [
+    "Acanthaceae",
+    "Bignoniaceae",
+    "Lamiaceae",
+    "Lentibulariaceae",
+    "Martyniaceae",
+    "Oleaceae",
+    "Orobanchaceae",
+    "Paulowniaceae",
+    "Plantaginaceae",
+    "Scrophulariaceae",
+    "Verbenaceae"
+  ],
+  "installed_species_baseline": 102,
+  "species_soft_target": 150,
+  "family_grouping_source": "https://github.com/Crking92/Hays-County-Botany/blob/main/planning/MULTI_REPO_FAMILY_ROUTING_DRAFT_20261028.json",
+  "content_root": "content/taxa",
+  "collection_index": "data/collection-index.json",
+  "navigation_contract": {
+    "style": "Hays Botany current learner",
+    "mode": "separate-family-websites",
+    "species_query_parameter": "species",
+    "hub_url": "https://crking92.github.io/Hays-County-Botany/",
+    "published_site_url": null
+  },
+  "publication": {
+    "enabled": false,
+    "rights_review_required": true,
+    "anatomy_review_required": true,
+    "original_source_sha_recheck_required": true,
+    "rollback_required": true
+  },
+  "note": "Metadata for staging only; not a project-rules override, no active ownership transfer or publication."
+}
