@@ -1,0 +1,27 @@
+name: Build shared Hays Botany family site preview (never deploy)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'scripts/build_collection_preview.py'
+      - '.github/workflows/collection-ui-preview.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  build-shell:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with: {persist-credentials: false}
+      - name: Check JavaScript and staging-only collection files
+        run: |
+          node --check site/app.js
+          python3 scripts/build_collection_preview.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: hays-botany-unpublished-family-site-preview
+          path: dist/
+          retention-days: 30
+          if-no-files-found: error
