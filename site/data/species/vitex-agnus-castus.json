@@ -1,0 +1,17 @@
+{
+  "id": "vitex-agnus-castus",
+  "family": "Lamiaceae",
+  "genus": "Vitex",
+  "scientific_name": "Vitex agnus-castus",
+  "common_name": "Chaste tree",
+  "look_here_first": "Look for aromatic palmately compound leaves and showy spikes of small two-lipped flowers; planted, non-native comparison.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "498cc0bb740dab50072d7ca729fa26c23ff797d4b7fb277f70f453409ad180e7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
