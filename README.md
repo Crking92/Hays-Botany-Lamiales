@@ -1,6 +1,6 @@
 # Hays Botany — Lamiales
 
-**Collection setup only — not yet a live learner or authoritative botanical source.**
+**Original source-file migration PASS in private staging — NOT a live learner or authoritative source.**
 
 This future collection belongs to the [Hays County Botany Visual Learner](https://github.com/Crking92/Hays-County-Botany). It will hold the assigned families' species records, teaching data, verified diagnostic photographs, and an independent family-group learner when its migration and release checks pass.
 
@@ -9,8 +9,16 @@ This future collection belongs to the [Hays County Botany Visual Learner](https:
 - Installed species in the original hub at planning baseline: **102**
 - Planning target: around 150 species per repository; soft limit, with actual image bytes and site size checked separately
 - Canonical species owner during staging: **Crking92/Hays-County-Botany**
-- State: **EMPTY_COLLECTION_STAGING; NO PUBLICATION OR DATA OWNERSHIP**
+- State: **SOURCE_FILES_COPIED_PRIVATE; NO PUBLICATION OR DATA OWNERSHIP**
 - Architecture: independent collection websites connected through the hub (Option B)
+
+## Existing source-file transfer — completed October 28, 2026
+
+All 102 original species and **582 existing source files** have been checked against their source Git blob IDs in the private [staging/original-source-transfer](https://github.com/Crking92/Hays-Botany-Lamiales/tree/staging/original-source-transfer) branch: **342 scientific/credit text files** stay at their content paths, while **240 original media files** are retained in a separate private, non-displayed quarantine.
+
+[Read the transfer verification report](https://github.com/Crking92/Hays-Botany-Lamiales/blob/staging/original-source-transfer/migration/original-source-transfer-summary.json).
+
+This work preserves existing data and photos; it does **not** source new photos, clear media for publication, publish Pages, merge the staging branch into main, change the central learner, or change botanical authority.
 
 ## Safety and next steps
 Do not import restricted/unknown-rights photo files, enable Pages, repoint existing learner links, rewrite botanical records, or restart automations. Initial commits establish only collection metadata, an empty index, and read-only validation. A separate verified source and rights handoff is required before a collection becomes authoritative.
