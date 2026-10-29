@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "status": "EIGHT_EXISTING_SOURCE_CC_OR_PUBLIC_DOMAIN_PHOTO_PILOT",
-  "note": "Eight pre-existing exact-species photographs are displayed from individually checked Wikimedia Commons source pages. No new photographic bytes are copied or published from historical rights-held archives. Not a completed gallery or anatomy audit.",
+  "status": "FAMILY_REVIEWED_SOURCE_PHOTOS_WITH_GITHUB_HOSTED_MONARDA",
+  "note": "Approved source-specific photo references by species. Monarda citriodora has five physical byte-verified GitHub site JPEGs; other earlier approved photos still link upstream Commons. No blanket publication of source quarantines.",
   "species": {
     "anisacanthus-quadrifidus-var-wrightii": [
       {
@@ -22,17 +22,78 @@
     ],
     "monarda-citriodora": [
       {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Monarda_citriodora.jpg",
+        "src": "media/monarda-citriodora/01-reference.jpg",
         "creator": "Clarence A. Rechenthin / USDA-NRCS",
         "license": "Public Domain (U.S. federal work)",
         "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
         "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_citriodora.jpg",
-        "role": "Flowering stems with stacked whorls and bracts",
+        "role": "Full flowering stems, stacked whorls and purple bracts",
         "source_page_is_exact": true,
         "noncommercial_only": false,
         "private_rights_review_only": false,
-        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "modified": "Exact original Git image bytes copied to the family website; no modification",
         "rights_note": "",
+        "source_blob_sha": "1541d32b357dd87791897ef0061c06a2a75dc91d",
+        "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-citriodora/image-sources.csv"
+      },
+      {
+        "src": "media/monarda-citriodora/02-reference.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_citriodora_inflorescence_1.jpg",
+        "role": "Close-up of stacked flower whorls and bracts",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact original Git image bytes copied to the family website; no modification",
+        "rights_note": "",
+        "source_blob_sha": "ad29c19c881bbc1d84310cdafc9b7c0740e17aa2",
+        "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-citriodora/image-sources.csv"
+      },
+      {
+        "src": "media/monarda-citriodora/03-reference.jpg",
+        "creator": "Nadiatalent",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_citriodora,_leaves_and_stem.jpg",
+        "role": "Opposite leaves and square-stem context",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact original Git image bytes copied to the family website; no modification",
+        "rights_note": "",
+        "source_blob_sha": "c97dc072d16dfc422d8a449d48c3f78f70d13d74",
+        "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-citriodora/image-sources.csv"
+      },
+      {
+        "src": "media/monarda-citriodora/glass-root-garden-665240129-pale-flower-whorls.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/665240129",
+        "role": "Pale whitish flower form, stacked whorls, narrow foliage",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact original Git image bytes copied to the family website; no modification",
+        "rights_note": "Direct reuse permission and CC BY 4.0 attribution from the original photographer; original iNaturalist photo license at download was all-rights-reserved, so this separate owner grant controls project use.",
+        "source_blob_sha": "02f02d47d85e638469baa021991dbc57140111bc",
+        "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-citriodora/image-sources.csv"
+      },
+      {
+        "src": "media/monarda-citriodora/glass-root-garden-665836624-purple-flower-habit.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/665836624",
+        "role": "Purple and pale flowering heads with upright plant habit",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact original Git image bytes copied to the family website; no modification",
+        "rights_note": "Direct reuse permission and CC BY 4.0 attribution from the original photographer; original iNaturalist photo license at download was all-rights-reserved, so this separate owner grant controls project use.",
+        "source_blob_sha": "1eada5073ac143d573718c0b7ba629c2056e51ab",
         "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-citriodora/image-sources.csv"
       }
     ],
