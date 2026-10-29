@@ -1,6 +1,8 @@
 # Hays-Botany-Lamiales — repository guidance (2026-10-28)
 
-Status: **collection setup / staging only**. 11 assigned families, 102 original-hub installed species at planning baseline. These are historical planning counts, not live verified inventories.
+Status: **original source files copied and verified in private staging; NOT PUBLIC or canonical**. 11 assigned families, 102 original-hub installed species at planning baseline. These are historical planning counts, not live verified inventories.
+
+**Verified October 28 transfer state:** The repository README now confirms **102 original species and 582 original source files** were checked against their Git blob IDs and stored in a PRIVATE `staging/original-source-transfer` branch. Botanical text/credits are staged; photographs are in a private, non-displayed rights-hold archive. This is NOT a rights clearance, visible gallery, publicly deployable site, merged main branch, or canonical-ownership transfer. The latest repo README and its machine-readable source-transfer report outrank this dated summary.
 
 Read [active multi-repository operating rules](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/MULTI_REPO_OPERATING_RULES_20261028.md), [dated cross-chat handoffs](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/ACTIVE_CHAT_HANDOFFS_20261028.md), [canonical source rules](https://github.com/Crking92/Hays-County-Botany/blob/main/PROJECT_RULES.md) and [family assignment draft](https://github.com/Crking92/Hays-County-Botany/blob/main/planning/MULTI_REPO_FAMILY_ROUTING_DRAFT_20261028.json) before importing or editing content.
 
