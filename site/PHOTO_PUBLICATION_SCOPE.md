@@ -1,5 +1,7 @@
-# Hays Botany family text-only learner preview
+# Hays Botany - individually reviewed photo pilot
 
-This public learner currently contains **102 existing species teaching summaries** from the migrated family source cards. **No third-party image files or remote embedded photos** are included in the output. Historical source-photo records and credits are preserved unchanged on the staging branch for an individual rights review before gallery use.
+This public family site has **102 existing species text lessons** and **1 externally hosted, individually credited CC BY photo(s)** referenced through the reviewed external photo manifest.
 
-Source repository being public does not establish rights to distribute all original photographs. Photographs can be added to the WEBSITE only when individually verified for display, attribution, license and adaptation rights. The old public learner remains the fallback for existing verified photographs and full lessons.
+No source photograph bytes or unverified media are copied to the Pages site. Approved links point directly to Wikimedia Commons, and the card shows photographer, license, and original source page. Each approved image was already included in the historical species source record. This does not establish photo/anatomy completeness.
+
+Remaining historical photos are withheld for individual rights and identity review. The original learner remains a photo fallback.
