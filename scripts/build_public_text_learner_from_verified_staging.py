@@ -91,21 +91,54 @@ for card in cards:
 (data/"collection-meta.json").write_text(json.dumps({"repository_full_name":CONFIG["repository_full_name"],
    "family_assignments":CONFIG["family_assignments"],
    "site_release_stage":"PUBLIC_TEXT_ONLY_PREVIEW_PHOTOS_HELD"},ensure_ascii=False,indent=2)+"\n")
+# Preserve an independently reviewed existing-source photo link without
+# copying any of the rights-held staging/source image bytes into the public build.
+pilot_path=data/"reviewed-external-photo-manifest.json"
+approved_external=[]
+if pilot_path.exists():
+    pilot=json.loads(pilot_path.read_text(encoding="utf-8"))
+    assert pilot.get("schema_version")==1 and isinstance(pilot.get("species"),dict)
+    known_ids={c["id"] for c in cards}
+    for sid,photos in pilot["species"].items():
+        assert sid in known_ids and isinstance(photos,list)
+        for p in photos:
+            assert p["src"].startswith("https://upload.wikimedia.org/wikipedia/commons/")
+            assert p["source_page"].startswith("https://commons.wikimedia.org/wiki/File:")
+            assert p["creator"].strip() and p["role"].strip()
+            assert p["license"]=="CC BY 2.0"
+            assert p["license_url"]=="https://creativecommons.org/licenses/by/2.0/"
+            assert p["private_rights_review_only"] is False
+            assert p["noncommercial_only"] is False
+            approved_external.append((sid,p))
 notice=site/"PHOTO_PUBLICATION_SCOPE.md"
-notice.write_text("# Hays Botany family text-only learner preview\n\n"
-  f"This public learner currently contains **{len(cards)} existing species teaching summaries** "
-  "from the migrated family source cards. **No third-party image files or remote embedded photos** "
-  "are included in the output. Historical source-photo records and credits are preserved "
-  "unchanged on the staging branch for an individual rights review before gallery use.\n\n"
-  "Source repository being public does not establish rights to distribute all original photographs. "
-  "Photographs can be added to the WEBSITE only when individually verified for display, "
-  "attribution, license and adaptation rights. The old public learner remains the "
-  "fallback for existing verified photographs and full lessons.\n")
+if approved_external:
+    notice.write_text(
+       "# Hays Botany - individually reviewed photo pilot\n\n"
+       f"This public family site has **{len(cards)} existing species text lessons** and "
+       f"**{len(approved_external)} externally hosted, individually credited CC BY photo(s)** "
+       "referenced through the reviewed external photo manifest.\n\n"
+       "No source photograph bytes or unverified media are copied to the Pages site. "
+       "Approved links point directly to Wikimedia Commons, and the card shows photographer, "
+       "license, and original source page. Each approved image was already included in "
+       "the historical species source record. This does not establish photo/anatomy completeness.\n\n"
+       "Remaining historical photos are withheld for individual rights and identity review. "
+       "The original learner remains a photo fallback.\n",encoding="utf-8")
+else:
+    notice.write_text("# Hays Botany family text-only learner preview\n\n"
+      f"This public learner currently contains **{len(cards)} existing species teaching summaries** "
+      "from the migrated family source cards. **No third-party image files or remote embedded photos** "
+      "are included in the output. Historical source-photo records and credits are preserved "
+      "unchanged on the staging branch for an individual rights review before gallery use.\n\n"
+      "Source repository being public does not establish rights to distribute all original photographs. "
+      "Photographs can be added to the WEBSITE only when individually verified for display, "
+      "attribution, license and adaptation rights. The old public learner remains the "
+      "fallback for existing verified photographs and full lessons.\n",encoding="utf-8")
 report={"status":"PASS_EXISTING_TEXT_DATA_ONLY","collection":CONFIG["collection_id"],
  "source_species":len(cards),"published_site_species":len(cards),
  "distinct_families":len(counts),"external_photos_downloaded":0,
  "embedded_original_photo_files":0,"private_photo_quarantine_files_copied":0,
  "photo_claimed_publicly_permitted_without_review":0,
+ "existing_public_cc_photo_links":len(approved_external),
  "family_pages_ready_for_text_browsing":True,"original_hub_modified":False,
  "source_family_branch_modified":False,"new_plant_installations":0}
 (DEST/"site-build-text-only-report.json").write_text(json.dumps(report,indent=2)+"\n")
