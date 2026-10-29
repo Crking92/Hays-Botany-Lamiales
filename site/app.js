@@ -1,6 +1,6 @@
 "use strict";
 const $=id=>document.getElementById(id);
-const siteState={config:null,entries:[],active:null,mode:"learner",details:new Map()};
+const siteState={config:null,entries:[],active:null,mode:"learner",details:new Map(),approvedPhotos:{}};
 const hub="https://crking92.github.io/Hays-County-Botany/";
 function setText(node,text){node.textContent=String(text??"");return node}
 function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)setText(n,text);if(cls)n.className=cls;return n}
@@ -32,7 +32,8 @@ async function select(id,push){
    }
    if(siteState.active!==id)return;
    const card=siteState.details.get(id);
-   d.append(el("p","Field-identification text from the existing Hays Botany scientific record. Photographs in this first family release are temporarily withheld pending source-specific public-reuse review.","muted"));
+   const photos=siteState.approvedPhotos[id]||[];
+   d.append(el("p",photos.length?`${photos.length} individually credited historical photograph${photos.length===1?"":"s"} released from an exact-source CC license review. Other images remain held.`:"Field-identification text from the existing Hays Botany scientific record. Photographs for this species remain withheld pending source-specific reuse review.","muted"));
    if(card.look_here_first){
      d.append(el("h3","LOOK HERE FIRST"));
      d.append(el("p",card.look_here_first));
@@ -50,11 +51,11 @@ async function select(id,push){
      if(card.lookalikes.names?.length)d.append(el("p","Compare with: "+card.lookalikes.names.join(", ")));
      if(card.lookalikes.differences)d.append(el("p",card.lookalikes.differences));
    }
-   if(Array.isArray(card.verified_photos)&&card.verified_photos.length){
+   if(photos.length){
      const heading=el("h3","Real species photographs");d.append(heading);
      d.append(el("p","Scroll sideways to compare the photographed structures. Image rights vary by photograph; review each caption. Anatomy arrows have not yet been individually certified.","muted"));
      const strip=el("div",undefined,"gallery-strip");
-     for(const photo of card.verified_photos){
+     for(const photo of photos){
        const fig=el("figure",undefined,"gallery-photo");
        const link=document.createElement("a");link.href=photo.src;link.target="_blank";link.rel="noopener noreferrer";link.setAttribute("aria-label","Open original-size preview of "+(photo.role||card.scientific_name));
        const image=document.createElement("img");image.src=photo.src;image.loading="lazy";image.alt=card.scientific_name+": "+(photo.role||"verified species photograph");
@@ -86,9 +87,11 @@ function setMode(mode){
 }
 async function boot(){
  try{
-   const [confResp,indexResp]=await Promise.all([fetch("data/collection-meta.json"),fetch("data/collection-index.json")]);
-   if(!confResp.ok||!indexResp.ok)throw Error("collection metadata missing");
-   siteState.config=await confResp.json();const doc=await indexResp.json();
+   const [confResp,indexResp,photosResp]=await Promise.all([fetch("data/collection-meta.json"),fetch("data/collection-index.json"),fetch("data/reviewed-external-photo-manifest.json")]);
+   if(!confResp.ok||!indexResp.ok||!photosResp.ok)throw Error("collection or approved photo manifest missing");
+   siteState.config=await confResp.json();const doc=await indexResp.json();const photoDoc=await photosResp.json();
+   if(photoDoc.schema_version!==1||!photoDoc.species||typeof photoDoc.species!=="object")throw Error("approved photo manifest invalid");
+   siteState.approvedPhotos=photoDoc.species;
    if(!Array.isArray(doc.entries))throw Error("invalid collection index");
    siteState.entries=doc.entries;
    const label=siteState.config.repository_full_name.split("/")[1].replace("Hays-Botany-","").replaceAll("-"," ");
