@@ -1,0 +1,43 @@
+{
+  "id": "lantana-x-strigocamara",
+  "family": "Verbenaceae",
+  "genus": "Lantana",
+  "species": "strigocamara",
+  "entry_type": "hybrid_taxon",
+  "is_hybrid": true,
+  "taxonomic_note": "Accepted hybrid × formula and scientific concept verified against Kew; the iNaturalist observation omits the multiplication symbol in its taxon label. Distinguishing hybrid anatomy requires separate visual review.",
+  "scientific_name": "Lantana × strigocamara",
+  "common_name": "Hybrid lantana / common lantana aggregate",
+  "look_here_first": "Check rough opposite serrate leaves and dense flower clusters, then compare stiff upper-surface leaf hairs and mature black drupes; do not diagnose this hybrid from flower color alone.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60444377-2",
+  "synonyms": [
+    "Lantana strigocamara"
+  ],
+  "photo_taxonomy_note": "Taxonomic source documents the observation name as a matching taxon concept at its recorded rank; retain alternative-backbone flags and check photo anatomy separately.",
+  "images": [
+    {
+      "file": "images/inat-166841047.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Ron Stephens, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/166841047",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

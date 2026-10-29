@@ -1,0 +1,134 @@
+{
+  "rank": "genus",
+  "family": "Acanthaceae",
+  "name": "Justicia",
+  "common_group": "Tube-tongues and historical water-willow comparisons",
+  "project_scope": {
+    "current_genus_species_ids": [
+      "justicia-pilosella"
+    ],
+    "source_pool_names": [
+      "Justicia pilosella",
+      "Justicia americana"
+    ],
+    "represented_elsewhere": [
+      {
+        "source_name": "Justicia americana",
+        "accepted_name": "Dianthera americana",
+        "canonical_id": "justicia-americana",
+        "canonical_path": "content/taxa/Acanthaceae/Dianthera/justicia-americana/species.json"
+      }
+    ],
+    "note": "Two historical/source-pool Justicia names resolve to two different accepted genera. This is a genus recognition lesson with a family-linked historical-name comparison, not a claim that both are accepted Justicia."
+  },
+  "look_here_first": "For J. pilosella, look for a very low, hairy dry-site perennial with small opposite ciliate leaves and paired axillary flowers. A tall, nearly glabrous colony along shallow water with narrow leaves and long-peduncled flower spikes is Dianthera americana (historically Justicia americana).",
+  "shared_genus_traits": [
+    "Current canonical J. pilosella belongs to Acanthaceae: opposite simple leaves, bilateral tubular flowers and a capsule with seed-support structures.",
+    "Two fertile stamens and anther architecture help route specimens toward Justicia-like Acanthaceae, but are not a complete species key.",
+    "The historical name Justicia americana must be resolved to accepted Dianthera americana before teaching genus membership."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Accepted placement",
+      "pilosella": "Justicia pilosella; older Siphonoglossa pilosella.",
+      "americana": "Dianthera americana; Justicia americana is a synonym.",
+      "priority": "FIRST: do not duplicate taxa"
+    },
+    {
+      "character": "Plant base and growth form",
+      "pilosella": "Low suffrutescent mound; many branched stems from base.",
+      "americana": "Rhizomatous aquatic perennial; upright shoots in colonies.",
+      "priority": "Strong field split"
+    },
+    {
+      "character": "Stem indumentum",
+      "pilosella": "Conspicuous whitish hirsute hairs.",
+      "americana": "Mostly glabrous, tough ridged stems.",
+      "priority": "Inspect with hand lens"
+    },
+    {
+      "character": "Leaf morphology",
+      "pilosella": "Small opposite elliptic leaves, often rounded at tip; ciliate margins.",
+      "americana": "Much longer, narrow opposite leaves.",
+      "priority": "Matched leaf and margin macro"
+    },
+    {
+      "character": "Flower position",
+      "pilosella": "Paired axillary tubular flowers.",
+      "americana": "Long-peduncled condensed axillary flower spikes.",
+      "priority": "Reproductive split"
+    },
+    {
+      "character": "Fruit",
+      "pilosella": "Club-shaped capsule, up to four seeds in existing review.",
+      "americana": "Capsule; photograph open fruit/seed supports for confirmation.",
+      "priority": "Confirmation; detailed cross-species capsule difference pending"
+    }
+  ],
+  "quick_identification_steps": [
+    "Locate mature leaf nodes and flower placement, not flower color.",
+    "Low, hairy and small-leaved with paired axillary flowers: follow canonical Justicia pilosella.",
+    "Tall, rhizomatous and nearly glabrous at water edge with peduncled spikes: follow canonical Dianthera americana.",
+    "Confirm with capsule/seed supports when available; avoid hard keys based only on habitat."
+  ],
+  "overlap_and_cautions": [
+    "Both may have opposite leaves and tubular bilateral flowers; those characters identify the family neighborhood rather than the species.",
+    "The Master Plant Pool retains Justicia americana, but GitHub correctly places its accepted concept in Dianthera; do not create a duplicate Justicia americana species page.",
+    "Both canonical records retain unresolved target-zone native status and are learner-approved; do not convert either to PASS.",
+    "Do not treat habitat alone as definitive; examine stems, leaf hairs, inflorescence structure and fruits."
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Ruellia species",
+      "separator": "Often showier solitary or few tubular flowers; examine capsule, calyx and retinacula, not corolla color."
+    },
+    {
+      "taxon": "Dyschoriste species",
+      "separator": "Compare small opposite leaves, calyx and mature capsule; don't confuse generic Acanthaceae traits with Justicia diagnosis."
+    },
+    {
+      "taxon": "Anisacanthus species",
+      "separator": "Usually woody shrubs with slender tubular flowers; compare branch habit, flower position and anthers."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    "J. pilosella whole low mound with scale, matched against D. americana water-edge colony.",
+    "Both taxa: entire opposite leaf and node, plus hair/ciliate-margin macro at same magnification.",
+    "J. pilosella paired axillary flowers versus D. americana peduncled flower spike, showing attachment to stem.",
+    "Both taxa: flower profile and stamen/anther close-up; label structures.",
+    "Both taxa: opened mature capsule, seeds and any retinacula, with millimeter scale."
+  ],
+  "existing_media": [
+    {
+      "species_id": "justicia-americana",
+      "canonical_genus": "Dianthera",
+      "file": "content/taxa/Acanthaceae/Dianthera/justicia-americana/images/justicia-americana-provisional-face.jpg",
+      "role": "Water-willow shoots; CC BY 4.0 attribution in species record."
+    },
+    {
+      "species_id": "justicia-pilosella",
+      "role": "Canonical field candidate noted, but no confirmed image file wired in species.json; photo polish needed."
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Obtain matched stem hair, complete inflorescence and mature capsule macros; do not use a related species photo as substitute."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Verify any proposed genus-level stamen/anther or capsule microcharacters before turning them into an absolute Justicia-versus-Dianthera key; preserve settled accepted placement."
+    }
+  ],
+  "sources": [
+    "content/taxa/Acanthaceae/family.json",
+    "content/taxa/Acanthaceae/Justicia/justicia-pilosella/species.json",
+    "content/taxa/Acanthaceae/Dianthera/justicia-americana/species.json",
+    "data/manifest.json"
+  ],
+  "curation_status": {
+    "version": "1.0-family-linked-historical-name-comparison",
+    "last_reviewed": "2026-10-09",
+    "status": "morphology-first provisional; matched diagnostic photos pending"
+  }
+}

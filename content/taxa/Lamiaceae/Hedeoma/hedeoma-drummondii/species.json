@@ -1,0 +1,36 @@
+{
+  "id": "hedeoma-drummondii",
+  "family": "Lamiaceae",
+  "genus": "Hedeoma",
+  "species": "drummondii",
+  "scientific_name": "Hedeoma drummondii",
+  "common_name": "Drummond's pennyroyal",
+  "look_here_first": "Look for square aromatic stems, pairs of small opposite leaves, and small two-lipped flowers at nodes; inspect the flower calyx.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:447626-1",
+  "images": [
+    {
+      "file": "images/inat-201961076.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) charlottereemts, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/201961076",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-17",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

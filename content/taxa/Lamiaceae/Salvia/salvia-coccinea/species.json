@@ -1,0 +1,227 @@
+{
+  "id": "salvia-coccinea",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "species": "coccinea",
+  "scientific_name": "Salvia coccinea",
+  "authority": "Buc'hoz ex Etl.",
+  "common_name": "Scarlet Sage",
+  "synonyms": [
+    "Salvia pseudococcinea Jacq."
+  ],
+  "taxonomic_note": "Accepted at species rank. A later illegitimate use of the name by L.f. is not treated as a separate learner taxon.",
+  "field_group": "Annual / short-lived perennial sage",
+  "look_here_first": "RED FLOWERS ARE NOT THE ID. Start with the LEAVES: scarlet sage has many broad triangular-to-ovate SIMPLE leaves on prominent petioles up an upright, branching stem, not a cedar-sage basal rosette nor big-red-sage's large thick smooth basal leaves. Check the interrupted flower spike and calyces next; wild flowers are often red but cultivated selections can also be pink/white.",
+  "project_tracker_diagnostic": "Opposite broad triangular to ovate-deltoid serrate leaves on conspicuous petioles, 4-angled stems, repeated flower verticils, persistent ribbed calyx, and long bilabiate corolla.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "Hays County native list, Travis County Balcones Canyonlands records, and UT Williamson County treatment; no county presence inferred.",
+      "source_document": "content/taxa/Lamiaceae/Salvia/salvia-coccinea/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "habit": "Annual to short-lived perennial/subshrub tendency; usually branched, often 0.5–1 m tall.",
+    "leaves": "Opposite decussate, simple, petiolate; blades triangular or ovate to deltoid with serrate margins.",
+    "inflorescence": "Interrupted series of verticils/cymes along a terminal axis.",
+    "calyx": "Persistent, ribbed and enlarging around developing nutlets.",
+    "floral_detail": "Long bilateral corolla; typically red in local material but color is secondary to leaf and inflorescence structure.",
+    "best_field_traits": [
+      "broad deltoid/ovate leaves",
+      "long petioles",
+      "verticillate flowering axis",
+      "persistent ribbed calyx"
+    ],
+    "life_cycle": "Annual or short-lived perennial depending on frost and site, herbaceous branched upper stems; an open, weedlike shoot is supportive but not sole proof.",
+    "leaf_diagnostic": "Simple (one undivided blade), opposite broad ovate/deltoid, petiolate with serrate edges; no lateral leaflets as on some cedar sage leaves.",
+    "flower_arrangement": "Red tubular two-lipped corollas in separate spaced flowering whorls on branched/terminal upright spikes; persistent calyces remain after petals fall.",
+    "compare_roemeriana": "Cedar sage is a taprooted perennial with conspicuous basal rosette and leaves sometimes 1–3-foliolate on long petioles. Its calyx is ~11 mm (UT), and flower spikes usually arise from a woodland leaf rosette.",
+    "compare_pentstemonoides": "Big red sage has thick, smooth, large basal rosette leaves (to ~12 cm) and flowers about 4 cm, on tall stalks (to ~1.5 m), usually seep-fed limestone ravines; FWS source."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia roemeriana",
+      "Salvia azurea"
+    ],
+    "key_distinctions": "Cedar sage may also be red but has a low shaded-juniper habitat and different leaf architecture. Azure sage has narrow linear leaves and a much taller open flowering axis."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Salvia",
+    "Scarlet sage",
+    "Central Texas",
+    "Genus comparison"
+  ],
+  "curation_status": {
+    "version": "2.3-salvia-red-trio-photo-polish",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "last_visual_reviewed": "2026-10-13",
+    "visual_status": "2 new exact species licensed views queued; 4 photo-specific learning panels; matched scale and arrows still missing",
+    "photo_credit_reviewed": "2026-10-13",
+    "rights_note": "New exact CC BY field photos have explicit attribution and license links; reused source location context retained."
+  },
+  "images": [
+    {
+      "file": "images/01-inflorescence-flowers.jpg",
+      "role": "Flowering axis / verticils / corolla",
+      "creator": "Carl E Lewis",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Texas_sage_(1571020768).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-whole-habit-leaves.jpg",
+      "role": "Whole-plant habit with broad petiolate leaves and flowering axis",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_259451907.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-flower-calyx-closeup.jpg",
+      "role": "Close flower showing corolla, calyx and staminal structure",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_318679077.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/04-flowering-axis-front.jpg",
+      "role": "Inflorescence with separated red flower whorls",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_259451924.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "file": "images/05-leaf-underside-veins.jpg",
+      "role": "Abaxial leaf surface and vascular venation",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_196699694.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "photo_diagnostic_lesson": {
+    "pair": "Red Salvia trio: coccinea / roemeriana / pentstemonoides",
+    "look_here_first": "Start at leaf base and a complete leaf, then check flower size/architecture. Red alone matches all three.",
+    "steps": [
+      {
+        "look": "Whole plant",
+        "trait": "Coccinea is a leafy, often branching upright herb; cedar and big red may send flowering stems from perennial rosettes",
+        "photo_need": "Uncropped plant and base"
+      },
+      {
+        "look": "One intact leaf",
+        "trait": "Coccinea SIMPLE triangular/ovate serrate blade, pronounced petiole; cedar sage leaf can have terminal plus lateral leaflets; big red rosette leaves are large/smooth",
+        "photo_need": "Leaf base plus petiole and complete blade"
+      },
+      {
+        "look": "Flower head",
+        "trait": "Coccinea scarlet tubular corolla in spaced whorls; cedar crimson flowers (often woodland); big red flowers approximately 4 cm long",
+        "photo_need": "Scale with 1-cm rule on the flower; color alone cannot distinguish"
+      },
+      {
+        "look": "Calyx and seed",
+        "trait": "Coccinea ribbed calyx persistent around developing nutlets",
+        "photo_need": "Calyx side + fruit and mm ruler"
+      }
+    ],
+    "memory_rule": "SCARLET = stem leaves, SIMPLE blades. CEDAR = woodland ROSETTE, sometimes leaflets. BIG RED = BIG thick rosette, BIG tubular flowers."
+  },
+  "visual_comparison": {
+    "title": "Scarlet sage: simple leaves and flower-axis layout",
+    "subtitle": "Five physically targeted exact-species photos, originals retained. Photos 4–5 are nonlocal Florida reference views; no fake calyx/ruler labels.",
+    "items": [
+      {
+        "label": "SCARLET · COMPLETE PLANT / BROAD LEAVES",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-coccinea/images/02-whole-habit-leaves.jpg",
+        "caption": "Find broad simple petiolate leaves up the stem and upright branching habit. Compare cedar sage basal rosette, not just red flower color.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_259451907.jpg",
+        "markers": []
+      },
+      {
+        "label": "SCARLET · INFLORESCENCE / RED TUBE",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-coccinea/images/03-flower-calyx-closeup.jpg",
+        "caption": "One individual two-lipped red corolla and green cup-shaped calyx; do not infer the whole plant base from a cropped flower.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_318679077.jpg",
+        "markers": []
+      },
+      {
+        "label": "SCARLET · SEPARATED FLORAL WHORLS",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-coccinea/images/04-flowering-axis-front.jpg",
+        "caption": "Florida reference shows spaced flowering clusters along a vertical axis. Count whorls but don't confuse a flower whorl with a single large red flower.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_259451924.jpg",
+        "markers": []
+      },
+      {
+        "label": "SCARLET · UNDERSIDE OF SIMPLE LEAF",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-coccinea/images/05-leaf-underside-veins.jpg",
+        "caption": "Abaxial (underside) of simple S. coccinea leaf; use visible vein pattern and margin as support, not a rosette lookalike.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_196699694.jpg",
+        "markers": []
+      }
+    ],
+    "annotation_status": "Macro/arrow target check pending; no guessed arrows."
+  },
+  "photo_final_pass": {
+    "needs": [
+      "Wild local Central Texas full root-to-flower habit with simple petiolate blade clearly in frame",
+      "Native red-flowered population versus white/pink ornamental forms exact source contexts",
+      "Actual measured flower (1-cm ruler) matched with cedar and big red",
+      "Calyx side and mature nutlets with ruler",
+      "Photo arrow QA on one entire blade, petiole, calyx and individual flowers"
+    ],
+    "license_rule": "New Florida Commons photos are CC BY 4.0, not proof of Central Texas provenance."
+  },
+  "native_metrics_excluded": true
+}

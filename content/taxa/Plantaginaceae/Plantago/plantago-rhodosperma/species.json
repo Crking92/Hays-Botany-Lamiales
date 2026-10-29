@@ -1,0 +1,36 @@
+{
+  "id": "plantago-rhodosperma",
+  "family": "Plantaginaceae",
+  "genus": "Plantago",
+  "species": "rhodosperma",
+  "scientific_name": "Plantago rhodosperma",
+  "common_name": "redseed plantain",
+  "look_here_first": "Find a low basal rosette and narrow flowering spikes; examine capsules, their opening and reddish mature seeds.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Plantago%20rhodosperma",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/inat-476406656.jpeg",
+      "role": "Provisional species recognition photo (not diagnostic certified)",
+      "creator": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/476406656",
+      "study_use": "Noncommercial botanical learner",
+      "public_reuse": "CC BY-NC: commercial use prohibited; attribution required"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

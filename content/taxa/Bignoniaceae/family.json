@@ -1,0 +1,236 @@
+{
+  "rank": "family",
+  "name": "Bignoniaceae",
+  "common_name": "Trumpet-creeper family",
+  "project_scope": {
+    "selection_mode": "Central Texas Campsis-first visual module",
+    "note": "Campsis is canonical and clickable; external public-domain/CC imagery supplies its family card."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Ask whether the plant is woody and opposite-leaved, then confirm a long 2-valved capsule with many flat winged seeds.",
+    "habit": "Trees, shrubs or woody vines; local anchors are woody climbers.",
+    "flower": "Showy tubular zygomorphic flowers, commonly with 4 didynamous stamens plus a staminode.",
+    "fruit": "Usually a long 2-valved capsule with numerous flattened winged seeds.",
+    "field_tip": "Opposite compound leaves are NOT universal: Bignonia has paired leaflets plus a terminal adhesive tendril; Campsis has pinnate leaves and stem rootlets; Catalpa has broad simple leaves; Chilopsis has narrow simple leaves that may be alternate; Tecoma has pinnate leaves. Confirm a mature capsule and seeds rather than flower color.",
+    "look_here_first_sequence": [
+      "Inspect a complete leaf and its node: simple vs compound and leaf attachment; opposite leaves are common but Chilopsis can be alternate.",
+      "On climbing vines inspect the actual attachment: Campsis uses stem-borne aerial rootlets; Bignonia uses a leaf-derived tendril with adhesive tips.",
+      "Inspect a flower for a fused bilateral corolla and usually four didynamous stamens (two long, two short); a fifth staminode is not guaranteed.",
+      "Confirm a mature dry two-valved capsule with many flattened winged or fringed seeds; contrast Oleaceae samara/drupes and Paulownia's ovoid capsule."
+    ]
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Trumpet flowers get attention, but the woody vine and the long capsule full of winged seeds are what really lock Bignoniaceae in.",
+    "steps": [
+      {
+        "title": "1 · See the whole trumpet-vine plan",
+        "photo_role": "botanical illustration / whole architecture",
+        "anchor_species_id": "campsis-radicans",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Campsis%20radicans.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans.jpg",
+        "image_label": "Campsis radicans",
+        "image_credit": "Public Domain historical illustration",
+        "look_for": "Woody climbing habit, opposite pinnately compound leaves, and large tubular flowers.",
+        "why_it_matters": "Combines the strongest vegetative and floral family cues.",
+        "status": "rights_cleared_external_anchor"
+      },
+      {
+        "title": "2 · Ignore flower color and find the capsule",
+        "photo_role": "long bivalved capsule",
+        "anchor_species_id": "campsis-radicans",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Campsis%20radicans.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans.jpg",
+        "image_label": "Campsis fruiting architecture",
+        "image_credit": "Public Domain historical illustration",
+        "look_for": "A long dry capsule that splits into two valves.",
+        "why_it_matters": "The fruit is more diagnostic than an orange trumpet flower.",
+        "status": "rights_cleared_external_anchor"
+      },
+      {
+        "title": "3 · Look at the seeds",
+        "photo_role": "flat winged seeds",
+        "anchor_species_id": "campsis-radicans",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Campsis%20radicans%20seeds.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans_seeds.jpg",
+        "image_label": "Campsis winged seeds",
+        "image_credit": "CC BY-SA 3.0 RS · Gmihail",
+        "look_for": "Many thin flattened seeds with broad papery wings.",
+        "why_it_matters": "Winged seeds inside a long woody-vine capsule strongly support Bignoniaceae.",
+        "status": "rights_cleared_external_anchor"
+      },
+      {
+        "title": "4 · Check the flower interior",
+        "photo_role": "4 stamens + staminode",
+        "anchor_species_id": "campsis-radicans",
+        "look_for": "Four fertile stamens plus a reduced fifth stamen/staminode.",
+        "why_it_matters": "Connects the family to other Lamiales while fruit/habit keeps it separate.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Two different climbing attachments: leaf tendril versus stem rootlet",
+        "photo_role": "paired intact nodes, leaf petiole and tendril origin versus stem rootlets",
+        "look_for": "In Bignonia capreolata, trace a branched tendril back to the terminal position of a two-leaflet LEAF; in Campsis radicans, trace short aerial rootlets to the STEM. Do not infer attachment from an isolated tendril tip.",
+        "why_it_matters": "Separates the two local woody climbing genera even without flowers.",
+        "status": "diagnostic_matched_macros_needed",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "6 · Broad-leaved Catalpa versus narrow-leaved Chilopsis",
+        "photo_role": "matched leaf/node and fruit side-by-side, with scale",
+        "look_for": "Catalpa: broad simple cordate leaves, commonly opposite/whorled. Chilopsis: extremely narrow simple leaves, alternate or opposite. Both have long capsules, unlike true willows with catkins and different capsules/seeds.",
+        "why_it_matters": "Prevents treating all Bignoniaceae as opposite-leaved vines or mistaking desert willow for Salix.",
+        "status": "matched_macro_and_capsule_needed",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "7 · Tecoma door: shrub with pinnate leaves",
+        "photo_role": "complete Tecoma leaf at node plus flower interior and mature capsule",
+        "look_for": "Self-supporting shrub with pinnate leaves and a bilaterally symmetric fused corolla; confirm two-valved capsule and seed structure rather than flower color. Do not treat Campsis aerial-rootlet climbing as family-wide.",
+        "why_it_matters": "Routes the fifth Master Pool genus without inventing a vine habit.",
+        "status": "diagnostic_macro_needed",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Bignoniaceae vs Plantaginaceae",
+        "rule": "Both can have bilabiate tubular flowers. Bignoniaceae is commonly woody with long capsules and flat winged seeds; local Penstemon is herbaceous with a smaller ordinary many-seeded capsule."
+      },
+      {
+        "title": "Bignoniaceae vs Oleaceae",
+        "rule": "Both can be opposite-leaved woody plants; Oleaceae has tiny flowers and samara/drupe fruit rather than huge trumpet flowers and winged-seed capsules."
+      },
+      {
+        "title": "Bignoniaceae vs Paulowniaceae",
+        "rule": "Both may have large tubular flowers and broad opposite leaves. Compare mature fruit: Catalpa has long narrow capsules, whereas Paulownia has rounded woody capsules with many tiny winged seeds. Flower color alone is unreliable."
+      }
+    ],
+    "caveat": "Flower shape alone is not enough; woody architecture and fruit/seed structure are the safest local confirmation.",
+    "existing_media_teaching_references": [
+      {
+        "species_id": "bignonia-capreolata",
+        "installed_path": "content/taxa/Bignoniaceae/Bignonia/bignonia-capreolata/images/bignonia-capreolata-provisional-face.jpg",
+        "creator": "Susan Adams",
+        "license": "CC BY-SA 2.0",
+        "public_reuse": "yes (per species metadata)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bignonia_capreolata.jpg",
+        "role": "flowering vine context ONLY; tendril origin unverified",
+        "caption": "Crossvine habit photograph; a close-up of the actual leaf-derived adhesive tendril is still needed.",
+        "annotation_target": "tendril junction, only after a new macro is visually verified",
+        "annotation_status": "annotation_pending",
+        "verification": "species.json metadata checked; image anatomy not independently inspected"
+      },
+      {
+        "species_id": "campsis-radicans",
+        "installed_path": "content/taxa/Bignoniaceae/Campsis/campsis-radicans/images/01-compound-serrate-leaf.jpg",
+        "creator": "Jaknouse",
+        "license": "CC BY-SA 3.0",
+        "public_reuse": "yes (per species metadata)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans-leaf.jpg",
+        "role": "compound serrate leaf (per species metadata); rootlet origin NOT shown/verified",
+        "caption": "Compound serrate leaf teaching reference; do not use as proof of aerial-rootlet attachment.",
+        "annotation_target": "leaflets and rachis after photo check",
+        "annotation_status": "annotation_pending",
+        "verification": "species.json metadata checked; image anatomy not independently inspected"
+      },
+      {
+        "species_id": "campsis-radicans",
+        "external_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Campsis%20radicans%20seeds.jpg",
+        "creator": "Gmihail",
+        "license": "CC BY-SA 3.0 RS (existing family lesson attribution)",
+        "public_reuse": "attribution required; confirm exact source terms before reuse",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans_seeds.jpg",
+        "role": "external winged-seed reference, not physically installed",
+        "caption": "Candidate reference for flattened winged seeds; verify anatomy on the actual file before placing an arrow.",
+        "annotation_target": "seed wing",
+        "annotation_status": "annotation_pending",
+        "verification": "existing family lesson metadata only; photo anatomy not independently inspected"
+      }
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-15",
+    "visual_lock": "first_pass_complete"
+  },
+  "project_pool_genus_roadmap": {
+    "source": "Live Master Plant Pool checked 2026-10-15; five genera, seven source rows including Tecoma stans var. angustata (not counted as a sixth genus). No species installation or synonym decision.",
+    "genera": [
+      {
+        "genus": "Bignonia",
+        "route": "Climbing vine; each leaf has two leaflets and a terminal leaf-derived branched adhesive tendril. Follow the tendril to its leaf, not the stem.",
+        "representative": "bignonia-capreolata"
+      },
+      {
+        "genus": "Campsis",
+        "route": "Climbing vine; opposite odd-pinnate leaves with serrated leaflets; climbs using adventitious stem-borne aerial rootlets, not leaf tendrils.",
+        "representative": "campsis-radicans"
+      },
+      {
+        "genus": "Catalpa",
+        "route": "Tree with broad simple often cordate leaves, opposite or whorled; inspect long slender capsules and winged seeds rather than calling any heart-shaped leaf Catalpa.",
+        "representatives": [
+          "catalpa-bignonioides",
+          "catalpa-speciosa"
+        ],
+        "media_status": "No newly verified family anatomy photo"
+      },
+      {
+        "genus": "Chilopsis",
+        "route": "Shrub/small tree with exceptionally narrow simple leaves; leaf arrangement may be alternate or opposite; inspect long capsules with fringed seeds, not willow catkins.",
+        "representative": "chilopsis-linearis"
+      },
+      {
+        "genus": "Tecoma",
+        "route": "Shrub with pinnate compound leaves, typically serrated leaflets and trumpet flowers; distinguish from Campsis by self-supporting habit and lack of aerial-rootlet climbing.",
+        "representative": "tecoma-stans",
+        "caution": "Varietal source row is not a separate genus or a second genus-route card."
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "formal_structure": "leaf-derived tendril versus adventitious aerial rootlet",
+      "plain_language": "where the climber grabs on",
+      "comparison": "Bignonia capreolata versus Campsis radicans",
+      "photo_role": "matched attached nodes showing the leaf/tendril junction versus stem rootlets",
+      "existing_media_note": "Bignonia installed flowering-habit face does not document tendril attachment; Campsis installed compound-leaf photo does not document rootlet attachment.",
+      "annotation_target": "leaf terminal tendril insertion and stem rootlet origin",
+      "annotation_status": "annotation_pending",
+      "status": "needs_diagnostic_photos"
+    },
+    {
+      "priority": 1,
+      "formal_structure": "pinnately compound versus simple leaf and phyllotaxy",
+      "plain_language": "one leaf or several leaflets; where leaves meet the stem",
+      "comparison": "Campsis, Tecoma, Catalpa and Chilopsis",
+      "photo_role": "complete leaves with nodes and scale; opposite/whorled/alternate variation",
+      "annotation_target": "petiole, leaflets, node and leaf arrangement",
+      "annotation_status": "annotation_pending",
+      "status": "needs_matched_photos"
+    },
+    {
+      "priority": 1,
+      "formal_structure": "didynamous stamens and staminode",
+      "plain_language": "two longer and two shorter pollen-bearing stamens; sometimes a reduced fifth",
+      "photo_role": "open flower throat/dissection with stamens exposed",
+      "annotation_target": "two long, two short stamens and staminode if actually present",
+      "annotation_status": "annotation_pending",
+      "status": "needs_verified_macro",
+      "caution": "Do not claim a staminode is universal or visible in the existing habit photographs."
+    },
+    {
+      "priority": 1,
+      "formal_structure": "bivalved capsule and flattened winged/fringed seeds",
+      "plain_language": "long dry pod that splits in two and releases thin seeds",
+      "comparison": "Bignoniaceae versus Paulowniaceae rounded woody capsule and Oleaceae samara/drupe",
+      "photo_role": "mature opened capsule and individual seeds with ruler",
+      "annotation_target": "two valves, placenta, seed wing or hair fringe",
+      "annotation_status": "annotation_pending",
+      "status": "needs_capsule_macro"
+    }
+  ]
+}

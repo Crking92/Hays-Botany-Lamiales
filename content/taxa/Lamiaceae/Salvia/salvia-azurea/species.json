@@ -1,0 +1,210 @@
+{
+  "id": "salvia-azurea",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "species": "azurea",
+  "scientific_name": "Salvia azurea",
+  "authority": "Michx. ex Vahl",
+  "common_name": "Azure Sage",
+  "synonyms": [
+    "Salvia pitcheri Torr. ex Benth.",
+    "Salvia azurea var. grandiflora Benth."
+  ],
+  "taxonomic_note": "Accepted at species rank. Central Texas material is often treated regionally as var. grandiflora; that name is retained as infraspecific/historical context, not a duplicate learner taxon.",
+  "field_group": "Tall blue sage",
+  "look_here_first": "Find narrow cauline leaves and the long, loose blue-flowering axis. Flip to a flower CALYX: the green 15-ribbed surface (local var. grandiflora treatment) remains visible between short hairs/glands, unlike the dense white OR violet felt covering S. farinacea calyces. Check flower cluster spacing, not petal blue color alone.",
+  "project_tracker_diagnostic": "Tall perennial with narrow opposite linear-lanceolate leaves, long open terminal flowering axis, and green ribbed hairy calyces lacking the farinose/mealy coating of S. farinacea.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "2026-10-14 corrected two-county status: Hays, Travis inside 24-county zone; Williamson outside. Third accepted native county not yet established. Original evidence retained in range_audit.",
+    "range_audit": {
+      "date": "2026-10-14",
+      "prior_classification": "PASS",
+      "decision": "UNRESOLVED",
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "confidence": "high for target-zone membership; historic county-locality citations retained, not independently re-vouchered",
+      "reason": "Third project county not actually verified. Does not mean native absence from other target counties.",
+      "original_range_basis": "Hays County native inventory, Travis County preserve/herbarium records, and UT Williamson County treatment; no county presence inferred.",
+      "source_document": "content/taxa/Lamiaceae/Salvia/salvia-azurea/SOURCES.txt"
+    },
+    "native_range_last_reviewed": "2026-10-14"
+  },
+  "morphology_keys": {
+    "habit": "Woody-rootstock herbaceous perennial, often upright; not a rosette. Central Texas local treatment often below 1 m.",
+    "leaves": "UT Texas var. grandiflora: only cauline leaves, narrow linear-lanceolate to linear-oblanceolate ~30–80 × 4–8 mm, mostly entire/subentire.",
+    "inflorescence": "Long, open interrupted panicle of paired axillary cymes; lower part sometimes leafy; often only 1 flower of each cyme open at a time.",
+    "calyx": "Green-surfaced, bell-shaped, ~8 mm long and ca. 15-ribbed (UT local variety treatment), short-hairy with glandular hairs but not densely felted like S. farinacea.",
+    "best_field_traits": [
+      "tall stature",
+      "narrow linear leaves",
+      "long open flowering axis",
+      "green non-mealy calyx"
+    ],
+    "variety_caution": "Central Texas azure sage often var. grandiflora. New Alex Abair close photograph is Florida var. azurea; retain variety/provenance label, do not equate to local material."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia farinacea",
+      "Salvia engelmannii"
+    ],
+    "key_distinctions": "Mealy blue sage has a conspicuously mealy/felted calyx. Engelmann sage is a low dense clump with strongly glandular foliage and compact flowering architecture."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Salvia",
+    "Azure sage",
+    "Tall perennial",
+    "Genus comparison",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "2.2-azure-farinacea-photo-first",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "joey_enhanced": true,
+    "video_study_media_count": 1,
+    "last_visual_reviewed": "2026-10-13",
+    "visual_status": "2 new exact species image downloads staged, including Texas flower and Florida variety-level study calyx; arrows/ruler macros remain."
+  },
+  "images": [
+    {
+      "file": "images/01-habit-flowering-axis.jpg",
+      "role": "Habit / flowering axis / narrow leaves",
+      "creator": "OakleyOriginals",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Azure_Blue_Sage_(Salvia_azurea).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-leaf-detail.jpg",
+      "role": "Leaf detail",
+      "creator": "USGS / source photographer not resolved",
+      "license": "license not verified",
+      "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/2685",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-nacogdoches-texas-flower.jpg",
+      "role": "Texas azure sage flower and green calyx photo; Nacogdoches county outside target",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_azurea.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/04-calyx-nonlocal-var-azurea.jpg",
+      "role": "S. azurea var azurea Florida flower/calyx closeup; NOT local var grandiflora",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_azurea_azurea_326217423.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "07:42",
+      "record_id": "N4yq5Z1_0Eo-12",
+      "role": "flowering prairie habit",
+      "source_taxon": "Salvia azurea",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/salvia-azurea_prairie-habit-source-label_07-42.jpg"
+    }
+  ],
+  "photo_comparison_lesson": {
+    "pair": "Salvia azurea versus Salvia farinacea",
+    "memory_rule": "Azure = narrow leaves + airy axis + exposed green calyx; Mealy = broader toothed leaves + crowded axis + white-or-violet felted calyx.",
+    "look_here_first": "Inspect the CALYX behind a blue flower first; use dense hair coat, leaf blades and flowering-axis spacing together.",
+    "diagnostic_differences": [
+      {
+        "structure": "flower calyx",
+        "azurea": "Green surface normally exposed, approx 15 ribs, short hairs and stalked glands",
+        "farinacea": "Heavily felted in white or dark violet hairs, roughly 10-ribbed, calyx flattened"
+      },
+      {
+        "structure": "leaves",
+        "azurea": "Narrow typically 4–8 mm wide, mostly entire",
+        "farinacea": "Usually 11–33 mm wide, visibly serrated"
+      },
+      {
+        "structure": "flowering axis",
+        "azurea": "Long and often airy/interrupted",
+        "farinacea": "More condensed verticils, can overlap"
+      },
+      {
+        "structure": "plant base",
+        "azurea": "Thick woody rootstock",
+        "farinacea": "Rhizomatous clonal stems"
+      }
+    ],
+    "cautions": [
+      "Dark violet farinacea calyx still counts as MEALY; lack of white is not evidence of azurea.",
+      "Azurea calyces are themselves hairy; presence of any hair is not species proof.",
+      "S. azurea var. azurea nonlocal photos are comparative study only for local grandiflora."
+    ]
+  },
+  "visual_comparison": {
+    "title": "Azure sage: airy flowers, narrow leaves and greener calyx",
+    "items": [
+      {
+        "label": "LONG INTERRUPTED FLOWERING AXIS",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-azurea/images/01-habit-flowering-axis.jpg",
+        "caption": "Tall axis with relatively sparse flowering clusters; narrow leaves support azure sage ID.",
+        "creator": "OakleyOriginals",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Azure_Blue_Sage_(Salvia_azurea).jpg",
+        "markers": []
+      },
+      {
+        "label": "TEXAS FLOWER / CALYX CONTEXT",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-azurea/images/03-nacogdoches-texas-flower.jpg",
+        "caption": "Exact S. azurea photographed Nacogdoches County Texas. Look behind the corolla for the green calyx, not white powder.",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_azurea.jpg",
+        "markers": []
+      },
+      {
+        "label": "CLOSE FLOWER / CALYX, NONLOCAL VARIETY",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-azurea/images/04-calyx-nonlocal-var-azurea.jpg",
+        "caption": "Exact S. azurea var. azurea photographed Florida: study flower/calyx and trichomes. This is NOT a validated Central Texas grandiflora photo.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_azurea_azurea_326217423.jpg",
+        "markers": []
+      }
+    ],
+    "arrow_qa": "Real structures only, no arbitrary pixel arrows or falsely measured ribs."
+  },
+  "diagnostic_photo_targets": [
+    "Texas var. grandiflora calyx with actual readable rib count and mm scale",
+    "Entire woody rootstock and two cauline leaves with metric ruler",
+    "Matched white/violet mealy sage calyx side-by-side at same magnification"
+  ],
+  "native_metrics_excluded": true
+}

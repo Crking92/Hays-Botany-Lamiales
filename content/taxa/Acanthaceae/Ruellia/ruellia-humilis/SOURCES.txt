@@ -1,0 +1,45 @@
+RUELLIA HUMILIS — DEEP REVIEW SOURCES
+Reviewed: 2026-10-03
+Status: PASS / BLANKET APPROVED
+
+Taxonomy
+Accepted name: Ruellia humilis Nutt.
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A54161-1
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+
+Strict target-zone range
+1. Hays County — UT Plant Resources Center Purola Preserve lists Ruellia humilis among naturally occurring plants.
+2. Travis County — UT Plant Resources Center's Travis County Acanthaceae specimen index includes Ruellia humilis var. humilis.
+3. Williamson County — UT Plant Resources Center provides a detailed county treatment of Ruellia humilis.
+Decision: PASS — Hays, Travis, Williamson.
+
+Morphology / comparison
+https://w3.biosci.utexas.edu/prc/specimens/Acanthaceae.html
+https://w3.biosci.utexas.edu/prc/K12/pdf/Ruellia%20humilis
+https://www.inaturalist.org/posts/70116-ruellias-in-central-texas
+
+LOOK HERE FIRST
+Look for obvious individual hairs before looking at the flower. Prairie petunia is conspicuously long-pilose on stems, leaves and especially leaf margins, and its flowers are axillary and nearly sessile. That shaggy/ciliate look separates it from finely pubescent R. drummondiana and mostly glabrous terminal-flowered R. ciliatiflora.
+
+
+## Physical gallery fast-fill — 2026-10-05 / batch 009
+Media-only; settled taxonomy/range and PASS status preserved.
+Photos are identification references, not evidence for new county occurrences.
+Automated normalization resizes/recompresses the original photographs; no annotations added.
+Credit, original source, observation/photo identifiers, license URL and reuse conditions are in image-sources.csv. CC BY-SA adaptations retain the indicated same license.
+01-habit-flower.jpg: Flower front with pubescent opposite leaves
+Creator: Miwasatoshi; License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Source: https://commons.wikimedia.org/wiki/File:Ruellia-humilis-20080401.JPG
+Context: Cultivated exact species, Arizona State University; no named cultivar specified, not county evidence
+
+02-flower-foliage.jpg: Axillary flower and hairy foliage reference
+Creator: Krzysztof Ziarnek, Kenraiz; License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Source: https://commons.wikimedia.org/wiki/File:Ruellia_humilis_kz01.jpg
+Context: Botanical garden exact species; no named cultivar specified
+
+03-field-habit.jpg: Flower, calyx and visibly hairy stem
+Creator: Chris Light; License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Source: https://commons.wikimedia.org/wiki/File:Hairy_Wild_Petunia_(Ruellia_humilis)_6397.jpg
+Context: Westchester Migratory Bird Sanctuary
+
+Remaining visual needs: Physical exact-species photographs provide flowering habit and foliage references; dedicated long-hair/ciliate-margin and capsule macros remain follow-up.

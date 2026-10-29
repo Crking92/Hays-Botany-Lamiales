@@ -1,0 +1,37 @@
+{
+  "id": "tecoma-stans",
+  "family": "Bignoniaceae",
+  "genus": "Tecoma",
+  "species": "stans",
+  "scientific_name": "Tecoma stans",
+  "common_name": "Yellow bells",
+  "look_here_first": "Look for clusters of bright yellow trumpet flowers on a woody plant with opposite compound leaves; inspect deeply five-lobed corolla, leaflets and long slender seedpods.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Tecoma%20stans",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Argentina photograph; do not assert Hays County nativity or garden/seed provenance based on this image.",
+  "images": [
+    {
+      "file": "images/commons-tecoma-stans.jpg",
+      "role": "Provisional flowering yellowbells recognition; pod structure and compound leaflets require closer views.",
+      "creator": "Incolam",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tecoma_stans.jpg",
+      "study_use": "Private and noncommercial botanical learner",
+      "public_reuse": "Credit creator and license, link to source, ShareAlike for derivatives"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

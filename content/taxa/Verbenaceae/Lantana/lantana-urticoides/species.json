@@ -1,0 +1,164 @@
+{
+  "id": "lantana-urticoides",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Lantana",
+  "species": "urticoides",
+  "scientific_name": "Lantana urticoides",
+  "authority": "Hayek",
+  "common_name": "Texas lantana",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO. Older Texas usage often misapplied Lantana horrida to this species; learner uses L. urticoides.",
+  "look_here_first": "Ignore flower color at first. Check the woody shrub habit, opposite rough leaves, and stems: Texas lantana is a winter-deciduous, non-spinescent shrub with stiff-hairy/scabrous 4-sided young stems and coarse serrate leaves. Then inspect the flower-head bracts and confirm the axillary pedunculate head.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Kew/POWO accepts Lantana urticoides and lists Texas in the native range. Travis County — UT Plant Resources Center's Travis County Verbenaceae herbarium index includes four L. urticoides specimens. Williamson County — UT Plant Resources Center provides a full county treatment of naturally occurring L. urticoides. Val Verde County — the Amistad National Recreation Area vascular flora documents L. urticoides on rocky slopes, flats, bluffs, and rock outcrops.",
+    "range_guardrail": "Texas lantana is heavily cultivated. Nursery/landscape plants and garden escapes are not used as native-county evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "winter-deciduous aromatic shrub, commonly around 0.5–1 m in regional treatments",
+      "young stems four-sided, stiff-hairy/scabrous, aging woody",
+      "stems normally not spinescent",
+      "leaves opposite and decussate, broadly ovate to ovate, short-petiolate",
+      "leaf blades rough/cobblestone-textured above with stiff hairs and strongly raised veins below",
+      "margins coarsely serrate to serrate-crenate",
+      "dense axillary flower heads borne on distinct peduncles",
+      "flowers commonly open yellow and age through orange to red, but color is secondary to vegetative/bract characters",
+      "fleshy drupes mature dark purple-black"
+    ],
+    "comparison_training": "Lantana camara: A common non-native/invasive landscape escape. L. camara often has small prickles on the square stems and commonly larger leaves. Use inflorescence-bract structure and stem armature rather than flower color alone; absence of prickles by itself is not enough for a final ID. Lantana achyranthifolia: Native desert lantana has much more slender branches, narrower hairy leaves, and typically white-to-pink flowers with yellow centers rather than the robust broad-leaved Texas-lantana look. Lantana montevidensis: A common cultivated trailing lantana; habit is low/trailing rather than an upright woody Texas-lantana shrub, and flowers are usually lavender-purple."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Lantana camara",
+      "Lantana achyranthifolia",
+      "Lantana montevidensis"
+    ],
+    "key_distinctions": "A common non-native/invasive landscape escape. L. camara often has small prickles on the square stems and commonly larger leaves. Use inflorescence-bract structure and stem armature rather than flower color alone; absence of prickles by itself is not enough for a final ID. Native desert lantana has much more slender branches, narrower hairy leaves, and typically white-to-pink flowers with yellow centers rather than the robust broad-leaved Texas-lantana look. A common cultivated trailing lantana; habit is low/trailing rather than an upright woody Texas-lantana shrub, and flowers are usually lavender-purple."
+  },
+  "tags": [
+    "Verbenaceae",
+    "Lantana",
+    "Texas lantana",
+    "Central Texas",
+    "Visual comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "photo_note": "Photo-only source-pool backfill on existing canonical Texas lantana. Exact observation from Wilson County and CC BY licensed creator. Previous two Commons external image claims held from installer for taxon identity concern; rich morphology and county nativity retained. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful.",
+  "images": [
+    {
+      "file": "images/01-texas-lantana-flowers-leaves.jpg",
+      "role": "flowering head and opposite rough serrate foliage",
+      "creator": "Chet Burrier",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/272160509",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/glass-root-garden-491846814-flowers.jpg",
+      "role": "Multiple rounded yellow-orange-to-red flower clusters on a branching lantana in habitat",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/491846814",
+      "observation_url": "https://www.inaturalist.org/observations/273471471",
+      "observation_id": 273471471,
+      "photo_id": 491846814,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/491846814/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-597186424-flowering-habit.jpg",
+      "role": "Compact flowering stem with opposite serrated leaves and mixed-color flower clusters",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/597186424",
+      "observation_url": "https://www.inaturalist.org/observations/329447694",
+      "observation_id": 329447694,
+      "photo_id": 597186424,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/597186424/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "photo_enriched_diagnostic_macros_pending",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Presentation fast-fill only; settled scientific taxonomy/range status is unchanged. Gallery intentionally remains below the ~3-image target rather than padding with ambiguous or weak-provenance media."
+  },
+  "excluded_unverified_photo_refs": [
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lantana_urticoides.jpg",
+      "creator": "Clinton & Charles Robertson",
+      "license": "CC BY 2.0",
+      "review_status": "TAXON_ID_HOLD - Commons depicts structured tag Lantana camara, hybrid complex not resolved",
+      "action": "Do not install as exact Lantana urticoides"
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bunga_Saliara_(Lantana_Urticoides).jpg",
+      "creator": "PenaTulip",
+      "license": "CC0 1.0",
+      "review_status": "TAXON_ID_HOLD - unvouchered Indonesian plant, outside POWO standard native range",
+      "action": "Do not install as exact Lantana urticoides"
+    }
+  ],
+  "photo_research": {
+    "checked_on": "2026-10-14",
+    "selected_photo": {
+      "observation_id": 157402241,
+      "photo_id": 272160509,
+      "source_page": "https://www.inaturalist.org/photos/272160509",
+      "creator": "Chet Burrier (birdingtexan)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_place": "Stockdale, Wilson County, TX",
+      "quality_grade": "Research grade",
+      "limit": "Local Texas reference. Flower head and rough leaves visible; does not prove perigynium-like micro character, fruit or flower bract shapes without close macro."
+    },
+    "source_caution": "L. camara complex photos heavily mislabeled; never infer species from orange/yellow heads alone. Taxon choice and strict target-zone PASS unchanged."
+  }
+}

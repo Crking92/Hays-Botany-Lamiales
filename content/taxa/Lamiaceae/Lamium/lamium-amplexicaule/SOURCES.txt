@@ -1,0 +1,6 @@
+Approved source pool: Master Plant Pool row 614; installer preflight mass-05.
+Accepted species Lamium amplexicaule L.: https://powo.science.kew.org/taxon/448797-1
+Preserve FAIL_TARGET_ZONE and exclude from confirmed-native metrics; do not infer invasive status.
+Diagnostic photo A: Harry Rose, CC BY 2.0, plant5 (14648225140), https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_plant5_(14648225140).jpg . Actual image shows habit with upper flowering nodes and lower stalked leaves; upper clasping leaves partly visible.
+Diagnostic photo B: Harry Rose, CC BY 2.0, flower7 (14648472529), https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_flower7_(14648472529).jpg . Actual image shows a pink-purple long-tubed two-lipped flower cluster.
+These source pages were checked for image-level attribution and licensing. Actual installation requires image-sources.csv, a completed species.json, final READY and successful Action. No gallery is installed by this source record alone.

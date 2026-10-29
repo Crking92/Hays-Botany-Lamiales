@@ -1,0 +1,9 @@
+Approved Master Plant Pool Phase3 preflight source rows: 1162.
+Accepted working name Kew search: https://powo.science.kew.org/results?q=Teucrium%20canadense
+Original Commons source photograph: https://commons.wikimedia.org/wiki/File:Teucrium_canadense_inflorescence.jpg
+Direct photo: https://commons.wikimedia.org/wiki/Special:Redirect/file/Teucrium%20canadense%20inflorescence.jpg
+Photo creator: Alex Abair
+Image-level license: CC BY 4.0
+Image role (provisional): Provisional terminal floral cluster; stem edges and full corolla lobes await additional photos.
+Caution: Exact iNaturalist photo 285691473, observation 165073734; Florida source location, not local provenance.
+No nativity-by-county or complete diagnostic image claim; photo may be geographically outside Texas.

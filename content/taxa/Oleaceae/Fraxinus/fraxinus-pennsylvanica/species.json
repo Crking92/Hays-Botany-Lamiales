@@ -1,0 +1,177 @@
+{
+  "id": "fraxinus-pennsylvanica",
+  "entry_type": "species",
+  "family": "Oleaceae",
+  "genus": "Fraxinus",
+  "species": "pennsylvanica",
+  "scientific_name": "Fraxinus pennsylvanica",
+  "authority": "Marshall",
+  "common_name": "Green ash",
+  "look_here_first": "Look at the samara first: green ash has a larger seed body with the wing decurrent well down the body before broadening; then confirm a broad shield-shaped leaf scar and usually non-glaucous lower leaflet surface.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Comal"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Comal qualify; Bell out-of-zone and excluded from PASS. Previous evidence preserved in range_audit; third approved county pending.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for county boundary/count correction; prior locality evidence not independently reexamined",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Bell",
+        "Comal"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Comal"
+      ],
+      "excluded_counties": [
+        "Bell"
+      ],
+      "reason": "Old PASS required 3 approved counties, but only 2 in stored evidence are inside zone. Not an assertion that other local wild populations are absent.",
+      "original_range_basis": "Hays — project native source/UT PRC natural ash study; Bell and Comal — USDA-derived county data explicitly marked native.",
+      "source_document": "content/taxa/Oleaceae/Fraxinus/fraxinus-pennsylvanica/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone and minimum three native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "opposite branches and odd-pinnate leaves, usually 5–7(9) leaflets",
+      "lower leaf surface generally non-glaucous",
+      "broad shield-shaped to oblong-ovate leaf scar",
+      "samara body >1.5 cm with wing extending well down the seed body"
+    ],
+    "leaf_arrangement": "Opposite branching; odd-pinnately compound leaves.",
+    "leaf_morphology": "Usually 5–7(9) leaflets; margins subentire to inconspicuously dentate-serrulate.",
+    "abaxial_surface": "Generally glabrous/non-glaucous compared with Texas ash.",
+    "leaf_scar": "Shield-shaped to broadly oblong-ovate; upper edge truncate to shallowly concave.",
+    "fruit": "Consistently 2-winged samara in the Central Texas comparison; wing runs down proximal body then broadens distally."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Fraxinus albicans",
+      "Fraxinus berlandieriana",
+      "Fraxinus americana"
+    ],
+    "key_distinctions": "Texas ash has glaucous wax below and a smaller mostly terminal-winged samara. Mexican ash tends to fewer, more coarsely serrate leaflets and may show occasional 3-winged fruits."
+  },
+  "tags": [
+    "Oleaceae",
+    "Fraxinus",
+    "Green ash",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b014",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 1,
+    "external_display_images_count": 2,
+    "last_visual_reviewed": "2026-10-11"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/fraxinus-pennsylvanica-provisional-face.jpg",
+      "role": "Whole tree / recognizable habit",
+      "creator": "Steven Katovich, USDA Forest Service",
+      "license": "CC BY 3.0 US",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fraxinus_pennsylvanica_tree.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fraxinus_pennsylvanica_(5107485857).jpg",
+      "role": "Flowering/young-fruit cluster — reusable reproductive context",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fraxinus_pennsylvanica_(5107485857).jpg",
+      "platform": "Wikimedia Commons / Flickr",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike",
+      "media_storage": "commons_redirect_url",
+      "scientific_name_verified": "Fraxinus pennsylvanica",
+      "diagnostic_visibility": "Shows flowering/young-fruit reproductive cluster; complements but does not replace a mature samara wing/body macro."
+    },
+    {
+      "file": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/pics/FRPE-lfab-bend-28Aug-1x-5mm-10in.jpg",
+      "role": "PRIVATE STUDY — Central Texas lower leaflet surface reference",
+      "creator": "UT Austin Plant Resources Center / Bob Harms",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/FRAXI-CenTex.html",
+      "platform": "UT Austin Plant Resources Center",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Fraxinus pennsylvanica",
+      "diagnostic_visibility": "Matched local underside reference for comparison against glaucous Texas ash."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "field_diagnostics": {
+    "single_best_trait": "On a fruiting female tree, look for a >1.5 cm samara body with the wing decurrent along the body before broadening distally.",
+    "fastest_traits": [
+      "Usually 5–7(–9) leaflets",
+      "Margins subentire to inconspicuously dentate-serrulate",
+      "Lower leaflet surface generally non-glaucous",
+      "Broad shield-shaped to oblong-ovate leaf scar",
+      "Samara >1.5 cm; wing strongly decurrent; consistently 2-winged"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Fraxinus albicans",
+        "distinction": "Texas ash has a smaller ~1 cm seed body, mostly terminal wing and conspicuously glaucous/white-reticulate lower leaflet surface."
+      },
+      {
+        "taxon": "Fraxinus berlandieriana",
+        "distinction": "Mexican ash tends toward 3–5(–7) more coarsely serrate leaflets; its samara wings expand gradually from near the base and 3-winged fruits can occur."
+      }
+    ],
+    "unreliable_alone": [
+      "leaflet count",
+      "one leaf scar",
+      "overall riparian habit"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Mature samara with ruler showing >1.5 cm body and decurrent wing",
+    "Lower leaflet macro showing non-glaucous surface",
+    "Fresh shield-shaped winter leaf scar + bud",
+    "Whole mature 5–7(9) leaflet leaf with margin detail"
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "UT Austin Plant Resources Center",
+      "url": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/FRAXI-CenTex.html"
+    },
+    {
+      "source": "UT Austin Plant Resources Center — N. Hays County",
+      "url": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/Hays-ash.html"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "text-polished-reproductive-and-local-underside-reference-present-mature-samara-macro-open",
+    "reviewed": "2026-10-11"
+  },
+  "native_metrics_excluded": true
+}

@@ -1,0 +1,84 @@
+{
+  "id": "castilleja-purpurea",
+  "entry_type": "species",
+  "family": "Orobanchaceae",
+  "genus": "Castilleja",
+  "species": "purpurea",
+  "scientific_name": "Castilleja purpurea",
+  "authority": "(Nutt.) G.Don",
+  "common_name": "Prairie / Purple Paintbrush",
+  "taxonomic_note": "Current Kew accepted species concept.",
+  "look_here_first": "Start with perennial habit plus bract color and leaf/bract shape. Prairie paintbrush is a perennial of rocky calcareous prairies; bracts can be purple-pink, yellowish, or orange-red depending on form, so color alone is not enough.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Exact target-zone county documentation: Hays, Travis, Williamson.",
+    "range_guardrail": "No inferred counties."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial hemiparasitic herb",
+      "several stems may arise from base",
+      "cauline leaves narrow and often lobed upward on plant",
+      "terminal paintbrush spike",
+      "showy bracts variable in color",
+      "rocky calcareous prairie association",
+      "spring flowering"
+    ],
+    "comparison_training": "C. indivisa is annual. Current Kew treats the old Lindheimer variety separately as C. lindheimeri, so local orange-red Edwards Plateau plants with the Lindheimer character set should be checked against C. lindheimeri rather than folded automatically into C. purpurea."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Castilleja indivisa",
+      "Castilleja purpurea",
+      "Castilleja lindheimeri"
+    ],
+    "key_distinctions": "C. indivisa is annual. Current Kew treats the old Lindheimer variety separately as C. lindheimeri, so local orange-red Edwards Plateau plants with the Lindheimer character set should be checked against C. lindheimeri rather than folded automatically into C. purpurea."
+  },
+  "curation_status": {
+    "version": "1.0-b054",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "images": [
+    {
+      "file": "images/01-purple-pink-flowering-habit.jpg",
+      "role": "Whole flowering plant and purple-pink bract expression",
+      "creator": "Clinton & Charles Robertson",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Castilleja_purpurea.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-flowering-spike-habit.jpg",
+      "role": "Flowering habit and bract-spike architecture",
+      "creator": "Dr. Thomas G. Barnes / U.S. Fish and Wildlife Service",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Prairie_paintbrush_plant_flowering_castilleja_purpurea.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-pink-bracts-corolla-closeup.jpg",
+      "role": "Close flowering spike showing pink bracts and corolla context",
+      "creator": "mountainamoeba",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pink_Paintbrush_(2823585709).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

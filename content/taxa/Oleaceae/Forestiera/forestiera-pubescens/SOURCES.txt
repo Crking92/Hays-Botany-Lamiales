@@ -1,0 +1,16 @@
+FORESTIERA PUBESCENS — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; preserve settled PASS taxonomy/range.
+
+Exact-species iNaturalist guide:
+https://www.inaturalist.org/guide_taxa/441882
+
+Selected licensed images:
+- Photo 21341325 — Mary PK Burns — CC BY-NC — branching shrub/habit with opposite leaves.
+  Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/21341325/large.jpg
+- Photo 21341326 — Jerry Oldenettel — CC BY-NC-SA — yellow flowers on woody twigs.
+  Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/21341326/large.jpg
+- Photo 21341323 — Jerry Oldenettel — CC BY-NC-SA — abundant blue-black drupes with foliage.
+  Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/21341323/large.jpg
+
+All-rights-reserved guide media was skipped. These selections are exact Forestiera pubescens and are used only for learner presentation; existing scientific conclusions are unchanged.

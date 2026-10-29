@@ -1,0 +1,46 @@
+MONARDA CITRIODORA — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+
+Taxonomy
+Kew Plants of the World Online — accepted Monarda citriodora Cerv. ex Lag.:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A452023-1
+
+Strict target-zone range
+BONAP/NAPA county distribution:
+https://bonap.net/TDC/Image/Map?locationType=County&mapType=Normal&taxonId=13478&taxonType=Species
+
+Hays — UT Plant Resources Center, Purola Preserve natural flora:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+
+Travis — Harvard University Herbaria specimen GH 01600559, northwest of Austin:
+https://kiki.huh.harvard.edu/databases/specimen_search.php?id=960144&mode=details
+
+Comal — Harvard University Herbaria specimen GH 01600579, west of Landa Park/New Braunfels:
+https://kiki.huh.harvard.edu/databases/specimen_search.php?id=960189&mode=details
+
+Morphology
+Texas Wildbuds:
+https://www.texaswildbuds.com/monarda-citriodora.html
+NPSOT:
+https://www.npsot.org/posts/native-plant/monarda-citriodora/
+
+LOOK HERE FIRST
+Interrupted stacked flower whorls + usually purple floral bracts + long bristle tips on the floral bracts/calyx teeth.
+
+Photo lead
+User iNaturalist example:
+https://www.inaturalist.org/observations/271552991
+
+PHOTO FAST-FILL 010 — 2026-10-05
+Reuse existing project selections. Recovery audit lists no exact Joey records for either species. Credits/license/source and direct download URLs are in image-sources.csv. Media only; no county evidence added. Downloads/resizing only. Historical plate is an illustration, not a photograph.
+01-reference.jpg | Flowering stems / stacked whorls and purplish bracts | Clarence A. Rechenthin / USDA-NRCS | Public Domain (U.S. federal work) | https://commons.wikimedia.org/wiki/File:Monarda_citriodora.jpg | https://creativecommons.org/publicdomain/mark/1.0/
+02-reference.jpg | Inflorescence / stacked whorls and purplish bracts | Alex Abair | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Monarda_citriodora_inflorescence_1.jpg | https://creativecommons.org/licenses/by/4.0/
+03-reference.jpg | Leaves and stem / opposite foliage reference | Nadiatalent | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Monarda_citriodora,_leaves_and_stem.jpg | https://creativecommons.org/licenses/by-sa/4.0/
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 665240129 https://www.inaturalist.org/photos/665240129 | 364407640 | images/glass-root-garden-665240129-pale-flower-whorls.jpg
+- 665836624 https://www.inaturalist.org/photos/665836624 | 364723320 | images/glass-root-garden-665836624-purple-flower-habit.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

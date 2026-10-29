@@ -1,0 +1,170 @@
+{
+  "id": "verbena-xutha",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Verbena",
+  "species": "xutha",
+  "scientific_name": "Verbena xutha",
+  "authority": "",
+  "common_name": "Gulf vervain",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Start with the leaves: most are conspicuously 3-lobed or deeply cut, with a long central lobe and smaller lateral lobes; then notice the coarse hispid/glandular plant and multiple terminal or axillary spikes.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "2026-10-14 corrected two-county status: Travis, Kerr inside 24-county zone; Williamson outside. Third accepted native county not yet established. Original evidence retained in range_audit.",
+    "range_guardrail": "The project Hays native-source list does not include V. xutha, so Hays is not assumed from nearby Travis/Williamson occurrence.",
+    "range_audit": {
+      "date": "2026-10-14",
+      "prior_classification": "PASS",
+      "decision": "UNRESOLVED",
+      "valid_target_counties": [
+        "Travis",
+        "Kerr"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "confidence": "high for target-zone membership; historic county-locality citations retained, not independently re-vouchered",
+      "reason": "Third project county not actually verified. Does not mean native absence from other target counties.",
+      "original_range_basis": "Kew/POWO accepts Verbena xutha and lists Texas within its native range. Travis County — UT Plant Resources Center has multiple Travis County Verbena xutha herbarium specimens. Williamson County — the UT Plant Resources Center field treatment documents Verbena xutha as part of the county flora. Kerr County — the Kerr WMA vascular flora documents Verbena xutha without an introduced marker.",
+      "source_document": "content/taxa/Verbenaceae/Verbena/verbena-xutha/SOURCES.txt"
+    },
+    "native_range_last_reviewed": "2026-10-14"
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "coarse perennial, one to several stems, commonly taller than V. canescens",
+      "stems and foliage hispid-hirsute with swollen/pustulate hair bases plus short glandular hairs",
+      "opposite leaves mostly 3-lobed or deeply cut, with the central lobe conspicuously dominant",
+      "leaf margins toothed and principal veins strongly raised below",
+      "terminal and axillary many-flowered spikes",
+      "flowers unevenly spaced along a ridged hairy rachis",
+      "fruit a four-part schizocarp"
+    ],
+    "verbena_training": "Separate these by leaf architecture + hair texture + spike/branching architecture before using flower color."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Verbena halei",
+      "Verbena canescens",
+      "Verbena brasiliensis"
+    ],
+    "key_distinctions": "Verbena halei: Both can have divided leaves, but V. xutha is coarse and strongly hispid/glandular with a repeated 3-lobed leaf pattern; V. halei is more slender with highly variable lower pinnatifid leaves and very narrow upper leaves. Verbena canescens: V. canescens is short and uniformly gray-canescent with only short lobes; V. xutha is taller, greener/coarser, and strongly 3-lobed. Verbena brasiliensis: Brazilian vervain has simple narrow serrate leaves and an open many-branched panicle of short spikes rather than strongly lobed leaves."
+  },
+  "tags": [
+    "Verbenaceae",
+    "Verbena",
+    "Gulf vervain",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-009",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 4,
+    "photo_files_present": 3,
+    "leaf_diagnostic_photo_found": "2026-10-12",
+    "manual_library_install_027": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "images/verbena-xutha-provisional-face.jpg",
+      "role": "Flowering habit / recognizable face",
+      "creator": "Wendy McCrady",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_xutha.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Verbena+xutha_0001.jpg&id=1279&size=w",
+      "role": "Flowering stem with opposite incised leaves",
+      "caption": "True opposite leaves visible but small; a matched, leaf-isolated three-lobed macro is still pending.",
+      "creator": "Larry Allain / U.S. Geological Survey",
+      "license": "Public domain",
+      "platform": "USGS Plants of Louisiana",
+      "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/1279",
+      "source_record_id": "Verbena+xutha_0001.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "remote_only": true,
+      "local_file_present": false,
+      "exact_species": true,
+      "visible_diagnostic_structure_verified": true
+    },
+    {
+      "file": "images/library-review027-730389872930bab.jpg",
+      "role": "Terminal slender flower spike and branching plant scale; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show vegetative leaves and slender inflorescence",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6163309864",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617871531/original.jpg",
+      "source_determination": "Verbena xutha",
+      "source_observation_id": "6163309864",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/verbena-xutha/gbif-a915aa25dbc3b7.jpg",
+      "archive_image_sha256": "af289fe86df2c4788a5e51d1a2918a6b7eb73a488a8edef4839a5849de21ba9c",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review027-36a3bcc186ce10d.jpg",
+      "role": "Opposite coarsely toothed leaf close-up; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show vegetative leaves and slender inflorescence",
+      "creator": "Michelle Lopez",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6251851319",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643905331/original.jpg",
+      "source_determination": "Verbena xutha",
+      "source_observation_id": "6251851319",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/verbena-xutha/gbif-ff50467f22c9a2.jpg",
+      "archive_image_sha256": "4c309da22b8cc5bdf3f957b93de08f3da46c37429ccaf9054a1d27d96e160625",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+    "leaf_visual_backfill": "2026-10-12",
+    "leaf_macro_polish_status": "additional matched close-ups/hair macro still pending"
+  },
+  "native_metrics_excluded": true
+}

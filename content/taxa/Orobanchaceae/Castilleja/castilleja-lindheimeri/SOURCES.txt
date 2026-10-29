@@ -1,0 +1,47 @@
+CASTILLEJA LINDHEIMERI A.GRAY — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+Workflow: Joey-video downstream batch
+
+## Taxonomy
+Kew Plants of the World Online — accepted Castilleja lindheimeri:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A801028-1
+Kew — C. purpurea var. lindheimeri is a synonym:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A49695-2
+
+## Strict target-zone range
+Hays — Purola Preserve natural flora under C. purpurea var. lindheimeri:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Travis — UT PRC Travis County herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Scrophulariaceae.html
+Williamson — UT PRC detailed county treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Castilleja%20purpurea%20lindheimeri
+
+Decision: PASS — Hays, Travis, Williamson.
+
+## Morphology
+UT PRC Williamson County treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Castilleja%20purpurea%20lindheimeri
+
+## Joey study media
+Y7A530PjEbU-03 — local Edwards Plateau habit / source label / hemiparasite discussion.
+Study rights only; public reuse not assumed.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04 — JOEY RECOVERY 005
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=Y7A530PjEbU
+castilleja-lindheimeri_habitat-source-label_00-35.jpg @ 00:35
+Source-labeled Castilleja lindheimeri in rocky Edwards Plateau habitat. Use this wide frame for habitat and habit context only; it does not replace a close bract-and-flower diagnostic view.
+Rights: private study only; public reuse not cleared. Existing scientific/range status preserved.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T01:56:07.889464+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/260397999
+https://www.inaturalist.org/observations/150960559
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:04:14.261994+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/369421893
+https://www.inaturalist.org/observations/208779191
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

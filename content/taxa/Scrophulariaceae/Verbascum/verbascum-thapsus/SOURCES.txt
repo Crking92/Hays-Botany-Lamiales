@@ -1,0 +1,9 @@
+Source pool Phase3 preflight working taxon Verbascum thapsus; Master Pool rows 1232.
+POWO search https://powo.science.kew.org/results?q=Verbascum%20thapsus
+Exact photo source page https://commons.wikimedia.org/wiki/File:Verbascumthapsus.jpg
+Commons physical image redirect https://commons.wikimedia.org/wiki/Special:Redirect/file/Verbascumthapsus.jpg
+Photographer Wisi_eu
+License CC0 1.0
+Provisional photo role Provisional flower-spike close-up; fuzzy basal rosette/leaf feel needs other views.
+Caution Introduced weed identification, not a restoration plant; avoid assuming softness alone identifies the species.
+No county-level nativity assertion and no completed independent morphological or taxonomy audit.

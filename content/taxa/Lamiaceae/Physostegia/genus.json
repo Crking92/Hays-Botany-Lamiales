@@ -1,0 +1,171 @@
+{
+  "rank": "genus",
+  "family": "Lamiaceae",
+  "name": "Physostegia",
+  "authority": "Benth.",
+  "common_group": "False dragonheads / obedient plants",
+  "project_scope": {
+    "selection_mode": "B095 canonical/provisional anchors + B154 strict-review handoff",
+    "canonical_species_ids": [
+      "physostegia-angustifolia",
+      "physostegia-correllii",
+      "physostegia-virginiana"
+    ],
+    "pending_strict_review": [],
+    "source_concept_count": 3,
+    "note": "All three are installed canonical species. P. angustifolia now has accepted taxonomy and documented target-zone PASS (Hays, Travis, Kerr); P. correllii PASS; P. virginiana remains provisional. Historical unresolved decisions are preserved in species records.",
+    "learner_species_ids": [
+      "physostegia-correllii",
+      "physostegia-virginiana",
+      "physostegia-angustifolia"
+    ],
+    "approved_learner_only": []
+  },
+  "source_concept_status": [
+    {
+      "id": "physostegia-angustifolia",
+      "scientific_name": "Physostegia angustifolia",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "physostegia-correllii",
+      "scientific_name": "Physostegia correllii",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "physostegia-virginiana",
+      "scientific_name": "Physostegia virginiana",
+      "status": "PROVISIONAL_CANONICAL",
+      "native_metrics_excluded": true
+    }
+  ],
+  "study_strategy": {
+    "priority": [
+      "wetland/riparian versus broader garden/landscape context",
+      "rhizomatous perennial habit",
+      "leaf width and serration",
+      "flower-spike length and density",
+      "corolla color and size",
+      "accepted taxon/subspecies concept before using range"
+    ],
+    "warning": "P. angustifolia has documented target-zone PASS and canonical installation; do not confuse its earlier HOLD with current state. P. virginiana remains provisional and garden-origin specimens require caution."
+  },
+  "quick_key": [
+    {
+      "if": "tall rhizomatous wetland perennial, often >1 m, narrow opposite leaves and long pink-purple flower spike on stream/river edges",
+      "then": "Physostegia correllii — canonical PASS"
+    },
+    {
+      "if": "upright rhizomatous obedient plant with opposite toothed leaves and dense pink-lavender spike but local taxon/range concept unresolved",
+      "then": "Physostegia virginiana — provisional learner, native metrics excluded"
+    },
+    {
+      "if": "source says Physostegia angustifolia / narrowleaf false dragonhead",
+      "then": "Physostegia angustifolia — canonical PASS; confirm identification by leaf and inflorescence characters, not name alone"
+    }
+  ],
+  "curation_status": {
+    "version": "2.0-photo-led-three-concept-comparison",
+    "genus_audit": "three_canonical_species_reconciled",
+    "source_concepts_reconciled": true,
+    "last_reviewed": "2026-10-14",
+    "existing_local_photo_files": 2,
+    "external_correllii_refs": 1,
+    "new_photo_binaries": 0,
+    "range_decisions_changed": false
+  },
+  "look_here_first": "Recognize Physostegia by opposite leaves, square stems, and a terminal spike bearing tubular two-lipped flowers in repeated clusters. Find the CALYX behind a flower and a LEAF NODE on the same stem. Compare leaf width, flower spacing and the entire plant in its habitat; do not identify a rare species from pink flowers or wet-ground habitat alone.",
+  "comparison_matrix": [
+    {
+      "feature": "Project status",
+      "correllii": "PASS (historical and extant wetland county records)",
+      "virginiana": "PROVISIONAL, native metrics excluded",
+      "angustifolia": "CANONICAL PASS (Hays, Travis, Kerr)"
+    },
+    {
+      "feature": "Habit and habitat",
+      "correllii": "Tall rhizomatous wetland/river-edge perennial",
+      "virginiana": "Rhizomatous perennial, also commonly cultivated",
+      "angustifolia": "Upright herb, narrower-leaved"
+    },
+    {
+      "feature": "Leaves",
+      "correllii": "Opposite narrow lanceolate leaves",
+      "virginiana": "Opposite lanceolate leaves; variable concept",
+      "angustifolia": "Distinctively narrow opposite leaves"
+    },
+    {
+      "feature": "Flowers",
+      "correllii": "Pink-purple bilateral corollas along elongated spike",
+      "virginiana": "Pink-lavender bilabiate flowers, relatively dense spike",
+      "angustifolia": "Lavender/pink or pale corollas, repeated spike clusters; photo shows pale side view"
+    },
+    {
+      "feature": "What must be checked",
+      "correllii": "Voucher-level characters; rare taxon, avoid habitat-only claim",
+      "virginiana": "Texas taxon/subspecies concept and source of plant",
+      "angustifolia": "Whole leaves + spike + precise county evidence"
+    }
+  ],
+  "visual_lesson": {
+    "title": "Obedient plants: flower spike, leaf node, calyx",
+    "steps": [
+      {
+        "name": "1. Whole plant and habitat",
+        "rule": "Distinguish aquatic-bank rhizomatous P. correllii from planted P. virginiana; habitat alone does not certify ID or nativity."
+      },
+      {
+        "name": "2. Opposite leaf pair",
+        "rule": "Trace both leaves to the same stem node; compare blade width and margins rather than only corolla color."
+      },
+      {
+        "name": "3. Side-on flower and calyx",
+        "rule": "Find tubular bilabiate corolla and separate green calyx at its base; look for flowers repeated in clusters along spike."
+      },
+      {
+        "name": "4. Blooming stem and mature fruit",
+        "rule": "Measure stalk and spike; photo of mature calyx/fruit still needed to teach this character."
+      }
+    ],
+    "local_photos": [
+      {
+        "species": "physostegia-angustifolia",
+        "path": "content/taxa/Lamiaceae/Physostegia/physostegia-angustifolia/images/physostegia-angustifolia-provisional-face.jpg",
+        "role": "side-on flower/calyx reference; not whole-plant leaf comparison",
+        "credit": "Alex Abair",
+        "license": "CC BY 4.0",
+        "range_status": "UNRESOLVED"
+      },
+      {
+        "species": "physostegia-virginiana",
+        "path": "content/taxa/Lamiaceae/Physostegia/physostegia-virginiana/images/physostegia-virginiana-provisional-face.jpg",
+        "role": "general habit and flowering reference",
+        "credit": "Biotaman",
+        "license": "Public domain",
+        "range_status": "PROVISIONAL"
+      }
+    ],
+    "external_only": [
+      {
+        "species": "physostegia-correllii",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436494/large.jpg",
+        "source_page": "https://www.inaturalist.org/guides/14344",
+        "role": "pink-purple flowering spike",
+        "credit": "Cullen Hanks",
+        "license": "CC BY-NC",
+        "status": "external; not locally installed; limited noncommercial reuse"
+      }
+    ],
+    "photo_gaps": [
+      "Exact-species rights-cleared P. correllii image physically installed with attribution",
+      "Matched opposite leaf node and leaf width for three species",
+      "Side-on calyx / inflorescence cluster macro with visually verified anatomical markers",
+      "Habitat plus whole flowering stem for P. angustifolia"
+    ]
+  },
+  "status_reconciliation": {
+    "last_checked": "2026-10-14",
+    "finding": "Manifest confirms all three canonical; P. angustifolia species record documents target-zone PASS with Hays, Travis and Kerr evidence, superseding earlier genus HOLD wording.",
+    "action": "Historical HOLD retained in species evidence; no native-range decision changed by this genus-only correction."
+  }
+}

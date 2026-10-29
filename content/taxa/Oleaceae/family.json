@@ -1,0 +1,182 @@
+{
+  "rank": "family",
+  "name": "Oleaceae",
+  "common_name": "Olive / ash family",
+  "project_scope": {
+    "selection_mode": "Central Texas Fraxinus + Forestiera visual module",
+    "note": "Canonical Fraxinus species are clickable; Forestiera remains a family-reference anchor."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at the node: local Oleaceae is woody, usually opposite/subopposite, and lacks stipules. Then read leaf architecture and fruit.",
+    "leaves": "Fraxinus has odd-pinnate compound leaves; Forestiera has simple leaves.",
+    "flowers": "Often small; corolla may be absent in local focal genera.",
+    "fruit": "Fraxinus makes a samara; Forestiera makes a one-seeded drupe.",
+    "field_tip": "Opposite leaves alone are not enough—fruit type is the fast local separator."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Oleaceae is easiest locally when you pair opposite branching with the fruit: ash keys versus Forestiera drupes.",
+    "steps": [
+      {
+        "title": "1 · Start with opposite ash architecture",
+        "photo_role": "Texas ash compound leaves + samara cluster",
+        "anchor_species_id": "fraxinus-albicans",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fraxinus%20texensis.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fraxinus_texensis.jpg",
+        "image_label": "Texas ash · Fraxinus albicans",
+        "image_credit": "CC BY 2.0 · source filed as F. texensis synonym",
+        "look_for": "Opposite branching with odd-pinnate compound leaves.",
+        "why_it_matters": "This gets you to Fraxinus quickly.",
+        "status": "rights_cleared_external_anchor"
+      },
+      {
+        "title": "2 · Read the samara wing",
+        "photo_role": "green ash developing samaras",
+        "anchor_species_id": "fraxinus-pennsylvanica",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fraxinus%20pennsylvanica%20(5107485857).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fraxinus_pennsylvanica_(5107485857).jpg",
+        "image_label": "Green ash samaras",
+        "image_credit": "CC BY-SA 2.0 · Matt Lavin",
+        "look_for": "Single-winged fruits; in green ash the wing runs distinctly down the seed body.",
+        "why_it_matters": "Samara shape separates local ash species and distinguishes ash from boxelder.",
+        "status": "rights_cleared_external_anchor"
+      },
+      {
+        "title": "3 · Compare leaf-only ash",
+        "photo_role": "green ash opposite compound leaf",
+        "anchor_species_id": "fraxinus-pennsylvanica",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fraxinus%20pennsylvanica%20(5107486573).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fraxinus_pennsylvanica_(5107486573).jpg",
+        "image_label": "Green ash compound leaf",
+        "image_credit": "CC BY-SA 2.0 · Matt Lavin",
+        "look_for": "Opposite odd-pinnate leaves before fruit appears.",
+        "why_it_matters": "Builds the vegetative doorway to the family.",
+        "status": "rights_cleared_external_anchor"
+      },
+      {
+        "title": "4 · See the simple-leaved family exception",
+        "photo_role": "Forestiera habit",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Forestiera%20pubescens%20var.%20pubescens.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Forestiera_pubescens_var._pubescens.jpg",
+        "image_label": "Forestiera pubescens",
+        "image_credit": "CC BY 2.0 · Petrified Forest National Park",
+        "look_for": "Opposite/subopposite simple leaves on a woody shrub.",
+        "why_it_matters": "Prevents 'Oleaceae = compound ash leaf' overfitting.",
+        "status": "rights_cleared_family_reference"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Oleaceae vs Rubiaceae",
+        "rule": "Rubiaceae usually has interpetiolar stipules and an inferior ovary; Oleaceae lacks stipules and has a superior ovary."
+      },
+      {
+        "title": "Ash vs boxelder",
+        "rule": "Fraxinus makes single samaras; Acer negundo makes paired samaras."
+      }
+    ],
+    "caveat": "Do not teach Oleaceae as 'opposite leaves + four white petals'; the local focal genera often have reduced or absent corollas."
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-12",
+    "visual_lock": "diagnostic_photo_comparisons_pending",
+    "family_confusion": "four_genus_morphology_polish_live"
+  },
+  "family_confusion_polish": {
+    "status": "canonical_family_recognition_polish_2026-10-12",
+    "look_here_first": "At a node check for interpetiolar stipules (absent in Oleaceae), then examine flower and mature fruit. Opposite leaves alone are not decisive: Menodora can have alternate upper leaves. Look for a superior ovary and route by leaf architecture, stamens, and fruit: single samara, drupe, or dry capsule.",
+    "why_this_family": "The local four-genus pool spans opposite compound-leaved ashes, simple-leaved shrubs with reduced flowers, cultivated privets with a corolla, and small-flowered Menodora. The shared family concept is not one habit or fruit type; inspect superior ovary, often two fertile stamens, lack of stipules, and genus-specific reproductive anatomy together.",
+    "important_exceptions": [
+      "Menodora may have alternate upper leaves and a dry bilobed capsule; Oleaceae is not uniformly woody, opposite-leaved, or fleshy-fruited.",
+      "Forestiera can have inconspicuous apetalous flowers; four conspicuous petals are not required.",
+      "Male Fraxinus trees lack samaras. Leaflet number, leaf scars and lower-surface wax are supporting cues, not reliable family proof by themselves.",
+      "Ligustrum is retained as an encounter/comparison genus; family recognition does not change its native-range labels."
+    ],
+    "genus_routes": [
+      {
+        "genus": "Fraxinus",
+        "look": "Usually opposite, odd-pinnate compound leaves; on fruiting plants a SINGLE samara with a wing attached to one seed body.",
+        "confirm": "Wing-to-seed-body junction, leaflet underside, leaf scars. Compare Acer negundo paired samaras."
+      },
+      {
+        "genus": "Forestiera",
+        "look": "Opposite/subopposite SIMPLE leaves on stiff woody branchlets; very small often apetalous flowers, frequently before leaf flush.",
+        "confirm": "Small dark one-seeded drupes; F. angustifolia narrow revolute leaves vs F. pubescens broader blades; elbow branching alone not a species split."
+      },
+      {
+        "genus": "Ligustrum",
+        "look": "Opposite simple leaves; small flowers with a four-lobed fused corolla, usually in branching clusters.",
+        "confirm": "Dark fleshy fruits and flower dissection; distinguish from apetalous Forestiera; introduced comparison context retained."
+      },
+      {
+        "genus": "Menodora",
+        "look": "Small simple leaves, opposite below but sometimes alternate above; tubular flower with TWO stamens.",
+        "confirm": "Paired/bilobed dry capsule, often two fruit lobes; do not force it into ash-samara or shrub-drupe routes."
+      }
+    ],
+    "confusable_family_matrix": [
+      {
+        "family": "Rubiaceae",
+        "similarity": "Opposite simple leaves and sometimes fleshy fruits",
+        "separate": "Inspect node for interpetiolar stipules and flower for generally inferior ovary in Rubiaceae versus exstipulate superior ovary in Oleaceae."
+      },
+      {
+        "family": "Sapindaceae (Acer negundo)",
+        "similarity": "Opposite pinnately compound leaves like Fraxinus",
+        "separate": "Acer has paired samaras; Fraxinus individual fruits are single samaras. Photograph fruit attachment, not merely a fallen wing."
+      },
+      {
+        "family": "Bignoniaceae",
+        "similarity": "Opposite compound leaves on woody plants",
+        "separate": "Typically long, dehiscent capsules with many winged seeds; Fraxinus has single one-seeded samaras."
+      },
+      {
+        "family": "Verbenaceae",
+        "similarity": "Opposite simple leaves and sometimes drupaceous fruit",
+        "separate": "Dissect flower/ovary and mature fruit; node alone and dark berry color do not settle family."
+      }
+    ],
+    "diagnostic_visual_roles": [
+      {
+        "priority": 1,
+        "role": "matched leaf-node triptych",
+        "frame": "Oleaceae Forestiera/Ligustrum, Rubiaceae with stipules, and Menodora lower/upper nodes",
+        "labels": "petiole, interpetiolar stipule or absence, opposite vs alternate attachment"
+      },
+      {
+        "priority": 1,
+        "role": "ovary-position longitudinal sections",
+        "frame": "Oleaceae flower vs Rubiaceae flower at matched scale",
+        "labels": "receptacle, superior/inferior ovary, corolla insertion"
+      },
+      {
+        "priority": 1,
+        "role": "single-versus-paired samara comparison",
+        "frame": "Fraxinus fruit attached to twig vs Acer negundo fruit attached to twig",
+        "labels": "one seed body and wing vs paired samaras; attachment point"
+      },
+      {
+        "priority": 1,
+        "role": "Forestiera-versus-Ligustrum floral macro",
+        "frame": "petal-less Forestiera flower and 4-lobed Ligustrum corolla with comparable drupes",
+        "labels": "perianth presence, stamens, fruit seed"
+      },
+      {
+        "priority": 1,
+        "role": "Menodora reproductive sequence",
+        "frame": "flower front and side, longitudinal section, mature split capsule",
+        "labels": "two stamens, corolla tube, superior ovary, paired capsule lobes"
+      },
+      {
+        "priority": 2,
+        "role": "Fraxinus species support strip",
+        "frame": "matched samara wing/body, abaxial leaflet, leaf scar with scale",
+        "labels": "wing attachment, wax/hairs, scar outline; compare existing Fraxinus genus lesson"
+      }
+    ],
+    "asset_policy": "Reuse existing canonical Fraxinus and Forestiera study anchors, Calvin/Joey frames where diagnostically suitable and licensed. These are diagnostic-photo assignments, not claims that new images have been acquired.",
+    "taxonomy_handoff": "Do not alter accepted names or native-range decisions. F. angustifolia here means Forestiera angustifolia, not Fraxinus. Fraxinus greggii unresolved range state remains separate from learner admission."
+  }
+}

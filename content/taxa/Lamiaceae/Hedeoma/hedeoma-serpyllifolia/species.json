@@ -1,0 +1,40 @@
+{
+  "id": "hedeoma-serpyllifolia",
+  "family": "Lamiaceae",
+  "genus": "Hedeoma",
+  "species": "serpyllifolia",
+  "scientific_name": "Hedeoma serpyllifolia",
+  "common_name": "Thymeleaf mock pennyroyal",
+  "look_here_first": "Examine very small opposite leaves and aromatic glandular surfaces; use a hand lens for unequal calyx teeth, corolla upper/lower lips and clusters in leaf axils, comparing Hedeoma reverchonii.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/447686-1",
+  "synonyms": [
+    "Hedeoma reverchonii serpyllifolia"
+  ],
+  "photo_taxonomy_note": "Taxonomic source documents the observation name as a matching taxon concept at its recorded rank; retain alternative-backbone flags and check photo anatomy separately.",
+  "images": [
+    {
+      "file": "images/inat-705328828.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Turner Brockman, some rights reserved (CC BY-SA)",
+      "license": "CC BY-SA",
+      "source_page": "https://www.inaturalist.org/photos/705328828",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; ShareAlike requirements"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

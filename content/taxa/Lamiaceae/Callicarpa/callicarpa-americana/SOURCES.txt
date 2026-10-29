@@ -1,0 +1,41 @@
+CALLICARPA AMERICANA — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; preserve settled PASS taxonomy/range.
+
+Existing project media check:
+- Canonical page had no gallery.
+- Photo-recovery audit did not route an exact Joey asset to this species.
+- Repository search did not surface an existing reusable exact-species project image set.
+
+Exact-species iNaturalist guide:
+https://www.inaturalist.org/guide_taxa/1559133
+
+Selected licensed images from that exact-species guide:
+
+1) Photo ID 72342761
+Creator: Tom Potterfield
+License: CC BY-NC-SA (version not specified on guide)
+Guide source: https://www.inaturalist.org/guide_taxa/1559133
+Original source: https://www.flickr.com/photos/tgpotterfield/10987173935/
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/72342761/large.jpg
+Role: whole/shrub habit with arching fruiting branches.
+
+2) Photo ID 20620
+Creator: zen Sutherland
+License: CC BY-NC-SA (version not specified on guide)
+Guide source: https://www.inaturalist.org/guide_taxa/1559133
+Original source: http://www.flickr.com/photos/54289096@N00/26977280
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/20620/large.jpg
+Role: lavender-pink axillary flower clusters with exserted stamens.
+
+3) Photo ID 110707833
+Creator: Forest and Kim Starr
+License: CC BY 2.0
+Guide source: https://www.inaturalist.org/guide_taxa/1559133
+Original/source verification: https://commons.wikimedia.org/wiki/File:Callicarpa_americana_(24976139485).jpg
+Original Flickr: https://www.flickr.com/photos/starr-environmental/24976139485
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/110707833/large.jpg
+Role: purple-magenta fruit clusters hugging the stem plus opposite serrate leaves.
+
+Fast-fill note:
+These three exact-species views cover habit, flowers, and the strongest fruit/leaf recognition character. Later local-photo polish can replace them without reopening settled taxonomy or range work.

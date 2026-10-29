@@ -1,0 +1,414 @@
+{
+  "id": "lamium-purpureum",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Lamium",
+  "species": "purpureum",
+  "scientific_name": "Lamium purpureum",
+  "authority": "L.",
+  "common_name": "Purple deadnettle",
+  "alternate_common_names": [
+    "Red deadnettle",
+    "Red henbit"
+  ],
+  "look_here_first": "LOOK HERE FIRST: a cool-season winter ANNUAL with opposite heart/triangular SCALLOPED leaves, the upper ones CROWDED into a reddish-purple pointed top. Follow an UPPER leaf all the way to the stem: it retains a SHORT PETIOLE and DOES NOT form a stalkless collar. Henbit L. amplexicaule instead has rounded/lobed SESSILE upper leaves encircling the stem; both make pink-purple two-lipped flowers on square stems. Purple color varies with light/stage and is NOT diagnostic by itself.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:448939-1",
+  "taxonomy_notes": "POWO accepted Lamium purpureum L., not a henbit synonym; may include different infraspecific concepts but this learner card does not identify varieties.",
+  "project_inclusion": {
+    "learner_admission_status": "USER_EXPLICIT_APPROVAL_20261021_FIRST_CARD",
+    "source_pool": "User approved adding the henbit look-alike as its own card",
+    "target_zone_status": "INTRODUCED_NON_NATIVE",
+    "native_metrics_excluded": true,
+    "notes": "POWO confirms species introduced in Texas and native to Europe/western Asia/Med. Not a native restoration recommendation; no official Texas invasive designation asserted.",
+    "native_county_audit": "NOT_PERFORMED_AND_NOT_REQUIRED_FOR_UNAMBIGUOUS_EXOTIC"
+  },
+  "morphology_keys": {
+    "life_cycle": "Cool-season herbaceous winter annual with shallow roots and square stems often rooting at low nodes.",
+    "leaf_arrangement": "Opposite at stem nodes, prominently crenate/scalloped; lower foliage broadly ovate/heart shaped and petiolate.",
+    "upper_leaf": "Upper leaves short-stalked (PETIOLATE), crowded, more triangular/pointed, often distinctly purplish. Unlike henbit the bases don't form complete green stem-clasping collars; examine from below when top leaves overlap.",
+    "flowers": "Clusters (verticillasters) at upper nodes; pink-purple tubular two-lipped flowers, upper hood and patterned lower lip with pollen-bearing stamens.",
+    "stem": "Four-angled, often purplish near nodes; hairs can be sparse; cross-section is a mint FAMILY clue, not species-only proof.",
+    "fruits": "Four little nutlets develop within persistent calyx; mature nutlet/fruit macro not yet available.",
+    "habitat": "Disturbed winter-spring open ground, turf margins, beds, fields and paths; it is introduced and can provide nectar without constituting native host-plant support."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Lamium amplexicaule (henbit)",
+      "Glechoma hederacea (ground ivy, different genus)"
+    ],
+    "key_distinctions": "PURPUREUM: pointed purple-tinged upper leaves with short PETIOLES; AMPLEXICAULE: green round/lobed upper leaves SESSILE/clasping. Both may have purplish blooms and square stems. Glechoma creeps as perennial and retains petioles to flowers.",
+    "field_matrix": [
+      {
+        "taxon": "Lamium purpureum",
+        "quick_rule": "Upper leaves retain short stalks and cluster into pointed often-purple cap",
+        "upper_leaf_base": "PETIOLATE (especially look underneath upper canopy)",
+        "habit": "Winter annual",
+        "flower_position": "Pink bilabiate flowers partly tucked among compact purple upper leaves"
+      },
+      {
+        "taxon": "Lamium amplexicaule",
+        "quick_rule": "Upper leaves are sessile rounded/lobed collars on stem",
+        "upper_leaf_base": "Clasping/stalkless at mature upper nodes",
+        "habit": "Winter annual",
+        "flower_position": "Long projecting purple tubes rising above green upper collars"
+      },
+      {
+        "taxon": "Glechoma hederacea",
+        "quick_rule": "Creeping perennial, stolons and stalked rounded leaves near flower",
+        "upper_leaf_base": "Petiolate at flowering nodes",
+        "habit": "Perennial creeper",
+        "flower_position": "Broader purple flowers in leaf axils"
+      }
+    ],
+    "not_reliable_alone": [
+      "A purple top is common but may be faint or missing.",
+      "Square stems/opposite leaves establish mint-family resemblance, not exact species.",
+      "Young rosettes lack fully developed upper flowering nodes.",
+      "Close petioles may be hidden beneath dense purple top foliage."
+    ]
+  },
+  "images": [
+    {
+      "title": "Lamium_purpureum_plant.jpg",
+      "file": "images/purple-deadnettle-arthur-badel.jpg",
+      "creator": "Arthur Badel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "role": "Flowering purple deadnettle: pointed purplish crowded top leaves, greener lower foliage and lilac flowers; source in France; petiole close-up not resolved.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_plant.jpg",
+      "source_platform": "Wikimedia Commons",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Lamium_purpureum_plant.jpg/960px-Lamium_purpureum_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sha256": "5928ef915e90f39a3f87a119b21fb614fea634195a57dd7d658e97cb89867f66",
+      "image_dimensions": [
+        960,
+        640
+      ],
+      "study_use": "Public educational botanical field guide",
+      "public_reuse": "Cleared under verified exact-image Commons license with source and creator credit.",
+      "modifications": "Resized public Commons JPEG thumbnail; converted to RGB; stripped EXIF/GPS; web marker overlays are separate."
+    },
+    {
+      "title": "Lamium_purpureum_-_March_2025_-_Sarah_Stierch.jpg",
+      "file": "images/purple-deadnettle-sarah-stierch.jpg",
+      "creator": "Sarah Stierch",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "role": "Independently sourced exact purple deadnettle plant from Sonoma, California; supplemental field habit, no Texas provenance.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_-_March_2025_-_Sarah_Stierch.jpg",
+      "source_platform": "Wikimedia Commons",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Lamium_purpureum_-_March_2025_-_Sarah_Stierch.jpg/960px-Lamium_purpureum_-_March_2025_-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sha256": "10c0fcccdd759360c3deb4394b64fd7bb296ed34a1ad5e82145b85460f25b448",
+      "image_dimensions": [
+        960,
+        720
+      ],
+      "study_use": "Public educational botanical field guide",
+      "public_reuse": "Cleared under verified exact-image Commons license with source and creator credit.",
+      "modifications": "Resized public Commons JPEG thumbnail; converted to RGB; stripped EXIF/GPS; web marker overlays are separate."
+    },
+    {
+      "title": "Lamium_purpureum_377747368.jpg",
+      "file": "images/commons-alex-abair-flower.jpg",
+      "creator": "Alexander Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "role": "Flowering L. purpureum original France source; image depicts purple corolla with calyx, site-verified taxon source.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_377747368.jpg",
+      "source_platform": "Wikimedia Commons",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Lamium_purpureum_377747368.jpg/960px-Lamium_purpureum_377747368.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sha256": "005948a4ac1f3b5c54fb1e5b802aadeaae1a8abc5e6bba6571a9dc1115bb05d3",
+      "image_dimensions": [
+        960,
+        720
+      ],
+      "study_use": "Public educational botanical field guide",
+      "public_reuse": "Wikimedia per-photo creator and CC license validated; attribution and ShareAlike apply.",
+      "modifications": "Downloaded verified Commons thumbnail; JPEG normalized and EXIF/GPS stripped; website arrows remain separate."
+    },
+    {
+      "title": "Lamium_purpureum_flowers.jpg",
+      "file": "images/commons-muriel-bendel-flower.jpg",
+      "creator": "MurielBendel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "role": "Additional flower/branch macro of L. purpureum from Switzerland, distinct source; flower parts pending arrow review.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_flowers.jpg",
+      "source_platform": "Wikimedia Commons",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Lamium_purpureum_flowers.jpg/960px-Lamium_purpureum_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sha256": "0373d6a1ef3d8ec4bbf9c842e5501043b371f26b37de2c5bbcc957aa0ebd378e",
+      "image_dimensions": [
+        960,
+        1280
+      ],
+      "study_use": "Public educational botanical field guide",
+      "public_reuse": "Wikimedia per-photo creator and CC license validated; attribution and ShareAlike apply.",
+      "modifications": "Downloaded verified Commons thumbnail; JPEG normalized and EXIF/GPS stripped; website arrows remain separate."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Purple deadnettle — top leaves, petioles and the henbit split",
+    "subtitle": "FOUR physically installed, individually licensed L. purpureum photographs now all have checked anatomy arrows, plus one explicit henbit other-species comparison. The densely crowded pointed purple upper leaf cap and corolla hood/calyx are photo-proven; upper short petiole insertion and ripe four-nutlet fruits are still missing true macros.",
+    "memory_rule": "PURPLE POINTED UPPER CAP + SHORT PETIOLES = PURPLE DEADNETTLE. ROUND SESSILE GREEN COLLARS = HENBIT.",
+    "items": [
+      {
+        "label": "PURPLE DEADNETTLE — pointed upper leaf cap",
+        "scientific_name": "Lamium purpureum",
+        "image_url": "content/taxa/Lamiaceae/Lamium/lamium-purpureum/images/purple-deadnettle-arthur-badel.jpg",
+        "image_fit": "contain",
+        "creator": "Arthur Badel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_plant.jpg",
+        "caption": "True L. purpureum (Arthur Badel, CC BY-SA 4.0), not henbit. Crowded small POINTED purplish upper leaves above green lower leaves and lilac flowers. This photo does NOT reveal a complete upper petiole junction: inspect a living upper leaf underneath the crown.",
+        "why_it_matters": "The upper triangular purple leaf cap suggests purple deadnettle; trace a SHORT PETIOLE to distinguish it confidently from henbit's sessile green collar.",
+        "markers": [
+          {
+            "label": "Purple pointed upper leaf cap",
+            "label_x": 3,
+            "label_y": 15,
+            "target_x": 43,
+            "target_y": 26
+          },
+          {
+            "label": "Greener lower toothed leaves",
+            "label_x": 72,
+            "label_y": 75,
+            "target_x": 47,
+            "target_y": 64
+          },
+          {
+            "label": "Small lilac flowers",
+            "label_x": 64,
+            "label_y": 13,
+            "target_x": 51,
+            "target_y": 43
+          }
+        ],
+        "photo_status": "PHYSICAL SOURCE PHOTO, licensed and source verified; 3 inherited previously inspected visible-structure arrows; mobile arrow verification pending."
+      },
+      {
+        "label": "PURPLE DEADNETTLE — second independently sourced whole plant",
+        "scientific_name": "Lamium purpureum",
+        "image_url": "content/taxa/Lamiaceae/Lamium/lamium-purpureum/images/purple-deadnettle-sarah-stierch.jpg",
+        "image_fit": "contain",
+        "creator": "Sarah Stierch",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_-_March_2025_-_Sarah_Stierch.jpg",
+        "caption": "Several genuine purple deadnettle flowering shoots with purple-tinged pointed upper leaf caps, pink flowers between them, and rounder green, coarse-scalloped lower leaves. Nearby clover and grasses are OTHER vegetation. Use overall habit, not a false inferred upper petiole.",
+        "why_it_matters": "Independent exact-species recognition photo, not an unlabeled generic mint-family stand-in.",
+        "markers": [
+          {
+            "label": "Crowded pointed upper leaves",
+            "label_x": 3,
+            "label_y": 12,
+            "target_x": 22,
+            "target_y": 28
+          },
+          {
+            "label": "Small pink flower",
+            "label_x": 69,
+            "label_y": 17,
+            "target_x": 80,
+            "target_y": 28
+          },
+          {
+            "label": "Greener crenate leaves below",
+            "label_x": 64,
+            "label_y": 84,
+            "target_x": 75,
+            "target_y": 68
+          }
+        ],
+        "photo_status": "3 pixels-verified real plant-part annotations; no petiole claim; source original CC0 photograph. Mobile QA pending."
+      },
+      {
+        "label": "DIFFERENT SPECIES — HENBIT HAS UPPER CLASPING LEAVES",
+        "scientific_name": "Lamium amplexicaule",
+        "image_url": "content/taxa/Lamiaceae/Lamium/lamium-amplexicaule/images/lamium-amplexicaule-habit-commons.jpg",
+        "image_fit": "contain",
+        "creator": "Harry Rose",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_plant5_(14648225140).jpg",
+        "caption": "COMPARE-ONLY: this is HENBIT, NOT PURPLE DEADNETTLE. Green round scalloped upper leaves form stalkless collar at nodes; lower leaves have petioles. Contrast deadnettle's typically short-stalked pointed purple leaf cap.",
+        "why_it_matters": "Look at leaf attachment, not purple petals or four-sided stems.",
+        "markers": [
+          {
+            "label": "Upper sessile leaf tier",
+            "label_x": 1,
+            "label_y": 23,
+            "target_x": 31,
+            "target_y": 30
+          },
+          {
+            "label": "Lower scalloped leaf",
+            "label_x": 1,
+            "label_y": 68,
+            "target_x": 30,
+            "target_y": 71
+          }
+        ],
+        "photo_status": "Already installed CC BY 2.0 Harry Rose source image, reused as correctly labeled other-species comparison."
+      },
+      {
+        "label": "PURPLE DEADNETTLE — new licensed real flower anatomy source",
+        "scientific_name": "Lamium purpureum",
+        "image_url": "content/taxa/Lamiaceae/Lamium/lamium-purpureum/images/commons-alex-abair-flower.jpg",
+        "image_fit": "contain",
+        "creator": "Alexander Abair",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_377747368.jpg",
+        "image_role": "Flowering L. purpureum original France source; image depicts purple corolla with calyx, site-verified taxon source.",
+        "caption": "Extreme close-up of a purple deadnettle corolla: hairy pale LAVENDER HOOD, lower lip with purple markings, visibly hairy green calyx with long teeth under the corolla, and an adjacent scalloped leaf blade. These are real visible features; the image does NOT show mature nutlets or the crucial upper leaf petiole.",
+        "why_it_matters": "Independent close flower view will allow hood, lower lip, and calyx cues to be highlighted after image-specific arrow review.",
+        "markers": [
+          {
+            "label": "Hairy arched upper lip",
+            "label_x": 68,
+            "label_y": 5,
+            "target_x": 69,
+            "target_y": 21
+          },
+          {
+            "label": "Lower corolla lip",
+            "label_x": 74,
+            "label_y": 76,
+            "target_x": 76,
+            "target_y": 59
+          },
+          {
+            "label": "Green calyx teeth",
+            "label_x": 1,
+            "label_y": 66,
+            "target_x": 40,
+            "target_y": 59
+          },
+          {
+            "label": "Scalloped leaf blade",
+            "label_x": 1,
+            "label_y": 9,
+            "target_x": 17,
+            "target_y": 24
+          }
+        ],
+        "photo_status": "4 real anatomical pixel targets inspected on the source-exact physical licensed flower macro; no invented petiole/seed arrow. Mobile overlay QA remains pending."
+      },
+      {
+        "label": "PURPLE DEADNETTLE — new licensed real flower anatomy source",
+        "scientific_name": "Lamium purpureum",
+        "image_url": "content/taxa/Lamiaceae/Lamium/lamium-purpureum/images/commons-muriel-bendel-flower.jpg",
+        "image_fit": "contain",
+        "creator": "MurielBendel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_flowers.jpg",
+        "image_role": "Additional flower/branch macro of L. purpureum from Switzerland, distinct source; flower parts pending arrow review.",
+        "caption": "Flowering true L. purpureum with crowding of dark pointed upper leaves, partly hooded pink two-lipped flowers, and a broad greenish crenate leaf below. Photograph includes other vegetation; do not attribute all grasses or nearby round leaves to the purple deadnettle. Upper petiole insertion remains hidden.",
+        "why_it_matters": "Independent close flower view will allow hood, lower lip, and calyx cues to be highlighted after image-specific arrow review.",
+        "markers": [
+          {
+            "label": "Pointed purple top foliage",
+            "label_x": 1,
+            "label_y": 36,
+            "target_x": 52,
+            "target_y": 50
+          },
+          {
+            "label": "Hooded pink flower",
+            "label_x": 73,
+            "label_y": 38,
+            "target_x": 59,
+            "target_y": 49
+          },
+          {
+            "label": "Lower scalloped leaf",
+            "label_x": 63,
+            "label_y": 92,
+            "target_x": 50,
+            "target_y": 79
+          }
+        ],
+        "photo_status": "3 pixel-checked markers on purple upper foliage, flower, and the lower scalloped blade. Actual short petiole still unresolved; mobile QA pending."
+      }
+    ],
+    "part_examples": [
+      {
+        "title": "Pointed purple upper leaf cap",
+        "role": "upper leaves",
+        "anchor_species_id": "lamium-purpureum",
+        "image_file": "images/purple-deadnettle-arthur-badel.jpg",
+        "look_for": "Pointed/triangular top leaves, often maroon, above greener scalloped lower leaves.",
+        "why_it_matters": "Memorable visual cue; leaf color alone is not decisive."
+      },
+      {
+        "title": "Compare henbit's collar",
+        "role": "look-alike only",
+        "anchor_species_id": "lamium-amplexicaule",
+        "image_file": "images/lamium-amplexicaule-habit-commons.jpg",
+        "look_for": "Round, stalkless upper collar leaves",
+        "why_it_matters": "Leaves, not flower color, settle this pair."
+      },
+      {
+        "title": "NEED MACRO: actual upper petiole base",
+        "role": "petiole vs clasping",
+        "status": "needs_photo",
+        "look_for": "Short stalk and attachment under the top purple leaves, with mm ruler.",
+        "why_it_matters": "Decisive split from henbit."
+      },
+      {
+        "title": "NEED MACRO: flower and nutlets",
+        "role": "reproductive details",
+        "status": "needs_photo",
+        "look_for": "Open upper hood/lower lip front and side, plus ripe calyx holding four nutlets with scale.",
+        "why_it_matters": "Fruit and detailed corolla remain photo gaps."
+      }
+    ],
+    "annotation_status": "15 verified anatomical markers in five panels: purple cap, distinct lower foliage, bilabiate flower hood, lower lip and green calyx. No petiole or nutlet claim. Phone layout QA pending."
+  },
+  "field_photo_quickcheck": {
+    "heading": "Purple deadnettle: photograph the cap, then check the leaf stalk",
+    "featured_photo_indices": [
+      0,
+      3,
+      4,
+      1
+    ],
+    "steps": [
+      "First locate the often purplish pointed upper leaf cap and greener scalloped lower leaves.",
+      "Zoom into the true flower macro for hairy upper lip, lower lip, and green calyx teeth.",
+      "LIFT an upper pointed leaf in the field to find a SHORT PETIOLE. Neither the current photos nor mere purple coloration independently proves this stalk.",
+      "Compare with HENBIT: rounded green sessile upper collar; use several mature nodes, not a young rosette."
+    ],
+    "field_rule": "PURPLE POINTED CAP + actual short-stalked upper leaf + hooded corolla suggests L. purpureum. Henbit upper leaves are rounded and sessile/clasping.",
+    "warning": "Four physical exact species images, but a TRUE exposed upper petiole junction and mature fruit/nutlets are still missing. No fake anatomical arrows.",
+    "owner_phone_review": "PENDING"
+  },
+  "curation_status": {
+    "taxonomy_identity_checked": true,
+    "photo_source_checked": true,
+    "visual_reviewed": true,
+    "lookalikes_reviewed": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "version": "1.2-purpureum-four-verified-photo-13-markers-20261021",
+    "last_reviewed": "2026-10-21",
+    "visual_status": "FIELD READY PHOTO GAPS: 4 physical source-credited photographs, 15 visible anatomy arrows on five panels including henbit compare-only; upper petiole and four nutlet macros outstanding."
+  },
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "user_approved_first_card_with_enrichment",
+    "image_count": 4,
+    "note": "Four exact-species physical licensed photos; 15 structure arrow overlays; henbit comparison, true petiole, nutlets and square-stem photos accurately classified."
+  },
+  "diagnostic_photo_targets": [
+    "MM-SCALE underside upper leaf petiole insertion (don't assume photo proves this under crowded leaf cap)",
+    "Fresh open flower front/side showing hood, lower spotted corolla, stamens",
+    "Square stem in cross-section and mature four-nutlet calyx, each with mm ruler",
+    "Paired henbit stalkless green collar versus deadnettle short stalk on same photo scale"
+  ],
+  "management_notes": {
+    "local_status": "Introduced encounter winter annual; no claim of official Texas invasive listing.",
+    "low_chemical": "Identify before pulling; hand remove small plants before seeds if control desired, reduce bare disturbed soil and favor competitive desired native plantings."
+  }
+}

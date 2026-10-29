@@ -1,0 +1,14 @@
+Ligustrum sinense — source pool approval and identification references
+Master Plant Pool row 643, approved source-pool membership; curated Yes.
+NC State Extension Gardener Plant Toolbox: https://plants.ces.ncsu.edu/plants/ligustrum-sinense/
+Wikimedia Commons exact-species photograph: https://commons.wikimedia.org/wiki/File:Ligustrum_sinense_leaves_and_flowers.jpg
+Photographer: Bidgee; license: CC BY-SA 2.5 Australia; intended role: Opposite leaves and flowers; provisional nonlocal habit/leaf recognition.
+Native-range labeling: Asian origin, non-native comparison; no project target-zone native PASS; exclude from native-only totals.
+Comparison with L. lucidum: use NC State Extension pages for both species.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:59:22.619433+00:00
+Ligustrum sinense Lour.
+https://www.gbif.org/occurrence/5938027934
+José Garrido | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Opposite leaves and young-stem hairs, small panicle flowers and berries
+No anatomy arrows; no scientific or native-range changes.

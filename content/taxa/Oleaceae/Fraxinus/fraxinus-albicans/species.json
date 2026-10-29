@@ -1,0 +1,222 @@
+{
+  "id": "fraxinus-albicans",
+  "entry_type": "species",
+  "family": "Oleaceae",
+  "genus": "Fraxinus",
+  "species": "albicans",
+  "scientific_name": "Fraxinus albicans",
+  "authority": "Buckley",
+  "common_name": "Texas ash",
+  "synonyms": [
+    "Fraxinus texensis",
+    "Fraxinus americana var. texensis",
+    "Fraxinus americana subsp. texensis"
+  ],
+  "taxonomic_note": "Current Kew accepts Fraxinus albicans; older Texas-ash names are retained as synonyms.",
+  "look_here_first": "Once you know it is an ash, go to the lower leaflet surface and the samara: Texas ash usually has a glaucous white-reticulate waxy underside, a relatively small seed body, and a wing that is terminal or only slightly decurrent.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "Hays — project native source + UT PRC natural ash work; Travis — documented wild-provenance collection; Williamson — county natural-vegetation documentation.",
+      "source_document": "content/taxa/Oleaceae/Fraxinus/fraxinus-albicans/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "opposite branches and odd-pinnate leaves, usually 5–7 leaflets",
+      "lower leaflet surface characteristically glaucous with white-reticulate wax",
+      "leaf scar depressed-obovate with shallowly concave/notched upper margin",
+      "samara body small, with wing terminal or only slightly decurrent"
+    ],
+    "leaf_arrangement": "Opposite branching; odd-pinnately compound leaves.",
+    "leaf_morphology": "Usually 5–7 relatively short/broad leaflets; margins entire to distally crenulate/serrate.",
+    "abaxial_surface": "Glaucous, often with dense white-reticulate wax overlay.",
+    "leaf_scar": "Depressed-obovate, shallowly concave/notched above, sides somewhat flaring.",
+    "fruit": "Samara body about 1 cm; wing terminal or only slightly down distal quarter.",
+    "bark": "Gray, becoming furrowed with interlocking flattened ridges."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Fraxinus pennsylvanica",
+      "Fraxinus berlandieriana",
+      "Fraxinus americana"
+    ],
+    "key_distinctions": "Green ash has a larger samara body and wing extending much farther down it. Mexican ash tends toward 3–5 coarsely serrate leaflets and can produce occasional 3-winged fruits."
+  },
+  "tags": [
+    "Oleaceae",
+    "Fraxinus",
+    "Texas ash",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b014",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 5,
+    "photo_files_present": 3,
+    "external_display_images_count": 2,
+    "last_visual_reviewed": "2026-10-11"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore photo additions are rights-limited CC BY-NC and botanical ID provisional.",
+  "images": [
+    {
+      "file": "images/fraxinus-albicans-provisional-face.jpg",
+      "role": "Whole tree / foliage habit recognizable face",
+      "creator": "Mason Brock",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fraxinus_albicans.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/pics/FRAL3-F9-samdet-28Aug-67x-10in.jpg",
+      "role": "PRIVATE STUDY — Central Texas Texas-ash samara wing/body detail",
+      "creator": "UT Austin Plant Resources Center / Bob Harms",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/FRAXI-CenTex.html",
+      "platform": "UT Austin Plant Resources Center",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Fraxinus albicans",
+      "diagnostic_visibility": "Local comparison macro illustrating the small body and terminal/slightly decurrent wing relationship."
+    },
+    {
+      "file": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/pics/F10-lfab-bend-28Aug-1x-5mm-10in.jpg",
+      "role": "PRIVATE STUDY — Central Texas lower leaflet surface showing glaucous white-reticulate wax",
+      "creator": "UT Austin Plant Resources Center / Bob Harms",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/FRAXI-CenTex.html",
+      "platform": "UT Austin Plant Resources Center",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Fraxinus albicans",
+      "diagnostic_visibility": "High-value underside macro for the characteristic dense white-reticulate wax."
+    },
+    {
+      "file": "images/joey-review034-c88742b98905147a.jpg",
+      "role": "Compound ash leaf with large mature terminal leaflet and side leaflets held for scale (source taxon determination provisional; fine structure not independently validated)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/524141032",
+      "source_observation": "https://www.inaturalist.org/observations/291320492",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524141032/large.jpg",
+      "source_determination": "Fraxinus albicans",
+      "photo_id": "524141032",
+      "observation_id": "291320492",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review034-1183faf29de96f5c.jpg",
+      "role": "Underside and arrangement of ash leaflets with venation on woody shoot (source taxon determination provisional; fine structure not independently validated)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/524141076",
+      "source_observation": "https://www.inaturalist.org/observations/291320492",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524141076/large.jpg",
+      "source_determination": "Fraxinus albicans",
+      "photo_id": "524141076",
+      "observation_id": "291320492",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "field_diagnostics": {
+    "single_best_trait": "On a fruiting female tree, the small ~1 cm samara body with a wing that is terminal or only slightly decurrent is the strongest cue.",
+    "fastest_traits": [
+      "Usually 5–7(–9) leaflets",
+      "Lower leaflet surface glaucous with dense white-reticulate wax",
+      "Samara body about 1 cm; wing only slightly decurrent on distal ~1/4",
+      "Leaf scar depressed-obovate with shallow concavity/notch above"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Fraxinus pennsylvanica",
+        "distinction": "Green ash has a larger >1.5 cm samara body with the wing running farther down the body; its lower leaflet surface is generally non-glaucous."
+      },
+      {
+        "taxon": "Fraxinus berlandieriana",
+        "distinction": "Mexican ash usually has fewer 3–5(–7) leaflets with coarse sharp distal serration and >1.5 cm samaras whose wings expand gradually from near the base."
+      }
+    ],
+    "unreliable_alone": [
+      "leaflet number",
+      "leaf-scar shape from one old/damaged scar",
+      "overall tree habit"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Mature samara with ruler showing ~1 cm body and terminal/slightly decurrent wing",
+    "Lower leaflet macro showing white-reticulate glaucous wax",
+    "Fresh winter leaf scar + bud, several examples",
+    "Whole mature 5–7 leaflet compound leaf with scale"
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "UT Austin Plant Resources Center",
+      "url": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/FRAXI-CenTex.html"
+    },
+    {
+      "source": "UT Austin Plant Resources Center — N. Hays County",
+      "url": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/Hays-ash.html"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "text-polished-local-study-samara-and-underside-present-public-matched-macros-open",
+    "reviewed": "2026-10-11"
+  },
+  "native_metrics_excluded": true
+}

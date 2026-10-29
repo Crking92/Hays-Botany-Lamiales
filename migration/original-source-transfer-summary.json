@@ -1,0 +1,25 @@
+{
+  "status": "ALL_ASSIGNED_FAMILY_ORIGINAL_FILES_BYTE_EXACT_PRIVATE",
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "source_commit": "515387cbc23b8bf8931141ead9c44c92a7793699",
+  "families": [
+    "Acanthaceae",
+    "Bignoniaceae",
+    "Lamiaceae",
+    "Lentibulariaceae",
+    "Martyniaceae",
+    "Oleaceae",
+    "Orobanchaceae",
+    "Paulowniaceae",
+    "Plantaginaceae",
+    "Scrophulariaceae",
+    "Verbenaceae"
+  ],
+  "species": 102,
+  "total_original_files": 582,
+  "original_text_files": 342,
+  "source_media_private_quarantine": 240,
+  "original_files_missing": 0,
+  "public_site_deployed": false,
+  "hub_unchanged": true
+}

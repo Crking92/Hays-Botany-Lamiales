@@ -1,0 +1,215 @@
+{
+  "id": "salvia-lyrata",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "species": "lyrata",
+  "scientific_name": "Salvia lyrata",
+  "authority": "L.",
+  "common_name": "Lyreleaf Sage",
+  "synonyms": [
+    "Cunila lyrata (L.) Schrank",
+    "Horminum lyratum (L.) Mill.",
+    "Salvia lyrata var. obovata Pursh"
+  ],
+  "taxonomic_note": "",
+  "field_group": "Rosetted herbaceous sage",
+  "look_here_first": "Look DOWN at the basal ROSETTE before checking flowers. Mature S. lyrata leaves are LYRATE: a larger rounded TERMINAL lobe toward the leaf tip and smaller paired LATERAL lobes closer to the stalk; some leaves vary from shallow to deeply cut. A mostly leafless square flowering stalk rises well above, bearing SMALL lavender-blue bilabiate flowers in widely spaced tiers. Cedar sage also forms a rosette, but often has separate 1–3 leaflets with long petioles and CRIMSON corollas. Do not rely on basal rosette alone.",
+  "project_tracker_diagnostic": "perennial basal rosette; lyrate/pinnatifid basal leaves; flowering stems rise well above rosette; small blue-lavender bilabiate flowers in spaced verticils; often in low moist/open woods, meadows, disturbed ground",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED INCLUSION",
+    "range_basis": "Hays — Wildflower Center printable Hays County native list / NPSOT Hill Country compilation. Travis — Travis County/Texas A&M Urban Programs treats Salvia lyrata as an Austin-area native plant; additional county-voucher confirmation is still desirable. Kew confirms the species is native in Texas, but a third explicit project-target county native occurrence has not yet been documented to the project standard.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-02",
+      "reason": "User explicitly approved canonical inclusion despite only two independently documented target-zone counties. Evidence status remains UNRESOLVED; no third county was invented."
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial basal rosette",
+      "lyrate/pinnatifid basal leaves",
+      "flowering stems rise well above rosette",
+      "small blue-lavender bilabiate flowers in spaced verticils",
+      "often in low moist/open woods, meadows, disturbed ground"
+    ],
+    "basal_leaf_structure": "Lyrate/pinnatifid basal leaves: broad rounded end (terminal) lobe and smaller side lobes, often separated by narrow sinus; leaf remains ONE continuous blade, not several detached leaflets.",
+    "flowering_axis": "Usually mostly leafless above rosette, tall unbranched or sparsely branched square stem with spaced verticils of pale blue/lavender two-lipped flowers.",
+    "habit": "Herbaceous perennial with flat basal rosette, unlike woody branching greggii/ballotiflora; green or purplish winter rosettes may persist.",
+    "lookalike_cedar": "Cedar sage also low rosette, but broad petiolate leaves can be 1–3 FOLIOLATE (separate lateral leaflets), and crimson flowers in woodland shade; lyreleaf has a lyrately LOBED single blade and pale blue flowers. Leaf shape/calyx support identification.",
+    "leaf_variation": "Entire to shallowly lobed leaves and purple-stained cultivated forms occur; don't claim every plant has deeply cut lobes."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia roemeriana"
+    ],
+    "key_distinctions": "Salvia roemeriana: Both can form basal rosettes. Lyreleaf sage has the characteristic deeply lyre-shaped rosette and small blue-lavender flowers; cedar sage has broader cordate/lyrate leaves and red flowers in shaded juniper habitat."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Salvia",
+    "Lyreleaf Sage",
+    "Central Texas",
+    "Genus comparison"
+  ],
+  "curation_status": {
+    "version": "2.5-lyreleaf-rosette-photo-first",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "last_visual_reviewed": "2026-10-13",
+    "visual_status": "3 verified-license exact additional photos staged, including Texas lyre-shaped basal rosette and two nonlocal flower detail references; precise arrow pass deferred.",
+    "range_status_preserved": true
+  },
+  "images": [
+    {
+      "file": "images/01-rosette-flowering-habit.jpg",
+      "role": "Rosette / flowering stalk habit",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-texas-winter-rosette.jpg",
+      "role": "Anderson County Texas basal winter rosette for lyrate terminal and side lobe learning",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata_-_rosette.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/03-lower-flower-lip.jpg",
+      "role": "Lower corolla lip in flower, Florida exact species",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata_lower_corolla_lip.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/04-inflorescence-whorls.jpg",
+      "role": "Flowering axis with spaced floral whorls, Florida",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata_inflorescence_and_blurred_background.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    }
+  ],
+  "photo_diagnostic_lesson": {
+    "group": "Standalone lyreleaf sage plus cedar sage comparison",
+    "look_here_first": "Start at the winter leaf: does one leaf blade have a larger rounded end lobe and smaller side lobes? That is LYRATE. Don't confuse lobes cut into one blade with cedar sage's occasionally separated leaflets.",
+    "key": [
+      {
+        "step": 1,
+        "look": "Whole basal rosette",
+        "lyrata": "Flat rosette of often lobed leaves spreading on soil",
+        "lookalike": "Cedar sage also rosetted — not decisive alone",
+        "photo_role": "overhead rosette"
+      },
+      {
+        "step": 2,
+        "look": "One leaf laid flat",
+        "lyrata": "Single broad terminal lobe and smaller lateral lobes joined to common lamina",
+        "lookalike": "Cedar sage can have separate side leaflets on a rachis",
+        "photo_role": "rosette/leaf detail, labels only on actual contours"
+      },
+      {
+        "step": 3,
+        "look": "Upper flowering stem",
+        "lyrata": "Long relatively leafless axis with spaced flower clusters",
+        "lookalike": "Cedar flowering stalk may also be raised; use flower shape/color plus leaves",
+        "photo_role": "flowering axis"
+      },
+      {
+        "step": 4,
+        "look": "Flower lip",
+        "lyrata": "Small lavender-blue two-lipped corolla, lower lip spread",
+        "lookalike": "Cedar typically crimson tubular flower",
+        "photo_role": "corolla side/front"
+      },
+      {
+        "step": 5,
+        "look": "Seasonal / color",
+        "lyrata": "Purplish leaves are possible in cold/winter or cultivars, not species-diagnostic",
+        "lookalike": "Do not ID from purple winter color or lawn habitat alone",
+        "photo_role": "winter rosette"
+      }
+    ],
+    "mini_glossary": {
+      "lyrate": "LYE-rate — broad rounded tip lobe with smaller side lobes, like a lyre outline",
+      "lobe": "Part of a SINGLE leaf blade separated by indentations, not a separate leaf",
+      "leaflet": "A SEPARATE blade of a compound leaf, attached to petiole or rachis",
+      "sinus": "An inward notch between lobes",
+      "rosette": "A low circular cluster of leaves at the crown",
+      "verticil": "Flowers that appear grouped around a stem at one level",
+      "bilabiate": "A two-lipped flower with distinct upper and lower lips"
+    },
+    "memory_rule": "LYRELEAF = ONE LOBED blade, LAVENDER flowers, LEAFLESS stalk; CEDAR = possible separate leaflets, CRIMSON flowers.",
+    "photo_qa": "No arrows until actual lobe/notch location is visible at original pixels and images correctly identify same plant; leaf outline can be variable."
+  },
+  "visual_comparison": {
+    "title": "Lyreleaf sage: the rosette and the shape of ONE leaf",
+    "subtitle": "Four exact-species photos. Texas winter rosette teaches lobes; Florida flower studies teach lower lip and tiered blooms. Hays range label remains unresolved.",
+    "items": [
+      {
+        "label": "WHOLE ROSETTE + FLOWERING STALK",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-lyrata/images/01-rosette-flowering-habit.jpg",
+        "caption": "Existing study photo: relate entire basal leaf rosette to the upright flowering stalk. Exact species, source locality from record, don't assume Hays provenance.",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata.jpg",
+        "markers": []
+      },
+      {
+        "label": "TEXAS WINTER ROSETTE · TERMINAL + SIDE LOBES",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-lyrata/images/02-texas-winter-rosette.jpg",
+        "caption": "Anderson County Texas, December 2021. Study single lyrate LEAF: one broad rounded terminal lobe and smaller paired side lobes attached to one blade. Compare Cedar sage optional separate leaflets.",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata_-_rosette.jpg",
+        "markers": []
+      },
+      {
+        "label": "SMALL LAVENDER FLOWER · LOWER LIP",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-lyrata/images/03-lower-flower-lip.jpg",
+        "caption": "Exact wild S. lyrata from Florida, lower purple-lavender corolla lip. Flower part not a local Texas population certificate.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata_lower_corolla_lip.jpg",
+        "markers": []
+      },
+      {
+        "label": "SPACED WHORLS · FLOWERING STEM",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-lyrata/images/04-inflorescence-whorls.jpg",
+        "caption": "Flowering stem of S. lyrata showing spaced pale-blue flowers; support the 'rosette below, mostly leafless axis above' recognition.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata_inflorescence_and_blurred_background.jpg",
+        "markers": []
+      }
+    ],
+    "annotation_status": "High-level caption first; exact arrows to terminal lobe, lateral lobe, sinus and lower corolla lip only after pixel QA."
+  },
+  "diagnostic_photo_targets": [
+    "Top down photo of a Hays-area unplanted wild S. lyrata basal rosette in autumn/winter",
+    "Macro of one full leaf with clearly marked TERMINAL lobe, 1+ LATERAL lobes, and SINUSES; plant/scale in shot",
+    "Same scale leaf against cedar sage 1-3 foliolate leaf — lobe versus leaflet",
+    "Flower/calyx front plus side macro with actual label arrows",
+    "Complete rosette and flowering stem together with scale"
+  ]
+}

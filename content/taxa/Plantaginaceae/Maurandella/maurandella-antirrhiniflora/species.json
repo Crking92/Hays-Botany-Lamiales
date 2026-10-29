@@ -1,0 +1,95 @@
+{
+  "id": "maurandella-antirrhiniflora",
+  "entry_type": "species",
+  "family": "Plantaginaceae",
+  "genus": "Maurandella",
+  "species": "antirrhiniflora",
+  "scientific_name": "Maurandella antirrhiniflora",
+  "common_name": "Snapdragon vine",
+  "look_here_first": "Look for twining stems, triangular to heart-shaped leaves, and tubular snapdragon-like flowers; check flower and leaf details before distinguishing related vines.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "morphology_reviewed": false,
+    "visual_reviewed": false,
+    "user_approved": true,
+    "visual_status": "provisional_one_photo_pending_diagnostic_review",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_012": "2026-10-16"
+  },
+  "project_inclusion": {
+    "range_status": "deferred",
+    "source": "approved Master Plant Pool"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "images/inat-560925211.jpg",
+      "role": "Provisional recognition/whole plant photo — diagnostic review pending",
+      "creator": "Calvin King",
+      "license": "All rights reserved — owner-authorized private study",
+      "source_page": "https://www.inaturalist.org/photos/560925211",
+      "study_use": "private only",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/library-review012-a52ce5496be0c64.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Purple snapdragon-shaped corolla plus small angular foliage and vine architecture",
+      "creator": "sagebrush134",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5938134988",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604817907/original.jpg",
+      "source_determination": "Maurandella antirrhiniflora",
+      "source_observation_id": "5938134988",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/maurandella-antirrhiniflora/gbif-8447614bc6a624.jpg",
+      "archive_image_sha256": "07d3cf2dd481fa10bdc0d2b2e332093922ffd813f0342458bb6ee4d817437837",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review012-d88edc5ddc376f7.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Purple snapdragon-shaped corolla plus small angular foliage and vine architecture",
+      "creator": "Chris Hughes",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5938313687",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604916200/original.jpg",
+      "source_determination": "Maurandella antirrhiniflora",
+      "source_observation_id": "5938313687",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/maurandella-antirrhiniflora/gbif-61668a6205bbf9.jpg",
+      "archive_image_sha256": "77a55d0e9138a0b798363623b0e62e7d918c00d916a4b3275f8bb18db4213d23",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-15",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,9 @@
+Source-pool Phase3 accepted/preflight concept Tecoma stans; reference row(s) 1153
+Accepted-name query: https://powo.science.kew.org/results?q=Tecoma%20stans
+Photograph original: https://commons.wikimedia.org/wiki/File:Tecoma_stans.jpg
+Image direct Commons redirect: https://commons.wikimedia.org/wiki/Special:Redirect/file/Tecoma%20stans.jpg
+Photographer: Incolam
+Individual file license: CC BY-SA 3.0
+Photo role: Provisional flowering yellowbells recognition; pod structure and compound leaflets require closer views.
+Caution: Argentina photograph; do not assert Hays County nativity or garden/seed provenance based on this image.
+Original Commons page licensing checked before staging. One visual provisional learner only; no Hays or target-county nativity assertion.

@@ -1,0 +1,121 @@
+{
+  "id": "physostegia-correllii",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Physostegia",
+  "species": "correllii",
+  "scientific_name": "Physostegia correllii",
+  "authority": "(Lundell) Shinners",
+  "common_name": "Correll's false dragonhead",
+  "look_here_first": "Think tall wetland obedient-plant: a rhizomatous perennial often over 1 m tall, with opposite narrow leaves and a long spike of pink-purple bilabiate flowers in saturated stream-edge or drainage habitat.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Bexar",
+    "Gillespie"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — extant Lady Bird Lake / Austin populations documented by USFWS and recent survey work. Bexar — historical native Texas record documented in USGS/TPWD conservation literature. Gillespie — historical native record documented in Texas conservation literature, now considered extirpated.",
+    "range_guardrail": "Historical/extirpated records may establish native county occurrence; cultivated records do not."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous perennial",
+      "often 1 m or taller",
+      "square mint-family stems",
+      "opposite narrow lanceolate leaves",
+      "elongated terminal spike of pink-purple bilabiate flowers",
+      "flowers borne in repeated verticillaster-like clusters",
+      "streambank, ditch, spring, river-edge and saturated sediment habitat"
+    ],
+    "comparison_training": "Compared with the broad Physostegia virginiana complex, P. correllii is a rare southern wetland specialist with strong stream-edge affiliation and a tall, rhizomatous habit."
+  },
+  "curation_status": {
+    "version": "1.0-b095",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "manual_library_install_011": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/436494/large.jpg",
+      "role": "Flowering spike / pink-purple tubular flowers",
+      "creator": "Cullen Hanks",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/guides/14344",
+      "inaturalist_photo_id": 436494,
+      "source_type": "iNaturalist open data via Wildlife and Wildflowers of Texas guide",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "note": "Exact-species image credited by the iNaturalist guide to Cullen Hanks under CC BY-NC. Observation ID was not exposed by the guide retrieval path."
+    },
+    {
+      "file": "images/library-review011-ba28ef1721d5f47.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Opposite narrow leaves and flower cluster plus distinct corolla closeup",
+      "creator": "Reid Hardin",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4925954387",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405214068/original.jpeg",
+      "source_determination": "Physostegia correllii",
+      "source_observation_id": "4925954387",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/physostegia-correllii/gbif-0c25061bb08ded.jpg",
+      "archive_image_sha256": "921cd6cd660ca428610d42f7b212ecc1683fff51f871e861694dc8d55c5f8753",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review011-ebe147d8c6a52d8.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Opposite narrow leaves and flower cluster plus distinct corolla closeup",
+      "creator": "Reid Hardin",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4925954387",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405214384/original.jpeg",
+      "source_determination": "Physostegia correllii",
+      "source_observation_id": "4925954387",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/physostegia-correllii/gbif-04ac2433605fd8.jpg",
+      "archive_image_sha256": "c74c90a7f140a42d006f19aa46221b6454761ee71bea8d4296ddf360e1218ee4",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Presentation fast-fill only; settled PASS taxonomy/range status is unchanged. One exact-species CC BY-NC flowering reference is installed; additional habit/leaf/rhizome views remain a later source-limited upgrade."
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

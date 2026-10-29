@@ -1,0 +1,19 @@
+PHOTO FAST-FILL 059 — Justicia pilosella
+Source checked: 2026-10-12
+Page: https://commons.wikimedia.org/wiki/File:Justicia_pilosella.jpg
+960px direct file: https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FJusticia_pilosella.jpg&width=960
+Creator: Casey Cowan, iNaturalist user seekingtrees
+License: CC0 1.0
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Study use: yes
+Public reuse: cc0
+Image role and limits: Gregg's tube-tongue habit and flower from Bexar County, Texas; node and fruit macros remain later polish.
+Provenance: iNaturalist observation 45789171 and photo 72621224 photographed 2020-05-13 at 29.416836,-98.715820, iNaturalistReviewBot confirmed CC0; Commons structured metadata names Casey Cowan.
+Scientific/native-range/HOLD statuses preserved.
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 491856212 https://www.inaturalist.org/photos/491856212 | 273477324 | images/glass-root-garden-491856212-flower-and-opposite-leaves.jpg
+- 647336904 https://www.inaturalist.org/photos/647336904 | 354880186 | images/glass-root-garden-647336904-flower-side-and-leaves.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

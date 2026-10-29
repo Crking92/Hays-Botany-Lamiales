@@ -1,0 +1,84 @@
+{
+  "id": "castilleja-indivisa",
+  "entry_type": "species",
+  "family": "Orobanchaceae",
+  "genus": "Castilleja",
+  "species": "indivisa",
+  "scientific_name": "Castilleja indivisa",
+  "authority": "Engelm.",
+  "common_name": "Texas Paintbrush",
+  "taxonomic_note": "Current Kew accepted species concept.",
+  "look_here_first": "Start with life cycle and the bracts. Texas paintbrush is an annual, usually with bright red to orange-red showy bracts and a more compact spring-flowering habit than the perennial prairie paintbrushes.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Hays"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Exact target-zone county documentation: Travis, Williamson, Hays.",
+    "range_guardrail": "No inferred counties."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual hemiparasitic herb",
+      "usually unbranched to few-branched",
+      "alternate narrow leaves",
+      "upper leaves/bracts brightly red to orange-red",
+      "terminal dense flower spike",
+      "showy color comes mainly from bracts rather than petals",
+      "spring-flowering"
+    ],
+    "comparison_training": "C. purpurea and C. lindheimeri are perennial. C. indivisa is the annual Texas paintbrush and usually looks more compact and uniformly scarlet-red."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Castilleja indivisa",
+      "Castilleja purpurea",
+      "Castilleja lindheimeri"
+    ],
+    "key_distinctions": "C. purpurea and C. lindheimeri are perennial. C. indivisa is the annual Texas paintbrush and usually looks more compact and uniformly scarlet-red."
+  },
+  "curation_status": {
+    "version": "1.0-b054",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "images": [
+    {
+      "file": "images/01-flowering-stems-habit.jpg",
+      "role": "Several whole flowering stems showing compact annual habit and red bracts",
+      "creator": "CameliaTWU",
+      "license": "CC BY-NC-SA",
+      "source_page": "https://www.inaturalist.org/photos/82571",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-flowering-spike-bracts-corolla.jpg",
+      "role": "Flowering spike with red bracts and projecting pale corolla",
+      "creator": "Judith Ellen Lopez",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/314503",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-bract-flower-closeup.jpg",
+      "role": "Close view of red bracts and flower structure",
+      "creator": "Roberto R. Calderón",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/2999074",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

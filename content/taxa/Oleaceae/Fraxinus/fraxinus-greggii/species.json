@@ -1,0 +1,214 @@
+{
+  "id": "fraxinus-greggii",
+  "entry_type": "species",
+  "family": "Oleaceae",
+  "genus": "Fraxinus",
+  "species": "greggii",
+  "scientific_name": "Fraxinus greggii",
+  "authority": "A.Gray",
+  "common_name": "Gregg's ash",
+  "synonyms": [],
+  "taxonomic_note": "Accepted species; accepted varieties remain background taxonomy while the learner stays species-level.",
+  "look_here_first": "Start with habit and leaflet size: a xeric shrub or small tree with tiny leathery, often nearly evergreen leaflets—commonly only three per leaf.",
+  "county_occurrences_target_zone": [
+    "Bandera"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Bandera is the qualifying target-zone county retained by the latest review. Val Verde is documented but outside the project target list. Uvalde remains a lead, not locked evidence.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner inclusion is independent from native-range certification."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "xeric shrub or small tree",
+      "opposite pinnately compound leaves",
+      "commonly 3 small leathery glossy leaflets",
+      "evergreen or semi-evergreen tendency",
+      "rocky limestone slopes and dry washes",
+      "winged samaras"
+    ],
+    "comparison_training": "Much smaller and more xeric than Texas or Mexican ash; tiny coriaceous leaflets are the fastest field cue."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Fraxinus albicans",
+      "Fraxinus berlandieriana",
+      "Forestiera spp."
+    ],
+    "key_distinctions": "Tiny leathery compound leaflets plus xeric shrub habit; Fraxinus has samaras rather than drupes."
+  },
+  "tags": [
+    "Oleaceae",
+    "Fraxinus",
+    "Gregg's ash",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-correction-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 4,
+    "external_display_images_count": 2,
+    "last_visual_reviewed": "2026-10-11",
+    "photo_files_present": 2,
+    "manual_library_install_014": "2026-10-16"
+  },
+  "diagnostic_image_needs": [
+    "whole xeric habit",
+    "small compound leaf",
+    "leaflet surfaces",
+    "twig/buds",
+    "samara cluster",
+    "habitat"
+  ],
+  "photo_note": "Exact diagnostic imagery remains later enrichment. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "field_diagnostics": {
+    "single_best_trait": "Tiny thick leathery compound leaflets on a xeric shrub/small tree — a very different gestalt from the larger riparian/woodland ashes.",
+    "fastest_traits": [
+      "Shrub or small tree rather than a large bottomland ash",
+      "Leaves commonly 3 leaflets, up to 7",
+      "Leaflets very small, thick/coriaceous and often glossy",
+      "Semi-evergreen / drought-deciduous tendency",
+      "Rocky limestone slopes, canyons and dry washes",
+      "Fraxinus confirmation from winged samaras rather than Forestiera-type drupes"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Fraxinus albicans",
+        "distinction": "Texas ash is a larger deciduous tree with larger 5–7 leaflets and a glaucous white-reticulate underside."
+      },
+      {
+        "taxon": "Fraxinus berlandieriana",
+        "distinction": "Mexican ash is a larger riparian/bottomland tree with 3–5(–7) larger sharply serrate leaflets and distinctive larger samaras."
+      },
+      {
+        "taxon": "Forestiera spp.",
+        "distinction": "Forestiera has simple leaves and fleshy drupes; Fraxinus has pinnately compound leaves and samaras."
+      }
+    ],
+    "unreliable_alone": [
+      "dry habitat",
+      "three leaflets without confirming compound-leaf architecture",
+      "small stature on a young tree"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Whole xeric shrub/small-tree habit in rocky habitat",
+    "Whole compound leaf with ruler showing 3–7 tiny leaflets",
+    "Close leaflet surface/texture showing coriaceous quality",
+    "Opposite twig + buds",
+    "Samara cluster with scale"
+  ],
+  "images": [
+    {
+      "file": "https://gardenoracle.com/images/assets-images/fraxinus-greggii-leaves2.jpg",
+      "role": "PRIVATE STUDY — close foliage view showing small leathery compound leaflets",
+      "creator": "GardenOracle source photographer",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://gardenoracle.com/images/fraxinus-greggii.html",
+      "platform": "GardenOracle",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Fraxinus greggii",
+      "diagnostic_visibility": "Useful close view of the small compound foliage and leaflet texture; not cleared for public redistribution."
+    },
+    {
+      "file": "https://elpasodesertblooms.org/PlantMaster/Photos/11232b.jpg",
+      "role": "PRIVATE STUDY — whole xeric small-tree habit in desert landscape",
+      "creator": "El Paso Desert Blooms source photographer",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://elpasodesertblooms.org/eplant.php?letter=b&plantnum=11232&return=d1",
+      "platform": "El Paso Desert Blooms",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Fraxinus greggii",
+      "diagnostic_visibility": "Whole-plant habit useful for teaching the small xeric ash gestalt."
+    },
+    {
+      "file": "images/library-review014-02451477c458e55.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Small leathery leaflets on twigs plus desert shrub habit",
+      "creator": "Clifton Ladd, C.W.B.",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6131183666",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608144409/original.jpg",
+      "source_determination": "Fraxinus greggii",
+      "source_observation_id": "6131183666",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/fraxinus-greggii/gbif-a6f336bb7a3c7a.jpg",
+      "archive_image_sha256": "226b69c1654241fc0aab4f5c288c51d5482c4e1faf6dd4b8c389dcc874c4cefd",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review014-48cbe17ba078d3b.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Small leathery leaflets on twigs plus desert shrub habit",
+      "creator": "Clifton Ladd, C.W.B.",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6131183666",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608144411/original.jpg",
+      "source_determination": "Fraxinus greggii",
+      "source_observation_id": "6131183666",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/fraxinus-greggii/gbif-8502e0bc1c4996.jpg",
+      "archive_image_sha256": "e168e98d22789b2ee294efffca136f0249f5e8cb424366b170011a5d8bdd4dc5",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "diagnostic_reference_links": [
+    {
+      "source_page": "https://gardenoracle.com/images/fraxinus-greggii.html",
+      "role": "Foliage, flowers, trunk and habit source pool",
+      "public_reuse": "not verified"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "text-polished-private-study-foliage-and-habit-present-public-samara-gallery-open",
+    "reviewed": "2026-10-11"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "diagnostic-polish",
+    "image_count": 2,
+    "note": "Private-study exact-species foliage/habit now available; rights-cleared public samara and twig/bud images remain priority."
+  }
+}

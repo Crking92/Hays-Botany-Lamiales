@@ -1,0 +1,215 @@
+{
+  "rank": "genus",
+  "family": "Lamiaceae",
+  "name": "Scutellaria",
+  "authority": "L.",
+  "common_group": "Skullcaps",
+  "project_scope": {
+    "selection_mode": "B041 canonical anchors + B153 strict-review handoff",
+    "canonical_species_ids": [
+      "scutellaria-drummondii",
+      "scutellaria-wrightii"
+    ],
+    "pending_strict_review": [
+      "scutellaria-ovata"
+    ],
+    "source_concept_count": 3,
+    "note": "S. drummondii and S. wrightii are installed PASS anchors. S. ovata remains a true open strict-review task and is not installed."
+  },
+  "source_concept_status": [
+    {
+      "id": "scutellaria-drummondii",
+      "scientific_name": "Scutellaria drummondii",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "scutellaria-ovata",
+      "scientific_name": "Scutellaria ovata",
+      "status": "PENDING_STRICT_DEEP_REVIEW"
+    },
+    {
+      "id": "scutellaria-wrightii",
+      "scientific_name": "Scutellaria wrightii",
+      "status": "CANONICAL_PASS"
+    }
+  ],
+  "study_strategy": {
+    "priority": [
+      "annual versus perennial/rhizomatous habit",
+      "leaf size, shape, and tip",
+      "leaf margin",
+      "visible glandular hairs",
+      "pedicel length",
+      "corolla size",
+      "visorlike scutellum on the calyx"
+    ],
+    "warning": "Do not identify skullcaps from blue-violet flower color alone. Start with life history and leaf architecture, then use hairiness and flower scale."
+  },
+  "quick_key": [
+    {
+      "if": "small annual, acute leaves, visible glandular hairs, very short pedicels and small blue-violet corollas",
+      "then": "Scutellaria drummondii — canonical PASS"
+    },
+    {
+      "if": "low bushy perennial, rounded/obtuse entire leaves, minute pubescence, longer pedicels and larger corollas",
+      "then": "Scutellaria wrightii — canonical PASS"
+    },
+    {
+      "if": "much taller rhizomatous plant with larger triangular-ovate crenate leaves and very large corollas",
+      "then": "Scutellaria ovata — morphology comparison only until strict review is complete"
+    }
+  ],
+  "curation_status": {
+    "version": "2.0-photo-first-calyx-shield-lesson",
+    "genus_audit": "partial_pending_scutellaria_ovata_review",
+    "source_concepts_reconciled": true,
+    "last_reviewed": "2026-10-14",
+    "existing_physical_images": 3,
+    "external_wrightii_references": 2,
+    "new_image_binaries": 0,
+    "status_conflict_flagged": true,
+    "verified_arrow_targets": 0,
+    "photo_source_verification": "2026-10-14",
+    "wrightii_binary_installed": false
+  },
+  "look_here_first": "FIRST find the SKULLCAP on a flower's CALYX: a small shieldlike projection (SCUTELLUM) rising from the upper calyx lip; it is not a petal. Photograph the flower from SIDE to show the projection and tubular two-lipped corolla. SECOND follow the flower stem down: an annual with acute leaves, short flower stalks and tiny corollas suggests S. drummondii; a compact bushy perennial with small round-ended entire leaves suggests S. wrightii; a much taller rhizomatous plant with broad scallop-edged triangular leaves suggests S. ovata. Check flower size with scale rather than blue-purple color.",
+  "shared_genus_pattern": {
+    "look_for": [
+      "Opposite leaves on typically four-angled stems",
+      "Bilaterally symmetrical tubular two-lipped corolla",
+      "Two-lipped calyx with a conspicuous shieldlike SCUTELLUM projection on its upper surface",
+      "Four nutlets typical of the mint family, requiring mature reproductive material"
+    ],
+    "glossary": "SCUTELLUM = shieldlike raised appendage on upper calyx of skullcaps; CALYX = sepals surrounding base of flower; COROLLA = petals forming the colorful tube/lips; PEDICEL = stalk of one individual flower; CRENATE = rounded scalloped leaf teeth; RHIZOMATOUS = spreading by underground stems; PUBERULENT = covered with minute soft hairs; GLANDULAR HAIRS = hairs tipped with small secretory heads.",
+    "caution": "The shield is a genus-recognition cue, not a species character by itself. A front-on flower photo often hides it; use a side view."
+  },
+  "comparison_matrix": [
+    {
+      "character": "life cycle and overall habit",
+      "drummondii": "small annual, taprooted, often 15–30 cm",
+      "wrightii": "low compact perennial, many stems, often 10–20 cm",
+      "ovata": "taller rhizomatous perennial, often 35–70 cm",
+      "weight": "strong first split"
+    },
+    {
+      "character": "leaf tip and edge",
+      "drummondii": "ovate, acute tips; lower leaves shallowly crenate, upper near-entire",
+      "wrightii": "smaller ovate/elliptic leaves with rounded ends, margins usually entire",
+      "ovata": "larger triangular-ovate leaves, often truncate to cordate bases, rounded crenate teeth",
+      "weight": "strong field feature"
+    },
+    {
+      "character": "flower / corolla length",
+      "drummondii": "~5.5–10 mm",
+      "wrightii": "~13–18 mm",
+      "ovata": "~21–25 mm",
+      "weight": "measure mature flower; useful scale comparison"
+    },
+    {
+      "character": "flower pedicel length",
+      "drummondii": "~1–1.2 mm",
+      "wrightii": "~3–3.5 mm",
+      "ovata": "regional measurements need further strict-review check",
+      "weight": "supporting character"
+    },
+    {
+      "character": "stem and calyx hairs",
+      "drummondii": "conspicuous short glandular hairs",
+      "wrightii": "minute puberulence; smoother appearance",
+      "ovata": "macro not yet checked",
+      "weight": "need macro photos"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Skullcaps: find the shield on the calyx",
+    "teaching_order": "whole plant → opposing leaves and four-angled stem → calyx SIDE VIEW and scutellum → leaf shapes → flower scale → mature nutlets",
+    "physically_installed": [
+      {
+        "taxon_id": "scutellaria-drummondii",
+        "image_url": "content/taxa/Lamiaceae/Scutellaria/scutellaria-drummondii/images/scutellaria-drummondii_habit-source-label_01-25.jpg",
+        "role": "rocky habitat and small annual habit; not calyx macro",
+        "creator": "Joey Santore",
+        "license": "Private study only; public reuse not cleared",
+        "public_reuse": false
+      },
+      {
+        "taxon_id": "scutellaria-drummondii",
+        "image_url": "content/taxa/Lamiaceae/Scutellaria/scutellaria-drummondii/images/scutellaria-drummondii_zygomorphic-flower-source-label_01-56.jpg",
+        "role": "blue bilateral flower and opposite leaves; exact scutellum not verified",
+        "creator": "Joey Santore",
+        "license": "Private study only; public reuse not cleared",
+        "public_reuse": false
+      },
+      {
+        "taxon_id": "scutellaria-ovata",
+        "image_url": "content/taxa/Lamiaceae/Scutellaria/scutellaria-ovata/images/scutellaria-ovata-provisional-face.jpg",
+        "role": "tall flowering plant recognizable face; anatomy not pixel verified",
+        "creator": "Mason Brock",
+        "license": "Public domain",
+        "public_reuse": true
+      }
+    ],
+    "external_references": [
+      {
+        "taxon_id": "scutellaria-wrightii",
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Scutellaria%20wrightii%20120531127.jpg",
+        "role": "compact bushy habit",
+        "license": "CC BY 4.0",
+        "creator": "Michelle W."
+      },
+      {
+        "taxon_id": "scutellaria-wrightii",
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Scutellaria%20wrightii%20119930113.jpg",
+        "role": "flower and small entire leaves",
+        "license": "CC BY 4.0",
+        "creator": "Michelle W."
+      }
+    ],
+    "warning": "Do not claim external images are physically installed; do not add scutellum arrow until a pixel-verified true side-view macro is available."
+  },
+  "specialist_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "close calyx SIDE VIEW for each species",
+      "goal": "mark upper calyx scutellum, lower calyx lip and true corolla separately"
+    },
+    {
+      "priority": 1,
+      "role": "rights-cleared installed S. wrightii habit plus flower",
+      "goal": "small entire round-tipped leaves, compact perennial plant, scale"
+    },
+    {
+      "priority": 1,
+      "role": "matched leaf trio",
+      "goal": "acute drummondii versus rounded wrightii versus large crenate ovata"
+    },
+    {
+      "priority": 2,
+      "role": "flower millimeter scale",
+      "goal": "compare 5.5–10, 13–18, 21–25 mm corolla lengths"
+    },
+    {
+      "priority": 2,
+      "role": "glandular hair and four-nutlet macros",
+      "goal": "avoid assigning hairs/fruit not resolved in existing images"
+    }
+  ],
+  "status_reconciliation": {
+    "issue": "Genus source list says S. ovata PENDING_STRICT_DEEP_REVIEW, whereas canonical species.json contains a PASS with three target-county records.",
+    "action": "Keep both original source status records unchanged until approval/workflow state is reconciled; do not create duplicate taxon or silently change range/admission status.",
+    "last_checked": "2026-10-14",
+    "display_rule": "The canonical species.json for S. ovata currently says target_zone_status PASS; the genus B153 strict-review queue remains open. Show these as separate dimensions: species range PASS (recorded) and strict taxonomic/media review pending. Avoid labeling species simply uninstalled or without range evidence.",
+    "status_not_modified": true
+  },
+  "photo_link_handoff": {
+    "taxon_id": "scutellaria-wrightii",
+    "verified_external_license": "CC BY 4.0",
+    "credit": "Michelle W. （鍾偉瑋）",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_image_page": "https://commons.wikimedia.org/wiki/File:Scutellaria_wrightii_120531127.jpg",
+    "original_photo_page": "https://www.inaturalist.org/photos/120531127",
+    "recommended_photo_role": "whole flowering habit / branch structure",
+    "status": "REMOTE_SOURCE_VERIFIED_NOT_INSTALLED",
+    "next_step": "Acquire actual binary and commit local image via a binary-capable upload process; preserve author, license and original URL. No placeholder image path or invented arrows."
+  }
+}

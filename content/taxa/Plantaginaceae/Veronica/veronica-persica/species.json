@@ -1,0 +1,37 @@
+{
+  "id": "veronica-persica",
+  "family": "Plantaginaceae",
+  "genus": "Veronica",
+  "species": "persica",
+  "scientific_name": "Veronica persica",
+  "common_name": "Persian speedwell (introduced)",
+  "look_here_first": "Look for low creeping spring weed with opposite lower leaves and blue four-lobed flowers, the lower lobe often smaller; inspect flower stalks, leaves and heart-shaped capsules.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Veronica%20persica",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Introduced spring weed and field comparison only, not native planting material.",
+  "images": [
+    {
+      "file": "images/commons-veronica-persica.jpg",
+      "role": "Provisional small four-lobed blue speedwell flower and leaves recognition",
+      "creator": "Trachemys",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Veronica_persica_(01).jpg",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Maintain author, source photo and original CC license attribution"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

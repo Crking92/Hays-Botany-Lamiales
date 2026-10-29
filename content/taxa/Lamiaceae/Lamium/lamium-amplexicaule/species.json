@@ -1,0 +1,511 @@
+{
+  "id": "lamium-amplexicaule",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Lamium",
+  "species": "amplexicaule",
+  "scientific_name": "Lamium amplexicaule",
+  "authority": "L.",
+  "common_name": "Henbit",
+  "look_here_first": "LOOK HERE FIRST — HENBIT: a cool-season ANNUAL mint with squarish/4-angled stems and OPPOSITE leaf pairs. The LOWER leaves have stalks (petioles). HIGHER flowering leaves are ROUND/KIDNEY- to FAN-SHAPED, COARSELY SCALLOPED and SESSILE, forming a CLASPING COLLAR around the stem. PINK-PURPLE LONG TUBES with a HOODED UPPER LIP rise in clustered WHORLS at upper leaf nodes. This leaf stalk transition is the best split from L. purpureum (purple deadnettle), whose upper leaves remain stalked and tend to be more triangular/pointed and often purplish. Glechoma hederacea (ground ivy) is a perennial creeping stolon-former with stalked round leaves; it is NOT henbit.",
+  "taxonomy_notes": "POWO accepted species. Do not make separate cards for its synonyms.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 614",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "native_metrics_excluded": true,
+    "notes": "Introduced encounter species; no invasive claim."
+  },
+  "morphology_keys": {
+    "habit": "Winter annual in Central Texas, typically low/sprawling and 10–40 cm tall; bases can branch or root where stems touch moist soil. Flowers mainly in cooler weather and spring. Not a perennial spreader.",
+    "root": "Shallow branching/fibrous or short-taproot system; roots and node-rooting not visible in current two installed photos.",
+    "stem": "Square/four-angled stem, often green to reddish purple, sparingly hairy; inspect the CROSS SECTION with fingertips or angled macro, not proven by a frontal photo.",
+    "leaves_arrangement": "Opposite at each node; lower pairs with petioles and upper pairs sessile/clasping. IMPORTANT: upper whorls can look like one continuous green collar when seen from above.",
+    "upper_leaf": "Upper leafy bracts 5–18 mm, round to kidney/fan-shaped, crenate/coarsely lobed, lack a distinct petiole and partly surround the flowering stem (amplexicaul = stem embracing).",
+    "lower_leaf": "Lower leaves rounded/heart-shaped with a PETIOLE (small leaf stalk). Scalloped blunt lobes, prominent palmately spreading veins.",
+    "flowers": "Axillary verticillasters (false whorls) among opposite upper leaves; pink-to-purple bilabiate corolla about 10–20 mm, noticeably elongated slender tube and hairy arched upper lip; lower lip with spots and lobes.",
+    "calyx": "Five-toothed tubular green calyx persists after the corolla falls. Individual calyx teeth are not scored in currently installed pictures.",
+    "fruits": "Schizocarp splitting into FOUR small nutlets, initially enclosed by the persistent calyx. Need genuine mature nutlet/dissected calyx macro with mm rule.",
+    "seasonal": "In Hays County, often germinates in fall and flowers in winter/spring when moisture is available; can appear elsewhere in cooler damp seasons. Timing is supportive, not species-proof."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Lamium purpureum (purple deadnettle)",
+      "Glechoma hederacea (ground ivy / creeping Charlie)",
+      "Lamium spp. unfamiliar introduced deadnettles",
+      "Other Lamiaceae with opposite leaves and bilabiate flowers"
+    ],
+    "key_distinctions": "Henbit has opposite rounded/lobed upper leaves joined DIRECTLY to stem (sessile/amplexicaul); purple deadnettle has stalked pointed upper leaves often tinted purple. Ground ivy is a creeping rooted PERENNIAL with stalked leaves at flowering nodes. Square stem, two-lipped flowers and opposite leaves alone mostly establish mint family, NOT henbit species.",
+    "field_matrix": [
+      {
+        "taxon": "Lamium amplexicaule",
+        "quick_rule": "HENBIT: lower leaves long-stalked; upper leaves rounded/lobed, SESSILE and often form green collars at flowering nodes",
+        "upper_leaf_base": "Directly on square stem, no obvious leaf stalk",
+        "flower_position": "Pink long two-lipped tubes emerge among upper collar leaves",
+        "habit": "Cool-season winter annual, sometimes sprawling"
+      },
+      {
+        "taxon": "Lamium purpureum",
+        "quick_rule": "PURPLE DEADNETTLE: upper leaves more triangular/pointed, often purple and on SHORT STALKS",
+        "upper_leaf_base": "Upper leaves have petioles, do not clasp stem into circular collar",
+        "flower_position": "Little purple blooms clustered between purple-tinged upper leaves",
+        "habit": "Cool-season winter annual, like henbit; color and season alone not reliable"
+      },
+      {
+        "taxon": "Glechoma hederacea",
+        "quick_rule": "GROUND IVY: perennial creep with ROUND, STALKED scalloped leaves",
+        "upper_leaf_base": "Leaves are stalked even near flowers",
+        "flower_position": "Broad purple two-lipped corollas in leaf axils",
+        "habit": "Creeping long-lived runners root at nodes; plant may remain green well past henbit season"
+      }
+    ],
+    "not_reliable_alone": [
+      "Both henbit and purple deadnettle can have purple stems, purple flowers and square stems.",
+      "Square stem/opposite leaves are common to many mint-family plants.",
+      "Ground ivy leaves can resemble henbit's round scalloped foliage when you ignore the petiole.",
+      "Do not call a young nonflowering mint-family seedling henbit unless stalked-versus-sessile upper leaf pairs can be assessed."
+    ],
+    "lookalike_install_status": "Purple deadnettle L. purpureum now exists as separate canonical species (2 physically stored images); upper stalk contrast remains field-key logic and should be verified in hand lens.",
+    "paired_photo_update": "Purple deadnettle now has four physically stored species photos with full existing flower/cap annotation review; its upper petiole attachment remains not photographically confirmed. Henbit collar is visible in existing annotated images. Both are introduced winter annuals, ground ivy separate genus."
+  },
+  "diagnostic_image_needs": [
+    "Plant habit and flower macro selected; verify after install.",
+    "Need upper leaf clasp macro and mature nutlet photo.",
+    "No arrows until image target review."
+  ],
+  "images": [
+    {
+      "file": "images/lamium-amplexicaule-habit-commons.jpg",
+      "role": "Habit with upper flowering nodes and lower stalked leaves",
+      "creator": "Harry Rose",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_plant5_(14648225140).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution"
+    },
+    {
+      "file": "images/lamium-amplexicaule-flower-commons.jpg",
+      "role": "Pink tubular bilabiate corollas in a flower whorl",
+      "creator": "Harry Rose",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_flower7_(14648472529).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "taxonomy_identity_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "visual_reviewed": true,
+    "lookalikes_reviewed": true,
+    "morphology_reviewed": true,
+    "version": "1.2-henbit-purple-deadnettle-paired-20261021",
+    "last_reviewed": "2026-10-21",
+    "visual_status": "FIELD_READY_PHOTO_GAPS: two physically installed exact-species Harry Rose CC BY 2.0 images, plus two Commons credited externally linked exact-henbit images, two distinctly labeled other taxa lookalike photos. Six photo teaching panels, 19 verified anatomy arrows. Fruit/nutlets and square cross-section remain true macro gaps. Source location outside Hays. Existing introduced project status preserved."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Henbit field lab — follow the stem from bottom to top",
+    "stages": [
+      {
+        "title": "1 · Find the stem and lowest leaves",
+        "look": "Stalked lower leaves",
+        "how": "Photograph an entire stem; lower leaves are rounded/scalloped and each has a PETIOLE. Follow one leaf stalk all the way to its stem node."
+      },
+      {
+        "title": "2 · Move to upper flowering nodes",
+        "look": "Sessile, clasping upper leaves",
+        "how": "Photograph directly from the side at an upper node; upper opposite leaves have no separate petioles and form a clasping ring around the stem. Compare purple deadnettle's stalked pointed upper leaves."
+      },
+      {
+        "title": "3 · Inspect pink flowers close-up",
+        "look": "Long corolla tube and upper hood",
+        "how": "A hand lens shows arched upper lip, longer lower two/three lobed lip and spotted pattern; flowers cluster around the upper node in whorls."
+      },
+      {
+        "title": "4 · Confirm four-sided stem",
+        "look": "Square stem, opposite nodes",
+        "how": "Roll a stem lightly between fingers; better, photograph the stem CROSS-SECTION at a freshly cut tip only if plant collection is appropriate. Four-sidedness itself not species specific."
+      },
+      {
+        "title": "5 · Look after bloom",
+        "look": "Persistent 5-toothed calyx and 4 nutlets",
+        "how": "Return after flowering to view a dry calyx at 1-mm scale, split open to photograph the four nutlets. No current source image confirms this detail."
+      }
+    ],
+    "glossary": {
+      "amplexicaul": "A leaf base that embraces or clasps a stem.",
+      "sessile": "Attached directly without a separate leaf stalk.",
+      "petiole": "Leaf stalk between blade and stem.",
+      "crenate": "Scalloped margin with rounded teeth.",
+      "opposite": "Two leaves are attached across from each other at one node.",
+      "verticillaster": "A dense 'false whorl' of flowers arising around a stem node in many mints.",
+      "bilabiate": "Two-lipped corolla: a raised upper hood and lower spreading lobes.",
+      "calyx": "Outermost green cup beneath a flower, remaining after flowers fade.",
+      "nutlet": "One small dry fruitlet; mint-family ovaries commonly mature into four."
+    },
+    "memory_rule": "FOLLOW THE LEAVES: stalks DOWN LOW → NO STALKS + GREEN COLLAR UP TOP → PINK HOODED TUBES. That's henbit."
+  },
+  "visual_comparison": {
+    "title": "Henbit field ID — plant, leaf collar, flower, then look-alikes",
+    "subtitle": "Two physically installed exact-henbit source photographs and TWO additional individually licensed Commons exact-henbit references. Two more panels are clearly labeled DIFFERENT-SPECIES look-alikes (purple deadnettle and ground ivy). 19 markers on real photographed features. New photos are linked, not locally installed bytes.",
+    "memory_rule": "Henbit: upper ROUND SCALLOPED leaves CLASP the stem. Purple deadnettle: upper leaves more POINTED and STALKED. Ground ivy: CREEPING perennial with stalked leaves.",
+    "items": [
+      {
+        "label": "1 · HENBIT HABIT — long lower petioles to sessile flower tiers",
+        "scientific_name": "Lamium amplexicaule",
+        "image_url": "content/taxa/Lamiaceae/Lamium/lamium-amplexicaule/images/lamium-amplexicaule-habit-commons.jpg",
+        "image_fit": "contain",
+        "creator": "Harry Rose",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_plant5_(14648225140).jpg",
+        "caption": "Actual source photograph of flowering henbit held in hand. LOOSELY UPRIGHT SHOOT, a tier of rounded scalloped UPPER LEAVES surrounding the stem directly, and smaller LOWER ROUND LEAVES on long thin PETIOLES. The shoot's four-angled stem cannot be confirmed from this picture, even though it is a normal family character.",
+        "why_it_matters": "The developmental difference between lower stalked and upper stalkless leaf pairs is the highest-value field clue.",
+        "markers": [
+          {
+            "label": "Upper sessile leaf tier",
+            "label_x": 1,
+            "label_y": 23,
+            "target_x": 31,
+            "target_y": 30
+          },
+          {
+            "label": "Long lower leaf stalk",
+            "label_x": 72,
+            "label_y": 75,
+            "target_x": 61,
+            "target_y": 77
+          },
+          {
+            "label": "Lower scalloped leaf",
+            "label_x": 1,
+            "label_y": 68,
+            "target_x": 30,
+            "target_y": 71
+          },
+          {
+            "label": "Flowering head at tip",
+            "label_x": 54,
+            "label_y": 5,
+            "target_x": 35,
+            "target_y": 10
+          }
+        ],
+        "photo_status": "PHYSICALLY INSTALLED original Harry Rose CC BY 2.0, image pixels inspected; arrows only to visible whorls, stalk, leaf and flower; phone QA pending."
+      },
+      {
+        "label": "2 · HENBIT FLOWER — upper hood, long tube, lower lip",
+        "scientific_name": "Lamium amplexicaule",
+        "image_url": "content/taxa/Lamiaceae/Lamium/lamium-amplexicaule/images/lamium-amplexicaule-flower-commons.jpg",
+        "image_fit": "contain",
+        "creator": "Harry Rose",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_flower7_(14648472529).jpg",
+        "caption": "Actual flowers show a distinctly LONG PURPLE TUBE, a hairy upright UPPER LIP or HOOD, and small contrasting LOWER LIP lobes; flowers arise in groups just above a ring of shallowly lobed green leaves. The central bract/calyx structure is cluttered; individual nutlets are not visible.",
+        "why_it_matters": "Separates a two-lipped mint-family corolla from unrelated tiny purple lawn flowers; a purple petal alone is never genus proof.",
+        "markers": [
+          {
+            "label": "Upright upper flower lip",
+            "label_x": 65,
+            "label_y": 6,
+            "target_x": 68,
+            "target_y": 21
+          },
+          {
+            "label": "Tubular corolla stalk",
+            "label_x": 74,
+            "label_y": 63,
+            "target_x": 60,
+            "target_y": 37
+          },
+          {
+            "label": "Lower spotted flower lip",
+            "label_x": 4,
+            "label_y": 31,
+            "target_x": 30,
+            "target_y": 30
+          },
+          {
+            "label": "Upper scalloped leaves",
+            "label_x": 2,
+            "label_y": 74,
+            "target_x": 37,
+            "target_y": 65
+          }
+        ],
+        "photo_status": "PHYSICALLY INSTALLED original Harry Rose CC BY 2.0, anatomical targets inspected from bytes; no false fruit or stigma arrow; phone QA pending."
+      },
+      {
+        "label": "3 · HENBIT CLOSE FLOWER AND WHORLS — verified additional source",
+        "scientific_name": "Lamium amplexicaule",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lamium_amplexicaule_130042537.jpg/960px-Lamium_amplexicaule_130042537.jpg",
+        "image_fit": "contain",
+        "creator": "Tamberly Conway",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_130042537.jpg",
+        "caption": "A Tennessee-source henbit has MANY lavender hooded tubular flowers arising from two upper whorls of ROUND SCALLOPED LEAVES, with several DARK MAGENTA CLOSED BUDS below. This shows the organ's POSITION at a stem node; the complete 360° clasping junction is partly obscured by leaves.",
+        "why_it_matters": "Strong close identification of henbit's flowering whorls and scalloped opposite leaves; cannot be counted as a Texas native plant record.",
+        "markers": [
+          {
+            "label": "Pink-purple two-lipped flower",
+            "label_x": 69,
+            "label_y": 10,
+            "target_x": 74,
+            "target_y": 30
+          },
+          {
+            "label": "Scalloped upper leaf pair",
+            "label_x": 1,
+            "label_y": 60,
+            "target_x": 39,
+            "target_y": 53
+          },
+          {
+            "label": "Unopened purple buds",
+            "label_x": 7,
+            "label_y": 85,
+            "target_x": 30,
+            "target_y": 76
+          }
+        ],
+        "photo_status": "EXTERNAL VERIFIED CC BY 4.0, Tamberly Conway, iNaturalist 130042537 Commons source; inspected thumbnail actual pixels, 3 anatomy-target arrows, no photo bytes installed."
+      },
+      {
+        "label": "4 · HENBIT LOWER FLOWERING TIER — sessile whorl",
+        "scientific_name": "Lamium amplexicaule",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lamium_amplexicaule_plant.jpg/960px-Lamium_amplexicaule_plant.jpg",
+        "image_fit": "contain",
+        "creator": "TeunSpaans",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_plant.jpg",
+        "caption": "A close source-confirmed henbit plant shows rounded-to-fan-shaped green upper leaves around the ascending stem and several hooded pink flowers at the upper node. Another round scalloped whorl appears LOWER on the same flowering stem. A photo from the Netherlands; not local Texas provenance.",
+        "why_it_matters": "At upper nodes, henbit leaves can appear like a collar, rather than separate dangling petioles as in purple deadnettle.",
+        "markers": [
+          {
+            "label": "Flower from upper node",
+            "label_x": 1,
+            "label_y": 23,
+            "target_x": 32,
+            "target_y": 29
+          },
+          {
+            "label": "Upper scalloped whorl",
+            "label_x": 69,
+            "label_y": 51,
+            "target_x": 45,
+            "target_y": 41
+          },
+          {
+            "label": "Another opposite leaf tier",
+            "label_x": 72,
+            "label_y": 81,
+            "target_x": 49,
+            "target_y": 76
+          }
+        ],
+        "photo_status": "EXTERNAL VERIFIED CC BY-SA 3.0 TeunSpaans, image preview reviewed, all 3 arrow targets visibly in frame. Original unaltered; phone QA pending."
+      },
+      {
+        "label": "5 · LOOK-ALIKE ONLY — Purple deadnettle (NOT HENBIT)",
+        "scientific_name": "Lamium purpureum",
+        "image_url": "content/taxa/Lamiaceae/Lamium/lamium-purpureum/images/purple-deadnettle-arthur-badel.jpg",
+        "image_fit": "contain",
+        "creator": "Arthur Badel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_plant.jpg",
+        "caption": "NOT HENBIT: this is Lamium purpureum, purple deadnettle. Above the greener lower leaves is a DENSE CAP OF PURPLISH, MORE TRIANGULAR/POINTED UPPER LEAVES; the purple flowers are partly tucked below. Upper leaves usually keep short petioles, though the actual stalks are not fully resolved in this photo.",
+        "why_it_matters": "Visually memorable confusion species. For certainty, trace the leaf base: purple deadnettle is often STALKED above, henbit is SESSILE/CLASPING above. Purple tint alone is not a dependable universal character.",
+        "markers": [
+          {
+            "label": "Purple pointed upper leaf cap",
+            "label_x": 3,
+            "label_y": 15,
+            "target_x": 43,
+            "target_y": 26
+          },
+          {
+            "label": "Greener lower toothed leaves",
+            "label_x": 72,
+            "label_y": 75,
+            "target_x": 47,
+            "target_y": 64
+          },
+          {
+            "label": "Small lilac flowers",
+            "label_x": 64,
+            "label_y": 13,
+            "target_x": 51,
+            "target_y": 43
+          }
+        ],
+        "photo_status": "Physical exact-species L. purpureum license-verified image in canonical new sibling species; arrows inherited, correctly labeled not henbit."
+      },
+      {
+        "label": "6 · LOOK-ALIKE ONLY — Ground ivy (NOT HENBIT)",
+        "scientific_name": "Glechoma hederacea",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Glechoma_hederacea_-_flowers_%2818871815551%29.jpg/960px-Glechoma_hederacea_-_flowers_%2818871815551%29.jpg",
+        "image_fit": "contain",
+        "creator": "NY State IPM Program at Cornell University",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Glechoma_hederacea_-_flowers_(18871815551).jpg",
+        "caption": "NOT HENBIT AND NOT Lamium: this is creeping ground ivy, Glechoma hederacea, with green scalloped leaves and broader PURPLE TWO-LIPPED FLOWERS. Leaves are PETIOLATE at flowering nodes; the true runner habit must be confirmed by following the stem beyond this cropped view.",
+        "why_it_matters": "Ground ivy is perennial and typically creeps/rooting at nodes, unlike the cool-season annual henbit; check leaf stalks and growth habit together.",
+        "markers": [
+          {
+            "label": "Rounded scalloped leaf",
+            "label_x": 6,
+            "label_y": 5,
+            "target_x": 31,
+            "target_y": 25
+          },
+          {
+            "label": "Purple two-lipped flower",
+            "label_x": 57,
+            "label_y": 83,
+            "target_x": 53,
+            "target_y": 67
+          }
+        ],
+        "photo_status": "COMPARE-ONLY, DIFFERENT GENUS. Cornell NY State IPM CC BY 2.0 license verified; no arrow for a runner not actually shown."
+      }
+    ],
+    "part_examples": [
+      {
+        "title": "1 · Lower leaf: petiole",
+        "role": "stalked lower blade",
+        "image_file": "images/lamium-amplexicaule-habit-commons.jpg",
+        "anchor_species_id": "lamium-amplexicaule",
+        "look_for": "A thin, long stalk connects a rounded scalloped lower blade to the stem.",
+        "why_it_matters": "Proves leaf development transition within henbit; don't assume all leaves are sessile."
+      },
+      {
+        "title": "2 · Upper leaf: sessile collar",
+        "role": "upper node and leaves",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lamium_amplexicaule_plant.jpg/960px-Lamium_amplexicaule_plant.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_plant.jpg",
+        "status": "external_reference",
+        "look_for": "A green leaf tier encircling a flowering node with no evident long petioles.",
+        "why_it_matters": "Key henbit versus purple deadnettle split."
+      },
+      {
+        "title": "3 · Flower: two-lipped hood",
+        "role": "flower face and tube",
+        "image_file": "images/lamium-amplexicaule-flower-commons.jpg",
+        "anchor_species_id": "lamium-amplexicaule",
+        "look_for": "Narrow purple corolla tube, arched hairy upper lip, speckled lower lip above leafy cup.",
+        "why_it_matters": "Core Lamium flower structure, not the only species clue."
+      },
+      {
+        "title": "4 · NEED PHOTO: square stem cross-section",
+        "role": "stem section",
+        "status": "needs_photo",
+        "look_for": "Four ridges on a measured genuine henbit stem cross section.",
+        "why_it_matters": "Family confirmation; NOT proof from an unresolvable front view."
+      },
+      {
+        "title": "5 · NEED PHOTO: ripe fruit/nutlets",
+        "role": "mature calyx and nutlets",
+        "status": "needs_photo",
+        "look_for": "Dry five-toothed calyx and four separated brown nutlets at 1-mm ruler scale.",
+        "why_it_matters": "Completes seed stage rather than guessing fruit inside flower photograph."
+      }
+    ],
+    "annotation_status": "All existing Harry Rose photo bytes inspected 2026-10-21; Commons photos Tamberly Conway, TeunSpaans, Arthur Badel and Cornell NY State IPM visually inspected via image previews with individual CC licenses and creators verified. Arrows to visible parts only, not square-stem cross-section, individual nutlets or unseen petioles. Owner iPhone layout QA pending."
+  },
+  "gallery_external_refs": [
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lamium_amplexicaule_130042537.jpg/960px-Lamium_amplexicaule_130042537.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_130042537.jpg",
+      "creator": "Tamberly Conway",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_photo_url": "https://www.inaturalist.org/photos/130042537",
+      "role": "Exact-taxon close flowering shoot, clasping upper leaf tiers, pink hooded tubes, purple unopened buds; Tennessee observation; external Commons 960px reference",
+      "gallery_species_id": "lamium-amplexicaule",
+      "public_reuse": "yes",
+      "study_use": "Public educational plant ID",
+      "source_review": "Individual Commons source page and correct Creative Commons version verified 2026-10-21; retained creator and per-photo terms, only website HTML annotation overlays."
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lamium_amplexicaule_plant.jpg/960px-Lamium_amplexicaule_plant.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_plant.jpg",
+      "creator": "TeunSpaans",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "role": "Exact-taxon flowering henbit with two distinct tiers of rounded lobed stalkless upper leaves; Netherlands photo, non-Texas provenance",
+      "gallery_species_id": "lamium-amplexicaule",
+      "public_reuse": "yes",
+      "study_use": "Public educational plant ID",
+      "source_review": "Individual Commons source page and correct Creative Commons version verified 2026-10-21; retained creator and per-photo terms, only website HTML annotation overlays."
+    }
+  ],
+  "diagnostic_photo_targets": [
+    {
+      "role": "Upper clasping leaf pair photographed from 90° side with millimeter scale",
+      "status": "PARTLY_FILLED_APPROPRIATE_IMAGES; EXACT STEM-JUNCTION_MACRO_DESIRED",
+      "why": "Two new Commons source images show sessile green collars, but not a perfect side-on continuous leaf base."
+    },
+    {
+      "role": "Section proving square/four-angled stem",
+      "status": "NEEDS_PHOTO",
+      "why": "Stem exterior is visible in two current physical images, but ridges/cross-sectional shape cannot be certified."
+    },
+    {
+      "role": "Mature fruit and four individual nutlets",
+      "status": "NEEDS_MACRO",
+      "why": "Flowered image and green bracts do not show mature dry fruits; needs 1-mm reference."
+    },
+    {
+      "role": "Same-scale compare with Lamium purpureum upper stalked pointed leaf",
+      "status": "PARTLY_FILLED_COMPARE_ONLY_WHOLE_LOOKALIKE",
+      "why": "Purple deadnettle licensed photo clearly shows purple pointed top leaves but not precise upper petiole insertion."
+    },
+    {
+      "role": "Texas/Hays County local whole-site flowering henbit",
+      "status": "OPTIONAL_LOCAL_PROVENANCE_PHOTO",
+      "why": "Current source photographs are from outside Central Texas; nativity remains introduced and not reviewed as local native."
+    }
+  ],
+  "field_photo_quickcheck": {
+    "heading": "Henbit — arrow-first field recognition",
+    "featured_photo_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "steps": [
+      "At the BASE: trace a stalk from each lower round/scalloped leaf to stem.",
+      "At the FLOWER: inspect upper opposite leaves forming a stalkless clasping collar.",
+      "Look at long PINK TUBES and the upper flower HOOD with a hand lens.",
+      "Compare purple deadnettle's short-stalked pointed upper purple leaves and ground ivy's creeping perennial growth."
+    ],
+    "field_rule": "Lower petiolate leaves → upper sessile/amplexicaul leaf whorls → bilabiate pink-purple tubes. If leaf insertion is hidden, a generic square stem + purple flower is not enough.",
+    "warning": "Henbit is an INTRODUCED encounter species in the project; do not label it as a locally native host/planting recommendation. One-fruit macro and crisp square-stem cross-section remain needed.",
+    "species_visual_photo_panels": 4,
+    "comparison_only_photo_panels": 2,
+    "installed_henbit_photos": 2,
+    "external_henbit_photos": 2,
+    "featured_source_annotated": true,
+    "owner_mobile_arrow_review": "PENDING"
+  },
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "image_count": 2,
+    "mode": "finished_species_enrichment",
+    "note": "Main henbit card has two installed CC BY 2.0 files and two independently licensed external henbit views with 19 annotated features across 4 exact + 2 other-species panels. Upper sessile collars clearly taught; mature nutlet and stem cross-section still unavailable."
+  },
+  "management_notes": {
+    "habitat": "Common cool-season introduced annual in turf edges, garden beds, disturbed soil, compacted paths and landscaped sites; responds to exposed soil/moisture.",
+    "crew_priority": "Differentiate introduced henbit from native planted mints and avoid treating every purple-blooming groundcover as a single species.",
+    "low_chemical": "For unwanted henbit in beds: identify BEFORE pulling, remove whole small plants before seed maturation, mulch appropriate exposed bare soil and maintain competitive desired vegetation; no blanket herbicide recommendation.",
+    "ecological_context": "Can offer early-season nectar to opportunistic pollinators but its presence does not establish native restoration value or specialist-host relationships. No locally native certification; native metrics excluded as in existing card.",
+    "invasiveness_claim": "Introduced encounter plant. Avoid inventing official Texas invasive designation; no claim that every small population must be chemically eradicated."
+  }
+}

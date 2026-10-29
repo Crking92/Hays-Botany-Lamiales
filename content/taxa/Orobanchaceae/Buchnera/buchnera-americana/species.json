@@ -1,0 +1,63 @@
+{
+  "id": "buchnera-americana",
+  "family": "Orobanchaceae",
+  "genus": "Buchnera",
+  "species": "americana",
+  "scientific_name": "Buchnera americana",
+  "common_name": "American bluehearts",
+  "look_here_first": "Slender herb with opposite narrow leaves and an elongated spike of violet-blue tubular flowers; inspect four-lobed corollas and bracts.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_036": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319121-2",
+  "images": [
+    {
+      "file": "images/inat-297166214.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Brian Charles, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/297166214",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review036-64b2920ebb58e52.jpg",
+      "role": "Purple flowering spike with multiple tubular corollas, calyx parts and finger scale; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "ashleyrsteel",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5198576572",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513640453/original.jpg",
+      "source_determination": "Buchnera americana",
+      "source_observation_id": "5198576572",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/buchnera-americana/gbif-2fedca8d98de5a.jpg",
+      "archive_image_sha256": "d2c2a73e3f73def145bc434955603cd87758d58784526d94146ccb4c04293745",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

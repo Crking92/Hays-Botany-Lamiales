@@ -1,0 +1,45 @@
+PHYLA NODIFLORA (L.) GREENE — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+
+
+## Taxonomy
+Kew Plants of the World Online — accepted Phyla nodiflora (L.) Greene; Texas native:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A194567-2
+
+## Strict target-zone range
+BONAP/NAPA county map:
+https://bonap.net/TDC/Image/Map?locationType=County&mapType=Normal&taxonId=23861&taxonType=Species
+
+Hays — UT Plant Resources Center Purola Preserve natural flora:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+
+Travis — UT Plant Resources Center Verbenaceae specimen index:
+https://w3.biosci.utexas.edu/prc/specimens/Verbenaceae.html
+
+Williamson — UT Plant Resources Center county treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Phyla%20nodiflora
+
+Decision: PASS — Hays, Travis, Williamson.
+
+## Morphology
+UT PRC Williamson treatment above.
+NPSOT:
+https://www.npsot.org/posts/native-plant/phyla-nodiflora/
+Texas Wildbuds:
+https://www.texaswildbuds.com/phyla-nodiflora.html
+
+Practical P. nodiflora vs P. lanceolata leaf-key lead:
+https://www.inaturalist.org/journal/matthew_woodring/112373-two-frogfruits-one-genus-a-tale-of-turkey-tangle-and-lanceleaf
+
+LOOK HERE FIRST: creeping/rooting stems + leaf widest beyond middle + teeth mainly in distal half + compact cylindrical flower head on an axillary peduncle.
+
+## Photo lead
+User iNaturalist:
+https://www.inaturalist.org/observations/271552892
+
+PHOTO FAST-FILL 016 — 2026-10-05
+Physicalized the three already-vetted exact-species learner images: flowers/leaves with creeping structure, mat-forming habit, and compact flower-head detail. The third image retains its existing CC BY-NC/private-study reuse guardrail. Media only; scientific PASS unchanged.
+
+PHYSICAL QA — PHOTO FAST-FILL 016
+Physical-file QA: three canonical JPEGs are present and nonzero; the curation pipeline completed successfully and decoded/optimized the files. The image roles were previously vetted before physicalization. Third image retains the existing CC BY-NC/private-study guardrail. Scientific PASS unchanged.

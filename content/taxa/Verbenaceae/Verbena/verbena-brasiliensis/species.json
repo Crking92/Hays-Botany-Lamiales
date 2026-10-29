@@ -1,0 +1,125 @@
+{
+  "id": "verbena-brasiliensis",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Verbena",
+  "species": "brasiliensis",
+  "scientific_name": "Verbena brasiliensis",
+  "authority": "Vell.",
+  "common_name": "Brazilian vervain",
+  "look_here_first": "Look at the architecture: a tall plant with long bare internodes and an open candelabra-like panicle made of many short compact flower spikes; the leaves are simple, narrow, sharply serrate, and not lobed.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "Kew/POWO accepts Verbena brasiliensis and gives its native range in South America; Texas is explicitly listed as introduced. TexasInvasives.org identifies Brazilian vervain as introduced to the U.S., reports it throughout central/east/north Texas, and describes it as a significant invasive species. NPSOT classifies Verbena brasiliensis as an invasive plant and notes its threat of displacing native plants. The project source pool contains seven user observations marked wild, supporting strong local encounter value but not native status.",
+    "range_guardrail": "Native status remains FAIL regardless of local abundance. Invasive comparison retention is a separate learner decision and is excluded from native totals.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "INVASIVE_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "introduced South American annual or short-lived perennial, often 0.9–2.3 m tall",
+      "erect strongly 4-sided green stems with long internodes",
+      "opposite simple elliptic to oblanceolate leaves, sharply serrate above midblade",
+      "leaves sessile/subsessile and not deeply lobed",
+      "open panicle with several orders of opposite branching",
+      "many short compact terminal spikelets rather than a few long spikes",
+      "tiny violet-purple flowers and prolific small mericarps/seeds"
+    ],
+    "verbena_training": "Tall open candelabra architecture + simple narrow serrate leaves + many short compact spikes separates this common invasive from local native Verbena."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Verbena scabra",
+      "Verbena xutha",
+      "Verbena bonariensis"
+    ],
+    "key_distinctions": "Verbena scabra: V. scabra has broad harsh sandpaper leaves and very long slender spikes; Brazilian vervain has narrow simple serrate leaves and many short compact spikes in an open panicle. Verbena xutha: V. xutha has deeply 3-lobed leaves and coarse hispid/glandular foliage; Brazilian vervain leaves are simple and unlobed. Verbena bonariensis: A separate introduced ornamental/naturalized Verbena with dense rounded flower heads on long peduncles; do not collapse it into V. brasiliensis."
+  },
+  "tags": [
+    "Verbenaceae",
+    "Verbena",
+    "Brazilian vervain",
+    "Invasive comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-009",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "comparison_retained": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "last_photo_pass": "2026-10-12",
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/verbena-brasiliensis-provisional-face.jpg",
+      "role": "Flowering habit / inflorescence recognizable face",
+      "creator": "NOZO",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_brasiliensis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Verbena_brasiliensis_Vell._%28AM_AK350535%29.jpg/960px-Verbena_brasiliensis_Vell._%28AM_AK350535%29.jpg",
+      "role": "Authenticated herbarium flowering architecture — widely branched stems with numerous short compact spikes",
+      "creator": "Auckland War Memorial Museum (specimen collector M. D. Wilcox)",
+      "license": "CC BY 4.0",
+      "platform": "Wikimedia Commons / Auckland War Memorial Museum",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_brasiliensis_Vell._(AM_AK350535).jpg",
+      "source_record_id": "AK350535",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "remote_only": true,
+      "local_file_present": false,
+      "caption": "Authenticated herbarium specimen shows widely branched stems and many short thick terminal spikes. Only a few small leaves remain; not adequate for sharp Brazilian-vervain leaf-margin annotation.",
+      "diagnostic_roles": [
+        "open repeated branching pattern",
+        "short compact terminal spikes",
+        "a few narrow reduced stem leaves"
+      ]
+    },
+    {
+      "file": "images/joey-inat-48819510.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/48819510",
+      "observation_url": "https://www.inaturalist.org/observations/31206784",
+      "observation_id": "31206784",
+      "photo_id": "48819510",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/48819510/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+    "last_photo_pass": "2026-10-12",
+    "photo_polish_pending": "licensed close-up of opposite narrow serrate leaves"
+  }
+}

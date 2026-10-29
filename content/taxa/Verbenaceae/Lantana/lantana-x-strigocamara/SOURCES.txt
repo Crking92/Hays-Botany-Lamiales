@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60444377-2
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60444377-2
+Observed scientific name (accepted or documented alias): Lantana strigocamara
+Source research-grade observation: https://www.inaturalist.org/observations/100004814
+Photo: https://www.inaturalist.org/photos/166841047
+Attribution: (c) Ron Stephens, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

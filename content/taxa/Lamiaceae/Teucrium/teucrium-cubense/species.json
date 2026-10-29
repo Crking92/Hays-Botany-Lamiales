@@ -1,0 +1,37 @@
+{
+  "id": "teucrium-cubense",
+  "family": "Lamiaceae",
+  "genus": "Teucrium",
+  "species": "cubense",
+  "scientific_name": "Teucrium cubense",
+  "common_name": "Small coastal germander",
+  "look_here_first": "Inspect opposite toothed leaves, square stems and small unequally lobed mint-family flowers; look closely at calyx teeth and the lower corolla lobe to separate other Teucrium.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Teucrium%20cubense",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Uruguay subsp. cubense source; no basis for claiming same subspecies or county provenance in Central Texas.",
+  "images": [
+    {
+      "file": "images/commons-teucrium-cubense.jpg",
+      "role": "Provisional species recognition for flowers and habit; source identified subspecies cubense, Central Texas concept needs review",
+      "creator": "Andrés González",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Teucrium_cubense-_Colonia%2C_Nueva_Helvecia%2C_Campo_graminoso_entre_el_R%C3%ADo_Rosario_y_camino_vecinal_2.jpg",
+      "study_use": "Private educational visual identification learner",
+      "public_reuse": "Attribution, license hyperlink and ShareAlike retained for derivatives"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

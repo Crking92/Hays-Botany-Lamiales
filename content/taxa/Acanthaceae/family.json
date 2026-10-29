@@ -1,0 +1,317 @@
+{
+  "rank": "family",
+  "name": "Acanthaceae",
+  "common_name": "Acanthus family",
+  "project_scope": {
+    "selection_mode": "Central Texas Ruellia-first reference module",
+    "note": "Central Texas Ruellia-first ANATOMY teaching expanded with real physically installed examples from Ruellia, Dianthera, Anisacanthus, Dicliptera and Justicia. Retinacula/seed-count micros remain honestly unavailable; never count remote links as installed."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "First see opposite exstipulate SIMPLE leaves, then a typical Acanthaceae tubular to funnel-shaped corolla (often FIVE lobes) with 2 or 4 stamens. The highest-value confirmation is the FRUIT: commonly a two-valved, two-locular CAPSULE with seeds supported by woody curved RETINACULA/JACULATORS. This seed-support design is common but not universal; flower shapes vary greatly across the family.",
+    "leaves": "Usually opposite and simple, without stipules.",
+    "flowers": "Flowers often have a fused corolla TUBE and irregular/bilateral symmetry (though Ruellia can be nearly radially symmetric), generally five corolla lobes and typically two or four stamens. A Ruellia flower's large lobes differ from Anisacanthus's narrow tubular corolla or the more irregular Dianthera/Justicia flower.",
+    "ovary": "Superior and commonly 2-locular.",
+    "fruit": "Many Acanthaceae have a dry, loculicidal two-valved CAPSULE (usually two ovary locules). In Ruellia the seed is supported by a curved RETINACULUM/JACULATOR that can help eject it as the mature fruit dehisces; the structure is not universal across every subfamily.",
+    "field_tip": "Start with paired, opposite simple leaves, flowers, and the seed-bearing CAPSULE when available. Learn the terms CALYX (outer five sepals), COROLLA (united petals), AXIL (leaf-stem angle), GLANDULAR hairs (tip with gland) and RETINACULUM (internal seed hook). Do NOT mistake a single purple petunia-like flower for proof of this family."
+  },
+  "visual_lesson": {
+    "status": "eight_physical_family_photo_anchors_one_external_three_capsule_macro_targets",
+    "teaching_order": "funnel corolla and opposite leaves → axillary flowering and pubescence → white and red family-flower diversity → floral bracts → external synonym example → mature capsule with two valves → retinacula/jaculators → Lamiaceae nutlet contrast",
+    "intro": "Ruellia is a brilliant Acanthaceae teacher: the flower is recognizable, the leaves arrive in opposite pairs, and the fruit has a remarkable (often explosive) seed-launch mechanism. Learn the easily photographed flower parts first, then examine an OPENED capsule to find the seed-support hooks. Photographs shown are species-labeled: a flower portrait is never falsely described as a capsule dissection.",
+    "steps": [
+      {
+        "title": "1 · Begin with the wild petunia corolla",
+        "photo_role": "corolla funnel and opposite leaf shape",
+        "anchor_species_id": "ruellia-humilis",
+        "anchor_image_index": 0,
+        "look_for": "Observe five outer COROLLA LOBES with a fused tubular throat on hairy prairie petunia. Opposite leaves help route to Acanthaceae, but mint, verbena and other families share both traits.",
+        "why_it_matters": "Real Ruellia flower view gives a memorable local recognition example, not a unique family proof.",
+        "status": "installed_exact_species_photo_reference; microscopic_part_arrows_pending"
+      },
+      {
+        "title": "2 · Find the flower's leaf axil and hairs",
+        "photo_role": "leaf margin hairs and inflorescence context",
+        "anchor_species_id": "ruellia-humilis",
+        "anchor_image_index": 1,
+        "look_for": "Find where the leaf meets the stem (AXIL); in R. humilis flowers sit near that point rather than raised in a large branching terminal cyme. The conspicuous leaf-edge HAIRS (CILIA) help with species ID. Do not label individual hairs without reviewing exact pixel visibility.",
+        "why_it_matters": "Connects botanical AXIL/CILIATE vocabulary to one source-anchored flowering plant.",
+        "status": "installed_exact_species_photo_reference; microscopic_part_arrows_pending"
+      },
+      {
+        "title": "3 · Compare another axillary wild petunia",
+        "photo_role": "short pubescence and five-lobed tubular bloom",
+        "anchor_species_id": "ruellia-drummondiana",
+        "anchor_image_index": 0,
+        "look_for": "Compare R. drummondiana's purple flower and opposite leaves to R. humilis. A useful fine-scale species distinction is SHORT, fine pubescence versus humilis's longer hairs, but this single photograph does NOT establish capsule seed count.",
+        "why_it_matters": "Two species can look similar from flowers, making microscopic pubescence a valuable lesson.",
+        "status": "installed_exact_species_photo_reference; microscopic_part_arrows_pending"
+      },
+      {
+        "title": "4 · White Ruellia belongs to the same family",
+        "photo_role": "white funnel corolla and terminal flowering habit",
+        "anchor_species_id": "ruellia-metziae",
+        "anchor_image_index": 0,
+        "look_for": "R. metziae often has white corollas in a raised terminal inflorescence. Identify the five corolla lobes and upper leafy shoots; the exact STALKED GLAND on its calyx still needs a close, focused photograph.",
+        "why_it_matters": "Acanthaceae flower COLOR varies. Position and the structure of flowers and fruit carry more evidence.",
+        "status": "installed_exact_species_photo_reference; microscopic_part_arrows_pending"
+      },
+      {
+        "title": "5 · A second flower shape: American waterwillow",
+        "photo_role": "Dianthera / Justicia flower macro",
+        "anchor_species_id": "justicia-americana",
+        "anchor_image_index": 1,
+        "look_for": "Find the less radially even floral form of American waterwillow (accepted in this project as Dianthera americana, pictured under its Justicia americana synonym). A flower's upper and lower sides can be unequal; it is still an Acanthaceae flower.",
+        "why_it_matters": "Shows the family is not defined by one symmetrical wild-petunia flower.",
+        "status": "installed_exact_species_photo_reference; microscopic_part_arrows_pending"
+      },
+      {
+        "title": "6 · A narrow tube can still be Acanthaceae",
+        "photo_role": "flame acanthus red tubular flowers",
+        "anchor_species_id": "anisacanthus-quadrifidus-var-wrightii",
+        "anchor_image_index": 0,
+        "look_for": "Flame acanthus has slender RED tubular flowers and narrow, often opposite leaves. Contrast with Ruellia's broad funnel blossoms: tubular shape and red color cannot alone establish a family.",
+        "why_it_matters": "Examples from different family genera counter the 'all acanthus flowers look like petunias' misconception.",
+        "status": "installed_exact_species_photo_reference; microscopic_part_arrows_pending"
+      },
+      {
+        "title": "7 · Flower bracts: compare a foldwing",
+        "photo_role": "foldwing flowers and leafy bract context",
+        "anchor_species_id": "dicliptera-brachiata",
+        "anchor_image_index": 0,
+        "look_for": "Dicliptera brachiata shows another Acanthaceae flower and branching pattern. In a future close-up locate its enlarged BRACTS associated with flowers; do not claim the bract pairs have been precisely labeled in the whole-plant picture.",
+        "why_it_matters": "Small protective BRacts can be diagnostic at genus level, but must not be confused with foliage leaves or true sepals.",
+        "status": "installed_exact_species_photo_reference; microscopic_part_arrows_pending"
+      },
+      {
+        "title": "8 · One more family variation: Gregg's tube-tongue",
+        "photo_role": "small tubular flower and vegetative context",
+        "anchor_species_id": "justicia-pilosella",
+        "anchor_image_index": 0,
+        "look_for": "Gregg's tube-tongue has a further floral shape and leafy habit within Acanthaceae. Look for opposite simple leaves and flower details; fruit/anther structure remains a specialty macro gap.",
+        "why_it_matters": "Shows breadth across local Acanthaceae without assuming a single floral shape, leaf size or color.",
+        "status": "installed_exact_species_photo_reference; microscopic_part_arrows_pending"
+      },
+      {
+        "title": "9 · Purple terminal-flowered wild petunia (external reference)",
+        "photo_role": "offsite licensed flowering habit from older nudiflora identification",
+        "anchor_species_id": "ruellia-ciliatiflora",
+        "anchor_image_index": 0,
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ruellia%20ciliatiflora%20%284611089716%29.jpg",
+        "image_credit": "Dinesh Valke",
+        "image_label": "Ruellia ciliatiflora",
+        "look_for": "This Commons image is hosted externally, not installed as a file in the GitHub learner. It uses historical name Ruellia nudiflora; the project treats that as a synonym of canonical R. ciliatiflora. Look for a flowering stalk raised above foliage; it is a contextual photo, not an annotated cyme-origin macro.",
+        "why_it_matters": "Separates stem-position learning and accepted-name synonyms from image installation/rights status.",
+        "status": "external_reference_real_photo"
+      },
+      {
+        "title": "10 · Open a ripe Acanthaceae capsule",
+        "photo_role": "two locules and two splitting capsule valves",
+        "look_for": "A ripe Ruellia CAPSULE should show two chambers (LOCULES) and two longitudinally splitting VALVES. Do not mistake the five-lobed green CALYX enclosing a developing fruit for the two internal chambers.",
+        "why_it_matters": "A dry capsule is stronger family evidence than the flower's purple color. Needs a licensed photo with opened specimen and scale.",
+        "status": "needs_exact_species_dissection_photo"
+      },
+      {
+        "title": "11 · Find the seed-support hooks (retinacula)",
+        "photo_role": "retinacula / jaculators inside mature fruit",
+        "look_for": "An opened mature Ruellia fruit reveals tiny woody or hardened curved seed-support hooks (RETINACULA, also called JACULATORS). Annotate the hooks only after a genuinely sharp interior macro and actual arrow position are verified. They occur commonly, but NOT universally, in all Acanthaceae.",
+        "why_it_matters": "The hook-and-seed system is the family's most memorable reproductive structure and explains the fruit-release mechanism.",
+        "status": "needs_exact_species_microscopic_macro"
+      },
+      {
+        "title": "12 · Seed launch versus mint nutlets",
+        "photo_role": "two-valved explosive capsule compared with four nutlets",
+        "look_for": "Photograph a mature Ruellia capsule before and after opening, ideally with seeds and retinacula. Pair it with a true mint calyx and four separate NUTLETS to illustrate the distinction. Do not equate 'both square stems and opposite leaves' with one family.",
+        "why_it_matters": "Separates Acanthaceae from frequent local Lamiaceae look-alikes using fruits rather than leaf shape alone.",
+        "status": "needs_matched_capsule_nutlet_photo"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Acanthaceae vs Plantaginaceae",
+        "rule": "Both can have tubular bilateral flowers and capsules. Acanthaceae commonly has retinacula/jaculators; Plantaginaceae does not."
+      },
+      {
+        "title": "Acanthaceae vs Lamiaceae",
+        "rule": "Lamiaceae commonly makes four nutlets; Acanthaceae makes a capsule."
+      },
+      {
+        "title": "Ruellia versus Anisacanthus: Acanthaceae is not one flower shape",
+        "rule": "Ruellia corolla opens into a broad five-lobed funnel; Anisacanthus often has a comparatively slender tubular red bloom. Family diagnosis rests more on total floral and fruit structure than hue or outline."
+      },
+      {
+        "title": "Ruellia fruit compared to Lamiaceae nutlets",
+        "rule": "Ruellia often has a two-locular two-valved capsule with woody retinacula; many mints have four dry one-seeded nutlets. Opposite leaves and tube-like flowers overlap and don't prove either family."
+      }
+    ],
+    "caveat": "Broad Acanthaceae includes unequal corollas and some species lacking retinacula; no single flower color, stem cross section, seed hook or symmetry applies universally. Existing exact-species photos illustrate flower/foliage recognition and are NOT proof of photographed micros; three captioned steps are explicitly unphotographed. R. ciliatiflora is a licensed but linked-only external source, no physical photo installed.",
+    "previous_steps_20261009": [
+      {
+        "title": "1 · Start with a Ruellia flower",
+        "photo_role": "Ruellia habit + flower",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ruellia%20ciliatiflora%20%284611089716%29.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_ciliatiflora_(4611089716).jpg",
+        "image_label": "Ruellia ciliatiflora",
+        "image_credit": "Creative Commons Attribution-ShareAlike",
+        "look_for": "Opposite leaves and a tubular bilateral flower.",
+        "why_it_matters": "Gets you into the correct Lamiales neighborhood.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Wait for the capsule",
+        "photo_role": "2-locular capsule",
+        "look_for": "A dry capsule divided into two chambers.",
+        "why_it_matters": "Fruit architecture is stronger than flower color.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "3 · Find the retinacula",
+        "photo_role": "seed-support hooks",
+        "look_for": "Woody hook-like structures that support the seeds inside the capsule.",
+        "why_it_matters": "Retinacula are the standout family mechanism.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Watch the mature capsule open",
+        "photo_role": "capsule opening and seed release",
+        "look_for": "A mature capsule opening along its valves and releasing seeds.",
+        "why_it_matters": "Links the capsule structure to its dispersal function.",
+        "status": "diagram_pending"
+      }
+    ],
+    "photo_source_key": [
+      {
+        "id": "ruellia-humilis",
+        "index": 0,
+        "role": "corolla funnel and opposite leaf shape",
+        "creator": "Miwasatoshi",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia-humilis-20080401.JPG",
+        "status": "physically_installed_exact_species"
+      },
+      {
+        "id": "ruellia-humilis",
+        "index": 1,
+        "role": "leaf margin hairs and inflorescence context",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_humilis_kz01.jpg",
+        "status": "physically_installed_exact_species"
+      },
+      {
+        "id": "ruellia-drummondiana",
+        "index": 0,
+        "role": "short pubescence and five-lobed tubular bloom",
+        "creator": "Michelle",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_drummondiana.jpg",
+        "status": "physically_installed_exact_species"
+      },
+      {
+        "id": "ruellia-metziae",
+        "index": 0,
+        "role": "white funnel corolla and terminal flowering habit",
+        "creator": "Michelle W.",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_metziae_in_bloom.jpg",
+        "status": "physically_installed_exact_species"
+      },
+      {
+        "id": "justicia-americana",
+        "index": 1,
+        "role": "Dianthera / Justicia flower macro",
+        "creator": "Judy Gallagher",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Water_Willow_-_Justicia_americana,_Leesylvania_State_Park,_Woodbridge,_Virginia.jpg",
+        "status": "physically_installed_exact_species"
+      },
+      {
+        "id": "anisacanthus-quadrifidus-var-wrightii",
+        "index": 0,
+        "role": "flame acanthus red tubular flowers",
+        "creator": "Scott",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Anisacanthus_quadrifidus_wrightii.jpg",
+        "status": "physically_installed_exact_species"
+      },
+      {
+        "id": "dicliptera-brachiata",
+        "index": 0,
+        "role": "foldwing flowers and leafy bract context",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Dicliptera_brachiata.jpg",
+        "status": "physically_installed_exact_species"
+      },
+      {
+        "id": "justicia-pilosella",
+        "index": 0,
+        "role": "small tubular flower and vegetative context",
+        "creator": "Casey Cowan, iNaturalist user seekingtrees",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Justicia_pilosella.jpg",
+        "status": "physically_installed_exact_species"
+      },
+      {
+        "id": "ruellia-ciliatiflora",
+        "index": 0,
+        "role": "offsite licensed flowering habit from older nudiflora identification",
+        "creator": "Dinesh Valke",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_ciliatiflora_(4611089716).jpg",
+        "status": "external_reference_real_photo"
+      }
+    ],
+    "photo_coverage_note": "8 physically installed licensed flower/habit/foliage photographs from five genera; one external-only Ruellia ciliatiflora Commons reference; no exact microscopic capsule/retinaculum image yet. All physical photo roles/creators/licenses traced to canonical images[]; arrows not placed without actually identifying pixels."
+  },
+  "curation_status": {
+    "version": "1.1-acanthaceae-eight-installed-photo-teaching",
+    "last_reviewed": "2026-10-14",
+    "visual_lock": "family flower/vegetative multispecies photos locked; fruit retinacula must be separately installed with arrow verification",
+    "family_installed_photo_anchors": 8,
+    "remote_photo_anchors": 1,
+    "specialist_photo_gaps": 3,
+    "scope_science_guardrail": "Ruellia county science status untouched; all four cite Williamson out-of-zone, flagged in Ruellia genus handoff."
+  },
+  "family_confusion_polish": {
+    "reviewed": "2026-10-09",
+    "status": "comparison_text_complete_diagnostic_photos_pending",
+    "look_here_first": "For local Ruellia/Dyschoriste, split a mature dry capsule to inspect seed-support retinacula; confirm two chambers and opposite exstipulate leaves. Flower color and opposite leaves alone are weak evidence.",
+    "genus_routing": {
+      "Ruellia": "showy tubular flower; inspect mature capsule and retinacula",
+      "Dyschoriste": "narrow foliage and smaller tubular flowers; inspect mature capsule and calyx against Ruellia",
+      "Dicliptera": "flower clusters enclosed by conspicuous paired bracts; inspect bracts, anthers and fruit",
+      "Justicia": "often two fertile stamens and bilateral flowers; inspect anther structure, bracts and capsule",
+      "Anisacanthus": "slender tubular flowers; inspect two stamens, calyx and mature fruit",
+      "Hygrophila": "wet-site herb with opposite leaves and axillary flowers; inspect flower and capsule rather than habitat alone"
+    },
+    "confusable_families": [
+      {
+        "family": "Plantaginaceae",
+        "separator": "Both may have bilabiate flowers and capsules. Many local Acanthaceae show woody seed-support retinacula in opened capsules; Plantaginaceae lacks these. Retinacula are not universal in all Acanthaceae."
+      },
+      {
+        "family": "Lamiaceae",
+        "separator": "Usually four one-seeded nutlets and a gynobasic style in Lamiaceae, versus a two-chambered capsule in many Acanthaceae."
+      },
+      {
+        "family": "Verbenaceae",
+        "separator": "Opposite leaves and tubular flowers overlap; check style, mature fruit and seed attachments, not flower color."
+      }
+    ],
+    "exceptions": [
+      "Retinacula are common, not universal, across Acanthaceae.",
+      "Two versus four fertile stamens is useful within genera, not a reliable family-wide separator.",
+      "Source-pool Ruellia nudiflora and R. occidentalis concepts are represented under canonical R. ciliatiflora; preserve existing aliases and native-range states."
+    ],
+    "diagnostic_photo_roles": [
+      "Ruellia/Dyschoriste mature capsule opened, two locules, woody retinacula and seeds labeled",
+      "Same-scale Plantaginaceae capsule without hooks",
+      "Lamiaceae four nutlets in persistent calyx",
+      "Dicliptera paired inflorescence bracts",
+      "Justicia/Anisacanthus stamen and anther close-up",
+      "Hygrophila axillary flowers and mature fruit"
+    ],
+    "media_policy": "Reuse exact-genus project/Joey/user imagery if already licensed; new matched macros belong to Diagnostic Photo Polish.",
+    "taxonomy_handoff": "Check any disputed species-level Dyschoriste/Ruellia key characters separately; do not reopen aliases or county range."
+  }
+}

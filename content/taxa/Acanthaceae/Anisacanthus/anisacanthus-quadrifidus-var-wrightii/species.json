@@ -1,0 +1,67 @@
+{
+  "id": "anisacanthus-quadrifidus-var-wrightii",
+  "entry_type": "infraspecific_taxon",
+  "family": "Acanthaceae",
+  "genus": "Anisacanthus",
+  "species": "quadrifidus",
+  "infraspecific_rank": "variety",
+  "infraspecific_epithet": "wrightii",
+  "scientific_name": "Anisacanthus quadrifidus var. wrightii",
+  "authority": "(Torr.) Henrickson",
+  "common_name": "Flame acanthus / Wright's desert honeysuckle / Texas firecracker",
+  "synonyms": [
+    "Anisacanthus wrightii (Torr.) A.Gray",
+    "Drejera wrightii Torr.",
+    "Anisacanthus junceus (Torr.) Hemsl.",
+    "Drejera juncea Torr.",
+    "Anisacanthus quadrifidus wrightii"
+  ],
+  "taxonomic_note": "Current Kew POWO accepts Anisacanthus quadrifidus var. wrightii. The nominate variety, A. quadrifidus var. quadrifidus, is Mexico-only; the Texas native flame acanthus concept belongs to var. wrightii. Source-pool spelling without rank marker (Anisacanthus quadrifidus wrightii) is a searchable alias for this accepted variety, not a separate taxon; the unqualified parent A. quadrifidus remains a broader concept.",
+  "look_here_first": "Start with the woody shrub habit and long red-orange tubular flowers. Flame acanthus is a many-stemmed deciduous shrub with opposite narrow leaves and terminal clusters of narrow two-lipped hummingbird flowers.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Uvalde",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — documented at Reimer's Ranch and represented in Austin native-plant resources. Uvalde — documented at Garner State Park and in a historical Kew specimen from southwestern Texas/Uvalde. Williamson — UT Plant Resources Center provides a dedicated county treatment.",
+    "range_guardrail": "Purola Preserve Hays record is explicitly introduced from seed and is not counted as native Hays evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "multi-stemmed deciduous woody shrub",
+      "opposite narrow lanceolate leaves",
+      "orange-red to scarlet tubular bilabiate flowers",
+      "terminal spike-like clusters or condensed cymes",
+      "blooms repeatedly after summer rains",
+      "dry rocky streambanks, shrublands, and grasslands"
+    ],
+    "comparison_training": "Within this batch, the bare species name and the malformed 'A. quadrifidus wrightii' source row are not separate learner taxa. Central Texas flame acanthus should be learned as A. quadrifidus var. wrightii."
+  },
+  "curation_status": {
+    "version": "1.0-b083",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Scout photo candidates were user-approved for current study use; diagnostic-photo polish can continue separately.",
+  "images": [
+    {
+      "file": "images/01-red-tubular-flowers-foliage.jpg",
+      "role": "Red tubular flowers with opposite narrow foliage; exact-variety fast-fill anchor",
+      "creator": "Scott",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Anisacanthus_quadrifidus_wrightii.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

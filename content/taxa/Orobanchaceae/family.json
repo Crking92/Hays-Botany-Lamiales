@@ -1,0 +1,162 @@
+{
+  "rank": "family",
+  "name": "Orobanchaceae",
+  "common_name": "Broomrape / paintbrush family",
+  "project_scope": {
+    "selection_mode": "Central Texas green-hemiparasite reference module",
+    "note": "Central Texas green-hemiparasite reference module. Castilleja lindheimeri is now the canonical clickable local paintbrush anchor; Joey Y7A530PjEbU provides private-study habitat/hemiparasite context."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "First recognize that many local members are fully green hemiparasites. Then inspect the bracted spike, fused bilateral corolla, superior ovary, and many-seeded capsule.",
+    "leaves": "Simple and exstipulate; opposite or alternate depending on genus.",
+    "flower": "Fused tubular usually zygomorphic corolla, commonly 4 stamens.",
+    "fruit": "Dry many-seeded capsule.",
+    "field_tip": "Do not uproot plants to prove parasitism; haustoria are underground."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Orobanchaceae is a good anti-stereotype family: many local members are green, leafy, and photosynthetic even though they are root hemiparasites.",
+    "steps": [
+      {
+        "title": "1 · See a green hemiparasite",
+        "photo_role": "Buchnera americana whole illustration",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Buchnera_americana.png",
+        "image_label": "Buchnera americana",
+        "image_credit": "Public Domain (US)",
+        "look_for": "A normal-looking green herb with a bracted flowering axis.",
+        "why_it_matters": "Breaks the 'parasitic plant = pale leafless thing' misconception.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Read the flower tube",
+        "photo_role": "tubular bilateral flower",
+        "look_for": "Fused, usually zygomorphic corolla with about 4 fertile stamens.",
+        "why_it_matters": "Places the family among other tubular-flowered Lamiales.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "3 · Look at the bracts",
+        "photo_role": "showy bracts vs true corolla",
+        "look_for": "In paintbrushes, much of the bright orange-red/scarlet display is a set of floral bracts surrounding much less conspicuous tubular flowers.",
+        "why_it_matters": "The local Castilleja anchor prevents the common mistake of calling the colorful bracts 'petals.'",
+        "status": "canonical_anchor_private_video_study",
+        "anchor_species_id": "castilleja-lindheimeri"
+      },
+      {
+        "title": "4 · Confirm the capsule",
+        "photo_role": "many-seeded capsule",
+        "look_for": "A dry capsule with numerous tiny seeds.",
+        "why_it_matters": "Helps separate the family from Lamiaceae nutlets.",
+        "status": "diagram_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Orobanchaceae vs Plantaginaceae",
+        "rule": "Corolla shape can overlap. Orobanchaceae adds parasitic biology and often strongly bracted inflorescences; both may have capsules."
+      },
+      {
+        "title": "Orobanchaceae vs Lamiaceae",
+        "rule": "Lamiaceae commonly has a deeply 4-lobed ovary and four nutlets; Orobanchaceae commonly has a many-seeded capsule."
+      }
+    ],
+    "caveat": "Do not uproot plants to verify parasitism, and do not assume all family members are achlorophyllous.",
+    "diagnostic_photo_handoff": {
+      "status": "pending_photo_polish",
+      "note": "Existing Castilleja bracts are not corollas; Agalinis edwardsiana installed frame shows a closed bud, not exposed stamens. Need dissected bract/calyx/corolla and open Agalinis flower; arrow status pending.",
+      "annotation_status": "annotation_pending",
+      "verified_anatomy_only": "Do not infer unseen structures from existing photos."
+    }
+  },
+  "curation_status": {
+    "version": "1.2-castilleja-photo-first-family",
+    "last_reviewed": "2026-10-14",
+    "visual_lock": "seven physically installed Castilleja anchors tied to bract/calyx/corolla teaching; capsule and Lindheimer diagnostic macro remain pending",
+    "installed_castilleja_photo_anchors": 7,
+    "rights_recorded_castilleja_anchors": 6,
+    "private_study_castilleja_anchors": 1,
+    "range_decisions_changed": false
+  },
+  "castilleja_training_module": {
+    "title": "Paintbrush anatomy: the colored brush is not one big flower",
+    "look_here_first": "Use a side-on Castilleja spike. Find the colored floral BRACT below a flower, the colored CALYX surrounding its base, and then the narrower projecting COROLLA. This gives learners a concrete way to understand a bracted Orobanchaceae inflorescence before they compare species.",
+    "teaching_points": [
+      "Castilleja is a green root hemiparasite: it photosynthesizes but also forms underground haustorial connections to host roots.",
+      "The conspicuous red, orange, pink, or purple display is largely bract/calyx tissue; the true flower is the narrower bilateral corolla.",
+      "Family confirmation should include a fused bilateral corolla and eventually a dry many-seeded capsule; do not treat color as a family character.",
+      "Do not uproot plants merely to demonstrate parasitism."
+    ],
+    "installed_photo_anchors": [
+      {
+        "taxon_id": "castilleja-indivisa",
+        "role": "annual whole-plant habit",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-indivisa/images/01-flowering-stems-habit.jpg",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-indivisa",
+        "role": "bracts plus projecting corolla",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-indivisa/images/02-flowering-spike-bracts-corolla.jpg",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-indivisa",
+        "role": "bract/flower close-up",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-indivisa/images/03-bract-flower-closeup.jpg",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-purpurea",
+        "role": "perennial whole-plant and purple-pink display",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-purpurea/images/01-purple-pink-flowering-habit.jpg",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-purpurea",
+        "role": "bracted flowering-spike architecture",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-purpurea/images/02-flowering-spike-habit.jpg",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-purpurea",
+        "role": "pink bracts with true-corolla context",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-purpurea/images/03-pink-bracts-corolla-closeup.jpg",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-lindheimeri",
+        "role": "Edwards Plateau habitat and whole-plant context",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-lindheimeri/images/castilleja-lindheimeri_habitat-source-label_00-35.jpg",
+        "status": "physically_installed_private_study_only"
+      }
+    ],
+    "photo_coverage_note": "Seven physical Castilleja anchors are present. Six have recorded reusable/study licenses and one Joey frame is private-study only. A rights-safe Lindheimer's paintbrush anatomy close-up and a true capsule/seed macro remain explicit gaps."
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "bract vs calyx vs corolla",
+      "best_subject": "Castilleja",
+      "annotation_goal": "arrow one colored floral bract, the calyx, and the projecting bilateral corolla in the same side-view photograph"
+    },
+    {
+      "priority": 1,
+      "structure": "many-seeded capsule",
+      "best_subject": "Castilleja or another local rights-safe Orobanchaceae member",
+      "annotation_goal": "show mature dry capsule opened enough to reveal numerous small seeds"
+    },
+    {
+      "priority": 2,
+      "structure": "green hemiparasite habit",
+      "best_subject": "Castilleja / Buchnera",
+      "annotation_goal": "teach photosynthetic habit without uprooting or implying that a neighboring plant in one photo is the proven host"
+    },
+    {
+      "priority": 2,
+      "structure": "fused bilateral corolla",
+      "best_subject": "Castilleja",
+      "annotation_goal": "show corolla tube, upper beak/lip, lower lip, and stigma/stamens only when the photograph resolves them"
+    }
+  ]
+}

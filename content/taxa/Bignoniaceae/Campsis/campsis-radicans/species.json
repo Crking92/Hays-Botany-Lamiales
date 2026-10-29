@@ -1,0 +1,85 @@
+{
+  "id": "campsis-radicans",
+  "entry_type": "species",
+  "family": "Bignoniaceae",
+  "genus": "Campsis",
+  "species": "radicans",
+  "scientific_name": "Campsis radicans",
+  "authority": "(L.) Bureau",
+  "common_name": "Trumpet creeper / trumpet vine",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Look at the climbing organ first: trumpet creeper clings with short aerial rootlets, then confirm the large opposite odd-pinnate leaves with 7–11 sharply serrated leaflets.",
+  "county_occurrences_target_zone": [
+    "Bell",
+    "San Saba",
+    "Travis",
+    "Sutton"
+  ],
+  "target_zone_count": 4,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "USDA-derived county/native-status data document Bell, San Saba, Travis and Sutton as native target-zone counties. Hays is also present in the project Hays source list but is not needed for the threshold.",
+    "range_guardrail": "Widely planted and capable of escape; ornamental observations are not used to manufacture native counties."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "vigorous deciduous woody liana",
+      "climbs by short aerial rootlets rather than tendrils",
+      "leaves opposite and odd-pinnately compound",
+      "commonly 7–11 ovate to lanceolate sharply serrated leaflets",
+      "large orange to reddish-orange tubular/funnelform flowers in terminal clusters",
+      "four fertile didynamous stamens plus a staminode",
+      "long narrow 2-valved capsule with many flattened winged seeds"
+    ],
+    "comparison_training": "The climbing organ is the fastest split from crossvine: rootlets in Campsis versus branched adhesive tendrils in Bignonia."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Bignonia capreolata",
+      "Lonicera sempervirens",
+      "Dolichandra unguis-cati"
+    ],
+    "key_distinctions": "Crossvine has two leaflets plus an adhesive tendril. Coral honeysuckle has simple opposite leaves and berries. Catclaw vine has paired leaflets plus a claw-like tendril."
+  },
+  "tags": [
+    "Bignoniaceae",
+    "Campsis",
+    "Trumpet creeper",
+    "Woody vine",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b018",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "photo_note": "Diagnostic image roles are verified in the deep-review draft; exact reusable photo selections remain later visual polish.",
+  "images": [
+    {
+      "file": "images/01-compound-serrate-leaf.jpg",
+      "role": "Odd-pinnate compound leaf with sharply serrated leaflets",
+      "creator": "Jaknouse",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans-leaf.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-flowering-vine-foliage.jpg",
+      "role": "Flowering vine context with compound leaves and orange trumpet flowers",
+      "creator": "BotBln",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans_LeavesFlowers_BotGardBln0806.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

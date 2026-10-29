@@ -1,0 +1,155 @@
+{
+  "rank": "genus",
+  "name": "Bignonia",
+  "family": "Bignoniaceae",
+  "common_group": "Crossvine",
+  "project_scope": {
+    "canonical_species_ids": [
+      "bignonia-capreolata"
+    ],
+    "canonical_species_count": 1,
+    "source_pool_taxa": [
+      "Bignonia capreolata"
+    ],
+    "lookalike_reference_genera": [
+      "Campsis",
+      "Chilopsis"
+    ],
+    "native_target_zone_calculated": false,
+    "source_of_status": "content/taxa/Bignoniaceae/Bignonia/bignonia-capreolata/species.json",
+    "note": "One canonical species in this genus in the current learner; comparisons to other genera are NOT separate canonical species."
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Opposite LEAVES each built from a pair of broad, typically entire leaflets, with the position of the third terminal leaflet modified into a BRANCHED TENDRIL with adhesive discs at the tips. Semi-evergreen climbing vine with red-orange trumpet flowers, often yellow inside, and flat two-valved fruit capsules.",
+    "emphasis": "USE LEAF STRUCTURE / CLIMBING MECHANISM first; flower color alone is poor Bignoniaceae ID. Confirm with long 2-valved capsule and seeds.",
+    "family_note": "Bignoniaceae generally has bilateral trumpet-shaped flowers with four fertile didynamous stamens + reduced fifth, and capsules with winged or haired seeds."
+  },
+  "genus_comparison_matrix": [
+    {
+      "character": "climbing attachment",
+      "Bignonia": "Adhesive discs at the tips of branching *leaf-derived tendrils*",
+      "Campsis": "Stem-borne adventitious aerial ROOTLETS, not tendrils",
+      "Chilopsis": "No climbing organs; freestanding shrub/tree"
+    },
+    {
+      "character": "leaf architecture",
+      "Bignonia": "Bifoliolate (2 leaflets) plus the middle leaflet position modified into tendril",
+      "Campsis": "Odd-pinnate, 7–11 serrate leaflets",
+      "Chilopsis": "One very narrow linear blade per leaf"
+    },
+    {
+      "character": "leaf margin and evergreen habit",
+      "Bignonia": "Broad leaflets largely entire, evergreen to semi-evergreen",
+      "Campsis": "Coarsely serrate leaflets, deciduous",
+      "Chilopsis": "Narrow entire simple leaves, deciduous"
+    },
+    {
+      "character": "flower interior",
+      "Bignonia": "Reddish/orange trumpets often show yellow-throated interior",
+      "Campsis": "Often orange/red large trumpets",
+      "Chilopsis": "Ruffled pink/lavender marked trumpets"
+    },
+    {
+      "character": "fruit",
+      "Bignonia": "Elongated flattened, two-valved dry capsule with winged seeds",
+      "Campsis": "Long two-valved capsule and thin winged seeds",
+      "Chilopsis": "Very thin two-valved capsule, hairy/wing-fringed seeds"
+    },
+    {
+      "character": "growth form",
+      "Bignonia": "Climbs fences and trunks by tendril adhesive pads",
+      "Campsis": "Rootlet-clinging woody climber",
+      "Chilopsis": "Small tree, no vine habit"
+    }
+  ],
+  "look_here_first_sequence": [
+    "Find two opposite leaflets and check the leaf's third position for a branched tendril. No tendril + 7–11 serrate leaflets → probably Campsis.",
+    "Magnify tendril ends for distinct adhesive pads/discs, not claws. Adhesive origin = LEAF, unlike Campsis stem rootlets.",
+    "Confirm evergreen/semi-evergreen climbing vine and orange/red trumpet flowers, but do not use color as primary split.",
+    "Look for flattened splitting capsule and numerous winged seeds; this separates from honeysuckle berries."
+  ],
+  "lookalikes_and_scientific_cautions": [
+    "Dolichandra unguis-cati (catclaw creeper) has three-part clawlike hooked tendril tips rather than Bignonia's adhesive discs.",
+    "Campsis radicans attaches with aerial stem rootlets and has more pinnate serrate leaflets; do not confuse their similarly trumpet-shaped flowers.",
+    "Lonicera sempervirens (coral honeysuckle) has simple entire opposite leaves and fleshy berries, not the Bignoniaceae dry long 2-valved capsule.",
+    "This canonical B. capreolata is Texas native at state scale but not certified project target-zone native; don't change its range label to PASS."
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "role": "leaf-tip tendril macro",
+      "priority": "critical",
+      "show": "two leaflets plus central branched tendril and terminal adhesive discs, arrows to modified leaflet position"
+    },
+    {
+      "role": "attachment organ crossvine vs trumpet creeper",
+      "priority": "critical",
+      "show": "Bignonia leaf-borne adhesive disc and Campsis stem-borne rootlets side-by-side, same scale"
+    },
+    {
+      "role": "Bignonia vs catclaw hooked tips",
+      "priority": "high",
+      "show": "adhesive disc versus hooklike catclaw tendril tips, exact taxon reference"
+    },
+    {
+      "role": "complete capsule",
+      "priority": "high",
+      "show": "opened long 2-valved capsule and flattened winged seeds with scale"
+    },
+    {
+      "role": "flower throat and leaves",
+      "priority": "high",
+      "show": "tubular bloom and entire paired leaflets in same frame, no species ID based on color alone"
+    },
+    {
+      "role": "leaf comparison plate",
+      "priority": "high",
+      "show": "Bignonia 2+ tendril versus Campsis 7–11 leaflets versus Chilopsis 1 linear blade"
+    }
+  ],
+  "existing_photo_inventory": [
+    {
+      "path": "content/taxa/Bignoniaceae/Bignonia/bignonia-capreolata/images/bignonia-capreolata-provisional-face.jpg",
+      "role": "flowering vine face (not a diagnostic tendril macro)"
+    }
+  ],
+  "visual_training_group": [
+    {
+      "name": "Campsis radicans",
+      "door": "WOODY CLIMBER + aerial attachment rootlets + odd pinnate leaf of 7–11 serrated leaflets"
+    },
+    {
+      "name": "Bignonia capreolata",
+      "door": "WOODY CLIMBER + adhesive branched tendril replacing third leaflet + TWO leaflets per leaf"
+    },
+    {
+      "name": "Chilopsis linearis",
+      "door": "SELF-SUPPORTING TREE/SHRUB + SINGLE very narrow willow-like leaf (alternate or opposite) + trumpet flowers"
+    }
+  ],
+  "diagnostic_photo_handoff": "Diagnostic-photo lane: get a clear attached adhesive-tendril macro, which is the defining split; existing image is face only.",
+  "scientific_sources": [
+    {
+      "title": "Canonical species cards",
+      "notes": "Use corresponding exact source species.json for approved learner identity, source image licenses and project range classification"
+    },
+    {
+      "title": "Bignoniaceae family recognition",
+      "path": "content/taxa/Bignoniaceae/family.json",
+      "notes": "4 didynamous stamens + reduced fifth, two-valved dry capsules and flattened wind-dispersed seeds"
+    },
+    {
+      "title": "University of Michigan Climbers — Campsis radicans",
+      "url": "https://climbers.lsa.umich.edu/campsis-radicans/",
+      "notes": "direct comparison to crossvine leaflets/tendrils and climbing attachment"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-backfill-2026-10-11",
+    "last_reviewed": "2026-10-11",
+    "comparison_rows": 6,
+    "photo_locks": 6,
+    "visual_status": "existing canonical species assets inventoried; no new photos installed",
+    "scientific_decisions": "unchanged",
+    "species_installation": "none"
+  }
+}

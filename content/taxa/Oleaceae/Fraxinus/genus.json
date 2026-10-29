@@ -1,0 +1,216 @@
+{
+  "rank": "genus",
+  "family": "Oleaceae",
+  "name": "Fraxinus",
+  "authority": "Tourn. ex L.",
+  "common_group": "Ashes",
+  "project_scope": {
+    "selection_mode": "manifest-backed canonical learner set + Central Texas diagnostic polish",
+    "canonical_species_ids": [
+      "fraxinus-albicans",
+      "fraxinus-pennsylvanica",
+      "fraxinus-berlandieriana",
+      "fraxinus-greggii"
+    ],
+    "canonical_species_count": 4,
+    "source_concept_count": 4,
+    "note": "All four species are canonical learner entries in data/manifest.json. F. albicans, F. pennsylvanica and F. berlandieriana currently carry project PASS range status; F. greggii remains canonical for learning with unresolved target-zone range status and is excluded from native metrics."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "Opposite twigs/branching",
+      "Odd-pinnately compound leaves",
+      "Dioecious trees/shrubs, so only female trees carry samaras",
+      "Winged samara fruit when female and mature"
+    ],
+    "priority": [
+      "samara wing-to-body relationship and seed-body size",
+      "lower leaflet surface / glaucous wax",
+      "leaflet number and serration pattern",
+      "leaf scar shape on recent natural leaf fall",
+      "Gregg's ash xeric shrub habit + tiny leathery foliage"
+    ],
+    "warning": "Do not identify Central Texas ashes from a single leaf silhouette. Leaflet counts overlap, leaf scars vary, and fruit is absent on male trees. Use the character hierarchy and multiple structures."
+  },
+  "quick_key": [
+    {
+      "if": "Xeric shrub/small tree with tiny thick leathery leaflets, commonly 3 but up to 7; often semi-evergreen",
+      "then": "Fraxinus greggii — canonical learner; project range status remains unresolved"
+    },
+    {
+      "if": "Fruiting tree with samara body about 1 cm and wing terminal or only slightly decurrent on distal ~1/4",
+      "then": "Fraxinus albicans — Texas ash"
+    },
+    {
+      "if": "Fruiting tree with samara body >1.5 cm and wing decurrent on proximal body, then abruptly broadening distally; consistently 2-winged",
+      "then": "Fraxinus pennsylvanica — green ash"
+    },
+    {
+      "if": "Usually 3–5(–7) sharply serrate leaflets + samara >1.5 cm with wings gradually expanding from near base; occasional 3-winged fruits",
+      "then": "Fraxinus berlandieriana — Mexican ash"
+    }
+  ],
+  "curation_status": {
+    "version": "1.2-four-canonical-diagnostic-polish",
+    "last_reviewed": "2026-10-11",
+    "genus_audit": "canonical scope reconciled; diagnostic matrix complete",
+    "source_concepts_reconciled": true,
+    "visual_status": "strong text/matrix; targeted samara/underside/scar photo polish in progress",
+    "scientific_note": "No species range decisions changed in this pass; F. greggii unresolved range state preserved."
+  },
+  "source_concept_status": [
+    {
+      "id": "fraxinus-albicans",
+      "scientific_name": "Fraxinus albicans",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "fraxinus-berlandieriana",
+      "scientific_name": "Fraxinus berlandieriana",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "fraxinus-greggii",
+      "scientific_name": "Fraxinus greggii",
+      "status": "CANONICAL_RANGE_UNRESOLVED",
+      "note": "Learner-approved canonical entry; preserve unresolved target-zone/native-metrics state."
+    },
+    {
+      "id": "fraxinus-pennsylvanica",
+      "scientific_name": "Fraxinus pennsylvanica",
+      "status": "CANONICAL_PASS"
+    }
+  ],
+  "look_here_first": "First confirm opposite branching + pinnately compound leaves. On a fruiting female tree, go straight to the samara: wing attachment and seed-body size are the strongest Central Texas split. On a nonfruiting or male tree, compare the lower leaflet surface, leaflet number/margins, then several fresh leaf scars.",
+  "comparison_matrix": [
+    {
+      "character": "Habit / leaf scale",
+      "albicans": "Tree; ordinary-sized deciduous ash foliage",
+      "pennsylvanica": "Tree; ordinary-sized deciduous ash foliage",
+      "berlandieriana": "Medium tree, often riparian/bottomland",
+      "greggii": "Xeric shrub/small tree; tiny thick leathery foliage, often semi-evergreen",
+      "weight": "FAST GREGGII SPLIT"
+    },
+    {
+      "character": "Leaflet number",
+      "albicans": "Usually 5–7(–9)",
+      "pennsylvanica": "5–7(–9)",
+      "berlandieriana": "3–5(–7)",
+      "greggii": "Commonly 3, up to 7",
+      "weight": "SUPPORTING — COUNTS OVERLAP"
+    },
+    {
+      "character": "Leaflet margins",
+      "albicans": "Entire to distally crenulate / crenulate-serrate",
+      "pennsylvanica": "Subentire to inconspicuously dentate-serrulate",
+      "berlandieriana": "Coarsely, sharply serrate on distal 1/2–2/3",
+      "greggii": "Small leathery leaflets; slight teeth may occur",
+      "weight": "STRONGEST FOR BERLANDIERIANA LEAVES"
+    },
+    {
+      "character": "Lower leaflet surface",
+      "albicans": "Glaucous; dense white-reticulate wax overlay, hairs may occur",
+      "pennsylvanica": "Generally non-glaucous",
+      "berlandieriana": "Glabrous; epidermal cells unobscured",
+      "greggii": "Thick/leathery foliage; matched underside macro still needed",
+      "weight": "HIGH VALUE ON NONFRUITING TREES"
+    },
+    {
+      "character": "Leaf scar",
+      "albicans": "Depressed-obovate; upper margin shallowly concave to slightly notched, margins somewhat flaring",
+      "pennsylvanica": "Shield-shaped to broadly oblong-ovate, ~3–4 mm; apex truncate to very shallowly concave",
+      "berlandieriana": "Shallowly hemispheric, ~2.2–3 mm; apex shallowly concave",
+      "greggii": "Not established as a primary project separator",
+      "weight": "WINTER SUPPORT — EXAMINE SEVERAL"
+    },
+    {
+      "character": "Samara body + wing",
+      "albicans": "Body about 1 cm; wing terminal or only slightly decurrent on distal ~1/4",
+      "pennsylvanica": "Body >1.5 cm; wing decurrent from proximal ~1/4, then abruptly expanded from distal 1/4(–1/2)",
+      "berlandieriana": "Body >1.5 cm; wings gradually expand from base to distal 1/3 and narrowly flange body",
+      "greggii": "Small winged samara; exact matched comparison still a visual-polish target",
+      "weight": "BEST FRUITING-TREE CHARACTER"
+    },
+    {
+      "character": "Wing number",
+      "albicans": "Normally 2",
+      "pennsylvanica": "Consistently 2 in Central Texas comparison",
+      "berlandieriana": "Mostly 2, but 3-winged fruits can occur among 2-winged fruits",
+      "greggii": "Standard ash samara; not a primary split here",
+      "weight": "SUPPORTING CLUE FOR BERLANDIERIANA"
+    }
+  ],
+  "overlap_cautions": [
+    "Samara form is the best Central Texas separator for mature female F. albicans, F. pennsylvanica and F. berlandieriana.",
+    "Male trees and immature trees may lack fruit entirely; then use lower leaflet surface, margins and several recent leaf scars.",
+    "Leaf scars vary. Recent natural leaf fall in late fall/winter is preferable to torn leaves, old scars or mounted-herbarium stems.",
+    "Leaflet counts overlap and should not be used alone.",
+    "Historical Texas ash / green ash / Mexican ash confusion makes multi-character confirmation especially important.",
+    "F. greggii is morphologically distinctive by xeric habit and tiny coriaceous leaflets, but its project range status remains unresolved."
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "matched samara wing/body junction",
+      "targets": [
+        "F. albicans",
+        "F. pennsylvanica",
+        "F. berlandieriana"
+      ],
+      "show": "mature samaras side-by-side with millimeter scale; include seed body and full wing",
+      "separates": "terminal/slightly decurrent Texas ash vs long-decurrent green ash vs gradually expanding Mexican ash wing",
+      "priority": "critical"
+    },
+    {
+      "role": "matched lower leaflet surfaces",
+      "targets": [
+        "F. albicans",
+        "F. pennsylvanica",
+        "F. berlandieriana"
+      ],
+      "show": "same magnification underside macro",
+      "separates": "white-reticulate glaucous Texas ash from non-glaucous/glabrous alternatives",
+      "priority": "critical"
+    },
+    {
+      "role": "mature whole compound leaves",
+      "targets": [
+        "all four"
+      ],
+      "show": "full rachis, leaflet count, margin detail and scale",
+      "separates": "3–5 sharply serrate Mexican ash and tiny coriaceous Gregg's ash from the 5–7(9) tree ashes",
+      "priority": "high"
+    },
+    {
+      "role": "winter leaf scar + bud",
+      "targets": [
+        "F. albicans",
+        "F. pennsylvanica",
+        "F. berlandieriana"
+      ],
+      "show": "several fresh scars per taxon from recent natural leaf fall",
+      "separates": "depressed/notched vs shield-shaped vs shallow hemispheric patterns",
+      "priority": "high"
+    },
+    {
+      "role": "Gregg's ash habit + tiny foliage",
+      "targets": [
+        "F. greggii"
+      ],
+      "show": "whole xeric shrub/small tree plus close compound leaf",
+      "separates": "small coriaceous semi-evergreen foliage from the larger riparian/woodland ashes",
+      "priority": "critical"
+    }
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "UT Austin Plant Resources Center — Distinguishing Fraxinus Taxa in Central Texas",
+      "url": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/FRAXI-CenTex.html",
+      "scope": "albicans / pennsylvanica / berlandieriana morphology and visual comparison"
+    },
+    {
+      "source": "UT Austin Plant Resources Center — Fraxinus/Ash in N. Hays Co.",
+      "url": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/Hays-ash.html",
+      "scope": "Texas ash vs green ash fruit, leaflet and leaf-scar field distinctions"
+    }
+  ]
+}

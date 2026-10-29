@@ -1,0 +1,16 @@
+ANISACANTHUS QUADRIFIDUS VAR. WRIGHTII — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; settled PASS taxonomy/range unchanged.
+
+Existing project/Joey routes were checked first; no installed exact-variety gallery was available.
+
+Exact-variety photo lead:
+- Original Flickr title and Commons filename identify Anisacanthus quadrifidus wrightii.
+- Creator: Scott
+- License: CC BY 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Anisacanthus_quadrifidus_wrightii.jpg
+- Original Flickr source: http://flickr.com/photo/12017190@N06/1248789429
+- Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Anisacanthus_quadrifidus_wrightii.jpg
+- Role: red tubular flowers with opposite narrow foliage.
+
+Fast-fill intentionally stops at one exact-variety image rather than padding this infraspecific page with generic Anisacanthus quadrifidus photos. Better local exact-variety habit/stem images can be added later.

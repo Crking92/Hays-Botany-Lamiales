@@ -1,0 +1,174 @@
+{
+  "rank": "family",
+  "name": "Scrophulariaceae",
+  "common_name": "Figwort family",
+  "lineage_context": {
+    "order": "Lamiales",
+    "batch": "Lamiales residual",
+    "close_project_families": [
+      "Plantaginaceae",
+      "Orobanchaceae",
+      "Lamiaceae",
+      "Verbenaceae",
+      "Paulowniaceae"
+    ],
+    "teaching_goal": "Teach the modern narrow Scrophulariaceae rather than the old broad 'everything with a bilabiate flower' family."
+  },
+  "project_scope": {
+    "selection_mode": "Buddleja + Leucophyllum + Verbascum project module",
+    "note": "Modern molecular classification removed many traditional scrophs into Plantaginaceae, Orobanchaceae, Paulowniaceae and other Lamiales families. The learner must not use old broad-family membership uncritically."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with a fused 4–5-lobed corolla and a superior usually 2-carpellate ovary, then inspect stamen number and fruit. Modern Scrophulariaceae commonly has 2–4(–5) epipetalous stamens and a capsule, but the family is diverse.",
+    "vegetative": "Herbs, shrubs or small trees. Leaves simple, alternate/opposite/whorled; stipules generally absent. Hairs may be woolly or glandular.",
+    "reproductive": "Flowers bisexual, regular to strongly zygomorphic; calyx 4–5-lobed; corolla fused; stamens usually 2 or 4, sometimes 5; ovary superior and commonly 2-locular with axile placentation.",
+    "fruit": "Usually a septicidal or loculicidal capsule, less often berry/drupelike.",
+    "field_tip": "Do not identify 'Scrophulariaceae' from a bilabiate corolla alone. Modern family recognition depends on the genus door plus superior ovary/capsule and exclusion of neighboring Lamiales families. Genus check: Verbascum thapsus has five stamens, commonly three with hairy filaments and two longer nearly hairless; Leucophyllum has four fertile stamens. Do not use four stamens as universal for this family."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_015",
+    "teaching_order": "modern-family warning → superior ovary/capsule → three project genus doors → Plantaginaceae/Orobanchaceae/Paulowniaceae comparison",
+    "intro": "Scrophulariaceae is a taxonomy lesson as much as a morphology lesson. Many plants once called figwort family are now elsewhere, so the local genera matter.",
+    "steps": [
+      {
+        "title": "1 · Start with the modern-family warning",
+        "photo_role": "old-vs-modern Lamiales family map",
+        "look_for": "Buddleja, Leucophyllum and Verbascum remain here; many familiar old 'scrophs' such as Penstemon are now in Plantaginaceae.",
+        "why_it_matters": "Prevents old field-guide family labels from becoming permanent misconceptions.",
+        "status": "taxonomy_card_ready"
+      },
+      {
+        "title": "2 · Buddleja door: small clustered flowers on a Texas shrub",
+        "photo_role": "Buddleja racemosa leaf node + flower cluster",
+        "look_for": "Opposite leaves on a shrub and many small 4-merous tubular flowers clustered along the inflorescence.",
+        "why_it_matters": "Buddleja is a woody Scrophulariaceae form and a strong Edwards Plateau project anchor.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Leucophyllum door: silver leaves + purple axillary flowers",
+        "photo_role": "Leucophyllum leaf/flower macro",
+        "look_for": "Dense silvery stellate hairs on opposite leaves and showy purple-pink tubular flowers arising from leaf axils.",
+        "why_it_matters": "The silver-foliage shrub architecture is instantly recognizable once tied to the family.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Verbascum door: woolly rosette + yellow spike",
+        "photo_role": "Verbascum rosette, flower and capsule",
+        "look_for": "Large woolly basal leaves and a tall spike of yellow 5-part flowers; capsule remains after flowering.",
+        "why_it_matters": "It is the herbaceous extreme of the project family and an introduced comparison.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "5 · Confirm the superior capsule",
+        "photo_role": "flower-to-capsule sequence",
+        "look_for": "Ovary above the other floral whorls, commonly 2-locular and maturing into a dry capsule.",
+        "why_it_matters": "Helps split Scrophulariaceae from inferior-ovary Lamiales lookalikes.",
+        "status": "macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Scrophulariaceae vs Plantaginaceae",
+        "rule": "Flower shape overlaps heavily. Use current genus placement plus fruit/stamen details; Penstemon and many old snapdragon relatives are Plantaginaceae, not modern Scrophulariaceae."
+      },
+      {
+        "title": "Scrophulariaceae vs Orobanchaceae",
+        "rule": "Orobanchaceae is defined by parasitism/haustoria and includes green hemiparasites; project Scrophulariaceae is autotrophic."
+      },
+      {
+        "title": "Scrophulariaceae vs Paulowniaceae",
+        "rule": "Paulownia is now a separate family: large opposite cordate leaves, tree habit and woody capsules packed with winged seeds."
+      }
+    ],
+    "caveat": "Modern Scrophulariaceae is not safely keyed from one universal visible feature. Use genus identity plus the family-level superior-ovary/capsule pattern and current taxonomy.",
+    "diagnostic_photo_needs": [
+      {
+        "species_id": "verbascum-thapsus",
+        "role": "open flower interior",
+        "structure": "five stamens: three densely hairy filaments and two longer nearly hairless",
+        "annotation_status": "annotation_pending",
+        "status": "photo_anatomy_not_verified"
+      },
+      {
+        "species_id": "leucophyllum-frutescens",
+        "role": "leaf hair and flower interior paired macros",
+        "structure": "stellate leaf hairs and four fertile stamens",
+        "annotation_status": "annotation_pending",
+        "status": "photo_anatomy_not_verified"
+      },
+      {
+        "species_id": "buddleja-racemosa",
+        "role": "flower cluster and single-flower close-up",
+        "structure": "cluster architecture and four-part flower; assess sex expression separately",
+        "annotation_status": "annotation_pending",
+        "status": "photo_anatomy_not_verified"
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 3,
+    "genera": [
+      {
+        "genus": "Buddleja",
+        "fast_cue": "Texas shrub + opposite leaves + many small tubular flowers in clusters",
+        "role": "native woody anchor"
+      },
+      {
+        "genus": "Leucophyllum",
+        "fast_cue": "silvery stellate-hairy shrub + purple axillary tubular flowers",
+        "role": "dryland shrub door"
+      },
+      {
+        "genus": "Verbascum",
+        "fast_cue": "woolly basal rosette + tall yellow-flowered spike + capsule",
+        "role": "introduced herb comparison"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "modern Scrophulariaceae family map",
+      "annotation_goal": "show former scroph genera now in Plantaginaceae/Orobanchaceae/Paulowniaceae"
+    },
+    {
+      "priority": 1,
+      "structure": "Leucophyllum stellate hairs",
+      "annotation_goal": "label star-shaped hairs"
+    },
+    {
+      "priority": 1,
+      "structure": "Buddleja flower cluster",
+      "annotation_goal": "show small tubular flowers and opposite node"
+    },
+    {
+      "priority": 2,
+      "structure": "superior 2-locular ovary/capsule",
+      "annotation_goal": "connect family flower to fruit"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Scrophulariaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30466893-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Buddleja racemosa",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:545866-1/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Leucophyllum frutescens",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:139187-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Verbascum thapsus",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:770183-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-015",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "modern_taxonomy_card_ready_genus_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "rank": "genus",
+  "family": "Verbenaceae",
+  "name": "Lantana",
+  "authority": "L.",
+  "common_group": "Lantanas / calico bush shrubs",
+  "project_scope": {
+    "local_focus": "Texas lantana (Lantana urticoides) confirmed native-target PASS already held by canonical species",
+    "canonical_species_ids": [
+      "lantana-urticoides"
+    ],
+    "canonical_species_count": 1,
+    "comparators_not_canonical": [
+      "Lantana camara / L. strigocamara cultivated complex",
+      "Lantana achyranthifolia",
+      "Lantana montevidensis"
+    ],
+    "taxon_concept_warning": "POWO accepts Lantana urticoides Hayek in its native Texas range, while some older flora/ITIS treat the Lantana horrida nomenclature differently and some iNaturalist taxon histories use hybrid Lantana × urticoides. No automated synonym/hybrid mapping; preserve canonical species as reviewed, verify each photographed specimen.",
+    "identity_and_rights": "1 physically installed and inspected Texas field photo by Chet Burrier, CC BY 4.0, taken at Stockdale, Wilson County, from iNaturalist research-grade observation 157402241. Two original Commons external references are identity-HOLD (the first has conflicting 'depicts L. camara' metadata, the second is an Indonesian upload without accepted taxon voucher)."
+  },
+  "look_here_first": "IGNORE flower colors at first. Find a WOODY shrub with OPPOSITE pairs of coarse-toothed, rough (SCABROUS) leaves and axillary PEDUNCLES (stalks) carrying dense rounded FLOWER HEADS. Look below ONE blossom in the head for a subtending BRACTLET, not a petal. The Texas native L. urticoides has strong stiff/rough leaf hairs, normally unarmed twigs and particular bractlet/hair characters; introduced L. camara-type garden lantanas can share all the yellow/orange/red blooms, and may lack prickles. Use bract shapes, leaf underside hairs, stem armature, wild provenance and taxon concept together. Don't identify from color or absence of spines alone.",
+  "genus_diagnostics": {
+    "habit": "Perennial aromatic shrubs and subshrubs, usually branching; some cultivated taxa trail. Texas L. urticoides is generally winter deciduous and woody rather than a creeping frogfruit (Phyla).",
+    "leaves": "Typically OPPOSITE/DECUSSATE single rough often crenate or serrate blades, no stipules. A scabrous ('sandpapery') blade often has raised cobblestone-looking veins and stiff hairs. Inspect leaf base and white hairs along vein underside and compare at the same scale.",
+    "stem": "Young shoots can be four-angled and hairy, becoming woody. PRICKLES vary among genus/species and can occur in L. camara complex, but absence is not conclusive. Texas L. urticoides is described non-spinescent by UT Williamson flora.",
+    "head": "Each apparent colorful 'ball' is a CAPITATE, many-flowered head or highly condensed spike, not one flower. Heads rise on individual PEDUNCLES often from leaf axils. Flower colors can change with age; heads may contain yellow, orange and red at once.",
+    "flower": "Small tubular, slightly bilaterally symmetric corollas mostly four-lobed, with 4 included stamens arranged as two pairs. Each floret has an associated short calyx and larger BRACTLET on the axis; pick ONE head and one bractlet for identification macro. Petal color is weak taxonomic evidence.",
+    "bractlet": "BRACTLET = a small leaflike modified organ subtending one individual flower on the head. In the UT Williamson County L. urticoides treatment, inner bractlets are roughly 6.5–9 mm, narrow with three basal veins, stiff hairs and some gland hairs; scale and placement are more informative than an orange corolla. Distinguish broad-end/specific vein arrangement from ornamental complexes using formal key, but variation overlaps.",
+    "fruit": "Flower ovary is superior and commonly two-chambered with one ovule in each. Fruit is a small, fleshy DRUPE ripening purple-black; a hard internal STONE often contains two seeds. It is not a dry Verbena nutlet. Avoid culinary/edible inference: identification only."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "Verbenaceae: often opposite leaves and tubular flowers in dense spikes/heads; fruit can be either dry splitting mericarps or fleshy drupes by genus.",
+      "Lantana: shrub/subshrub, rough toothed opposite leaves, dense bracteate capitate flowerheads; fruit forms purple-black drupes.",
+      "Texas L. urticoides: winter-deciduous rough normally unarmed stems, cobblestone leaf upper surface, white hairs especially raised lower veins, many small floral bractlets."
+    ],
+    "priority": [
+      "1. SEE whole shrub and actual axillary pedunculate flower head (not flower color alone).",
+      "2. SPOT opposite paired serrate leaves and feel/look at the scabrous surface; photograph underside vein hairs.",
+      "3. NAME head vs floret, corolla vs bractlet, petiole vs peduncle, stem prickles vs stiff hairs.",
+      "4. COMPARE the Texas shrub against L. camara / hybrid ornamental complex and low trailing L. montevidensis.",
+      "5. REMEMBER: flowerhead color is a weak shortcut; ID needs reproductive bractlet and hairs, often with taxon-concept verification."
+    ],
+    "cautions": [
+      "'Texas lantana' at a nursery does not certify local genetic provenance or native species identity; show wild source evidence independently.",
+      "Lantana camara complex taxonomy and hybridization are difficult; a sterile ornamental cannot be identified confidently from head color or prickle absence alone.",
+      "L. urticoides photo/source names have historically been confused with L. horrida and hybrid L. camara. Ambiguous source URLs are held from exact image installation.",
+      "Verbenaceae and Lamiaceae can both have rough opposite leaves and 4-angled stems; ovary/style and fruit help separate families.",
+      "Photo entries are explicitly tagged physically installed versus pending or external; no arrows until precise pixel inspection."
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "Texas native Lantana urticoides vs Lantana camara and ornamental hybrids",
+      "look_here_first": "Ignore orange and red heads. Examine an axillary flowering node and then a single small bractlet and a lower-leaf underside at 1 mm scale.",
+      "field_matrix": [
+        {
+          "character": "Habit and stems",
+          "urticoides": "Winter-deciduous rough shrub, typically not spinescent in local natural populations",
+          "camara_complex": "Often stronger/larger shrub, prickles common but not universal; some hybrids/ornamentals nearly unarmed"
+        },
+        {
+          "character": "Leaves",
+          "urticoides": "Rough, ovate, coarse serration; cobblestoned upper face, stiff hairs over raised pale lower veins",
+          "camara_complex": "Often large strongly veined rough serrate leaves too; sizes/hairs overlap"
+        },
+        {
+          "character": "Heads and flower color",
+          "urticoides": "Dense axillary rounded head, yellow to orange/red florets as they age",
+          "camara_complex": "Also rounded colorful heads with flowers often changing colors — NOT a reliable split"
+        },
+        {
+          "character": "Bractlets / pubescence",
+          "urticoides": "Bractlet size/veins and stiff gland-bearing pubescence from UT county flora; macro needed",
+          "camara_complex": "Variable ornamental species/hybrids; sample mature head with ruler for expert key"
+        },
+        {
+          "character": "Status",
+          "urticoides": "Canonical Texas native target-zone PASS",
+          "camara_complex": "Landscape/escaped comparison group only; no native PASS given automatically"
+        }
+      ],
+      "caution": "Sanders revision and later genetics find difficult hybrid/taxon boundaries; field photos without bractlet/hair macros may remain Lantana sp. or L. camara-complex."
+    },
+    {
+      "title": "Native Texas lantana vs desert lantana and trailing lantana",
+      "look_here_first": "Begin with plant FORM: upright rough shrub versus narrower white/pink-flowered desert shrub versus low trailing garden lantana.",
+      "field_matrix": [
+        {
+          "character": "Texas lantana L. urticoides",
+          "trait": "Broad rough toothed opposite leaves, upright/winter-deciduous, round yellow-orange-red heads."
+        },
+        {
+          "character": "Desert lantana L. achyranthifolia",
+          "trait": "Finer more slender branching shrub and generally narrower hairy leaves; often white-to-pink flowers with yellow eye. Color alone is supporting."
+        },
+        {
+          "character": "Trailing lantana L. montevidensis",
+          "trait": "Low sprawling/creeping ornamental habit with often lavender-purple heads, unlike upright Texas shrub; not assumed native in Hays."
+        }
+      ],
+      "caution": "Cultivars can alter flower color and stature; inspect exact taxon names, natural occurrence and appropriate specialist keys."
+    },
+    {
+      "title": "Lantana vs Phyla (frogfruit) vs Verbena (vervain)",
+      "look_here_first": "Compare HEAD, PLANT SIZE, and FRUIT before interpreting petal colors.",
+      "field_matrix": [
+        {
+          "character": "Lantana",
+          "trait": "Woody shrub or subshrub; bracteate dense heads; dark fleshy drupe."
+        },
+        {
+          "character": "Phyla",
+          "trait": "Mat-forming/trailing herbs like frogfruit, small cone/short spike heads, not woody shrubs; dry fruits."
+        },
+        {
+          "character": "Verbena",
+          "trait": "Mostly nonwoody or subshrubs with extended small tubular floral spikes or heads, usually dry separating fruits."
+        }
+      ],
+      "caution": "All Verbenaceae can have opposite leaves. Do not identify genus by square stems alone."
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Habitat/habit",
+      "urticoides": "wild woody winter-deciduous Texas shrub",
+      "camara_complex": "tall ornamental/naturalized woody shrubs, identity uncertain",
+      "montevidensis": "low trailing ornamental",
+      "achyranthifolia": "small slender desert shrub"
+    },
+    {
+      "character": "Leaves",
+      "urticoides": "opposite rough coarsely toothed; white lower-vein hairs",
+      "camara_complex": "often larger rough, coarsely-toothed but overlapping",
+      "montevidensis": "smaller opposite often toothed",
+      "achyranthifolia": "narrower hairy"
+    },
+    {
+      "character": "Inflorescence",
+      "urticoides": "dense rounded head with conspicuous individual bractlets",
+      "camara_complex": "dense rounded heads, color overlaps",
+      "montevidensis": "lavender/purple dense heads",
+      "achyranthifolia": "white/pink heads, often yellow center"
+    },
+    {
+      "character": "Evidence gate",
+      "urticoides": "native-target PASS; exact Wilson County licensed photo first",
+      "camara_complex": "nonlocal comparison and hybrid taxon HOLD",
+      "montevidensis": "cultivated non-native comparison",
+      "achyranthifolia": "native desert congener outside this canonical learner; regional county status not checked"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Texas lantana vs nursery lantana: learn the bracts and leaves, not the flower colors",
+    "subtitle": "One physically installed and visually inspected exact-species CC BY 4.0 photograph from a research-grade Texas observation (Stockdale, Wilson County), showing orange-yellow capitula and rough serrate leaves. The earlier Wikimedia images are identity-HOLD, not installed. Head bractlets, underside hairs, stem prickles and fruit still need diagnostic close-ups.",
+    "memory_rule": "OPPOSITE TOOTHED LEAVES + WOODY SHRUB + MANY TUBULAR FLORETS IN A HEAD. TEXAS NATIVE? Check hairs and BRACTLETS, not yellow/orange petals.",
+    "items": [
+      {
+        "species_id": "lantana-urticoides",
+        "scientific_name": "Lantana urticoides",
+        "label": "TEXAS LANTANA · REAL HEAD AND LEAVES",
+        "image_url": "content/taxa/Verbenaceae/Lantana/lantana-urticoides/images/01-texas-lantana-flowers-leaves.jpg",
+        "image_fit": "contain",
+        "caption": "Physically installed and inspected photograph by Chet Burrier of research-grade Lantana urticoides from Stockdale, Wilson County, Texas (iNaturalist photo 272160509). Two orange-yellow clustered flower heads and serrate green leaves are visible. The individual flower bractlets, leaf underside hair tips, and any mature drupes are NOT shown at diagnostic scale.",
+        "creator": "Chet Burrier",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/272160509",
+        "markers": [],
+        "annotation_status": "Physically verified exact observation source and image JPEG; no arrow coordinates or microscopic characters are approved."
+      }
+    ],
+    "part_examples": [
+      {
+        "title": "1 · SEE a head made of many flowers",
+        "role": "many-flowered rounded head",
+        "anchor_species_id": "lantana-urticoides",
+        "image_file": "images/01-texas-lantana-flowers-leaves.jpg",
+        "look_for": "Orange and yellow units all belong to a dense, rounded FLOWER HEAD; EACH tiny colored tubular blossom is a flower (FLORET). The full cluster isn't one giant orange flower.",
+        "why_it_matters": "Makes head versus floret obvious before comparing Lantana with Verbena or Phyla."
+      },
+      {
+        "title": "2 · SPOT rough, opposite leaves",
+        "role": "opposite simple serrate leaves",
+        "anchor_species_id": "lantana-urticoides",
+        "image_file": "images/01-texas-lantana-flowers-leaves.jpg",
+        "look_for": "Locate broad green leaves with coarse teeth and strong vein texture near the orange heads. Leaf PAIRS arise opposite on branches, but one-photo overlap makes exact node pairing hard to certify. Need a dedicated open node and underside shot.",
+        "why_it_matters": "Reliable genus-family vegetative clue, but serration also appears in unrelated mints and numerous non-native lantanas."
+      },
+      {
+        "title": "3 · NEED PHOTO — leaf underside hairs",
+        "role": "scabrous adaxial and stiff pale vein hairs abaxial",
+        "look_for": "Same plant: upper cobblestone-like leaf surface and underside WHITE elevated veins carrying stiff hairs, with 1 mm ruler. Distinguish long swollen-based hairs from true thorns.",
+        "why_it_matters": "Exact L. urticoides local morphology from UT Williamson County; photo of head alone doesn't show this.",
+        "status": "needs_macro"
+      },
+      {
+        "title": "4 · NEED PHOTO — inner bractlets",
+        "role": "single head floret bractlet / parallel veins and margins",
+        "look_for": "Take one flowering head apart: each little flower is subtended by a GREEN BRACTLET. Measure near 6.5–9 mm, observe basal parallel veins and hairs, compare with ornamental L. camara/strigocamara using expert key.",
+        "why_it_matters": "A decisive reproductive difference when bloom colors and overall leaf look overlap.",
+        "status": "needs_macro"
+      },
+      {
+        "title": "5 · NEED PHOTO — prickles versus stiff hairs",
+        "role": "4-angled shoot / true prickle vs scabrous hair",
+        "look_for": "Matched same-scale juvenile stem photos of confirmed native Texas lantana and verified L. camara / hybrid. Look for actual RECURVED PRICKLES versus tiny stiff scabrid hairs, while noting camara may be unarmed.",
+        "why_it_matters": "The presence of prickles can support a comparison, but no prickles is not proof of native lantana.",
+        "status": "needs_macro"
+      },
+      {
+        "title": "6 · NEED PHOTO — 4-lobed floret",
+        "role": "individual tubular corolla and four stamens",
+        "look_for": "Show one isolated L. urticoides flower with calyx, tubular corolla splitting into FOUR lobes, two pairs of tiny included stamens and the style. Scale is essential; can't count anthers in the general cluster photograph.",
+        "why_it_matters": "Teaches the actual Verbena-family tubular-flower plan with Lantana-specific small floret details.",
+        "status": "needs_macro"
+      },
+      {
+        "title": "7 · NEED PHOTO — dark ripe drupes",
+        "role": "purple-black drupe and split stone",
+        "look_for": "Same-plant green immature fruits versus dark purple-black mature DRUPES, then cut one fruit to reveal the hard stone and two seeds. Do not use image of L. camara fruit as exact L. urticoides proof.",
+        "why_it_matters": "Explains why Lantana has fleshy fruit while Verbena and Phyla produce dry fruits.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "8 · NEED PHOTO — entire shrub and opposite shoots",
+        "role": "whole shrub natural growth, woody base",
+        "look_for": "An exact-taxoned natural Texas shrub with full growth habit, woody winter stems, opposite paired leaves and flower heads, ideally same individual as floral/fruit macros.",
+        "why_it_matters": "Flowers of nursery hybrids can look indistinguishable, but whole plant architecture and provenance improve field confidence.",
+        "status": "needs_photo"
+      }
+    ],
+    "annotation_policy": "One exact-source photo if successfully installed; no arrows fabricated. L. camara/hybrid mislabeled Commons candidates excluded, no substitutions of nonmatching taxon image."
+  },
+  "photo_diagnostic_requirements": [
+    {
+      "priority": 1,
+      "feature": "Lantana urticoides versus L. camara/strigocamara / nursery hybrids",
+      "photos": [
+        "paired head BRACTLET 1 mm macro",
+        "leaf underside hairs/vein characters",
+        "stem armature and juvenile branch close-ups"
+      ],
+      "status": "requires_matched_exact_taxon_macro"
+    },
+    {
+      "priority": 1,
+      "feature": "Fleshy drupes and flower anatomy",
+      "photos": [
+        "ripe purple-black L. urticoides drupes",
+        "split stone and two seeds",
+        "individual tubular four-lobed corolla and four included stamens"
+      ],
+      "status": "needs_exact_species_lifecycle_macros"
+    },
+    {
+      "priority": 2,
+      "feature": "Wild habit and provenance",
+      "photos": [
+        "whole plant flowering shrub/woody base from naturally occurring verified Texas individual",
+        "same-plant upper and lower leaf comparison"
+      ],
+      "status": "needs_exact_source_photo"
+    },
+    {
+      "priority": 2,
+      "feature": "Image permissions and identity",
+      "photos": [
+        "Review and reject/deprecate historically mislabeled Wikimedia files, not delete canonical records",
+        "do not import Indonesian 'Bunga Saliara' without accepted-range specimen confirmation",
+        "source original-pixel review for arrows"
+      ],
+      "status": "source_identity_hold"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "UT Austin Williamson County, Lantana urticoides morphology (leaf, bract, floret, fruit)",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Lantana%20urticoides.html"
+    },
+    {
+      "title": "Kew POWO accepted Lantana urticoides and Texas native range",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:135351-2"
+    },
+    {
+      "title": "Lantana camara polymorphism (Kew)",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325686-2/general-information"
+    },
+    {
+      "title": "Chet Burrier Stockdale TX research-grade photo",
+      "url": "https://www.inaturalist.org/photos/272160509"
+    },
+    {
+      "title": "Sanders 2012 Lantana sect. Lantana taxonomic revision",
+      "url": "https://www.jstor.org/stable/41972430"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lantana-visual-20261014",
+    "last_reviewed": "2026-10-14",
+    "canonical_species_count": 1,
+    "canonical_range_status": "PASS unchanged",
+    "verified_photo_candidate_count": 1,
+    "physical_photo_count_verified": 1,
+    "unreliable_external_candidates_held": 2,
+    "photo_missing_macro_tiles": 6,
+    "visual_status": "FIRST PASS COMPLETE, final diagnostic macro/arrow/mobile inspection pending. Previous two Commons IDs held, not reused as verified species photos.",
+    "installed_photo_file": "content/taxa/Verbenaceae/Lantana/lantana-urticoides/images/01-texas-lantana-flowers-leaves.jpg",
+    "image_inspection": "Image content physically fetched and visually verified; correct scope flower heads, coarse serrated foliage and approximate habit; not flower bractlets, fruit or microscopically scaled hairs.",
+    "curation_workflow": "Botany curation workflow 38574990977 succeeded with 0 warnings, 1 image installed, canonical count 532."
+  }
+}

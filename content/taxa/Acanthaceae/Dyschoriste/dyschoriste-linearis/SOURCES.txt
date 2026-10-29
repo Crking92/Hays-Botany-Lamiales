@@ -1,0 +1,45 @@
+# Curation sources — Dyschoriste linearis
+Reviewed through 2026-10-06
+Scientific status: UNRESOLVED RANGE HOLD
+Learner admission: APPROVED
+
+Taxonomy
+Plants of the World Online:
+https://powo.science.kew.org/taxon/48146-1
+
+Exact target-zone evidence
+Travis — UT Plant Resources Center:
+https://w3.biosci.utexas.edu/prc/specimens/Acanthaceae.html
+
+Kerr — Singhurst et al. 2010, Flora of Kerr Wildlife Management Area:
+https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf
+Voucher: JS 18024.
+
+Excluded Hays evidence
+Purola introduced-species list:
+https://w3.biosci.utexas.edu/prc/HaysFlora/IntroSpecs.html
+The Hays occurrence is explicitly introduced and is not counted.
+
+Project draft:
+research-drafts/dyschoriste-linearis/draft.json
+
+Decision
+Install for private learner use while preserving RANGE HOLD.
+Travis + Kerr are locked; a third exact native target-zone county is still needed.
+
+FIRST LICENSED PHOTOGRAPH 2026-10-14
+Turner Brockman; CC BY-SA; https://creativecommons.org/licenses/by-sa/4.0/
+https://www.inaturalist.org/photos/707592575 | https://www.inaturalist.org/observations/386462457
+EXIF removed and JPEG normalized; no anatomy overlays. Preserve attribution and applicable ShareAlike.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:30:08.924008+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/210445453
+https://www.inaturalist.org/observations/124175702
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T10:25:04.300390+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/437477603
+https://www.inaturalist.org/observations/245183740
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

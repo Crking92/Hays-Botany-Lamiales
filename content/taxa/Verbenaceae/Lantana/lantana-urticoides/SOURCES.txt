@@ -1,0 +1,8 @@
+Exact licensed taxon photo Chet Burrier (birdingtexan), iNaturalist observation 157402241, Stockdale/Wilson County, TX, research grade, https://www.inaturalist.org/photos/272160509, CC BY 4.0, license URL https://creativecommons.org/licenses/by/4.0/. Texas lantana botanical reference UT Austin Williamson County https://w3.biosci.utexas.edu/prc/K12/pages/Lantana%20urticoides.html; accepted name & state nativity Kew https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:135351-2. Previous Commons File:Lantana_urticoides.jpg is labeled L. camara in structured data and another from Indonesia (Bunga Saliara) has unresolved identity; neither is downloaded as exact species. No source changes to project native PASS.
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 491846814 https://www.inaturalist.org/photos/491846814 | 273471471 | images/glass-root-garden-491846814-flowers.jpg
+- 597186424 https://www.inaturalist.org/photos/597186424 | 329447694 | images/glass-root-garden-597186424-flowering-habit.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

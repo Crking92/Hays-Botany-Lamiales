@@ -1,0 +1,89 @@
+{
+  "id": "physostegia-virginiana",
+  "entry_type": "provisional_species",
+  "family": "Lamiaceae",
+  "genus": "Physostegia",
+  "species": "virginiana",
+  "scientific_name": "Physostegia virginiana",
+  "authority": "(L.) Benth.",
+  "common_name": "Obedient plant / false dragonhead",
+  "look_here_first": "Upright rhizomatous mint-family perennial with opposite toothed leaves and dense spikes of pink-lavender bilabiate flowers.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: none locked.",
+    "range_guardrail": "Accepted species but Texas infraspecific concept unresolved; local Hays record is introduced."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial from rhizomes",
+      "square stems",
+      "opposite lanceolate leaves",
+      "dense terminal flower spikes",
+      "pink-lavender bilabiate corollas",
+      "flowers in repeated clusters around axis"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-provisional-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_010": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "images/physostegia-virginiana-provisional-face.jpg",
+      "role": "Flowering habit / recognizable face",
+      "creator": "Biotaman",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Physostegia_virginiana.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/library-review010-0eb99d794977f28.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Flowering inflorescence complements vegetative established card",
+      "creator": "andrew2285",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6518397286",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/682805727/original.jpg",
+      "source_determination": "Physostegia virginiana",
+      "source_observation_id": "6518397286",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/physostegia-virginiana/gbif-6812b2c162fd74.jpg",
+      "archive_image_sha256": "6e09812f433a22980e381394804b00a8f226b56435f56fca380e3dc5c62109a4",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

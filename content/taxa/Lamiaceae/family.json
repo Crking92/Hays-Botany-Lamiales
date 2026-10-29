@@ -1,0 +1,349 @@
+{
+  "rank": "family",
+  "name": "Lamiaceae",
+  "common_name": "Mint family",
+  "project_scope": {
+    "selection_mode": "Central Texas field-learning set",
+    "note": "Broaden family visual teaching beyond Salvia: real image anchors from Monarda (bee balms), Salvia (sages), and Callicarpa (American beautyberry). The genus-specific patterns in Monarda and Salvia are examples, not mandatory characters for every Lamiaceae genus. Callicarpa is the non-nutlet, berry-like drupe exception."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "FIRST inspect a stem NODE for opposite leaves and any stipule; Lamiaceae generally lacks stipules. SECOND examine one FLORET: a fused, commonly TWO-LIPPED COROLLA surrounded by a separate tubular CALYX. THIRD inspect superior ovary/style and mature fruit: most local mints have a deeply 4-lobed ovary with gynobasic style and four NUTLETS, but the family includes exceptional genera, such as drupe-bearing Callicarpa. Square stems and fragrance support the family but are not proof.",
+    "vegetative": "Herbaceous stems are often quadrangular and foliage often aromatic, but neither character is mandatory.",
+    "reproductive": "Showy Monarda clusters are many tiny individual flowers, each with a two-lipped corolla and outer calyx; the broad pigmented floral BRACTS below them are modified leaves. Both Monarda and Salvia commonly have two fertile stamens, while the mint family more broadly may have 2 or 4; Salvia's specialized stamen/connective lever is a genus-specific adaptation, not a universal family requirement.",
+    "fruit": "Most mint-family taxa have a superior deeply four-parted ovary forming up to four dry NUTLETS, usually inside the persistent calyx. Callicarpa is an important opposite-leaved shrub exception with fleshy drupe-like fruit, so a strict 'four dry nutlets' demand would exclude real Lamiaceae.",
+    "field_tip": "Do NOT mistake a Monarda's showy BRACT for a petal, or the whole colored VERTICILLASTER for one flower. Look closely at one TUBULAR COROLLA (fused petals), the surrounding CALYX (fused sepals), and the subtending BRACT (modified leaf). For family confirmation beyond Monarda/Salvia, a flower center and mature fruit beat square-stem intuition."
+  },
+  "visual_lesson": {
+    "status": "eight_installed_photo_and_illustration_examples_two_specialty_macros_pending",
+    "teaching_order": "opposite leaf node → whole flowering stem → BRACT vs COROLLA and flower clusters → Salvia flower → Callicarpa exception → illustration for small parts → missing lever and nutlet anatomy",
+    "intro": "Learning a mint family by its square stems alone is a trap! The photographs connect real flower parts: Monarda's LEAFLIKE BRACTS are different from its small two-lipped COROLLAS, a Salvia has a related flower pattern, and beautyberry is an exceptional MINT with fleshy fruit. Start with the node, then compare the flower, and finish with genuine fruit/ovary evidence.",
+    "steps": [
+      {
+        "title": "1 · Opposite leaves: start at the node",
+        "photo_role": "opposite leaf pairs / four-angled stem example",
+        "anchor_species_id": "monarda-citriodora",
+        "anchor_image_index": 2,
+        "look_for": "Look at one NODE where leaves attach. Find two opposite leaves; successive pairs may rotate 90 degrees (DECUSSATE). The pictured stem is a Monarda example. Do not assume every mint is four-angled or aromatic.",
+        "why_it_matters": "Establishes the first quick clue for many mint-family herbs without converting a common feature into an absolute diagnosis.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "2 · Follow the plant up to stacked flower clusters",
+        "photo_role": "whole flowering stem / tiered verticillasters",
+        "anchor_species_id": "monarda-citriodora",
+        "anchor_image_index": 0,
+        "look_for": "Trace a stem from leaves into its vertical series of flower RINGS. Each tier contains numerous small flowers; it is not one giant composite flower.",
+        "why_it_matters": "Places individual Monarda flowers in context before introducing the difficult vocabulary of flower, bract, corolla and calyx.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "3 · The big colorful bract is a modified LEAF",
+        "photo_role": "floral bracts beneath flowers",
+        "anchor_species_id": "monarda-citriodora",
+        "anchor_image_index": 1,
+        "look_for": "Find the purplish, leaflike BRACTS below the tubular Monarda flowers. These colored parts are NOT petals; the true flowers emerge above and among them. Their tips require a closer macro for species-level identification.",
+        "why_it_matters": "Teaches a structural distinction reused in multiple local mint taxa: bract vs corolla.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "4 · Find one two-lipped COROLLA, not a whole ring",
+        "photo_role": "small bilabiate flowers above pale bracts",
+        "anchor_species_id": "monarda-punctata",
+        "anchor_image_index": 1,
+        "look_for": "Pick ONE narrow, pale-yellow, often purple-spotted FLOWER. Its joined PETALS form a tubular COROLLA with an arched upper lip and a lower lip. Below it are conspicuous pale BRACTS. The outer CALYX and hair positions require a sharper dedicated flower-side macro.",
+        "why_it_matters": "Makes bilabiate (two-lipped) and verticillaster (flower-ring cluster) concrete instead of abstract glossary terms.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "5 · Another Monarda, a rounded head",
+        "photo_role": "dense terminal head of small corollas",
+        "anchor_species_id": "monarda-fistulosa",
+        "anchor_image_index": 0,
+        "look_for": "The rounded 'pom-pom' is MANY lavender tubular flowers grouped tightly at the top. Each protruding tube is an individual corolla. Species-specific calyx-throat hair detail is NOT proven by this head photo.",
+        "why_it_matters": "Shows that the same family and genus can have different inflorescence architectures; appearance alone can be misleading.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "6 · Compare a Salvia flower tube",
+        "photo_role": "sage bilabiate floral architecture",
+        "anchor_species_id": "salvia-farinacea",
+        "anchor_image_index": 0,
+        "look_for": "In a sage (Salvia), find individual tubular flowers with upper and lower lips. The flower's CALYX remains behind the corolla. This whole flower view does NOT prove the tiny Salvia stamen-lever mechanism, which needs a side/dissection macro.",
+        "why_it_matters": "Separates shared mint-family two-lipped flowers from the special two-stamen lever arrangement of sages.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "7 · The Callicarpa exception: fleshy fruit",
+        "photo_role": "opposite leaves and purple fleshy fruit clusters",
+        "anchor_species_id": "callicarpa-americana",
+        "anchor_image_index": 2,
+        "look_for": "American beautyberry has opposite leaves and groups of purple fleshy DRUPE-LIKE FRUITS hugging the stems. These are NOT the four small dry nutlets typical of many other mints.",
+        "why_it_matters": "Prevents false rejection of real Lamiaceae shrubs by an overly narrow four-nutlet rule. Callicarpa is an exception, not the default family fruit type.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "8 · Botanical illustration: flower-part vocabulary",
+        "photo_role": "historical botanical illustration / Monarda corolla and calyx",
+        "anchor_species_id": "monarda-punctata",
+        "anchor_image_index": 2,
+        "look_for": "This is a HISTORIC BOTANICAL DRAWING, not a photograph. Compare the drawn whole flowering shoot, leaves, CALYX and COROLLA details. No added arrow is claimed; exact feature-label positions await visual checking.",
+        "why_it_matters": "The line drawing complements real plant photographs when tiny floral parts are too difficult to separate in an ordinary photo.",
+        "status": "installed_verified_botanical_illustration"
+      },
+      {
+        "title": "9 · Salvia's stamens: the special lever",
+        "photo_role": "macro/diagram of two fertile stamens and connective lever",
+        "look_for": "Request an authenticated side or dissected Salvia flower macro showing two fertile stamens, elongated connective and pollen-bearing theca before placing any arrow. Other mint genera (including Monarda) can also have TWO stamens, but the Salvia lever is a specialized arrangement.",
+        "why_it_matters": "Corrects the false impression that two stamens alone is a uniquely Salvia or whole-family feature.",
+        "status": "specialist_photo_pending"
+      },
+      {
+        "title": "10 · Ovary to fruit: the four nutlets",
+        "photo_role": "macro of superior four-lobed ovary, gynobasic style and mature nutlets",
+        "look_for": "Look at the BASE of a mint-family flower: the style may rise from between four ovary lobes (gynobasic style). After fruiting, look for up to four dry NUTLETS within the calyx. An accurate closeup must demonstrate this—none of these flower-head pictures does.",
+        "why_it_matters": "Reproductive architecture is stronger evidence for the family than a square stem, smell or flower color.",
+        "status": "specialist_photo_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Lamiaceae vs Verbenaceae",
+        "rule": "Do not use square stems alone. The common mint pattern has a deeply 4-lobed ovary and often a gynobasic style with four nutlets; Verbenaceae commonly differs in style/ovary and fruit architecture."
+      },
+      {
+        "title": "Lamiaceae vs Rubiaceae",
+        "rule": "Rubiaceae has interpetiolar stipules and an inferior ovary; Lamiaceae lacks stipules and has a superior ovary."
+      },
+      {
+        "title": "Monarda versus Salvia, both Lamiaceae",
+        "rule": "Both have fused often two-lipped corollas and frequently two fertile stamens. Monarda commonly creates flower heads or stacked verticillasters with conspicuous bracts; Salvia forms different flower arrangements and commonly has a specialized stamen-connective lever. Do not use the mere count of two stamens as the tie-breaker."
+      },
+      {
+        "title": "Typical mint nutlets versus Callicarpa",
+        "rule": "Typical many local mints have a deeply four-lobed superior ovary producing four tiny dry nutlets; beautyberry (also mint family) has conspicuous fleshy, drupe-like fruit clusters. Its different fruit type is a real family exception."
+      }
+    ],
+    "caveat": "Many Lamiaceae have opposite leaves, two-lipped flowers and up to four nutlets, but those traits are not absolutely universal. Callicarpa has fleshy fruits; Salvia has a specialized stamen lever; Monarda has colorful bracts that can be mistaken for petals. Installed source pictures do not verify microscopic ovary, pollen lever, or calyx-tooth characters, and no digital arrows have been added.",
+    "photo_coverage_note": "7 nonduplicative exact-species photographs + 1 historic botanical illustration, all from already installed physical learner files. 2 specialized photo roles (Salvia stamen lever; superior lobed ovary and nutlets) remain unverified and unanchored. No arrows falsely claimed.",
+    "photo_source_key": [
+      {
+        "id": "monarda-citriodora",
+        "index": 2,
+        "role": "opposite leaf node and stem",
+        "creator": "Nadiatalent",
+        "license": "CC BY-SA 4.0",
+        "status": "installed_verified_photo"
+      },
+      {
+        "id": "monarda-citriodora",
+        "index": 0,
+        "role": "whole flowering stem / verticillasters",
+        "creator": "Clarence A. Rechenthin / USDA-NRCS",
+        "license": "Public Domain (U.S. federal work)",
+        "status": "installed_verified_photo"
+      },
+      {
+        "id": "monarda-citriodora",
+        "index": 1,
+        "role": "purplish floral bracts and true flowers",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "status": "installed_verified_photo"
+      },
+      {
+        "id": "monarda-punctata",
+        "index": 1,
+        "role": "single spotted corolla and pale bract",
+        "creator": "Aaron Carlson",
+        "license": "CC BY-SA 2.0",
+        "status": "installed_verified_photo"
+      },
+      {
+        "id": "monarda-fistulosa",
+        "index": 0,
+        "role": "dense terminal flower head",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "status": "installed_verified_photo"
+      },
+      {
+        "id": "salvia-farinacea",
+        "index": 0,
+        "role": "two-lipped sage flower",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "status": "installed_verified_photo"
+      },
+      {
+        "id": "callicarpa-americana",
+        "index": 2,
+        "role": "beautyberry with fleshy fruit and opposite leaves",
+        "creator": "Forest and Kim Starr",
+        "license": "CC BY 2.0",
+        "status": "installed_verified_photo"
+      },
+      {
+        "id": "monarda-punctata",
+        "index": 2,
+        "role": "historic botanical illustration of flower and leaves",
+        "creator": "N. L. Britton & A. Brown (1913)",
+        "license": "Public Domain",
+        "status": "installed_verified_illustration"
+      }
+    ]
+  },
+  "curation_status": {
+    "version": "1.1-multiple-genera-visual-lesson",
+    "last_reviewed": "2026-10-13",
+    "visual_lock": "Seven real photos + one labeled illustration installed, with two legitimate anatomical macro gaps retained. Canonical family comparison science and range data preserved.",
+    "scutellaria_photo_lesson_date": "2026-10-14",
+    "physostegia_visual_review": "2026-10-14"
+  },
+  "family_confusion_cleanup": {
+    "version": "1.0-comparison-first",
+    "updated": "2026-10-06",
+    "field_question": "Opposite leaves and a tubular flower: mint, verbena, or madder/coffee family?",
+    "look_here_first": [
+      "At the node: are there interpetiolar stipules between opposite leaves?",
+      "At the ovary: is it inferior, or superior and deeply lobed?",
+      "At fruiting: four nutlets, a drupe/schizocarp, or a capsule/berry-like fruit?",
+      "Use square stems and aroma only as supporting clues."
+    ],
+    "comparison_matrix": [
+      {
+        "family": "Lamiaceae",
+        "first_lock": "Opposite/decussate leaves usually without stipules; stems often 4-angled and foliage often aromatic.",
+        "break_the_tie": "Superior ovary commonly deeply 4-lobed with a gynobasic style; fruit commonly four nutlets.",
+        "exception": "Not every mint is aromatic, square-stemmed, bilabiate, or four-nutleted; Callicarpa is a conspicuous local breadth exception."
+      },
+      {
+        "family": "Verbenaceae",
+        "first_lock": "Opposite leaves and often 4-angled stems can mimic Lamiaceae closely.",
+        "break_the_tie": "Do not stop at the stem. Inspect ovary/style/fruit architecture; the classic deeply 4-lobed gynobasic mint ovary is not the default verbena pattern.",
+        "exception": "Family boundaries historically shifted, so older references may place some genera differently."
+      },
+      {
+        "family": "Rubiaceae",
+        "first_lock": "Opposite or whorled leaves can mimic mints/verbena vegetatively.",
+        "break_the_tie": "Look BETWEEN opposite petioles for interpetiolar stipules, then confirm an inferior ovary when flowers/fruit allow.",
+        "exception": "In Galium and relatives stipules can look leaflike, making the node appear whorled rather than simply opposite."
+      }
+    ],
+    "decision_key": [
+      "Opposite leaves: inspect the node before the flower.",
+      "Distinct interpetiolar stipule or stipular sheath between petioles? → strong Rubiaceae door; seek inferior ovary confirmation.",
+      "No stipules: inspect the ovary/style and later fruit.",
+      "Deeply four-lobed superior ovary + style arising among/between lobes + four nutlets → strong Lamiaceae door.",
+      "Opposite-leaved Lamiales look-alike without that mint ovary/fruit package → keep Verbenaceae and other Lamiales open until reproductive characters resolve it."
+    ],
+    "diagnostic_visual_roles": [
+      {
+        "priority": 1,
+        "shot": "same-node macro: Lamiaceae vs Verbenaceae vs Rubiaceae",
+        "labels": "no stipule | no stipule | interpetiolar stipule"
+      },
+      {
+        "priority": 1,
+        "shot": "ovary/style comparison macro or botanical diagram",
+        "labels": "Lamiaceae 4-lobed superior ovary + gynobasic style | Verbenaceae contrasting ovary/style | Rubiaceae inferior ovary"
+      },
+      {
+        "priority": 1,
+        "shot": "fruit comparison",
+        "labels": "mint four nutlets | representative verbena-family fruit | representative local Rubiaceae fruit"
+      },
+      {
+        "priority": 2,
+        "shot": "Galium node exception",
+        "labels": "leaf blades vs leaflike stipules producing apparent whorl"
+      }
+    ],
+    "sources": [
+      {
+        "source": "Flora of China — Lamiaceae",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10476",
+        "supports": "opposite leaves without stipules; often 4-angled stems; superior ovary often 4-parted with gynobasic style; usually four nutlets"
+      },
+      {
+        "source": "Flora of China — Rubiaceae",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10778",
+        "supports": "opposite/whorled leaves and interpetiolar stipules; stipules can be leaflike in Galium/Rubieae"
+      }
+    ]
+  },
+  "scutellaria_visual_extension": {
+    "title": "Skullcap shield: calyx versus corolla",
+    "look_here_first": "View a skullcap flower from the SIDE. The shieldlike scutellum projects from the upper CALYX lip, behind the colorful, bilaterally symmetrical COROLLA. Opposite leaves and square stems are helpful Lamiaceae cues; four nutlets are a reproductive confirmation.",
+    "installed_public_example": {
+      "taxon": "Scutellaria ovata",
+      "path": "content/taxa/Lamiaceae/Scutellaria/scutellaria-ovata/images/scutellaria-ovata-provisional-face.jpg",
+      "role": "whole flowering plant; not verified scutellum macro",
+      "creator": "Mason Brock",
+      "license": "Public domain"
+    },
+    "external_wrightii_examples": [
+      {
+        "source_page": "https://commons.wikimedia.org/wiki/File:Scutellaria_wrightii_120531127.jpg",
+        "role": "compact habit",
+        "creator": "Michelle W.",
+        "license": "CC BY 4.0",
+        "status": "external_not_installed"
+      },
+      {
+        "source_page": "https://commons.wikimedia.org/wiki/File:Scutellaria_wrightii_119930113.jpg",
+        "role": "flower and small leaves",
+        "creator": "Michelle W.",
+        "license": "CC BY 4.0",
+        "status": "external_not_installed"
+      }
+    ],
+    "restricted_study_photos": 2,
+    "photo_requirements": [
+      "close side-on scutellum photograph for each species with verified arrows",
+      "matched leaf-shape photographs",
+      "Scutellaria wrightii rights-cleared installed photo",
+      "mature four-nutlet view"
+    ],
+    "range_note": "Scutellaria ovata genus/source workflow status conflicts with species PASS and remains flagged for reconciliation; no range promotion here."
+  },
+  "physostegia_visual_extension": {
+    "title": "False dragonheads: paired leaves and flower clusters",
+    "first_look": "Opposite simple leaves and usually four-angled stem identify a mint-family candidate. Along the terminal spike, locate each tubular, two-lipped corolla and the calyx behind it; compare spacing and leaf widths to similar mints.",
+    "physical_public_photo_examples": [
+      {
+        "species": "physostegia-angustifolia",
+        "path": "content/taxa/Lamiaceae/Physostegia/physostegia-angustifolia/images/physostegia-angustifolia-provisional-face.jpg",
+        "role": "side-on flower/calyx reference; not whole-plant leaf comparison",
+        "credit": "Alex Abair",
+        "license": "CC BY 4.0",
+        "range_status": "UNRESOLVED"
+      },
+      {
+        "species": "physostegia-virginiana",
+        "path": "content/taxa/Lamiaceae/Physostegia/physostegia-virginiana/images/physostegia-virginiana-provisional-face.jpg",
+        "role": "general habit and flowering reference",
+        "credit": "Biotaman",
+        "license": "Public domain",
+        "range_status": "PROVISIONAL"
+      }
+    ],
+    "external_noncommercial_reference": [
+      {
+        "species": "physostegia-correllii",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436494/large.jpg",
+        "source_page": "https://www.inaturalist.org/guides/14344",
+        "role": "pink-purple flowering spike",
+        "credit": "Cullen Hanks",
+        "license": "CC BY-NC",
+        "status": "external; not locally installed; limited noncommercial reuse"
+      }
+    ],
+    "photo_needs": [
+      "Side flower and calyx arrows correctly placed",
+      "Matched opposite leaf node for all three Physostegia concepts",
+      "Verify flower cluster layout and measurements",
+      "Rights-safe physically installed P. correllii flower"
+    ],
+    "science_note": "Species range PASS, provisional, and approved learner-only status are different dimensions; no automatic promotion."
+  }
+}

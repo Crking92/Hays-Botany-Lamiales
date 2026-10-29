@@ -1,0 +1,119 @@
+{
+  "rank": "family",
+  "name": "Lentibulariaceae",
+  "common_name": "Bladderwort / butterwort family",
+  "lineage_context": {
+    "order": "Lamiales",
+    "batch": "Lamiales residual",
+    "close_project_families": [
+      "Plantaginaceae",
+      "Scrophulariaceae"
+    ],
+    "teaching_goal": "Use carnivorous traps plus a 2-stamen spurred zygomorphic flower to make Lentibulariaceae unmistakable within Lamiales."
+  },
+  "project_scope": {
+    "selection_mode": "Utricularia gibba-centered aquatic module",
+    "note": "The current project pool contains only Utricularia gibba; Kew accepts it and lists Texas within its native range."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Before the flower, look for carnivorous trap structures. In Utricularia, tiny bladder traps occur along finely divided aquatic shoots. Then confirm a bilabiate/spurred fused flower with only 2 stamens.",
+    "vegetative": "Carnivorous herbs, aquatic/terrestrial/epiphytic depending on genus. Utricularia is rootless and often has finely divided submerged shoots bearing bladder traps.",
+    "reproductive": "Flowers bisexual and zygomorphic; corolla fused, commonly 2-lipped and spurred or saccate; stamens 2; ovary superior, one-locular with free-central placentation.",
+    "fruit": "Usually a capsule with numerous seeds.",
+    "field_tip": "Bladder trap + spurred bilabiate flower + two stamens is one of the cleanest Lamiales family combinations."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_015",
+    "teaching_order": "carnivorous bladder → rootless aquatic shoot → yellow spurred flower → 2 stamens → capsule",
+    "intro": "Bladderwort is easiest when you learn the trap first. The flower then tells you it still belongs inside Lamiales.",
+    "steps": [
+      {
+        "title": "1 · Find the bladder traps",
+        "photo_role": "Utricularia gibba submerged shoot macro",
+        "look_for": "Tiny hollow bladders attached along thin branching submerged shoots.",
+        "why_it_matters": "The trap itself essentially announces Lentibulariaceae in the local aquatic flora.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "2 · Notice the rootless body plan",
+        "photo_role": "whole floating/submerged plant",
+        "look_for": "Fine threadlike stolons/shoots without ordinary true roots.",
+        "why_it_matters": "This prevents confusion with ordinary submerged aquatics.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Read the yellow spurred flower",
+        "photo_role": "flower side view",
+        "look_for": "A small yellow bilabiate fused corolla with a distinct spur.",
+        "why_it_matters": "The flower reconnects this bizarre carnivorous aquatic to the Lamiales blueprint.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Count only two stamens",
+        "photo_role": "flower dissection",
+        "look_for": "Two fertile stamens inside the corolla tube.",
+        "why_it_matters": "This helps separate bladderwort from many 4-stamen bilabiate Lamiales.",
+        "status": "macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Lentibulariaceae vs Plantaginaceae",
+        "rule": "Both can have bilabiate/spurred flowers, but Lentibulariaceae has carnivorous traps and only two stamens in the Utricularia pattern."
+      },
+      {
+        "title": "Utricularia vs ordinary submerged aquatics",
+        "rule": "Utricularia is rootless and bears true bladder traps; Potamogeton, Vallisneria and other common aquatics do not."
+      }
+    ],
+    "caveat": "Not every Lentibulariaceae genus has bladder traps—Pinguicula uses sticky glandular leaves and Genlisea uses underground lobster-pot traps. The project genus Utricularia is the bladder-bearing branch."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Utricularia",
+        "fast_cue": "rootless aquatic shoot + bladder traps + yellow spurred 2-stamen flower",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "bladder trap",
+      "annotation_goal": "label trap opening, trigger hairs if visible, and attachment to shoot"
+    },
+    {
+      "priority": 1,
+      "structure": "yellow spurred flower",
+      "annotation_goal": "label spur and upper/lower lips"
+    },
+    {
+      "priority": 1,
+      "structure": "rootless aquatic body plan",
+      "annotation_goal": "distinguish shoot/stolon from true root"
+    },
+    {
+      "priority": 2,
+      "structure": "2-stamen flower dissection",
+      "annotation_goal": "show the reduced androecium"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Lentibulariaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001689-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Utricularia gibba",
+      "url": "https://powo.science.kew.org/taxon/526777-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-015",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "carnivory_family_door_live_bladder_macro_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

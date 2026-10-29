@@ -1,0 +1,177 @@
+{
+  "id": "scutellaria-wrightii",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Scutellaria",
+  "species": "wrightii",
+  "scientific_name": "Scutellaria wrightii",
+  "authority": "A.Gray",
+  "common_name": "Wright's skullcap",
+  "synonyms": [
+    "Scutellaria brevifolia A.Gray",
+    "Scutellaria integrifolia var. brevifolia A.Gray ex E.Hall",
+    "Scutellaria wrightii f. alba Waterf."
+  ],
+  "taxonomic_note": "Accepted by Kew/POWO; learner stays species-level.",
+  "look_here_first": "First look at the plant base and leaf tips. Wright's skullcap is a low bushy perennial with many stems from a persistent base and small entire leaves with rounded/obtuse tips. Its hairs are minute and the calyx can look nearly smooth to the naked eye. Then confirm the larger upward-curving blue-violet corolla and visorlike skullcap calyx.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "BONAP/NAPA provides a county-level map for Scutellaria wrightii. Hays County — UT Plant Resources Center's Purola Preserve natural flora lists S. wrightii among naturally occurring plants. Travis County — UT Plant Resources Center's Travis County Lamiaceae specimen index includes S. wrightii. Williamson County — UT Plant Resources Center publishes a dedicated Williamson County treatment for S. wrightii.",
+    "range_guardrail": "Nursery and garden occurrences are not used as native-county proof. The PASS rests on native-flora/herbarium/county-treatment evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb, taprooted, several-many-stemmed at the base, usually 10–20 cm tall",
+      "bushy habit with ascending branches",
+      "stems four-sided, densely puberulent with minute sessile glandular hairs",
+      "leaves opposite and decussate, short-petiolate, ovate to elliptic",
+      "leaf margins entire and tips rounded/obtuse",
+      "leafy raceme with paired axillary flowers, often oriented mainly to one side",
+      "pedicel about 3–3.5 mm long",
+      "calyx two-lipped with a projecting visorlike scutellum; puberulent but often smoother-looking than S. drummondii",
+      "corolla mostly 13–18 mm long, with a cylindric tube that curves upward and a violet throat",
+      "fruit produces four small minutely warty nutlets"
+    ],
+    "comparison_training": "Scutellaria drummondii: S. drummondii is an annual with acute-tipped leaves, more conspicuous glandular hairs, shorter pedicels (about 1–1.2 mm) and smaller corollas (about 5.5–10 mm). S. wrightii is perennial/bushy, round-tipped and larger-flowered. Scutellaria ovata: S. ovata is much taller and rhizomatous, with large triangular-ovate leaves having truncate/subcordate bases and crenate margins; its corolla is about 21–25 mm."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Scutellaria drummondii",
+      "Scutellaria ovata"
+    ],
+    "key_distinctions": "S. drummondii is an annual with acute-tipped leaves, more conspicuous glandular hairs, shorter pedicels (about 1–1.2 mm) and smaller corollas (about 5.5–10 mm). S. wrightii is perennial/bushy, round-tipped and larger-flowered. S. ovata is much taller and rhizomatous, with large triangular-ovate leaves having truncate/subcordate bases and crenate margins; its corolla is about 21–25 mm."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Scutellaria",
+    "Wright's skullcap",
+    "Central Texas",
+    "Skullcap comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b020",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 6,
+    "photo_files_present": 3
+  },
+  "photo_note": "Diagnostic photo roles are verified in the deep-review draft; exact reusable selections remain a later visual-polish task. Joey Santore photo additions are rights-limited CC BY-NC and botanical ID provisional.",
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Scutellaria%20wrightii%20120531127.jpg",
+      "role": "Flowering habit / compact perennial form",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Scutellaria_wrightii_120531127.jpg",
+      "original_source_page": "https://www.inaturalist.org/photos/120531127",
+      "observation_source": "https://www.inaturalist.org/observations/73797221",
+      "inaturalist_photo_id": 120531127,
+      "inaturalist_observation_id": 73797221,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Scutellaria%20wrightii%20119930113.jpg",
+      "role": "Flower and foliage detail / small entire leaves",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Scutellaria_wrightii_119930113.jpg",
+      "original_source_page": "https://www.inaturalist.org/photos/119930113",
+      "observation_source": "https://www.inaturalist.org/observations/73459126",
+      "inaturalist_photo_id": 119930113,
+      "inaturalist_observation_id": 73459126,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20native%20flowers%20and%20ferns%20of%20the%20United%20States%20in%20their%20botanical%2C%20horticultural%20and%20popular%20aspects%20%281879%29%20%2814778720654%29.jpg",
+      "role": "Historical botanical plate / Wright's skullcap diagnostic form",
+      "creator": "Thomas Meehan, 1879 publication plate",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:The_native_flowers_and_ferns_of_the_United_States_in_their_botanical,_horticultural_and_popular_aspects_(1879)_(14778720654).jpg",
+      "source_type": "Historical botanical publication via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-review017-739f6e2593ea81eb.jpg",
+      "role": "Purple tubular skullcap flowers from multiple angles and visible opposite narrow leaves (source determination provisional; no verified anatomy arrows)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/376052235",
+      "source_observation": "https://www.inaturalist.org/observations/212796757",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376052235/large.jpeg",
+      "source_determination": "Scutellaria wrightii",
+      "photo_id": "376052235",
+      "observation_id": "212796757",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review017-ba51693fc8fd66ed.jpg",
+      "role": "Purple tubular skullcap flowers from multiple angles and visible opposite narrow leaves (source determination provisional; no verified anatomy arrows)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/260258201",
+      "source_observation": "https://www.inaturalist.org/observations/150886487",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260258201/large.jpeg",
+      "source_determination": "Scutellaria wrightii",
+      "photo_id": "260258201",
+      "observation_id": "150886487",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review017-fd9d74030314311c.jpg",
+      "role": "Purple tubular skullcap flowers from multiple angles and visible opposite narrow leaves (source determination provisional; no verified anatomy arrows)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/260258216",
+      "source_observation": "https://www.inaturalist.org/observations/150886487",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260258216/large.jpeg",
+      "source_determination": "Scutellaria wrightii",
+      "photo_id": "260258216",
+      "observation_id": "150886487",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Presentation fast-fill only; settled scientific taxonomy/range status is unchanged. Exact-species rights-clear images retain creator/license/source metadata and may be improved later with stronger local diagnostic views."
+  }
+}

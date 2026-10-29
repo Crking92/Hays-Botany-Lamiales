@@ -1,0 +1,190 @@
+{
+  "id": "salvia-roemeriana",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "species": "roemeriana",
+  "scientific_name": "Salvia roemeriana",
+  "authority": "Scheele",
+  "common_name": "Cedar Sage",
+  "synonyms": [
+    "Salvia engelmannii Schltdl. (not validly published)",
+    "Salvia porphyrantha Decne."
+  ],
+  "taxonomic_note": "",
+  "field_group": "Rosetted woodland sage",
+  "look_here_first": "FIND THE ROSETTE and a WHOLE LEAF. Cedar sage is a taprooted PERENNIAL with low rosette and stem leaves, usually on long petioles; leaves can be simple (one terminal leaflet) or pinnately 3-foliolate with two smaller lateral leaflets. Many basal blades rounded/heart-shaped, unlike scarlet sage's simple deltoid leaves up an upright stem or big red sage's broad, thick, smooth rosette. Then inspect red tubular flowers and shaded cedar-juniper habitat.",
+  "project_tracker_diagnostic": "taprooted rosetted perennial; basal plus cauline leaves; leaves rounded/cordate to lyrate-pinnatifid; red long-exserted corolla; late-season cleistogamous flowers can occur; shade/cedar-duff association",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Wildflower Center printable Hays County native list / local Hays flora sources. Travis — Balcones Canyonlands Preserve plant list explicitly includes Salvia roemeriana. Williamson — UT Plant Resources Center Vascular Plants of Williamson County detailed treatment.",
+    "approval_exception": null
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "taprooted rosetted perennial",
+      "basal plus cauline leaves",
+      "leaves rounded/cordate to lyrate-pinnatifid",
+      "red long-exserted corolla",
+      "late-season cleistogamous flowers can occur",
+      "shade/cedar-duff association",
+      "very long petioles; some leaves can appear nearly peltate in field view"
+    ],
+    "joey_field_note": "Joey highlights the red tubular flower and the unusually long petioles, describing the leaves as nearly peltate in appearance. This is a useful field cue when the basal rosette is visible.",
+    "habit": "Taprooted rosetted woodland perennial, one to several ascending flower stems from basal crown; often under Ashe juniper in leafy duff/limestone shade.",
+    "leaves": "UT Austin: opposite, 1–3 foliolate, often seemingly a single broad terminal leaflet with cordate base or two smaller lateral leaflets; long petioles, terminal blade to about 50 × 55 mm, soft/velveteen hair. Some leaves appear nearly peltate but petiole actually attaches at leaf base.",
+    "flowering_nodes": "Paired three-flowered cymes at successive flowering nodes; red/crimson tubular corollas and persistent calyx, calyx green with purple ridges/tips.",
+    "flower_measurement": "UT Austin corolla tube/throat to about 17 mm plus lips ~11.5 mm (complex overlapping measures); do NOT present as a 4-cm Big Red sage flower.",
+    "diagnostic_calyx": "Calyx roughly 11 mm tube length, purplish veined and long-pointed at upper tip; measure with scale if teaching fine IDs.",
+    "habit_vs_big_red": "Both rosetted, but Big Red sage's thick, dark-green smooth basal leaves to 12 cm and pink-red 4 cm corollas on 1.5 m stalks are usually much larger and often moist ravine/seep-associated."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia coccinea"
+    ],
+    "key_distinctions": "Salvia coccinea: Both can be red. Cedar sage is rosetted and usually low in shaded juniper habitat; S. coccinea is taller with broad deltoid/ovate leaves along the stem."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "FHkFcxU0N5Q",
+      "timestamp": "12:45",
+      "record_id": "FHkFcxU0N5Q-11",
+      "role": "tubular flower / long petiole / nearly peltate leaf",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "tags": [
+    "Lamiaceae",
+    "Salvia",
+    "Cedar Sage",
+    "Central Texas",
+    "Genus comparison",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "2.3-salvia-red-trio-photo-polish",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_enhanced": true,
+    "last_visual_reviewed": "2026-10-13",
+    "visual_status": "Two licensed exact cedar sage photos queued; 3 study panels, rosette/leaflet macro still needed.",
+    "photo_credit_reviewed": "2026-10-13",
+    "rights_note": "New exact CC BY field photos have explicit attribution and license links; reused source location context retained."
+  },
+  "images": [
+    {
+      "file": "images/01-field-reference.jpg",
+      "role": "Leaf / flower / field habit reference",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_roemeriana_166737864.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-hillcountry-field-flower.jpg",
+      "role": "Hill Country red flowers and leaves, wild iNaturalist",
+      "creator": "Michelle Wong (鍾偉瑋)",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_roemeriana_589580286.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "file": "images/03-cultivated-flower-leaf.jpg",
+      "role": "Cultivated cedar sage flower view, nonlocal",
+      "creator": "Scott Zona",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_roemeriana.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    }
+  ],
+  "photo_diagnostic_lesson": {
+    "pair": "Red Salvia trio",
+    "look_here_first": "Cedar sage is NOT just 'small scarlet sage'. Check basal ROSETTE and sometimes COMPOUND leaves (1–3 leaflets) plus long petioles; flowering stem and shade support.",
+    "steps": [
+      {
+        "look": "Basal rosette",
+        "trait": "Cedar sage a perennial basal rosette with long-petioled leaves; scarlet sage has many simple stem leaves, big red also rosetted but robust."
+      },
+      {
+        "look": "One complete leaf",
+        "trait": "Some cedar leaves have up to three leaflets; terminal leaflet cordate or roundish; photo both lamina and petiole."
+      },
+      {
+        "look": "Flowering node",
+        "trait": "Two opposite cymes usually with three flowers each; do not confuse an opposite cymose verticil with whole inflorescence."
+      },
+      {
+        "look": "Corolla and calyx",
+        "trait": "Crimson two-lipped tube; green-purple ribbed long-tipped calyx; do not rely on crimson color alone."
+      },
+      {
+        "look": "Habitat",
+        "trait": "Shade/cedar duff is a strong supporting cue, not definitive compared with flower/leaf morphology."
+      }
+    ],
+    "memory_rule": "CEDAR = cedar shade, ROSETTE, and a leaf that can show LITTLE SIDE LEAFLETS."
+  },
+  "visual_comparison": {
+    "title": "Cedar sage: rosette and compound-leaf clue",
+    "subtitle": "Three photo views: one existing wild Travis County field view, one Texas Hill Country example, one cultivated exact-species study. Do not mistake a leaf close-up for a verified rosette photograph.",
+    "items": [
+      {
+        "label": "CEDAR · TRAVIS COUNTY FIELD",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-roemeriana/images/01-field-reference.jpg",
+        "caption": "Existing wild Travis County reference. Look for leaf shape, petiole and crimson flowers, then verify basal rosette in an uncropped plant shot.",
+        "creator": "Michelle W. (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_roemeriana_166737864.jpg",
+        "markers": []
+      },
+      {
+        "label": "CEDAR · HILL COUNTRY FLOWER / LEAVES",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-roemeriana/images/02-hillcountry-field-flower.jpg",
+        "caption": "Texas Hill Country wild cedar sage photo, November 2025. Study naturally occurring flowering/leaf arrangement, without claiming a visible rosette where cropped.",
+        "creator": "Michelle Wong (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_roemeriana_589580286.jpg",
+        "markers": []
+      },
+      {
+        "label": "CEDAR · CULTIVATED FLOWER STUDY",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-roemeriana/images/03-cultivated-flower-leaf.jpg",
+        "caption": "Scott Zona exact-species flowering plant grown in Florida. Flower architecture only, not proof of a Texas native stand.",
+        "creator": "Scott Zona",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_roemeriana.jpg",
+        "markers": []
+      }
+    ],
+    "annotation_status": "No arbitrary arrows; rosette, leaflets and three-flowered cyme need each true visible image verified."
+  },
+  "photo_final_pass": {
+    "needs": [
+      "Close TOP view of true 1–3-foliolate leaf showing small lateral leaflets, terminal leaflet and petiole attachment",
+      "Uncropped BASAL ROSETTE under Ashe juniper, with plant stem attached",
+      "Actual 3-flowered cyme side view with pedicels",
+      "Calyx and scarlet/Big Red sage side by side with cm ruler",
+      "Arrow accuracy QA on whole leaf, petiole, terminal/lateral leaflets"
+    ],
+    "source_note": "USDA/FNA/UT Austin leaf characters prioritized above 'peltate' impression; do not label peltate since attachment is basal."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "marrubium-vulgare",
+  "family": "Lamiaceae",
+  "genus": "Marrubium",
+  "species": "vulgare",
+  "scientific_name": "Marrubium vulgare",
+  "common_name": "White horehound",
+  "look_here_first": "Inspect square woolly stems, opposite wrinkled grayish leaves, and tight white-flowered whorls.",
+  "curation_status": {
+    "visual_reviewed": false,
+    "taxonomy_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/joey-211367551.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/211367551",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-211367563.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/211367563",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

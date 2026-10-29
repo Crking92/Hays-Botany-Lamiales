@@ -1,0 +1,37 @@
+{
+  "id": "teucrium-canadense",
+  "family": "Lamiaceae",
+  "genus": "Teucrium",
+  "species": "canadense",
+  "scientific_name": "Teucrium canadense",
+  "common_name": "American germander",
+  "look_here_first": "Look for opposite toothed leaves on square stems and slender terminal clusters of pale pink to purple two-lipped flowers; examine the strongly unequal corolla lobes.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Teucrium%20canadense",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Exact iNaturalist photo 285691473, observation 165073734; Florida source location, not local provenance.",
+  "images": [
+    {
+      "file": "images/commons-teucrium-canadense.jpg",
+      "role": "Provisional terminal floral cluster; stem edges and full corolla lobes await additional photos.",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Teucrium_canadense_inflorescence.jpg",
+      "study_use": "Noncommercial field botany learner",
+      "public_reuse": "Credit author, license and source"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

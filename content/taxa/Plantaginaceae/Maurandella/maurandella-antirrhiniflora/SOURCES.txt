@@ -1,0 +1,18 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/310773235
+Photo: https://www.inaturalist.org/photos/560925211
+Original identification requires deeper review; county native status not asserted.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Maurandella antirrhiniflora
+Creator: sagebrush134; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/5938134988
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/maurandella-antirrhiniflora/gbif-8447614bc6a624.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Maurandella antirrhiniflora
+Creator: Chris Hughes; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5938313687
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/maurandella-antirrhiniflora/gbif-61668a6205bbf9.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

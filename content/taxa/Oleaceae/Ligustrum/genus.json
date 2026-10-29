@@ -1,0 +1,92 @@
+{
+  "rank": "genus",
+  "family": "Oleaceae",
+  "name": "Ligustrum",
+  "common_group": "Privets",
+  "project_scope": {
+    "selection_mode": "three canonical encounter taxa",
+    "species_ids": [
+      "ligustrum-lucidum",
+      "ligustrum-quihoui",
+      "ligustrum-sinense"
+    ],
+    "species_count": 3,
+    "native_range_note": "All three are non-native comparison taxa; preserve species-level labels and exclude from confirmed-native counts."
+  },
+  "look_here_first": "At a twig node, find opposite simple leaves with entire margins. Compare mature leaf length and texture, then inspect the underside midvein for hairs. For small-leaved privets, use a macro to compare individual flower/fruit stalks rather than flower color.",
+  "shared_traits": [
+    "Opposite or nearly opposite simple entire leaves on woody shrubs or trees",
+    "Small four-lobed flowers in branched clusters; typically two stamens",
+    "Dark drupes at maturity; fruit color alone does not separate species"
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Mature leaf blade",
+      "L. lucidum": "thick glossy, usually 7–15 cm; conspicuous opaque marginal rim",
+      "L. quihoui": "narrow elliptic to oblanceolate, about 10–36 × 4–11 mm; strongly tapered base",
+      "L. sinense": "thinner elliptic/oblong, commonly 2.5–7.5 cm"
+    },
+    {
+      "character": "Underside and young shoots",
+      "L. lucidum": "mostly glabrous; 6–8 lateral vein pairs",
+      "L. quihoui": "blade largely glabrous; young axes often short-hairy",
+      "L. sinense": "often hairy along lower midvein, petioles and young shoots"
+    },
+    {
+      "character": "Flowers/fruit attachment",
+      "L. lucidum": "large terminal branched panicles, often 13–20 cm",
+      "L. quihoui": "individual flowers/fruits sessile to subsessile",
+      "L. sinense": "individual flowers/fruits more distinctly pedicelled; shorter panicles"
+    },
+    {
+      "character": "Growth architecture",
+      "L. lucidum": "large evergreen shrub to tree",
+      "L. quihoui": "spreading, near-horizontal branchlets; smaller semi-evergreen shrub",
+      "L. sinense": "many-stemmed shrub, often suckering thickets"
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "Mature leaves generally >7 cm, thick glossy with opaque rim; large terminal panicles",
+      "then": "Ligustrum lucidum"
+    },
+    {
+      "if": "Small narrow leaves taper to very short petioles, near-horizontal branchlets, flowers/fruits nearly stalkless",
+      "then": "Ligustrum quihoui"
+    },
+    {
+      "if": "Thinner broader leaves with hairs beneath along midvein, distinctly stalked flowers/fruits",
+      "then": "Ligustrum sinense"
+    }
+  ],
+  "cautions": [
+    "Shade, pruning and juvenile shoots alter leaf size and architecture; sample multiple mature, unpruned shoots.",
+    "Quihoui versus Chinese privet requires flower/fruit pedicel close-ups when leaves overlap.",
+    "Hairs may be sparse or worn; inspect several lower midveins and petioles.",
+    "All three are introduced encounter taxa, not project confirmed natives."
+  ],
+  "lookalikes": [
+    {
+      "taxon": "Ilex vomitoria",
+      "difference": "Yaupon leaves alternate and often crenate; Ligustrum leaves opposite and entire. Check several nodes."
+    },
+    {
+      "taxon": "Ligustrum japonicum",
+      "difference": "Also thick glossy-leaved; compare leaf marginal rim, venation and reproductive structures before naming L. lucidum."
+    },
+    {
+      "taxon": "Forestiera spp.",
+      "difference": "Also Oleaceae with opposite simple leaves and drupes, but flowers are small and often lack the conspicuous four-lobed Ligustrum corolla."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    "Matched same-scale mature leaf upper and lower surfaces for all three species",
+    "Node macro showing opposite leaf attachment and petiole lengths",
+    "L. lucidum: opaque marginal rim and 6–8 vein pairs with scale",
+    "L. quihoui versus L. sinense: paired underside midvein hair macros",
+    "L. quihoui versus L. sinense: matched flowering/fruiting branch macro with arrows to pedicels",
+    "Whole unpruned branch architecture and panicle size for all three",
+    "Ilex vomitoria alternate leaf nodes versus Ligustrum opposite nodes"
+  ],
+  "visual_status": "Genus lesson text installed; matched diagnostic photos remain for Diagnostic Photo Polish. Existing species galleries are provisional."
+}

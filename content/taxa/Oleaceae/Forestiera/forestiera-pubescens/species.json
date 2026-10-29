@@ -1,0 +1,87 @@
+{
+  "id": "forestiera-pubescens",
+  "entry_type": "species",
+  "family": "Oleaceae",
+  "genus": "Forestiera",
+  "species": "pubescens",
+  "scientific_name": "Forestiera pubescens",
+  "authority": "Nutt.",
+  "common_name": "Elbowbush / Desert Olive / Downy Forestiera",
+  "look_here_first": "Start with the leaves. Forestiera pubescens has noticeably broader elliptic to ovate leaves with some pubescence, and it is winter-deciduous. The rigid paired side branches still make the classic 'elbow' architecture.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve natural flora; Travis — UT Plant Resources Center herbarium specimens; Williamson — detailed county treatment of F. pubescens var. pubescens.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "winter-deciduous shrub",
+      "subopposite to opposite branch pattern with rigid paired lateral branches",
+      "leaves elliptic to broadly lanceolate/ovate or obovate, much broader than F. angustifolia",
+      "leaf surfaces often with scattered short hairs",
+      "flowers appear before leaves and lack a corolla",
+      "small dark purple drupes"
+    ],
+    "comparison_training": "F. angustifolia has very narrow linear leathery leaves, often clustered on twigs, and is evergreen to semi-evergreen/drought-deciduous rather than winter-deciduous."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Forestiera angustifolia"
+    ],
+    "key_distinctions": "F. angustifolia has very narrow linear leathery leaves, often clustered on twigs, and is evergreen to semi-evergreen/drought-deciduous rather than winter-deciduous."
+  },
+  "tags": [
+    "Oleaceae",
+    "Forestiera",
+    "Elbowbush / Desert Olive / Downy Forestiera",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b037",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Diagnostic roles defined; exact reusable image lock remains later visual-polish work.",
+  "images": [
+    {
+      "file": "images/01-shrub-habit-opposite-leaves.jpg",
+      "role": "Branching shrub habit with repeated opposite leaf pairs",
+      "creator": "Mary PK Burns",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/guide_taxa/441882",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-yellow-flowers-bare-twigs.jpg",
+      "role": "Yellow spring flowers clustered along woody twigs",
+      "creator": "Jerry Oldenettel",
+      "license": "CC BY-NC-SA",
+      "source_page": "https://www.inaturalist.org/guide_taxa/441882",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-blue-black-fruit.jpg",
+      "role": "Dense blue-black drupes with foliage; strong fruit-season identification view",
+      "creator": "Jerry Oldenettel",
+      "license": "CC BY-NC-SA",
+      "source_page": "https://www.inaturalist.org/guide_taxa/441882",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

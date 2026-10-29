@@ -1,0 +1,218 @@
+{
+  "rank": "genus",
+  "name": "Aloysia",
+  "family": "Verbenaceae",
+  "common_group": "beebush and sweet-almond verbena",
+  "project_scope": {
+    "source": "Live Master Plant Pool checked 2026-10-12; two distinct source-pool entries; genus absent from Genus Study Index at selection",
+    "species": [
+      "Aloysia gratissima",
+      "Aloysia virgata"
+    ],
+    "canonical_species_at_build": 0,
+    "learner_admission": "Both approved by source-pool membership; range status is independent; A. virgata is an introduced/cultivated encounter comparison, not a target-zone-native certification",
+    "mode": "Genus lesson only; no species installation or range adjudication"
+  },
+  "shared_genus_recognition": [
+    "Woody, often aromatic shrubs with opposite simple leaves, no interpetiolar stipules and small tubular, usually four-lobed flowers in raceme-like clusters.",
+    "In the local source-pool pair, flowers are white and fragrant; color and scent alone do not separate species.",
+    "Verbenaceae family confirmation requires inflorescence and ovary/fruit architecture, not square stems or aroma."
+  ],
+  "look_here_first": "START WITH A MATURE LEAF + AN INTACT FLOWERING RACEME: measure multiple fully expanded leaves and photograph an axillary raceme side-on. A. gratissima generally has much smaller leaves and tightly crowded flowers in short dense racemes; A. virgata has larger, usually toothed leaves and loose, often zigzag racemes with visibly separated flower bases. Confirm using several shoots; do not rely on odor or flower color.",
+  "species_comparison_matrix": [
+    {
+      "character": "Mature leaf blade length × width (PRIMARY)",
+      "gratissima": "Usually 10–20 × 5–8 mm in Kew treatment; regional north-central Texas flora reports 3–27 × 2–8 mm.",
+      "virgata": "Usually 40–90 × 15–60 mm in Kew treatment.",
+      "how_to_check": "Measure 5–10 fully expanded leaves on multiple mature shoots; exclude tiny axillary fascicle leaves."
+    },
+    {
+      "character": "Leaf margin (SUPPORTING)",
+      "gratissima": "Usually entire, but some forms/juvenile shoots show teeth.",
+      "virgata": "Usually distinctly dentate; depth varies and some intermediates occur.",
+      "how_to_check": "Backlit close-up of mature leaf edge with ruler; do not key by teeth alone."
+    },
+    {
+      "character": "Leaf apex and outline",
+      "gratissima": "Often oblong to oblanceolate with obtuse or rounded apex.",
+      "virgata": "Often ovate to elliptic with acute tip, sometimes narrower.",
+      "how_to_check": "Matched mature blade scans; note variability."
+    },
+    {
+      "character": "Leaf underside",
+      "gratissima": "Often paler than upper face, but not densely white-tomentose.",
+      "virgata": "Green on both sides, often paler below; underside hairs variable.",
+      "how_to_check": "Matched abaxial macro; this is supporting, not an exclusive discriminator."
+    },
+    {
+      "character": "Flower packing along raceme (PRIMARY)",
+      "gratissima": "Dense axillary raceme; flower bases crowded.",
+      "virgata": "Lax, often flexuose axillary raceme; individual flower bases readily visible.",
+      "how_to_check": "Side-on flowering raceme with scale and arrows to adjacent flower bases."
+    },
+    {
+      "character": "Raceme number and branching",
+      "gratissima": "Often solitary dense raceme in each axil; typically 2–3 cm long (occasionally 5 cm) in Kew treatment.",
+      "virgata": "Often several lax racemes from a leaf axil; flowering axes may zigzag.",
+      "how_to_check": "Whole axil photo showing point of origin and all racemes; do not assume raceme count is invariant."
+    },
+    {
+      "character": "Young axillary leafy shoots",
+      "gratissima": "Small leafy fascicles often conspicuous in axils in regional Texas descriptions.",
+      "virgata": "No comparable diagnostic fascicle emphasis in cited Kew treatment; assess as secondary character only.",
+      "how_to_check": "Macro of nonflowering node with young leaves and mature leaves together."
+    },
+    {
+      "character": "Branchlet architecture",
+      "gratissima": "Often strongly branched, small shrub; some branchlets spinescent.",
+      "virgata": "Usually larger vigorous shrub with elongated branches; growth form varies with pruning/frost.",
+      "how_to_check": "Whole-plant image plus young branchlet close-up; habit only supports leaf/raceme evidence."
+    },
+    {
+      "character": "Flower color / scent (NOT diagnostic)",
+      "gratissima": "White, strongly fragrant.",
+      "virgata": "White, strongly fragrant.",
+      "how_to_check": "Do not use to split species."
+    }
+  ],
+  "field_decision_sequence": [
+    "1. Confirm opposite leaves and axillary small-flowered racemes; keep other Verbenaceae open until the flower and fruit fit.",
+    "2. On several mature shoots measure fully expanded leaves (not young axillary clusters): consistently small ~1–2 cm blades suggest A. gratissima; ~4–9 cm blades suggest A. virgata.",
+    "3. Photograph intact racemes side-on: densely packed short racemes support A. gratissima; lax, flexuose racemes with exposed flower bases support A. virgata.",
+    "4. Check mature margin, apex and axillary leafy fascicles as secondary confirmation; do not use tooth presence alone.",
+    "5. If leaf sizes intermediate or dense/lax inflorescence evidence conflicts, leave Aloysia sp. and hand off specimen/photographs for review rather than forcing a species."
+  ],
+  "overlap_cautions": [
+    "A. gratissima has geographically variable leaf size and occasional serrate forms, including forms formerly distinguished at varietal rank; toothed leaves do not automatically imply A. virgata.",
+    "Kew's Aloysia gratissima treatment reports specimens difficult to separate from A. virgata and possible introgression outside the local region; do not infer that a Texas plant is a hybrid without voucher-level evidence.",
+    "The raceme comparison works best on fully flowering intact inflorescences; young or weathered racemes can look falsely sparse.",
+    "Frost damage and horticultural pruning can alter A. virgata habit and leaf size; never use shrub height alone.",
+    "Both have small white fragrant flowers. Odor, flower color and insect visitation are not species separators.",
+    "Source-pool inclusion does not certify target-zone nativity. Preserve A. gratissima and A. virgata range labels separately from learner admission."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Verbena halei / Verbena brasiliensis",
+      "why_confusable": "Opposite leaves and small tubular flowers in elongated spikes.",
+      "separate": "Herbaceous erect Verbena spike architecture versus woody Aloysia with axillary racemes; confirm mature fruit and floral insertion."
+    },
+    {
+      "taxon": "Lantana urticoides / Lantana camara",
+      "why_confusable": "Woody opposite-leaved Verbenaceae with fragrant foliage and clustered small flowers.",
+      "separate": "Lantana has dense rounded flower heads and fleshy drupe-like fruits, not Aloysia's elongated racemes and small dry fruits."
+    },
+    {
+      "taxon": "Callicarpa americana",
+      "why_confusable": "Woody opposite leaves and small clustered flowers; can be confused before fruiting.",
+      "separate": "Large serrate leaves and compact axillary cymes followed by purple drupes; family Lamiaceae, not Aloysia."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "mature leaf blade size",
+      "targets": "both",
+      "shot": "Matched five-leaf sets per species on mm grid; arrows at length/width endpoints; exclude young axillary fascicles.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 1,
+      "role": "raceme flower packing",
+      "targets": "both",
+      "shot": "Matched side-on intact flowering axillary racemes at same scale; arrows to crowded vs exposed flower bases.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 1,
+      "role": "raceme axis flexuosity and axil origin",
+      "targets": "both",
+      "shot": "Full flowering node with branching and entire racemes visible; arrows marking solitary dense vs multiple lax flexuose axes.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 2,
+      "role": "leaf margin and apex",
+      "targets": "both",
+      "shot": "Matched close-ups of mature blades with edge and tip labels; include toothed A. gratissima exception if documented.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 2,
+      "role": "abaxial indumentum",
+      "targets": "both",
+      "shot": "10× matched underside macros; label hairs and avoid treating them as sole discriminator.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 2,
+      "role": "axillary leaf fascicles",
+      "targets": "both",
+      "shot": "Matched vegetative-node macros with young leafy shoots and main leaf pair labeled.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 2,
+      "role": "whole plant and mature branchlet",
+      "targets": "both",
+      "shot": "Whole shrub and branchlet; show spinescent tips where present, with caution on frost/pruning.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 3,
+      "role": "family/source-pool look-alikes",
+      "targets": "Aloysia vs Verbena, Lantana, Callicarpa",
+      "shot": "Compare axillary raceme, terminal spike, capitate flower head and Callicarpa axillary cyme; label inflorescence insertion and fruit.",
+      "owner": "Diagnostic Photo Polish"
+    }
+  ],
+  "existing_media_reuse": {
+    "related_modules": [
+      "content/taxa/Verbenaceae/family.json"
+    ],
+    "note": "Family module has useful Verbenaceae/Lamiaceae/Rubiaceae comparisons and existing Lantana licensed references. No exact Aloysia user/Joey file or rights-verified image was confirmed this run; do not fabricate image paths or licenses."
+  },
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Acquire licensed exact-species leaf-size and dense-vs-lax raceme matched photos first, then other checklist roles. Preserve image provenance and verify annotation arrows."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "task": "Both Aloysia source-pool species absent from canonical manifest on 2026-10-12. Install only after identity gate; keep source-pool admission separate from native-range status."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "If a specimen has intermediate blade size/teeth or contradictory raceme packing, compare Kew treatments and voucher-level material for A. gratissima / A. virgata; do not assert hybrids from appearance alone or reopen settled range decisions."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Kew Plants of the World Online, Aloysia gratissima (Wood 2009 treatment)",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:9643-2/general-information",
+      "supports": "10–20 × 5–8 mm leaves, dense solitary axillary racemes, infraspecific variation and overlap caution"
+    },
+    {
+      "source": "Kew Plants of the World Online, Aloysia virgata (Wood 2009 treatment)",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861090-1/general-information",
+      "supports": "40–90 × 15–60 mm dentate leaves, lax flexuose racemes with exposed flower bases"
+    },
+    {
+      "source": "Flora of North Central Texas, Verbenaceae Aloysia treatment (BRIT)",
+      "url": "https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf",
+      "supports": "Texas leaf-size range, axillary leafy fascicles, dense racemes, juvenile serration variation"
+    },
+    {
+      "source": "NC State Extension, Aloysia virgata",
+      "url": "https://plants.ces.ncsu.edu/plants/aloysia-virgata/",
+      "supports": "Cultivated shrub growth, toothed opposite leaves and horticultural context"
+    }
+  ],
+  "curation_status": {
+    "status": "genus_lesson_built_photo_pending",
+    "date": "2026-10-12",
+    "visual_complete": false,
+    "canonical_species_installed": false,
+    "sheet_index_key": "Verbenaceae | Aloysia",
+    "science_caution": "Variation and possible intermediate forms flagged; no range decision changed"
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "rank": "genus",
+  "family": "Verbenaceae",
+  "name": "Verbena",
+  "authority": "L.",
+  "common_group": "Vervains",
+  "project_scope": {
+    "selection_mode": "comparison-first",
+    "species_ids": [
+      "verbena-halei",
+      "verbena-canescens",
+      "verbena-xutha",
+      "verbena-scabra",
+      "verbena-brasiliensis"
+    ],
+    "species_count": 5,
+    "note": "B013 Verbena set. Brazilian vervain is retained as invasive comparison and excluded from native totals."
+  },
+  "study_strategy": {
+    "priority": [
+      "growth form",
+      "leaf architecture",
+      "hair texture",
+      "spike length/density",
+      "branching architecture"
+    ],
+    "warning": "Ignore flower color first; all five can look like generic purple-flowered vervains from a distance."
+  },
+  "quick_key": [
+    {
+      "if": "slender plant + deeply pinnatifid lower leaves transitioning to narrow/simple upper leaves",
+      "then": "Verbena halei"
+    },
+    {
+      "if": "low gray-green plant densely covered in whitish hairs",
+      "then": "Verbena canescens"
+    },
+    {
+      "if": "coarse pustulate/hispid plant + repeated 3-lobed leaves",
+      "then": "Verbena xutha"
+    },
+    {
+      "if": "robust plant + broad harsh sandpaper leaves + very long slender spikes",
+      "then": "Verbena scabra"
+    },
+    {
+      "if": "very tall open candelabra-like plant + simple narrow serrate leaves + many short compact spikes",
+      "then": "Verbena brasiliensis — invasive comparison"
+    }
+  ],
+  "curation_status": {
+    "version": "1.4-scabra-brazilian-vervain-comparison",
+    "last_reviewed": "2026-10-12",
+    "learner_comparisons": "installed_text",
+    "photo_arrow_status": "native scabra broad serrate leaf and exotic brazilian many short spikes now arrowed; specialized hairy leaf macros still pending",
+    "preserve_existing_photos": true,
+    "genus_photo_overlay_items": 9,
+    "genus_photo_overlay_markers": 9,
+    "visual_source_rights": "verified four Wikimedia CC licenses; UT/USGS references link-only",
+    "final_polish_deferred": "2026-10-12",
+    "final_polish_queue_count": 3,
+    "nonmicroscopic_visuals": "provisional learner complete",
+    "specialized_hair_micrographs": "pending",
+    "cross_genus_glandularia_link_updated": "2026-10-12"
+  },
+  "look_here_first": "Look at LEAVES and the whole flower-spike architecture before flower color. Broad rough leaves vs finely divided vs 3-lobed vs gray-hairy vs narrow unlobed are the fastest splits. Then compare whether spikes are long and slender or numerous, short and compact. Brazilian vervain is an introduced comparison, never a target-native recommendation.",
+  "shared_traits": [
+    "Opposite leaves on often 4-angled stems; leaf shape varies dramatically among these five species.",
+    "Small flowers are arranged in elongated spikes or branched arrangements of spikes.",
+    "Fruit divides into four one-seeded nutlet-like mericarps.",
+    "Leaf outline, density/type of hairs, and spike architecture usually separate species faster than pale lavender-purple flower color."
+  ],
+  "species_comparison_matrix": [
+    {
+      "species": "Verbena halei",
+      "common_name": "Texas vervain",
+      "first_trait": "Lower leaves often deeply pinnatifid; upper leaves narrower and simpler",
+      "surface": "Relatively green, comparatively lightly hairy",
+      "spikes": "Slender, sparsely flowered spikes",
+      "compare_first_with": "V. canescens and V. xutha",
+      "native_role": "TARGET_NATIVE_CONFIRMED"
+    },
+    {
+      "species": "Verbena canescens",
+      "common_name": "Gray vervain",
+      "first_trait": "Short, gray-green, consistently densely whitish-hairy",
+      "surface": "Canescent, dusty-gray stem and leaf hairs",
+      "spikes": "Small slender spikes",
+      "compare_first_with": "V. halei",
+      "native_role": "TARGET_NATIVE_CONFIRMED"
+    },
+    {
+      "species": "Verbena xutha",
+      "common_name": "Gulf vervain",
+      "first_trait": "Repeated deeply 3-lobed leaves, long central lobe",
+      "surface": "Coarse hispid/pustulate hairs, often glandular",
+      "spikes": "Multiple terminal or axillary spikes",
+      "compare_first_with": "V. halei",
+      "native_role": "TARGET_NATIVE_CONFIRMED"
+    },
+    {
+      "species": "Verbena scabra",
+      "common_name": "Sandpaper vervain",
+      "first_trait": "Broad, harshly scabrous or sandpapery leaves",
+      "surface": "Stiff/rough leaf surface",
+      "spikes": "Long slender spikes on a robust tall plant",
+      "compare_first_with": "V. brasiliensis",
+      "native_role": "TARGET_NATIVE_CONFIRMED"
+    },
+    {
+      "species": "Verbena brasiliensis",
+      "common_name": "Brazilian vervain",
+      "first_trait": "Tall airy, many-tiered branching canopy with narrow, unlobed serrate leaves",
+      "surface": "Not broadly sandpapery like V. scabra",
+      "spikes": "Many compact short terminal spikes in a candelabra-like panicle",
+      "compare_first_with": "V. scabra and V. xutha",
+      "native_role": "NON_NATIVE_COMPARISON"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "id": "verbena-halei-vs-canescens",
+      "title": "Texas vervain vs gray vervain",
+      "taxon_ids": [
+        "verbena-halei",
+        "verbena-canescens"
+      ],
+      "look_here_first": "Check the stem and leaf surface with a hand lens. UT's Central Texas PlantPics emphasizes short stiff canescent hairs on V. canescens versus glabrous V. halei as the most useful split. Then compare gray overall cast and variable lower-leaf divisions; no need to wait for flowers.",
+      "field_matrix": [
+        {
+          "character": "Leaf outline",
+          "halei": "Lower leaves often strongly pinnatifid; upper leaves become narrow and simple",
+          "canescens": "Narrow oblong to linear leaves, usually few teeth/short lobes"
+        },
+        {
+          "character": "Surface hairs",
+          "halei": "Glabrous (smooth/hairless) to only sparingly hairy in regional descriptions; UT PlantPics explicitly contrasts glabrous V. halei with V. canescens",
+          "canescens": "Distinct, dense short stiff hairs on stems and leaves (canescent): check real surface at the same scale"
+        },
+        {
+          "character": "Habit",
+          "halei": "Slender, upright/ascending and openly branched",
+          "canescens": "Often much lower and compact"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "matched lower leaves",
+          "arrow": "lowest mature leaf divisions, scale",
+          "status": "pending exact matched image"
+        },
+        {
+          "role": "same-scale leaf/stem pubescence",
+          "arrow": "hair density, scale",
+          "status": "UT Austin has an exact demonstration on the original source page, linked in genus; it is NOT copied because image reuse rights are unknown. Licensed matched-scale macro deferred to final photographic polish."
+        },
+        {
+          "role": "whole plant",
+          "arrow": "overall habit",
+          "status": "sources exist; matched comparison pending"
+        }
+      ],
+      "caution": "Leaf division can vary within one plant; compare lower leaves at the same developmental stage.",
+      "references": [
+        "https://www.sbs.utexas.edu/bio406d/images/pics/vrb/verbena_canescens.htm"
+      ]
+    },
+    {
+      "id": "verbena-halei-vs-xutha",
+      "title": "Texas vervain vs Gulf vervain",
+      "taxon_ids": [
+        "verbena-halei",
+        "verbena-xutha"
+      ],
+      "look_here_first": "Compare individual mature leaves from the lower-to-middle stem: slender, variable pinnatifid leaves on Texas vervain versus coarse, often regularly three-lobed leaves on Gulf vervain. Check hair texture, too.",
+      "field_matrix": [
+        {
+          "character": "Leaf pattern",
+          "halei": "Variable, often pinnatifid lower leaf; narrow often simple upper leaves",
+          "xutha": "Often prominently 3-lobed leaves with long center lobe"
+        },
+        {
+          "character": "Pubescence",
+          "halei": "Relatively lighter/finer hairs",
+          "xutha": "Coarse, hispid, sometimes glandular with pustulate bases"
+        },
+        {
+          "character": "Flowering branches",
+          "halei": "Fine, slender sprays",
+          "xutha": "Coarser branching with terminal and axillary spikes"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "mature leaf outline",
+          "arrow": "major lobes and terminal lobe",
+          "status": "pending exact matched image"
+        },
+        {
+          "role": "leaf and stem hair macro",
+          "arrow": "hispid swollen hair bases versus fine sparse hairs",
+          "status": "pending exact macro"
+        }
+      ],
+      "caution": "Do not use 'three-lobed' as a single absolute test because some V. halei leaves are also divided."
+    },
+    {
+      "id": "verbena-scabra-vs-brasiliensis",
+      "title": "Sandpaper vervain vs introduced Brazilian vervain",
+      "taxon_ids": [
+        "verbena-scabra",
+        "verbena-brasiliensis"
+      ],
+      "look_here_first": "First look at the leaves and spikes. Sandpaper vervain has broad, harsh-textured leaves and long thin spikes; Brazilian vervain has much narrower simple serrate leaves and many shorter compact spikes on tall airy branches.",
+      "field_matrix": [
+        {
+          "character": "Leaves",
+          "scabra": "Broad, coarse, ovate and sandpapery",
+          "brasiliensis": "Narrower, simple and serrate (not lobed)"
+        },
+        {
+          "character": "Spike architecture",
+          "scabra": "Long, narrow spike axes",
+          "brasiliensis": "Numerous short, compact spikes in a widely branching panicle"
+        },
+        {
+          "character": "Status",
+          "scabra": "Locally native in curated project",
+          "brasiliensis": "Introduced, comparison-only in this learner"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "paired leaves at scale",
+          "arrow": "blade width + serrated edge + rough surface",
+          "status": "Scabra broad leaf now arrowed; Brazilian source-only leaf macro found but license for embedding unresolved"
+        },
+        {
+          "role": "whole flowering stems",
+          "arrow": "long spikes versus compact candelabra tips",
+          "status": "Both species photographed in licensed sources; annotated scabra leaf and Brazilian compact spikes"
+        },
+        {
+          "role": "single inflorescence close-ups",
+          "arrow": "spike rachis length and flower density",
+          "status": "pending exact macro"
+        }
+      ],
+      "caution": "Tiny lavender flowers occur on both; shape of individual flowers is not the primary field cue."
+    }
+  ],
+  "realistic_lookalikes": [
+    {
+      "taxon": "Glandularia bipinnatifida",
+      "caution": "Sometimes called prairie verbena and historically placed with Verbena; distinguish accepted genus and distinctly dissected/lobed leaf and flowering head architecture before labeling."
+    },
+    {
+      "taxon": "Glandularia pumila",
+      "caution": "Small native verbena-like plant; include as a lookalike in cross-genus study, not a sixth Verbena card."
+    },
+    {
+      "taxon": "Verbena bonariensis",
+      "caution": "Non-native purpletop vervain with dense, showy rounded flowerheads; do not misidentify it as Brazilian vervain merely because both can be tall."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "comparison": "V. halei vs V. canescens",
+      "needed": "Matched lower mature leaves, same-scale hairs along leaf blade and rachis, whole-plant height",
+      "status": "flower/spike arrow coverage now present; matched leaf/stem hairs still pending"
+    },
+    {
+      "comparison": "V. halei vs V. xutha",
+      "needed": "Same-scale three-lobed vs pinnatifid leaf photos, pustulate hair bases and mature upper leaves",
+      "status": "macro/arrow work pending"
+    },
+    {
+      "comparison": "V. scabra vs V. brasiliensis",
+      "needed": "Broad rough blade vs narrow simple leaf; tall inflorescence with long thin vs short compact spikes",
+      "status": "photo-matching and arrows pending"
+    },
+    {
+      "comparison": "V. xutha vs V. canescens",
+      "needed": "Repeated middle-stem 3-lobed leaf vs nearly linear gray-hairy blades",
+      "status": "photo-matching and arrows pending"
+    },
+    {
+      "comparison": "Verbena vs Glandularia",
+      "needed": "Whole inflorescence and individual leaf close-ups; avoid genus confusion from common names",
+      "status": "cross-genus visual polish pending"
+    }
+  ],
+  "learner_photo_coverage": [
+    {
+      "species": "verbena-brasiliensis",
+      "photo_metadata_count": 1,
+      "display": "local provisional"
+    },
+    {
+      "species": "verbena-canescens",
+      "photo_metadata_count": 1,
+      "display": "remote"
+    },
+    {
+      "species": "verbena-halei",
+      "photo_metadata_count": 2,
+      "display": "remote"
+    },
+    {
+      "species": "verbena-scabra",
+      "photo_metadata_count": 1,
+      "display": "remote"
+    },
+    {
+      "species": "verbena-xutha",
+      "photo_metadata_count": 1,
+      "display": "local provisional"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Verbena leaf comparisons · real photographs",
+    "subtitle": "Leaf widths, leaf tips and spike architecture are visible in exact-species sourced photos. Arrows are placed only on identifiable structures; hair macros remain separate high-priority work.",
+    "memory_rule": "Halei: thin branched spikes · Canescens: dense short hairs · Xutha: coarse flowering axis + lobed foliage · Brasiliensis: many tiny compact heads. Flower color alone is a trap.",
+    "items": [
+      {
+        "label": "Brazilian vervain · short spike architecture",
+        "scientific_name": "Verbena brasiliensis",
+        "image_role": "archived specimen with numerous compact spike tips",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Verbena_brasiliensis_Vell._%28AM_AK350535%29.jpg/960px-Verbena_brasiliensis_Vell._%28AM_AK350535%29.jpg",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_brasiliensis_Vell._(AM_AK350535).jpg",
+        "creator": "Auckland War Memorial Museum",
+        "license": "CC BY 4.0",
+        "caption": "The many short, thick terminal spikes on long branching axes distinguish this introduced plant from native sandpaper vervain's longer slender spikes. The preserved leaves here are too small for a diagnostic margin overlay.",
+        "markers": [
+          {
+            "label": "many short, compact spikes",
+            "label_x": 8,
+            "label_y": 14,
+            "target_x": 77,
+            "target_y": 27
+          }
+        ],
+        "visual_status": "real vouchered herbarium photo reviewed; annotated flowering branches; leaf closeup still missing"
+      },
+      {
+        "label": "Sandpaper vervain · broad serrate leaf",
+        "scientific_name": "Verbena scabra",
+        "image_role": "broad oval-to-ovate serrate foliage",
+        "image_url": "https://yavapaiplants.extension.arizona.edu/sites/default/files/styles/yp_card_image/public/Forbs/Images/Verbena_scabra_-_Sandpaper_Ver_1536861633_L_GS.jpg.webp?itok=eFw6hAAg",
+        "image_fit": "contain",
+        "source_page": "https://yavapaiplants.extension.arizona.edu/verbena-scabra",
+        "creator": "Gordon Scott",
+        "license": "CC BY-SA (version not specified by Extension page)",
+        "caption": "LOOK AT THE LEAF: large ovate blade with coarse teeth; a native species that can have narrow long spikes. This image does not show tiny rough hair bases, so save that for a separate macro.",
+        "markers": [
+          {
+            "label": "broad, coarsely toothed leaf",
+            "label_x": 42,
+            "label_y": 10,
+            "target_x": 72,
+            "target_y": 34
+          }
+        ],
+        "visual_status": "real source photo reviewed; annotated leaf; microscopically rough surface still pending"
+      },
+      {
+        "label": "Texas vervain · deeply cut lower leaf",
+        "scientific_name": "Verbena halei",
+        "image_role": "Mature leaf lobes, tapering blade base",
+        "image_url": "https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Verbena+halei_0256.JPG&id=1254&size=w",
+        "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/1254",
+        "creator": "Larry Allain / U.S. Geological Survey",
+        "license": "Public domain",
+        "image_fit": "contain",
+        "caption": "Photo verifies deeply incised lateral lobes of one Texas vervain leaf. Some upper leaves are narrower and less divided; shape overlaps with Gulf vervain.",
+        "markers": [
+          {
+            "label": "deep lateral leaf lobes",
+            "label_x": 5,
+            "label_y": 14,
+            "target_x": 35,
+            "target_y": 58
+          }
+        ]
+      },
+      {
+        "label": "Gray vervain · foliage and habit",
+        "scientific_name": "Verbena canescens",
+        "image_role": "Narrow lobed leaves on a compact plant",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Verbena_canescens_form.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_canescens_form.jpg",
+        "creator": "Gaiacoyote",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "caption": "Field photograph shows narrow, toothed or incised foliage. It does NOT resolve the fine gray hairs; use separate UT macro for the canescence test.",
+        "markers": [
+          {
+            "label": "cut, narrow leaves",
+            "label_x": 5,
+            "label_y": 10,
+            "target_x": 40,
+            "target_y": 49
+          }
+        ]
+      },
+      {
+        "label": "Gulf vervain · opposite incised leaves",
+        "scientific_name": "Verbena xutha",
+        "image_role": "Flowering stem with incised opposite leaves",
+        "image_url": "https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Verbena+xutha_0001.jpg&id=1279&size=w",
+        "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/1279",
+        "creator": "Larry Allain / U.S. Geological Survey",
+        "license": "Public domain",
+        "image_fit": "contain",
+        "caption": "Whole flowering stem with a lower incised leaf visible to the left. Leaf is relatively small in frame; still need a proper three-lobed close-up for confident teaching.",
+        "markers": [
+          {
+            "label": "lower incised leaf",
+            "label_x": 4,
+            "label_y": 62,
+            "target_x": 42,
+            "target_y": 81
+          }
+        ]
+      },
+      {
+        "label": "Texas vervain · slender spike",
+        "scientific_name": "Verbena halei",
+        "image_role": "elongated flowering spike with open flower spacing",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Verbena_halei.jpg/960px-Verbena_halei.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_halei.jpg",
+        "creator": "Annika Lindqvist",
+        "license": "CC BY 4.0",
+        "image_fit": "contain",
+        "caption": "Notice the slender flower spike and its spaced individual flowers. This view does NOT show the decisive lower-leaf shape; use the linked leaf references for that confirmation.",
+        "markers": [
+          {
+            "label": "slender flowering spike",
+            "label_x": 7,
+            "label_y": 12,
+            "target_x": 44,
+            "target_y": 38
+          }
+        ],
+        "visual_status": "source_photo_verified; annotated_spike; diagnostic_lower_leaf_pending"
+      },
+      {
+        "label": "Gray vervain · short stiff hairs",
+        "scientific_name": "Verbena canescens",
+        "image_role": "spike rachis / calyx hair macro",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Verbena_canescens.jpg/960px-Verbena_canescens.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_canescens.jpg",
+        "creator": "Alison Northup",
+        "license": "CC BY 4.0",
+        "image_fit": "contain",
+        "caption": "Look along the side of the central flower axis, just behind the open bloom. The short, stiff hairs are visible. For final separation from V. halei, a matching LEAF-and-STEM hair macro is still needed.",
+        "markers": [
+          {
+            "label": "short stiff hairs",
+            "label_x": 5,
+            "label_y": 14,
+            "target_x": 51,
+            "target_y": 33
+          }
+        ],
+        "visual_status": "source_photo_verified; annotated_spike_hairs; matched_leaf_macro_pending"
+      },
+      {
+        "label": "Gulf vervain · developing spike",
+        "scientific_name": "Verbena xutha",
+        "image_role": "single flowering spike, buds and floral bracts",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Verbena_xutha.jpg/960px-Verbena_xutha.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_xutha.jpg",
+        "creator": "Wendy McCrady",
+        "license": "CC BY 4.0",
+        "image_fit": "contain",
+        "caption": "The spike is clear; note its bud-bearing upper portion and open flowers lower down. The repeatedly 3-lobed LEAVES are the better species distinction and are not visible in this view.",
+        "markers": [
+          {
+            "label": "developing buds / bracts",
+            "label_x": 5,
+            "label_y": 8,
+            "target_x": 41,
+            "target_y": 24
+          }
+        ],
+        "visual_status": "source_photo_verified; annotated_spike; key_leaf_macro_pending"
+      },
+      {
+        "label": "Introduced Brazilian vervain · compact heads",
+        "scientific_name": "Verbena brasiliensis",
+        "image_role": "short terminal flower spikes on branched flowering stem",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Verbena_brasiliensis.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_brasiliensis.jpg",
+        "creator": "NOZO",
+        "license": "CC BY-SA 3.0",
+        "image_fit": "contain",
+        "caption": "Each short compact flowering tip sits on a branched inflorescence. Compare with the much longer, thinner spikes and broad coarse leaves of native V. scabra. Introduced; not a local native planting species.",
+        "markers": [
+          {
+            "label": "short, compact spike tip",
+            "label_x": 5,
+            "label_y": 80,
+            "target_x": 37,
+            "target_y": 29
+          }
+        ],
+        "visual_status": "source_photo_verified; annotated_short_spike; full_habit_and_leaf_comparison_pending"
+      }
+    ],
+    "overlay_note": "The Sandpaper Vervain photograph is © Gordon Scott, CC BY-SA (version not confirmed); shared as a linked remote study image with final public reuse under review. Brazilian herbarium is CC BY 4.0, © Auckland War Memorial Museum, accession AK350535. Annotations are learner overlays, not original markings. UT PlantPics and original fine-hair photography remain link-only until permissions are confirmed.",
+    "study_only_intro": "These original-site pages show the more decisive LEAF diagnostic structures. They are reference links, not reused embedded photographs because reproduction permissions have not been established.",
+    "study_only_photo_links": [
+      {
+        "label": "UT BIO406D · gray vervain leaf/stem hair photos",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/vrb/verbena_canescens.htm",
+        "look_for": "Dense hairs on leaf margins and stems compared with halei; flower view is not sufficient.",
+        "reuse": "source link only"
+      },
+      {
+        "label": "UT BIO406D · Texas vervain leaf",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/vrb/verbena_halei.htm",
+        "look_for": "Variable divided lower leaf and square stem; compare to gray vervain.",
+        "reuse": "source link only"
+      },
+      {
+        "label": "UT BIO406D · Gulf vervain leaf",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/vrb/verbena_xutha.htm",
+        "look_for": "Leaf lobes and pubescence; compare to the slender spike only after leaf check.",
+        "reuse": "source link only"
+      },
+      {
+        "label": "USGS Plants of Louisiana · Texas vervain leaf photo",
+        "url": "https://warcapps.usgs.gov/PlantID/Species/Details/1254",
+        "look_for": "Deeply lobed leaf with pronounced central vein; photograph referenced without copying source.",
+        "reuse": "source link only"
+      },
+      {
+        "label": "UT Austin BIO406D · Brazilian vervain opposite leaves",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/vrb/verbena_brasiliensis.htm",
+        "look_for": "Opposite, narrow, serrate leaf close-up; source link only.",
+        "reuse": "source link only; photo license not established"
+      },
+      {
+        "label": "University of Arizona Cooperative Extension · Sandpaper vervain leaves",
+        "url": "https://yavapaiplants.extension.arizona.edu/verbena-scabra",
+        "look_for": "Broad rough serrate leaves and opposite arrangement; source labels CC BY-SA; version follow-up needed.",
+        "reuse": "CC BY-SA (unspecified version)"
+      },
+      {
+        "label": "Plantarium · Brazilian vervain serrated opposite leaves",
+        "url": "https://www.plantarium.ru/lang/en/page/image/id/801950.html",
+        "look_for": "Verified clear field photo of opposite narrow serrate leaves on a square stem.",
+        "reuse": "© Igor Pavlov 2024, CC BY-NC; original-site reference only; no embedding"
+      },
+      {
+        "label": "Kew POWO · Brazilian vervain high-definition leaf details",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262945-2/general-information",
+        "look_for": "Upper and lower narrow leaf faces on black background, distinct marginal teeth; source rights not confirmed.",
+        "reuse": "original-site reference only"
+      }
+    ]
+  },
+  "overlap_cautions": [
+    "Variable leaf lobing: gray vervain may display some lobed leaves. Compare position on the shoot and especially short stiff hairs rather than deciding based on a single lobed blade."
+  ],
+  "leaf_photo_findings": [
+    {
+      "taxon": "Verbena halei",
+      "status": "public-domain closeup sourced/annotated",
+      "character": "deep lower-leaf lobes",
+      "remaining": "hair macro and alternate leaf positions"
+    },
+    {
+      "taxon": "Verbena canescens",
+      "status": "CC BY-SA 4.0 leaf/habit sourced/annotated",
+      "character": "narrow lobed foliage",
+      "remaining": "licensed true stem/leaf canescence macro"
+    },
+    {
+      "taxon": "Verbena xutha",
+      "status": "public-domain flowering-plant/leaf sourced/annotated",
+      "character": "opposite incised leaves",
+      "remaining": "same-scale isolated three-lobed leaf macro"
+    },
+    {
+      "taxon": "Verbena brasiliensis",
+      "status": "CC BY vouchered branching/short-spike photo + source-only leaf close-up",
+      "character": "narrow opposite serrate leaves",
+      "remaining": "reusable serrate leaf closeup (UT/Kew unverified rights, Plantarium NC)"
+    },
+    {
+      "taxon": "Verbena scabra",
+      "status": "sourced-and-annotated CC BY-SA extension leaf image",
+      "character": "broad scabrous blade",
+      "remaining": "microscopic scabrous hairs; CC BY-SA version confirmation"
+    }
+  ],
+  "final_photo_polish_queue": [
+    {
+      "priority": 1,
+      "comparison": "Verbena canescens vs V. halei",
+      "needed": "Licensed paired SAME SCALE stem and leaf surface macros resolving stiff canescent trichomes vs smooth/glabrous stems",
+      "source_lead": "UT Austin PlantPics Verbena canescens (image 1) contains a clear exact pair demonstration; use source link only until permission verified",
+      "deferred_reason": "Licensing for teaching photo not established; existing photos and key permit useful provisional ID."
+    },
+    {
+      "priority": 2,
+      "comparison": "Verbena xutha vs V. halei",
+      "needed": "Isolated three-lobed middle-stem Gulf leaf versus Texas vervain pinnatifid lower leaf, with clearly visible base/node, both in focus",
+      "deferred_reason": "Current exact photos show leaves but Gulf leaf is too small in frame for precise lobe overlays."
+    },
+    {
+      "priority": 3,
+      "comparison": "Verbena scabra vs V. brasiliensis",
+      "needed": "Licensed true macro of scabrous stiff hairs on broad sandpaper blade + same-scale narrow Brazilian serrate leaf and opposite node",
+      "source_leads": [
+        "https://warcapps.usgs.gov/PlantID/Species/Details/1246",
+        "https://www.backyardnature.net/n/h/brazverv.htm"
+      ],
+      "deferred_reason": "Strong overall leaf shape and branching/spike architecture already represented; microscopy/photo reuse still open."
+    }
+  ],
+  "cross_genus_study": [
+    {
+      "id": "verbena-vs-glandularia-central-texas",
+      "title": "True Verbena or prairie mock vervain?",
+      "linked_genus": "Glandularia",
+      "cue": "Local Glandularia (bipinnatifida/pumila) typically presents terminal dense rounded flowering heads, while Verbena halei/canescens/xutha commonly shows longer, slender flowering spikes. Both can be purple and lobed; use mature leaves and FRUITING spikes for species certainty.",
+      "focal_pairs": [
+        "verbena-halei vs glandularia-bipinnatifida",
+        "verbena-canescens vs glandularia-pumila",
+        "verbena-xutha vs glandularia-bipinnatifida"
+      ],
+      "cautions": [
+        "The common name prairie verbena refers to Glandularia, not necessarily genus Verbena.",
+        "A Glandularia bipinnatifida old spike may become elongate in fruit.",
+        "Do not use this shortcut to identify all Verbenaceae genera or cultivars."
+      ],
+      "linked_photo_module": "content/taxa/Verbenaceae/Glandularia/genus.json",
+      "reviewed_at": "2026-10-12"
+    }
+  ]
+}

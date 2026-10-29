@@ -1,0 +1,75 @@
+{
+  "id": "chilopsis-linearis",
+  "entry_type": "provisional_species",
+  "family": "Bignoniaceae",
+  "genus": "Chilopsis",
+  "species": "linearis",
+  "scientific_name": "Chilopsis linearis",
+  "authority": "(Cav.) Sweet",
+  "common_name": "Desert willow",
+  "look_here_first": "Small willow-looking tree with extremely narrow simple leaves, showy trumpet flowers, and very long slender capsules.",
+  "county_occurrences_target_zone": [
+    "Kinney",
+    "Val Verde"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: Kinney, Val Verde.",
+    "range_guardrail": "Accepted/native western Texas taxon; Kinney and Val Verde locked, third county not yet firm."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous shrub or small tree",
+      "simple narrow linear-lanceolate leaves",
+      "pink-lavender trumpet flowers",
+      "five ruffled corolla lobes",
+      "long slender capsules",
+      "dry washes and gravelly streambeds"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-provisional-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "images": [
+    {
+      "file": "images/01-small-tree-habit.jpg",
+      "role": "Small-tree / shrub habit",
+      "creator": "Almapayokels (Pam Kelso)",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chilopsis_Linearis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-trumpet-flowers-branch.jpg",
+      "role": "Trumpet flowers and flowering branch architecture",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chilopsis_linearis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-narrow-foliage.jpg",
+      "role": "Narrow linear-lanceolate foliage",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chilopsis_linearis_foliage.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

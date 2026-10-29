@@ -1,0 +1,240 @@
+{
+  "rank": "genus",
+  "family": "Plantaginaceae",
+  "name": "Penstemon",
+  "authority": "Schmidel",
+  "common_group": "Beardtongues",
+  "project_scope": {
+    "selection_mode": "B022 strict review + B148 source-status reconciliation",
+    "canonical_species_ids": [
+      "penstemon-baccharifolius",
+      "penstemon-cobaea",
+      "penstemon-tenuis",
+      "penstemon-triflorus"
+    ],
+    "canonical_species_count": 4,
+    "reviewed_holds": [],
+    "source_concept_count": 4,
+    "note": "Four species installed as learner cards; P. tenuis remains native-range HOLD/UNRESOLVED and excluded from confirmed-native metrics. Learner installation is not range certification."
+  },
+  "source_concept_status": [
+    {
+      "id": "penstemon-baccharifolius",
+      "scientific_name": "Penstemon baccharifolius",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "penstemon-cobaea",
+      "scientific_name": "Penstemon cobaea",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "penstemon-tenuis",
+      "scientific_name": "Penstemon tenuis",
+      "status": "CANONICAL_LEARNER_RANGE_HOLD",
+      "note": "Installed learner card; range HOLD unchanged, not a target-zone PASS."
+    },
+    {
+      "id": "penstemon-triflorus",
+      "scientific_name": "Penstemon triflorus",
+      "status": "CANONICAL_PASS"
+    }
+  ],
+  "study_strategy": {
+    "priority": [
+      "woody subshrub versus herbaceous perennial",
+      "flower length and color",
+      "leaf texture and serration",
+      "whether upper leaves are connate across the node",
+      "calyx shape and hairiness",
+      "wet-alluvial/coastal versus rocky-limestone habitat"
+    ],
+    "warning": "Flower color alone is weak. Start with growth form, flower size, and leaf-node structure; use habitat only after morphology."
+  },
+  "quick_key": [
+    {
+      "if": "low woody/subshrub habit in limestone cracks; thick leathery coarsely toothed leaves; red tubular flowers",
+      "then": "Penstemon baccharifolius — canonical PASS"
+    },
+    {
+      "if": "very large pale lavender-to-white flowers about 35–55 mm; opposite serrate leaves sessile and often fused across node",
+      "then": "Penstemon cobaea — canonical PASS"
+    },
+    {
+      "if": "glossy dark-green leaves and narrower pink-to-red flowers about 25–35 mm; Hill Country perennial",
+      "then": "Penstemon triflorus — canonical PASS"
+    },
+    {
+      "if": "small lavender-violet flowers about 10–14 mm on slender branched stems in wet alluvial/coastal settings; sharply pointed calyx lobes",
+      "then": "Penstemon tenuis — reviewed range HOLD"
+    }
+  ],
+  "curation_status": {
+    "version": "2.1-four-canonical-status-reconciled",
+    "genus_audit": "complete_with_reviewed_hold",
+    "source_concepts_reconciled": true,
+    "last_reviewed": "2026-10-14",
+    "local_images": 10,
+    "new_image_binaries": 0,
+    "hold_unchanged": true
+  },
+  "look_here_first": "Start with growth form and flower SIZE, then photograph an opposite leaf node and a side-on blossom. Low woody stems in limestone with leathery toothed leaves and red tubes → P. baccharifolius. Very large pale lavender/white throat and sometimes connected upper leaves → P. cobaea. Narrower pink-red tubes and glossy leaves → P. triflorus. Small lavender flowers in wetter habitats → P. tenuis, a learner-only RANGE HOLD: do not count as verified native target-zone PASS.",
+  "shared_structure": {
+    "recognition": "Opposite leaves, bilaterally symmetrical tubular corollas usually with five spreading lobes, four fertile stamens and a fifth often hairy sterile STAMINODE ('beardtongue'); fruit a dry capsule with many seeds.",
+    "plain_terms": "STAMINODE = sterile modified stamen often bearing hairs inside throat; CONNATE = two opposite leaves joined around stem; COROLLA THROAT = widened opening of fused petals; CALYX = sepals around flower base; DEHISCENT CAPSULE = dry fruit that splits open to shed seeds.",
+    "photo_tip": "Front view of corolla alone rarely reveals staminode, calyx or joined leaf bases. Use front, strict side, and upper-node shots."
+  },
+  "comparison_matrix": [
+    {
+      "trait": "habit",
+      "baccharifolius": "Low woody subshrub in rock crevices",
+      "cobaea": "Herbaceous, erect",
+      "triflorus": "Perennial, leafy stems",
+      "tenuis": "Slender branching herb; HOLD",
+      "priority": "first"
+    },
+    {
+      "trait": "corolla",
+      "baccharifolius": "Red, relatively narrow tube",
+      "cobaea": "Very large (~35–55 mm) white to pale lavender",
+      "triflorus": "Pink-red, narrower (~25–35 mm)",
+      "tenuis": "Small (~10–14 mm) lavender-violet",
+      "priority": "strong"
+    },
+    {
+      "trait": "leaves",
+      "baccharifolius": "Leathery and coarse-toothed",
+      "cobaea": "Opposite serrate, sessile, upper nodes may be connate",
+      "triflorus": "Glossy dark green, generally narrow",
+      "tenuis": "Thinner foliage; corroborate with keys",
+      "priority": "strong"
+    },
+    {
+      "trait": "capsule",
+      "baccharifolius": "macro pending",
+      "cobaea": "Two local study frames show capsules and dehisced seeds",
+      "triflorus": "macro pending",
+      "tenuis": "macro pending",
+      "priority": "supportive"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Four beardtongues: leaf node + corolla throat",
+    "teaching_order": "growth form → flowering stem and leaf base → front/side corolla and staminode → calyx → capsule",
+    "installed_photos": [
+      {
+        "species": "penstemon-baccharifolius",
+        "path": "content/taxa/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+        "role": "flowering woody habit",
+        "credit": "USDA NRCS Texas State Office",
+        "license": "public domain",
+        "public_reuse": true
+      },
+      {
+        "species": "penstemon-cobaea",
+        "path": "content/taxa/Plantaginaceae/Penstemon/penstemon-cobaea/images/penstemon-cobaea_seed-capsules-source-label_08-56.jpg",
+        "role": "mature capsules; not flower ID",
+        "credit": "Joey Santore",
+        "license": "private study only",
+        "public_reuse": false
+      },
+      {
+        "species": "penstemon-cobaea",
+        "path": "content/taxa/Plantaginaceae/Penstemon/penstemon-cobaea/images/penstemon-cobaea_capsule-seeds_09-04.jpg",
+        "role": "opened capsule and seeds",
+        "credit": "Joey Santore",
+        "license": "private study only",
+        "public_reuse": false
+      },
+      {
+        "species": "penstemon-triflorus",
+        "path": "content/taxa/Plantaginaceae/Penstemon/penstemon-triflorus/images/penstemon-triflorus-provisional-face.jpg",
+        "role": "pink-red flowers",
+        "credit": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "public_reuse": true
+      },
+      {
+        "species": "penstemon-tenuis",
+        "path": "content/taxa/Plantaginaceae/Penstemon/penstemon-tenuis/images/penstemon-tenuis-provisional-face.jpg",
+        "role": "small violet flower and calyx; HOLD comparison only",
+        "credit": "Laura Clark",
+        "license": "CC BY 4.0",
+        "public_reuse": true
+      }
+    ],
+    "photo_note": "Prior five-file list is a selected teaching-reference subset, not the full gallery inventory. Canonical species folders contain 10 installed image files in total (3 baccharifolius, 3 cobaea, 2 tenuis, 2 triflorus), per recent gallery audit; reverify each image's exact anatomical role before labeling diagnostic. Existing credit and reuse restrictions remain unchanged."
+  },
+  "next_photo_targets": [
+    "Rights-safe P. cobaea full bloom with leaf node and flower side view",
+    "Matched staminode-in-throat macros for all four; verify actual hair placement",
+    "P. cobaea upper connate-leaf node and P. baccharifolius leathery serrations",
+    "Matched calyx and post-flower capsule images, preserving creator licenses"
+  ],
+  "anatomy_lessons": [
+    {
+      "term": "Opposite leaf node",
+      "plain": "Where two leaves meet the stem",
+      "look_for": "Whether upper leaf bases join around the stem, especially in P. cobaea",
+      "photo_role": "upper node with ruler",
+      "status": "needs_photo"
+    },
+    {
+      "term": "Corolla",
+      "plain": "Fused petals forming the flower tube",
+      "look_for": "Measure side-on corolla length in mm; ranges overlap and depend on maturity",
+      "photo_role": "matched lateral blossoms with ruler",
+      "status": "needs_photo"
+    },
+    {
+      "term": "Staminode",
+      "plain": "Sterile fifth stamen inside the flower",
+      "look_for": "Position and hairs inside throat; do not assume visible in ordinary flower portraits",
+      "photo_role": "verified throat macro or dissection",
+      "status": "needs_photo"
+    },
+    {
+      "term": "Calyx and capsule",
+      "plain": "Sepals at flower base and mature seed pod",
+      "look_for": "Compare intact calyx lobes and splitting mature capsule",
+      "photo_role": "matched flower-base and ripe-fruit close-ups",
+      "status": "needs_photo"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Large versus small flowers",
+      "species_ids": [
+        "penstemon-cobaea",
+        "penstemon-tenuis"
+      ],
+      "look_here_first": "Side-view flower with mm scale and upper leaf node",
+      "status": "diagnostic_photo_pending"
+    },
+    {
+      "title": "Red-flowered rocky beardtongues",
+      "species_ids": [
+        "penstemon-baccharifolius",
+        "penstemon-triflorus"
+      ],
+      "look_here_first": "Woody habit, leaf texture and flower profile together",
+      "status": "diagnostic_photo_pending"
+    },
+    {
+      "title": "Four-species identification sequence",
+      "species_ids": [
+        "penstemon-baccharifolius",
+        "penstemon-cobaea",
+        "penstemon-tenuis",
+        "penstemon-triflorus"
+      ],
+      "look_here_first": "Habit → leaf attachment → measured corolla → staminode and calyx",
+      "status": "diagnostic_photo_pending"
+    }
+  ],
+  "handoffs": {
+    "photo": "Review ten installed files individually for exact role and license; obtain matched flower-side, upper-node, staminode and capsule macros. Do not add arrows without verified image targets.",
+    "taxonomy": "Retain P. tenuis unresolved native-range status; do not infer county PASS from learner installation.",
+    "installer": "All four species already canonical; no installation needed."
+  }
+}

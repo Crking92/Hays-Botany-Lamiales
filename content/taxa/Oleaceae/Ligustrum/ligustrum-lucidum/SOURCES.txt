@@ -1,0 +1,14 @@
+Ligustrum lucidum — source pool approval and identification references
+Master Plant Pool row 641, approved source-pool membership; curated Yes.
+NC State Extension Gardener Plant Toolbox: https://plants.ces.ncsu.edu/plants/ligustrum-lucidum/
+Wikimedia Commons exact-species photograph: https://commons.wikimedia.org/wiki/File:Starr_020719-0032_Ligustrum_lucidum.jpg
+Photographer: Forest & Kim Starr; license: CC BY 3.0; intended role: Pressed exact-species leaves and fruit for recognition; provisional nonlocal specimen.
+Native-range labeling: Asian origin, non-native comparison; no project target-zone native PASS; exclude from native-only totals.
+Comparison with L. sinense: use NC State Extension pages for both species.
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 566051502 https://www.inaturalist.org/photos/566051502 | 313451496 | images/glass-root-garden-566051502-flower-panicles.jpg
+- 646772667 https://www.inaturalist.org/photos/646772667 | 354555487 | images/glass-root-garden-646772667-glossy-leaves.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

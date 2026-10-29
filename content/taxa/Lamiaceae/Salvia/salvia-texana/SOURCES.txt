@@ -1,0 +1,38 @@
+Salvia texana — SOURCES
+Reviewed: 2026-10-02
+Status: APPROVED FOR CURATION
+
+TAXONOMY
+Plants of the World Online — Salvia texana (Scheele) Torr.
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A457383-1
+
+RANGE
+Hays — UT Plant Resources Center Natural Purola flora.
+Travis — Balcones Canyonlands Preserve plant list.
+Williamson — UT Plant Resources Center:
+https://w3.biosci.utexas.edu/prc/K12/pages/Salvia%20texana.html
+
+MORPHOLOGY
+UT Williamson County detailed treatment:
+https://w3.biosci.utexas.edu/prc/K12/pages/Salvia%20texana.html
+NPSOT:
+https://www.npsot.org/posts/native-plant/salvia-texana/
+
+PHOTO
+Wikimedia Commons category Salvia texana exact file; exact creator/license should be rechecked before public reuse.
+
+
+JOEY SANTORE SPECIES CONTEXT
+Podcast: Nuevo Leon & Borderlands Rants
+Source: https://www.iheart.com/podcast/256-crime-pays-but-botany-does-43074956/episode/nuevo-leon-borderlands-rants-332459595/
+Record: j021-016 @ 01:15:31–01:16:58
+Raw transcript taxon: "Salvia tex aana"
+Normalized candidate: Salvia texana — high confidence; archive recommends audio confirmation.
+Teaching value: xeric scrub / limestone-hill regional field context.
+Guardrail: this is attributed habitat context, not a photographed voucher or a replacement for the canonical morphology/range evidence.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:15:01.880299+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/369798579
+https://www.inaturalist.org/observations/208982603
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

@@ -1,0 +1,68 @@
+SCUTELLARIA DRUMMONDII BENTH. — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+
+
+## Taxonomy
+Kew Plants of the World Online — accepted Scutellaria drummondii Benth.; annual; three accepted infraspecific taxa:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A458250-1
+
+## Strict target-zone range
+BONAP/NAPA Scutellaria county atlas includes S. drummondii:
+https://bonap.net/Napa/TaxonMaps/Genus/County/Scutellaria
+
+Hays — UT Plant Resources Center Purola Preserve natural flora:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+
+Travis — UT Plant Resources Center Travis County Lamiaceae herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Lamiaceae.html
+
+Williamson — UT Plant Resources Center county treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Scutellaria%20drummondii
+
+Decision: PASS — Hays, Travis, Williamson.
+
+## Morphology
+UT PRC Williamson County treatment above.
+
+Key measurements:
+- annual, 15–30 cm
+- acute-tipped leaves; lower leaves low-crenate to upper entire
+- pedicel ca. 1–1.2 mm at anthesis
+- visibly glandular-hairy calyx/scutellum
+- corolla ca. 5.5–10 mm
+
+## Look-alikes
+Scutellaria wrightii Williamson treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Scutellaria%20wrightii
+
+Scutellaria ovata subsp. bracteata Williamson treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Scutellaria%20ovata%20bracteata
+
+LOOK HERE FIRST: annual habit + acute leaf tips + conspicuous glandular hairs + smaller flowers.
+
+## Photo leads
+UT PlantPics:
+https://www.sbs.utexas.edu/bio406d/images/pics/lam/scutellaria_drummondii.htm
+
+User iNaturalist example:
+https://www.inaturalist.org/observations/273266785
+
+Exact final diagnostic selections remain pending approval.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04 — JOEY RECOVERY 004
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=Y7A530PjEbU
+scutellaria-drummondii_habit-source-label_01-25.jpg @ 01:25
+Source-labeled Scutellaria drummondii growing low among rocky limestone. Use this for scale and habit rather than fine calyx characters.
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=N4yq5Z1_0Eo
+scutellaria-drummondii_zygomorphic-flower-source-label_01-56.jpg @ 01:56
+Close view of the bilaterally symmetric blue-purple flower and opposite leaves, a useful mint-family and Scutellaria field combination.
+Rights: private study only; public reuse not cleared. User confirms private learner. Existing scientific/range status preserved.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T10:27:38.122462+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/99231556
+https://www.inaturalist.org/observations/61972112
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

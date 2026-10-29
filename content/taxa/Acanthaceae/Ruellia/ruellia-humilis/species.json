@@ -1,0 +1,103 @@
+{
+  "id": "ruellia-humilis",
+  "entry_type": "species",
+  "family": "Acanthaceae",
+  "genus": "Ruellia",
+  "species": "humilis",
+  "scientific_name": "Ruellia humilis",
+  "authority": "Nutt.",
+  "common_name": "prairie petunia / hairy ruellia",
+  "synonyms": [
+    "Ruellia ciliosa var. humilis (Nutt.) Britton"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO as Ruellia humilis Nutt.",
+  "look_here_first": "Look for obvious individual hairs before looking at the flower. Prairie petunia is conspicuously long-pilose on stems, leaves and especially leaf margins, and its flowers are axillary and nearly sessile. That shaggy/ciliate look separates it from finely pubescent R. drummondiana and mostly glabrous terminal-flowered R. ciliatiflora.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — UT Plant Resources Center Purola Preserve lists Ruellia humilis among naturally occurring plants. Travis County — UT Plant Resources Center's Travis County Acanthaceae specimen index includes Ruellia humilis var. humilis. Williamson County — UT Plant Resources Center provides a detailed county treatment of Ruellia humilis.",
+    "range_guardrail": "Do not key this only from flower color; use the conspicuous long pilose hairs plus axillary/sessile flower position."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial several-stemmed herb, often to about 60 cm",
+      "four-sided stems with conspicuous long and short pilose hairs",
+      "opposite ovate leaves",
+      "leaf margins entire to low-toothed and often conspicuously long-ciliate",
+      "leaf and stem surfaces visibly long-pilose",
+      "flowers axillary and nearly sessile",
+      "pale to medium purple funnel-shaped flowers",
+      "typical Ruellia capsule with more seeds than the 2–4-seeded R. drummondiana"
+    ],
+    "comparison_training": "Ruellia drummondiana: Both have axillary nearly sessile purple flowers; R. humilis has conspicuous long hairs/ciliate margins, while R. drummondiana is short-finely pubescent and uniquely has only 2–4 seeds per capsule. Ruellia ciliatiflora: R. ciliatiflora is much less hairy and carries flowers in conspicuous peduncled terminal/upper-axillary cymes. Ruellia metziae: R. metziae tends toward terminal pedunculate pale/white flowers and lacks the strongly long-pilose prairie-petunia look."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ruellia drummondiana",
+      "Ruellia ciliatiflora",
+      "Ruellia metziae"
+    ],
+    "key_distinctions": "Both have axillary nearly sessile purple flowers; R. humilis has conspicuous long hairs/ciliate margins, while R. drummondiana is short-finely pubescent and uniquely has only 2–4 seeds per capsule. R. ciliatiflora is much less hairy and carries flowers in conspicuous peduncled terminal/upper-axillary cymes. R. metziae tends toward terminal pedunculate pale/white flowers and lacks the strongly long-pilose prairie-petunia look."
+  },
+  "tags": [
+    "Acanthaceae",
+    "Ruellia",
+    "prairie petunia / hairy ruellia",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b026",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Physical exact-species photographs provide flowering habit and foliage references; dedicated long-hair/ciliate-margin and capsule macros remain follow-up.",
+  "images": [
+    {
+      "file": "images/01-habit-flower.jpg",
+      "role": "Flower front with pubescent opposite leaves",
+      "creator": "Miwasatoshi",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia-humilis-20080401.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-flower-foliage.jpg",
+      "role": "Axillary flower and hairy foliage reference",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_humilis_kz01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-field-habit.jpg",
+      "role": "Flower, calyx and visibly hairy stem",
+      "creator": "Chris Light",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Hairy_Wild_Petunia_(Ruellia_humilis)_6397.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Three exact-species physical photographs; provenance and reuse terms recorded. Media-only update preserves settled scientific status. Stronger local diagnostic macros remain follow-up.",
+    "verified_at": "2026-10-05"
+  }
+}

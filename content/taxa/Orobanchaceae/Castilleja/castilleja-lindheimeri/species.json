@@ -1,0 +1,158 @@
+{
+  "id": "castilleja-lindheimeri",
+  "entry_type": "species",
+  "family": "Orobanchaceae",
+  "genus": "Castilleja",
+  "species": "lindheimeri",
+  "scientific_name": "Castilleja lindheimeri",
+  "authority": "A.Gray",
+  "common_name": "Lindheimer's paintbrush",
+  "other_common_names": [
+    "Lindheimer's Indian paintbrush",
+    "Lindheimer's prairie paintbrush"
+  ],
+  "synonyms": [
+    "Castilleja purpurea var. lindheimeri (A.Gray) Shinners",
+    "Castilleja mearnsii Pennell"
+  ],
+  "taxonomic_note": "Current Kew/POWO accepts Castilleja lindheimeri A.Gray and treats C. purpurea var. lindheimeri as a synonym.",
+  "look_here_first": "Look at the colored bracts, not just the flowers. Lindheimer's paintbrush is a perennial hemiparasite with narrow leaves, upper leaves often lobed, and a terminal spike whose three-lobed bracts turn orange-red to scarlet around the much less conspicuous tubular flowers.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve natural flora under the older name C. purpurea var. lindheimeri. Travis — UT PRC herbarium index under the older varietal name. Williamson — detailed county treatment under the older varietal name. Current Kew taxonomy reconciles all three to accepted C. lindheimeri.",
+    "range_guardrail": "Historic source names are counted only after explicit synonym reconciliation. Joey's hemiparasitism discussion remains attributed field context."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial hemiparasitic herb, several-stemmed from the base",
+      "leaves alternate, narrow linear to lanceolate",
+      "upper cauline leaves often divided into 2–3 narrow lobes",
+      "terminal spike with conspicuous 3-lobed bracts",
+      "bract lobes orange-red to light scarlet",
+      "calyx 2-lipped and 4-lobed",
+      "corolla strongly bilateral with beak-like upper lip",
+      "fruit a many-seeded capsule"
+    ],
+    "hemiparasite_training": "Green photosynthetic plant that also forms root connections to neighboring hosts; do not interpret a single nearby grass in a still frame as proof of the exact host individual.",
+    "video_training": "Joey labels the plant in thin Edwards Plateau limestone habitat and discusses hemiparasitic behavior."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Castilleja indivisa",
+      "other Castilleja spp."
+    ],
+    "key_distinctions": "Use perennial habit, narrow/lobed upper leaves, bract shape/color and flower structure together; the older C. purpurea var. lindheimeri name is the same learner concept."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "00:35",
+      "record_id": "Y7A530PjEbU-03",
+      "role": "Rocky Edwards Plateau habitat and whole-plant context.",
+      "rights": "private study; public reuse not assumed",
+      "source_taxon": "Castilleja lindheimeri",
+      "source_confidence": "source-explicit-overlay-and/or-verbal",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/Y7A530PjEbU/castilleja-lindheimeri_habitat-source-label_00-35.jpg"
+    }
+  ],
+  "tags": [
+    "Orobanchaceae",
+    "Castilleja",
+    "Lindheimer paintbrush",
+    "hemiparasite",
+    "Edwards Plateau",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-video-fed",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Saved Joey Santore habitat frame installed locally for private study. This is deliberately labeled as habitat/habit context rather than a stand-alone diagnostic image; public-reuse restrictions are preserved. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/castilleja-lindheimeri_habitat-source-label_00-35.jpg",
+      "role": "Rocky Edwards Plateau habitat and whole-plant context.",
+      "caption": "Source-labeled Castilleja lindheimeri in rocky Edwards Plateau habitat. Use this wide frame for habitat and habit context only; it does not replace a close bract-and-flower diagnostic view.",
+      "diagnostic_roles": [
+        "habitat context",
+        "whole-plant context",
+        "source label"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-03",
+      "timestamp": "00:35",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/joey-inat-260397999.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/260397999",
+      "observation_url": "https://www.inaturalist.org/observations/150960559",
+      "observation_id": "150960559",
+      "photo_id": "260397999",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/260397999/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-369421893.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/369421893",
+      "observation_url": "https://www.inaturalist.org/observations/208779191",
+      "observation_id": "208779191",
+      "photo_id": "369421893",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/369421893/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Close-up colored bracts and flowers plus leaf/stem detail."
+  ]
+}

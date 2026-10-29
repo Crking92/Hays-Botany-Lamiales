@@ -1,0 +1,147 @@
+{
+  "id": "dicliptera-brachiata",
+  "entry_type": "species",
+  "family": "Acanthaceae",
+  "genus": "Dicliptera",
+  "species": "brachiata",
+  "scientific_name": "Dicliptera brachiata",
+  "authority": "Spreng.",
+  "common_name": "Branched foldwing",
+  "other_common_names": [
+    "False mint"
+  ],
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current POWO; historical varieties are treated within the species under the current project concept.",
+  "look_here_first": "Start at the nodes and inflorescence: a taller plant with conspicuously ridged stems, broader opposite leaves, and paired axillary condensed cymes subtended by broad obovate bracts.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis is voucher-backed by UT Plant Resources Center; Kerr is voucher-backed by the Flora of Kerr Wildlife Management Area (JS 18023). Regional south-central Texas occurrence is not decomposed into extra counties.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner admission is independent from native-range certification. Preserve the two-county HOLD."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb, often much taller than Dyschoriste linearis",
+      "conspicuously ridged stems",
+      "opposite narrowly ovate leaves",
+      "paired axillary condensed cymes",
+      "broad obovate bracts",
+      "purple-and-white bilabiate flowers",
+      "two stamens",
+      "later-season cleistogamous flowers may occur"
+    ],
+    "comparison_training": "Taller and broader-leaved than Dyschoriste linearis, with paired bracted cymes instead of solitary axillary flowers."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Dyschoriste linearis"
+    ],
+    "key_distinctions": "Ridged stem + broader opposite leaves + paired axillary bracted cymes."
+  },
+  "tags": [
+    "Acanthaceae",
+    "Dicliptera",
+    "Foldwing",
+    "False mint",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "ridged stem/node",
+    "opposite leaves",
+    "paired bracted cymes",
+    "flower close-up",
+    "fruit/cleistogamous stage"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/dicliptera-brachiata-provisional-face.jpg",
+      "role": "Branched foldwing habit and flowers, useful recognisable face; leaf node/bract macros still needed.",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dicliptera_brachiata.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by"
+    },
+    {
+      "file": "images/joey-inat-99679508.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/99679508",
+      "observation_url": "https://www.inaturalist.org/observations/62230746",
+      "observation_id": "62230746",
+      "photo_id": "99679508",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/99679508/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-99679565.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/99679565",
+      "observation_url": "https://www.inaturalist.org/observations/62230746",
+      "observation_id": "62230746",
+      "photo_id": "99679565",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/99679565/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

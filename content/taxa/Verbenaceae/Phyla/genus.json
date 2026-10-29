@@ -1,0 +1,207 @@
+{
+  "rank": "genus",
+  "name": "Phyla",
+  "family": "Verbenaceae",
+  "common_group": "frogfruits",
+  "project_scope": {
+    "installed_canonical_species": [
+      "phyla-nodiflora"
+    ],
+    "canonical_species_count": 1,
+    "source_pool_species": [
+      "Phyla nodiflora"
+    ],
+    "native_target_zone_calculated": true,
+    "source_of_native_status": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/species.json",
+    "note": "Single-species genus study lesson uses identified neighboring taxa as references, not learner-approved new species. No new canonical species or nativity changes."
+  },
+  "genus_recognition": {
+    "look_here_first": "Frogfruit forms creeping ROOTING-NODE mats with opposite leaves whose widest point and teeth are usually near the TIP. Then find a tiny button-to-cylinder spike of minute flowers on a long bare AXILLARY stalk; do not confuse with terminal Verbena/Glandularia flower heads.",
+    "source_order": "habit → leaf/stem architecture → flower structure → fruit/seed → specialist comparison"
+  },
+  "morphological_comparison_matrix": [
+    {
+      "character": "leaf widest point",
+      "Phyla nodiflora": "elliptic/oblanceolate, often widest beyond the midpoint",
+      "comparison_reference": "P. lanceolata typically widest nearer middle; P. cuneifolia wedge-shaped"
+    },
+    {
+      "character": "teeth placement",
+      "Phyla nodiflora": "serrations often concentrated in distal half, lower blade tapering entire",
+      "comparison_reference": "P. lanceolata teeth commonly extend farther down blade; many exceptions"
+    },
+    {
+      "character": "stem growth",
+      "Phyla nodiflora": "prostrate, rooting at nodes, low mat-forming",
+      "comparison_reference": "Glandularia may be prostrate too but stem/flower axis differs"
+    },
+    {
+      "character": "flower head and stalk",
+      "Phyla nodiflora": "one condensed button/cylindrical head of very small flowers on long bare axillary peduncle",
+      "comparison_reference": "Glandularia flowers noticeably larger, commonly in terminal heads/spikes"
+    },
+    {
+      "character": "hair detail",
+      "Phyla nodiflora": "appressed two-armed (T-shaped) hairs possible, requiring macro",
+      "comparison_reference": "check leaf face/back and margins; pubescence varies"
+    },
+    {
+      "character": "fruit",
+      "Phyla nodiflora": "Verbenaceae fruit separates into two one-seeded mericarps/nutlets",
+      "comparison_reference": "flowerhead alone not enough for strict Phyla species"
+    }
+  ],
+  "local_lookalike_reference_names": [
+    "Phyla lanceolata",
+    "Phyla cuneifolia",
+    "Glandularia spp."
+  ],
+  "visual_id_sequence": [
+    "1. Inspect entire plant habit and growth form.",
+    "2. Zoom to stem node and complete mature leaf with ruler.",
+    "3. Inspect close flower and reproductive parts, labeling all structures rather than flower color alone.",
+    "4. Confirm mature fruit architecture with macro and seed view.",
+    "5. Compare the nearest confuser against matched structural photos; keep ambiguous IDs at genus."
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "panel": 1,
+      "show": "five fully mature leaves on shoot comparing distal-half teeth with leaf ruler"
+    },
+    {
+      "priority": "critical",
+      "panel": 2,
+      "show": "node/root junction and opposite decussate leaf pair"
+    },
+    {
+      "priority": "critical",
+      "panel": 3,
+      "show": "axillary long peduncle origin with entire flower head"
+    },
+    {
+      "priority": "high",
+      "panel": 4,
+      "show": "flower head side and face with floret ring labeled"
+    },
+    {
+      "priority": "high",
+      "panel": 5,
+      "show": "leaf upper/lower microscopic T-shaped hairs"
+    },
+    {
+      "priority": "high",
+      "panel": 6,
+      "show": "matched P. nodiflora vs P. lanceolata vs P. cuneifolia leaves, same scale"
+    }
+  ],
+  "existing_canonical_photo_inventory": [
+    {
+      "path": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/01-flowers-leaves.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    },
+    {
+      "path": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/02-mat-habit.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    },
+    {
+      "path": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/03-flower-head.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    }
+  ],
+  "scientific_cautions": [
+    "The third installed head image is CC BY-NC, public reuse must be reviewed; matched Phyla congener leaf photos still missing.",
+    "A canonical species's current target-zone nativity and learner approval are scientific metadata; comparing other related taxa must not install them or change their statuses.",
+    "Flower color, single leaf and ecology alone never resolve difficult look-alikes; photo comparisons should show same scale and source provenance."
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "The third installed head image is CC BY-NC, public reuse must be reviewed; matched Phyla congener leaf photos still missing."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Confirm exact congener/look-alike traits before adding hard numeric boundaries; reconcile accepted synonyms."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Existing canonical species anatomy, photo provenance and scientific status",
+      "path": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/species.json"
+    },
+    {
+      "title": "Canonical family recognition and visual comparisons",
+      "path": "content/taxa/Verbenaceae/family.json"
+    }
+  ],
+  "curation_status": {
+    "version": "genus-visual-field-ready-2026-10-13",
+    "reviewed_at": "2026-10-11",
+    "comparison_rows": 6,
+    "photo_panels": 6,
+    "visual_status": "three canonical species photographs wired into a field recognition sequence; matched congener comparison and precision macro pending",
+    "species_installs": 0,
+    "range_changes": 0,
+    "visual_photo_panels": 3,
+    "visual_arrows_verified": 0
+  },
+  "visual_comparison": {
+    "title": "Frogfruit — read the leaf, rooting node, and axillary flower head",
+    "subtitle": "Three installed real Phyla nodiflora photographs. This is a field-recognition sequence, not a licensed matched-species comparison or a final key to all Phyla species.",
+    "memory_rule": "ROOTING RUNNER + OPPOSITE LEAVES + TINY FLOWERS IN AN AXILLARY BUTTON = PHYLA. For NODIFLORA, check MANY leaves: distal teeth and a blade often broadest above its midpoint.",
+    "items": [
+      {
+        "label": "1 — Leaf teeth and shape",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/01-flowers-leaves.jpg",
+        "image_role": "Mature opposite leaves; inspect blade outline and where teeth begin",
+        "caption": "Look at several fully expanded leaves. P. nodiflora commonly has a blade broadest beyond the midpoint and teeth concentrated toward its tip. Variation means this alone cannot separate P. lanceolata.",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080605-6676_Phyla_nodiflora.jpg",
+        "photo_status": "PHYSICAL_IMAGE_PRESENT; no unverified arrow coordinates"
+      },
+      {
+        "label": "2 — Creeping mat and rooting stem",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/02-mat-habit.jpg",
+        "image_role": "Whole mat-forming plant / creeping stems",
+        "caption": "Start with the growth form. Follow a stem along the soil and look for roots developing at nodes; confirm opposite leaves. Rooting nodes are diagnostic for habit but not enough alone for species.",
+        "creator": "Dinesh Valke",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_(L.)_Greene_(48918376436).jpg",
+        "photo_status": "PHYSICAL_IMAGE_PRESENT; no unverified arrow coordinates"
+      },
+      {
+        "label": "3 — Axillary flower-head architecture",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/03-flower-head.jpg",
+        "image_role": "Tiny flowers densely crowded into buttonlike to elongating head",
+        "caption": "Follow the long mostly leafless stalk back to the leaf axil where it originates. The dense head of minute flowers is very different from the larger, more open terminal flower clusters of Glandularia.",
+        "creator": "yating",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/guides/14344",
+        "photo_status": "PHYSICAL_IMAGE_PRESENT; PRIVATE STUDY ONLY pending public-use license approval"
+      }
+    ],
+    "quick_field_decision": [
+      "Find the leaf axil and identify where the flower-head stalk emerges; do not infer an axillary origin from a cropped head alone.",
+      "Check 3–5 mature leaves on different nodes for the position of greatest width and teeth distribution.",
+      "Find the long creeping stems and inspect nodes for roots.",
+      "If a closely related Phyla has overlapping leaf shape, record Phyla sp. until the calyx, floral parts, and mature fruit can be compared."
+    ],
+    "science_cautions": [
+      "P. lanceolata and P. cuneifolia are documented comparison references, not canonical learner species; do not claim side-by-side matched images are already installed.",
+      "Three installed P. nodiflora photos demonstrate different roles but may not each resolve all micro-diagnostic structures.",
+      "Third image has a CC BY-NC attribution; do not republish outside permitted noncommercial uses without rights review.",
+      "No arrow markers assigned because image-specific target coordinates have not been independently verified."
+    ],
+    "final_polish_backlog": [
+      "Obtain verified local same-scale leaves for P. nodiflora, P. lanceolata and P. cuneifolia and confirm taxonomy/congener trait boundaries.",
+      "Capture macro of axillary stalk insertion plus rooted opposite-leaf node; add arrows only after inspecting images.",
+      "Capture flower head side/front, calyx and two-mericarps fruit views.",
+      "Replace or relicense the third flower-head image for any public/commercial deployment.",
+      "Photograph T-shaped hairs under magnification, clearly labeled and scaled."
+    ]
+  }
+}

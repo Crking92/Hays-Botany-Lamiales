@@ -1,0 +1,602 @@
+{
+  "id": "glandularia-pumila",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Glandularia",
+  "species": "pumila",
+  "scientific_name": "Glandularia pumila",
+  "common_name": "Low Verbena / Pink Mock Vervain",
+  "taxonomic_note": "Current Kew/POWO accepted species concept. Historical Verbena combinations remain useful search aliases in sources.",
+  "look_here_first": "START WITH A MATURE LEAF, not flower color. On a LOW, hairy, spreading Glandularia look for opposite leaves with SMALL BROAD, often fan-shaped major lobes (usually 3–6 pairs), sometimes subdivided, but less finely fernlike than G. bipinnatifida. Next compare the crowded terminal flowering spike and examine an OLD spike: in G. pumila its axis stays comparatively SHORT and COMPACT in fruit. Flowers are small, pale pink-purple to violet, each a single fused tube opening into five lobes. A 10× lens helps find the narrow bract below each hairy ribbed calyx. Check these characters together; either leaf size or purple flowers alone is insufficient.",
+  "county_occurrences_target_zone": [
+    "Uvalde",
+    "Medina",
+    "Real"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "South-central Texas floristic voucher set explicitly records G. pumila in Uvalde, Medina, and Real counties; Travis and Williamson are also independently documented.",
+    "range_guardrail": "Exact county voucher evidence; no inferred counties."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "Low short-lived ANNUAL, often spreading/prostrate or ascending to ~19 cm tall in Williamson County records; heights overlap other species.",
+      "Opposite decussate leaves on slender sometimes four-angled, densely hairy stems.",
+      "Mature SIMPLE leaf blade often 12–27 mm overall, broadly ovate to triangular, with 3–6 pairs of broader fanlike primary lobes and some second-order cuts.",
+      "Both ordinary stiff hairs and tiny STALKED GLANDULAR hairs, sometimes reddish-tipped, especially young shoots and flower parts.",
+      "Tight terminal flowering spike with crowded small pink/lilac-purple tubular corollas.",
+      "Corolla made of one fused tube with FIVE spreading lobes; often whitish center, NOT five separate petals.",
+      "Individual narrow bract immediately SUBTENDS each flower's hairy 5-ribbed calyx; distinguish the two only on a clearly exposed side macro.",
+      "Small compact fruiting spike whose axis does NOT elongate greatly, contrasting older elongated G. bipinnatifida spikes.",
+      "Use mature foliage, floral tube/calyx and mature fruiting axis TOGETHER; neither flower color nor habit alone confirms species."
+    ],
+    "comparison_training": "G. bipinnatifida has larger, more deeply and finely 1–2-pinnately dissected leaves and generally a coarser, more feathery appearance. G. pumila is the smaller, compact, broad-lobed plant.",
+    "habit": "Small annual, commonly low/spreading or ascending, in Williamson County specimens up to ~19 cm; stems square/4-angled, often hairy with stalked glandular hairs.",
+    "leaf_arrangement": "Opposite/decussate SIMPLE leaves, usually petiolate, at nodes on four-sided stems; pair appears at matching heights.",
+    "leaf_dissected": "Mid-stem mature leaves often 12–27 mm, outline broadly ovate/triangular. Typically 3–6 pairs of relatively broad, fanlike major lobes with 1–2 further notches; overall less finely/regularly pinnate than most mature G. bipinnatifida. Juvenile leaves and plant vigor vary substantially.",
+    "flowering_structure": "Short, tight terminal spike densely filled with individual flowers. One flower per narrow subtending bract; old fruiting axis grows little rather than stretching into obvious separated calyx intervals.",
+    "flower_measurements": "Flower limb about 7–8 mm across (UT Williamson); Flower corolla tube ~4–5 mm plus throat ~2–3 mm; North Central Texas key gives corolla tube roughly 8–10 mm depending on measurement convention. Do not mix tube-only and tube-plus-throat numbers.",
+    "fruit": "Four dry one-seeded nutlets form inside each persistent 5-toothed calyx; *G. pumila* older fruiting axis remains tightly packed. Field proof requires side-by-side old/young heads, not buds misidentified as mature fruits.",
+    "field_checks": [
+      "Photograph two fully mature opposite leaves, with one complete leaf outlined, at a node.",
+      "Macro front view one individual small five-lobed flower; check a short crowded terminal head.",
+      "Side macro of stalk and hairy calyx: if separate bract is not clear, label only visible hair/calyx.",
+      "Compare mature fruiting spike (preferably post-flowering) with typical G. bipinnatifida to check whether calyces spread out along elongated axis.",
+      "If flowers are gone, keep Glandularia cf. pumila unless vegetative anatomy is unusually convincing; do not assume based only on small size."
+    ],
+    "stem": "Short, low, square/4-angled and mostly green; stalked glandular and nonglandular radiating hairs. Lateral shoots may lie flat, with leaves mostly facing upward.",
+    "calyx_and_bract": "Each flower's hairy, gland-bearing 5-ribbed calyx is around 6–6.5 mm in a Williamson County account, with five short unequal tooth tips; the narrow subtending bract is around 5–6 mm, usually a little SHORTER than the calyx. The bract is separate from calyx and sits BELOW it at the spike axis. A hand-held side macro must show attachment before arrow-labeling each.",
+    "glandular_hairs": "Stems, leaves and calyces can have a mixture of long nonglandular spreading hairs and shorter stalked glandular hairs with minute terminal heads, reddish in aging material. A normal whole-plant photo does not prove glands are visible.",
+    "flower_anatomy": "One fused corolla tube ending in five unequal spreading lobes; flower appearance 5-petaled but technically 5 LOBES. Small compared with G. bipinnatifida; North Central Texas key uses limb ~3–5 mm and tube ~8–10 mm, while detailed Williamson County account reports flower across about 7–8 mm and divides tube/throat segments differently. Do NOT mix tube-only, tube-plus-throat and total flared-limb dimensions.",
+    "habitat": "Sunny open prairie, disturbed limestone/clay/caliche openings and shallow dry ground. Exact county voucher evidence already recorded; do not extrapolate Hays County from other known counties.",
+    "crew_rule": "SMALL broader-lobed mature leaf + TINY crowded flowers + non-elongating old fruiting spike = strong low-verbena ID. Finer twice-cut fernlike mature leaf + old spike that elongates = prairie verbena. Do not separate using purple versus pink."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Glandularia bipinnatifida",
+      "Glandularia quadrangulata",
+      "Verbena canescens",
+      "Verbena halei",
+      "Verbena xutha",
+      "Verbena brasiliensis",
+      "Glandularia canadensis",
+      "Glandularia × hybrida"
+    ],
+    "key_distinctions": "Against G. bipinnatifida, G. pumila commonly has a much SMALLER broadly cut/fanlobed mature leaf, a relatively SMALL corolla and a mature fruiting spike that stays SHORT. In G. bipinnatifida typical adult leaves are more feathery and twice-cut, the flowers larger and OLD fruiting spikes lengthen. Both may have hair and overlap in stem length, purple flower color and broad leaf appearance: use 2+ confirmed diagnostic structures.",
+    "cross_genus_lookalikes": [
+      {
+        "taxon": "Verbena canescens",
+        "difference": "Both can be low, hairy, and pink/purple flowering; V. canescens has gray canescent foliage and more slender flower spikes, rather than a dense compact Glandularia head and broad fan-lobed leaf."
+      },
+      {
+        "taxon": "Verbena halei",
+        "difference": "V. halei often has very deeply divided lower leaves but narrow upper leaves and elongate slender spikes, whereas G. pumila is a low compact plant with small broadly lobed leaves and a short persistent head."
+      }
+    ],
+    "field_comparison_matrix": [
+      {
+        "taxon": "Glandularia pumila",
+        "locality": "TARGET; reviewed native-range PASS",
+        "mature_leaf": "12–27 mm broad, ovate in outline; broad fanlike primary lobes ± second-order notches",
+        "flowers": "Tiny crowded pink-purple tube-and-five-lobed flowers; 5-ribbed hairy calyx",
+        "old_spike": "Stays relatively compact; axis minimally elongates",
+        "crew_rule": "Confirm small broad mature leaf + small flower + compact genuinely OLD spike."
+      },
+      {
+        "taxon": "Glandularia bipinnatifida",
+        "locality": "LOCAL NATIVE; priority confusion",
+        "mature_leaf": "Larger adult leaves deeply once/twice pinnately cut into multiple narrow secondary lobes",
+        "flowers": "Generally larger lilac/purple five-lobed flowers in compact flowering heads",
+        "old_spike": "Often elongates noticeably in FRUIT; persistent calyces spread out",
+        "crew_rule": "Compare same-stage mature leaves at the same photo scale."
+      },
+      {
+        "taxon": "Glandularia quadrangulata",
+        "locality": "TEXAS NATIVE; local occurrence not presumed",
+        "mature_leaf": "Variable dissected leaves; not a species-ID using lobes alone",
+        "flowers": "Usually small lighter head, may overlap; nutlet/flower structures important",
+        "old_spike": "Needs voucher-level confirmation",
+        "crew_rule": "Mark Glandularia sp. if overlapping; do not guess from flower color."
+      },
+      {
+        "taxon": "Verbena canescens",
+        "locality": "Nearby Texas comparison",
+        "mature_leaf": "Grayish hairy narrow-to-lobed leaves, often different outline",
+        "flowers": "Small purple flowers on narrower more elongate spikes",
+        "old_spike": "Slender, often spaced",
+        "crew_rule": "Photograph branching spikes and gray hairy leaves."
+      },
+      {
+        "taxon": "Verbena halei",
+        "locality": "Regional native; existing learner entry",
+        "mature_leaf": "Lower foliage can be deeply cut but upper leaves often linear/narrow",
+        "flowers": "Narrower elongate purple spikes instead of rounded crowded head",
+        "old_spike": "Elongated",
+        "crew_rule": "Do not call one purple 5-lobed bloom Glandularia."
+      },
+      {
+        "taxon": "Verbena xutha",
+        "locality": "Regional native; county range separately held",
+        "mature_leaf": "Coarser predominantly 3-lobed/toothed",
+        "flowers": "Elongate slender floral spikes",
+        "old_spike": "Elongated",
+        "crew_rule": "Follow entire stem and flowering axis."
+      },
+      {
+        "taxon": "Verbena brasiliensis",
+        "locality": "INTRODUCED in Texas",
+        "mature_leaf": "Lanceolate, coarsely toothed rather than divided fan shape",
+        "flowers": "Numerous narrow wiry flowering branches with tiny flowers",
+        "old_spike": "Long slender branching axes",
+        "crew_rule": "Common disturbed-site weed: don't assume all purple vervains are native."
+      },
+      {
+        "taxon": "Glandularia canadensis / Glandularia × hybrida",
+        "locality": "Eastern species or horticultural crosses; not claimed local",
+        "mature_leaf": "Typically different broader/less dissected leaves, often larger ornamental clones",
+        "flowers": "Generally larger showy corollas",
+        "old_spike": "Variable",
+        "crew_rule": "Don't import cultivar flower photos into wild local native cards."
+      }
+    ],
+    "crew_key": [
+      "1. OPPOSITE leaves? Very small LOW plant? Continue, not proof.",
+      "2. Mature leaf is BROAD with 3–6 paired fan-shaped lobes, and secondary NOTCHES but usually not a deeply feathery blade? Supports pumila.",
+      "3. Check a true 5-lobed tubular corolla and compact flowering spike; not five independent petals.",
+      "4. On side macro identify the calyx and any visible gland-headed hairs, without mistaking the separate bract for a calyx tooth.",
+      "5. Find an OLD mature spike; if it remains densely compact, it supports pumila. Strongly elongated spike with spaced old calyces favors bipinnatifida.",
+      "6. If G. bipinnatifida remains plausible, enter Glandularia sp. / uncertain pending mature leaf + fruit-head photos."
+    ],
+    "caution": "A matched mature leaf photograph and older spike are much more discriminative than one blossom. Both species are genuinely native within the target region. Avoid pulling either as a weed based on rough ID."
+  },
+  "tags": [
+    "Verbenaceae",
+    "Glandularia",
+    "Low Verbena / Pink Mock Vervain",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b032",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "morphology_polished": "2026-10-12",
+    "source_galleries_found": 4,
+    "cleared_photos": 1,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "licensed_face_selected": "2026-10-12",
+    "visual_fine_polish_pending": true,
+    "glass_root_garden_photo_install": "2026-10-14",
+    "manual_library_install_027": "2026-10-16",
+    "field_id_text_reviewed": "2026-10-20",
+    "finished_field_id_pass": "PASS_IN_PROGRESS",
+    "required_to_finish": [
+      "True mature low-verbena fruiting spike macro side by side with G. bipinnatifida",
+      "Individual hairy five-ribbed calyx plus its separate subtending bract at readable scale",
+      "Source license-version readback of Jo Roberts photos",
+      "Verify first-look arrows render in GitHub Pages build"
+    ],
+    "licensed_face_physically_installed": "2026-10-20",
+    "annotated_gallery_pixel_review": "2026-10-20: 7 photo-specific points on 3 installed real JPEGs, checked visually; no invented ripe fruit or bract label."
+  },
+  "photo_note": "One exact-species, licensed Pl@ntNet photo now linked and displayable remotely. Need separate full-plant habit / isolated broad lobed leaf / old non-elongating fruit-spike images in final polish. Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Manual library-first complementary photo selection installed; independent diagnostic ID review pending. 2026-10-20: Exact original public-safe source-licensed Angela Pl@ntNet species face physically archived; no unreviewed anatomy arrows.",
+  "source_photo_leads": [
+    {
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=GLPU4",
+      "source": "Lady Bird Johnson Wildflower Center",
+      "photo_roles": [
+        "whole habit",
+        "flower-head",
+        "leaf"
+      ],
+      "license": "Individual gallery photographer permissions need verification",
+      "reuse": "source link only"
+    },
+    {
+      "url": "https://www.gardenstylesanantonio.com/plants/dwarf-vervain/",
+      "source": "San Antonio Water System GardenStyle",
+      "photo_roles": [
+        "whole plant",
+        "flowering head",
+        "flower close-up"
+      ],
+      "license": "All rights reserved page; photo-by-photo rights unverified",
+      "reuse": "source link only"
+    },
+    {
+      "url": "https://www.npsnm.org/wildflowersnm/Glandularia_pumila.html",
+      "source": "Native Plant Society of New Mexico (George Oxford Miller)",
+      "photo_roles": [
+        "glandular-hair and fan-lobed leaf arrows"
+      ],
+      "license": "Explicit copyright, no reuse without permission",
+      "reuse": "source link only"
+    },
+    {
+      "url": "https://identify.plantnet.org/el/namerica/species/Glandularia%20pumila%20(Rydb.)%20Umber/data/galleries",
+      "source": "Pl@ntNet G. pumila gallery",
+      "photo_roles": [
+        "leaf",
+        "flower",
+        "habit"
+      ],
+      "license": "Some images attributed individually (e.g. Angela CC BY-SA 3); exact photograph URL/creator to be verified before selecting",
+      "reuse": "link only pending specific image provenance"
+    }
+  ],
+  "diagnostic_photo_plan": [
+    {
+      "role": "one species face",
+      "needed": "Exact-species licensed whole flowering G. pumila, ideally Texas/local, with creator/license/observation/photo IDs",
+      "status": "SELECTED: Pl@ntNet Angela CC BY-SA 3.0 image SHA1 258f239e... (remote linked, not physically installed)"
+    },
+    {
+      "role": "fan-lobed mature leaf",
+      "needed": "One leaf clearly isolated with original leaf base and scale; arrow to primary fan-like lobes",
+      "status": "Photo permission / exact license pending"
+    },
+    {
+      "role": "tiny flower + mature fruiting head",
+      "needed": "Side-view corolla and persistent compact fruiting axis; annotate the upper axis",
+      "status": "Photo permission / exact license pending"
+    },
+    {
+      "role": "stalked glandular trichome",
+      "needed": "macro showing hair head on upper flowering stem",
+      "status": "specialty final pass"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "four_physical_photos_three_real_pixel_annotated_views",
+    "image_count": 4,
+    "note": "4 physically present source-credited real photographs including CC BY-SA Angela face, two Jo Roberts CC BY macro/leaf views and owner-authorized private study face. 7 real source photo inspected markers in main swipe gallery and 3 prominently surfaced field-ID photo panels. Remaining proof: compact OLD fruiting spike versus elongating G. bipinnatifida and clearly isolated flower bract versus 5-ribbed calyx.",
+    "annotated_photo_count": 3,
+    "manual_arrow_count": 7
+  },
+  "curated_sources": [
+    "https://w3.biosci.utexas.edu/prc/K12/pdf/Glandularia%20pumila",
+    "https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110644-2",
+    "https://www.gardenstylesanantonio.com/plants/dwarf-vervain/",
+    "https://powo.science.kew.org/taxon/110644-2",
+    "https://w3.biosci.utexas.edu/prc/pdfs/Turner_Lundellia01.pdf"
+  ],
+  "images": [
+    {
+      "file": "images/plantnet-angela-pumila-face.jpg",
+      "role": "Recognize Glandularia pumila — photographed broad fan-lobed simple leaf and crowded small pink-lilac flowers on leafy shoot; not ripe fruits.",
+      "creator": "Angela (Pl@ntNet contributor)",
+      "license": "CC BY-SA 3.0",
+      "platform": "Pl@ntNet",
+      "source_page": "https://identify.plantnet.org/el/namerica/species/Glandularia%20pumila%20(Rydb.)%20Umber/data",
+      "direct_image_url": "https://bs.plantnet.org/image/o/258f239e64608ec94f364a119185b4a4576d9472",
+      "source_record_id": "Pl@ntNet image SHA-1 258f239e64608ec94f364a119185b4a4576d9472",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "CC BY-SA 3.0: attribute Angela and original photo + link exact license, share adaptions alike.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "remote_only": false,
+      "local_file_present": true,
+      "exact_species": true,
+      "source_identity_evidence": "Pl@ntNet accepted species page Glandularia pumila; featured image explicitly credited Angela under CC-BY-SA 3",
+      "caption": "Verified original-site Pl@ntNet photo by Angela (CC BY-SA 3.0). Flowering leafy shoot with relatively broad, cut/fan-lobed leaves and a small compact lavender-pink head. Fine-scale glandular hairs are not confidently resolved.",
+      "diagnostic_roles": [
+        "recognizable flowering species face",
+        "mature relatively broad lobed leaf outline",
+        "small compact flowering spike"
+      ],
+      "visual_status": "provisional learner face; specialized true leaf macro, old fruiting spike, and full habit remain needed",
+      "visual_checked_at": "2026-10-12",
+      "previous_remote_file": "https://bs.plantnet.org/image/o/258f239e64608ec94f364a119185b4a4576d9472",
+      "source_platform": "Pl@ntNet featured exact-species photo with displayed author and CC license",
+      "original_image_sha256": "e873702bb1398f358d4181d739564ec543d5ce939335ffbb980806ddefc458d6",
+      "original_image_dimensions": [
+        675,
+        900
+      ],
+      "image_dimensions": [
+        675,
+        900
+      ],
+      "downloaded_from": "https://bs.plantnet.org/image/o/258f239e64608ec94f364a119185b4a4576d9472",
+      "modifications": "Resaved source JPEG at full source resolution up to 1500 pixels, EXIF removed; no image pixels retouched.",
+      "photo_review": "Exact species label and photographer/license displayed together on Pl@ntNet page. Anatomy arrows pending readback of saved JPEG pixels. 2026-10-20: physical committed JPEG visually inspected; selected markers only identify visible anatomy.",
+      "anatomy_arrows": [
+        {
+          "label": "Broad fan-lobed leaf",
+          "target_fraction": [
+            0.57,
+            0.27
+          ]
+        },
+        {
+          "label": "Small 5-lobed flower",
+          "target_fraction": [
+            0.79,
+            0.63
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: verified target on actual local stored JPEG decoded and inspected; Git blob references saved in QA report. No calyx bract or mature fruit falsely labeled."
+    },
+    {
+      "file": "images/glass-root-623376721-first-photo.jpg",
+      "role": "Low plant with hairy lobed leaves and small flowers; calyx and mature fruit macro still needed",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/623376721",
+      "observation_url": "https://www.inaturalist.org/observations/342330454",
+      "observation_id": 342330454,
+      "photo_id": 623376721,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/623376721/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/library-review027-41e7786ee2f9601.jpg",
+      "role": "Prostrate foliage with small lobed flowers and dissected leaf shape; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show leaf margin and flower bracts",
+      "creator": "Jo Roberts",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6130006489",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607951042/original.jpg",
+      "source_determination": "Glandularia pumila",
+      "source_observation_id": "6130006489",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/glandularia-pumila/gbif-159adfd7ddb97f.jpg",
+      "archive_image_sha256": "ce812efea735441a852903fe5e1bc02692572ea57d3a71df953bf5208a07a8ae",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified. 2026-10-20: physical committed JPEG visually inspected; selected markers only identify visible anatomy.",
+      "anatomy_arrows": [
+        {
+          "label": "Broad mature leaf lobes",
+          "target_fraction": [
+            0.57,
+            0.24
+          ]
+        },
+        {
+          "label": "One fused 5-lobed corolla",
+          "target_fraction": [
+            0.41,
+            0.67
+          ]
+        },
+        {
+          "label": "Crowded flower buds (not fruit)",
+          "target_fraction": [
+            0.48,
+            0.56
+          ]
+        }
+      ],
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "manual_arrow_review": "2026-10-20: verified target on actual local stored JPEG decoded and inspected; Git blob references saved in QA report. No calyx bract or mature fruit falsely labeled."
+    },
+    {
+      "file": "images/library-review027-f82f42405a94014.jpg",
+      "role": "Flower stalk, hairy calyx and bract close-up against hand; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show leaf margin and flower bracts",
+      "creator": "Jo Roberts",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6130006489",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607951067/original.jpg",
+      "source_determination": "Glandularia pumila",
+      "source_observation_id": "6130006489",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/glandularia-pumila/gbif-6c3a6ee3932364.jpg",
+      "archive_image_sha256": "bbc84caa020951c079f4964df0d89b2918c0c9b7d8f933efb8f277573008ec10",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified. 2026-10-20: physical committed JPEG visually inspected; selected markers only identify visible anatomy.",
+      "anatomy_arrows": [
+        {
+          "label": "Hairy calyx tube",
+          "target_fraction": [
+            0.46,
+            0.45
+          ]
+        },
+        {
+          "label": "Stiff stem hairs",
+          "target_fraction": [
+            0.65,
+            0.79
+          ]
+        }
+      ],
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "manual_arrow_review": "2026-10-20: verified target on actual local stored JPEG decoded and inspected; Git blob references saved in QA report. No calyx bract or mature fruit falsely labeled."
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "role": "Full low spreading plant",
+      "status": "EXISTING_OWNER_STUDY_PHOTO_VISIBLE; habitat and scale limited",
+      "how": "Shoot complete crown/branches next to centimeter scale."
+    },
+    {
+      "role": "Mature opposite fan-lobed leaf pair",
+      "status": "EXISTING_SOURCE_PHOTO_SUPPORTS; scale and one unoccluded node still pending",
+      "how": "Place same-level adult leaf beside G. bipinnatifida leaf at same camera distance."
+    },
+    {
+      "role": "Front-on individual five-lobed flower",
+      "status": "EXISTING_LIBRARY_PHOTO_SUPPORTS",
+      "how": "Arrow each flower's fused corolla accurately, never falsely claim five detached petals."
+    },
+    {
+      "role": "Stalked glandular hairs on upper stem and calyx",
+      "status": "EXISTING_LIBRARY_MACRO_SUPPORTS_HAIRS; gland-head determination requires stronger macro",
+      "how": "At 10×/clip-on macro look for stalk and round terminal gland."
+    },
+    {
+      "role": "Individual subtending bract vs 5-ribbed hairy calyx",
+      "status": "NEEDS_FULL_ATTACHMENT_MACRO",
+      "how": "One side profile with single separated complete bract and calyx and ruler."
+    },
+    {
+      "role": "Fully mature compact fruiting spike vs G. bipinnatifida",
+      "status": "NEEDS_MATCHED_FRUITING_SPIKE_PAIR",
+      "how": "Old head with clearly mature nutlets; show that axis remains packed."
+    }
+  ],
+  "field_id_finalization": {
+    "review_date": "2026-10-20",
+    "stage": "PASS_IN_PROGRESS",
+    "text_review": "STRONG_UT_WILLIAMSON_AND_FNCT_KEYS",
+    "photo_review": "2026-10-20: Pl@ntNet Angela CC BY-SA photo physically installed and visually inspected. Jo Roberts original committed JPEGs physically examined at full-size. Seven anatomy markers on three real photographs: broad lobed mature leaves; a whole 5-lobed corolla; flowering buds; small complete 5-lobed flower; hairy calyx; projecting stem hairs. Strictly no claims about a separate bract, glandular hair head or ripe compact fruit. Jo Roberts exact photo-license versions remain a separate metadata verification need.",
+    "missing": [
+      "Exact detached calyx vs separate flower bract photo with both attachment points clearly in frame",
+      "True mature old fruiting spike, not a rounded budding/flowering head, ideally paired with G. bipinnatifida same scale",
+      "Micro of glandular hair head, not just nonglandular stem hairs",
+      "Check Jo Roberts exact photo license versions against originating iNaturalist record"
+    ],
+    "arrow_policy": "Only annotate structures literally visible on original photo; archive image SHA or Git blob ID at QA; if source licensing/version unresolved label notes and do not imply right to unrestricted commercial redistribution.",
+    "field_training_status": "READY_FOR_CREW_RECOGNITION; MATURE_FRUIT_SPIKE_AND_SINGLE_BRACT_VS_CALYX_STILL_PENDING",
+    "annotated_real_photos": 3,
+    "verified_anatomy_arrows": 7
+  },
+  "visual_comparison": {
+    "instance_id": "glandularia-pumila-20261020",
+    "title": "Low verbena — verified diagnostic structures",
+    "subtitle": "Real photos of the exact species: leaf lobes, small five-lobed corolla, crowded buds and hairy calyces. No mature fruit-spike or separated bract anatomy is asserted.",
+    "items": [
+      {
+        "label": "Fan-lobed leaf and small flowers",
+        "scientific_name": "Glandularia pumila",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-pumila/images/plantnet-angela-pumila-face.jpg",
+        "image_role": "One broad, deeply cut SIMPLE leaf and tiny individual pink-purple corollas visible together",
+        "image_fit": "contain",
+        "source_page": "https://identify.plantnet.org/el/namerica/species/Glandularia%20pumila%20(Rydb.)%20Umber/data",
+        "caption": "The upper broad green blade is ONE deeply lobed leaf rather than separate leaflets. At lower right, tiny pink corollas and crowded green floral parts form one terminal flowering spike, NOT ripe fruit.",
+        "why_it_matters": "Leaf size and major lobe shape matter more than pink versus purple color. A photographed flowering head does not prove the compact mature fruiting condition.",
+        "markers": [
+          {
+            "label": "Broad fan-lobed leaf",
+            "label_x": 13,
+            "label_y": 17,
+            "target_x": 57,
+            "target_y": 27
+          },
+          {
+            "label": "Small 5-lobed flower",
+            "label_x": 66,
+            "label_y": 75,
+            "target_x": 79,
+            "target_y": 63
+          }
+        ]
+      },
+      {
+        "label": "Mature leaves, complete flower and compact flowering spike",
+        "scientific_name": "Glandularia pumila",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-41e7786ee2f9601.jpg",
+        "image_role": "Leaf with broad toothed/secondary lobes, one five-lobed fused corolla, and a compact flower-bud cluster",
+        "image_fit": "contain",
+        "source_page": "https://www.gbif.org/occurrence/6130006489",
+        "caption": "An entire simple blade has broad lobes and additional notches; one purple flower is a fused tubular corolla with five outward lobes; the nearby round group is still FLOWERING and budding, not a confirmed old fruiting spike.",
+        "why_it_matters": "Demonstrates the primary vegetative identification clue and prevents confusion between unopened floral buds and mature fruit.",
+        "markers": [
+          {
+            "label": "Broad mature leaf lobes",
+            "label_x": 70,
+            "label_y": 11,
+            "target_x": 57,
+            "target_y": 24
+          },
+          {
+            "label": "One fused 5-lobed corolla",
+            "label_x": 6,
+            "label_y": 81,
+            "target_x": 41,
+            "target_y": 67
+          },
+          {
+            "label": "Crowded flower buds (not fruit)",
+            "label_x": 56,
+            "label_y": 45,
+            "target_x": 48,
+            "target_y": 56
+          }
+        ]
+      },
+      {
+        "label": "Hairy individual calyces and floral stalk",
+        "scientific_name": "Glandularia pumila",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-f82f42405a94014.jpg",
+        "image_role": "Side macro of hairy, ribbed calyx tubes and projecting stem hairs",
+        "image_fit": "contain",
+        "source_page": "https://www.gbif.org/occurrence/6130006489",
+        "caption": "The green/purplish small tubular flower coverings are hairy calyces; the flower-stalk surface carries conspicuous projecting hairs. Tiny gland heads versus simple hairs and any single separate subtending bract cannot be isolated confidently in this photo.",
+        "why_it_matters": "Shows the true scale and hairy flower architecture without labeling a bract or tiny glands that the pixels cannot distinguish.",
+        "markers": [
+          {
+            "label": "Hairy calyx tube",
+            "label_x": 5,
+            "label_y": 27,
+            "target_x": 46,
+            "target_y": 45
+          },
+          {
+            "label": "Stiff stem hairs",
+            "label_x": 61,
+            "label_y": 91,
+            "target_x": 65,
+            "target_y": 79
+          }
+        ]
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Low verbena: compare the LEAF before the flowers",
+    "featured_photo_indices": [
+      0,
+      1,
+      2
+    ],
+    "steps": [
+      "Find a mature BROAD, fan-lobed simple leaf; its notches do not make it compound.",
+      "Check a little five-lobed fused tubular flower and short crowded flowering head.",
+      "On the side view look for tiny hairy floral calyces; tiny gland heads and bracts still need a sharper macro.",
+      "Then compare a genuinely OLD fruiting spike against prairie verbena before finalizing difficult IDs."
+    ],
+    "field_rule": "Low + small, broadly lobed mature leaves + little flowers + compact OLD fruiting spike together strongly support G. pumila. Never decide from flower color alone.",
+    "warning": "The pictured flower heads include buds, not confirmed fully ripe spikes. Exact gland heads, individual subtending bract and mature four-nutlet fruit remain unmarked until better images are found."
+  }
+}

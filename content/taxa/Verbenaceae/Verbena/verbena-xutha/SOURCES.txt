@@ -1,0 +1,23 @@
+PHOTO FAST-FILL 034 — Verbena xutha
+Date: 2026-10-06
+Temporary one-photo learner coverage from exact-species reusable or noncommercial-compatible media.
+Source: https://commons.wikimedia.org/wiki/File:Verbena_xutha.jpg
+Creator: Wendy McCrady
+License: CC BY 4.0
+Public reuse: yes
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+LIBRARY-FIRST IMAGE SELECTION 027 2026-10-16T18:19:09.402933+00:00
+Verbena xutha
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6163309864
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/verbena-xutha/gbif-a915aa25dbc3b7.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 027 2026-10-16T18:19:09.402933+00:00
+Verbena xutha
+Creator: Michelle Lopez; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6251851319
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/verbena-xutha/gbif-ff50467f22c9a2.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

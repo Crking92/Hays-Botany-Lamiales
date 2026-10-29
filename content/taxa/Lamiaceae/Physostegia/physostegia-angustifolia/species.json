@@ -1,0 +1,143 @@
+{
+  "id": "physostegia-angustifolia",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Physostegia",
+  "species": "angustifolia",
+  "scientific_name": "Physostegia angustifolia",
+  "common_name": "Narrowleaf false dragonhead",
+  "synonyms": [],
+  "taxonomic_note": "Accepted project concept. Hays and Travis are locked; a historical Berlandier specimen spanning the Bejar-to-Austin corridor is too geographically ambiguous to assign to a third county.",
+  "look_here_first": "Start with the narrow opposite leaves and upright terminal spike of pink-lavender bilabiate flowers. Compare leaf width and habitat carefully against P. correllii and the broad P. virginiana complex.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — preserved BRIT/SMU specimen BRIT367184 from south of Dripping Springs. Travis — previously verified UT Plant Resources Center county voucher. Kerr — Singhurst et al. 2010, Kerr Wildlife Management Area vascular-flora inventory, Physostegia angustifolia specimens JS 10569, JS 10663, LS 4412 and LH 4983. Three valid target counties; vague historical Bejar-to-Austin specimen excluded.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner admission is independent from native-range certification. Preserve the two-county HOLD."
+    },
+    "native_metrics_excluded": false,
+    "native_range_reconciliation": {
+      "reviewed_at": "2026-10-14",
+      "decision": "PASS",
+      "confidence": "high",
+      "accepted_scientific_name": "Physostegia angustifolia Fernald",
+      "synonym_note": "Physostegia edwardsiana Shinners (POWO synonym); not a duplicate species",
+      "verified_target_counties": [
+        "Hays",
+        "Travis",
+        "Kerr"
+      ],
+      "new_source_url": "https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf",
+      "taxonomy_source_url": "https://powo.science.kew.org/taxon/195659-2",
+      "new_vouchers": [
+        "JS 10569",
+        "JS 10663",
+        "LS 4412",
+        "LH 4983"
+      ],
+      "reason": "Independent documented wild Kerr plant closes previous Hays/Travis two-county HOLD; preserved learner admission and original approval."
+    }
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": false,
+  "morphology_keys": {
+    "best_field_traits": [
+      "upright perennial mint-family herb",
+      "square stems",
+      "opposite narrow leaves",
+      "terminal spike of pink to lavender bilabiate flowers",
+      "flowers arranged in repeated clusters along the spike",
+      "narrow foliage is an important first-pass cue"
+    ],
+    "comparison_training": "P. correllii is a tall rhizomatous wetland/stream-edge specialist; the P. virginiana complex is broader and taxonomically messy in Texas. For P. angustifolia, begin with the notably narrow leaves and then confirm floral/spike characters."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Physostegia correllii",
+      "Physostegia virginiana"
+    ],
+    "key_distinctions": "Use narrow foliage plus the Physostegia spike architecture; do not identify from pink flowers alone."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Physostegia",
+    "False dragonhead",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_012": "2026-10-16"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "opposite narrow leaves",
+    "stem/node",
+    "flowering spike",
+    "flower close-up",
+    "comparison with P. correllii"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "images/physostegia-angustifolia-provisional-face.jpg",
+      "role": "Close side view of a flower, show bilabiate white corolla and calyx/flower arrangement; habit and leaf/stem comparisons still require later enrichment.",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Physostegia_angustifolia_142804673.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by"
+    },
+    {
+      "file": "images/library-review012-236943558405a52.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Hand-scale flowering spike plus narrow leaves; complements existing solitary side flower",
+      "creator": "Wendy A",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6400895615",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/679338438/original.jpg",
+      "source_determination": "Physostegia angustifolia",
+      "source_observation_id": "6400895615",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/physostegia-angustifolia/gbif-398899eb42ec07.jpg",
+      "archive_image_sha256": "98e3168c8fa85f11f1a97ac8474f48d424e28072d3a5f77cfe1c3cec9c884d94",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-12",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

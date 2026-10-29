@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/447686-1
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/447686-1
+Observed scientific name (accepted or documented alias): Hedeoma reverchonii serpyllifolia
+Source research-grade observation: https://www.inaturalist.org/observations/385282046
+Photo: https://www.inaturalist.org/photos/705328828
+Attribution: (c) Turner Brockman, some rights reserved (CC BY-SA)
+License: CC BY-SA; Attribution; ShareAlike requirements
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

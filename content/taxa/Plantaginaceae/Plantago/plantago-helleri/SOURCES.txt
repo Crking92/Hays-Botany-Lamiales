@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Plantago%20helleri
+Source research-grade observation: https://www.inaturalist.org/observations/10718679
+Photo: https://www.inaturalist.org/photos/14975148
+Attribution: (c) Matthew Allen, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

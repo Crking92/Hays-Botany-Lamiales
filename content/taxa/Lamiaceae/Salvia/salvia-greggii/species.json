@@ -1,0 +1,215 @@
+{
+  "id": "salvia-greggii",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "species": "greggii",
+  "scientific_name": "Salvia greggii",
+  "authority": "A.Gray",
+  "common_name": "Autumn Sage",
+  "synonyms": [],
+  "taxonomic_note": "",
+  "field_group": "Woody evergreen-ish shrub sage",
+  "look_here_first": "Start with WOODY branches, then inspect one OPPOSITE pair of oval/elliptic (sometimes obovate) leaves. Autumn sage has relatively smooth/glabrous blades with tiny pitted glands, and larger showy two-lipped red-pink (or other cultivar-color) flowers around 25 mm long in the UT Texas treatment. Shrubby blue sage can have similarly sized leaves, but leaf surfaces are rough/hairy and its blue-purple corollas are usually smaller (often <13 mm). Flower color alone is NOT enough, especially in cultivated salvias.",
+  "project_tracker_diagnostic": "woody perennial subshrub/shrub; small aromatic elliptic to obovate leaves; often evergreen or tardily deciduous; showy relatively large flowers with strong color variation; dry rocky western Edwards Plateau/Trans-Pecos habitat",
+  "county_occurrences_target_zone": [
+    "Bandera",
+    "Edwards"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED INCLUSION",
+    "range_basis": "Bandera — NPSOT states the wild Texas range begins in western Bandera County and extends westward. Edwards — a documented NPSOT photo-contest field record places wild Salvia greggii at Kickapoo Caverns State Park, Edwards County. Kew confirms Texas as native, but a third explicit project-target county native occurrence has not yet been documented to the project standard.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-02",
+      "reason": "User explicitly approved canonical inclusion despite only two independently documented target-zone counties. Evidence status remains UNRESOLVED; no third county was invented."
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "woody perennial subshrub/shrub",
+      "small aromatic elliptic to obovate leaves",
+      "often evergreen or tardily deciduous",
+      "showy relatively large flowers with strong color variation",
+      "dry rocky western Edwards Plateau/Trans-Pecos habitat"
+    ],
+    "joey_field_note": "Joey's landscaping frame reinforces the mounded woody-shrub habit and flowering architecture. A second desert-field video shows a mature calyx during seed collection, adding a useful fruiting-stage cue beyond the showy corolla.",
+    "leaf_dimensions": "UT Austin regional S. greggii blades ~8–48 × 3–22 mm, ovate/elliptic or oblanceolate with low scallops; overlaps S. ballotiflora leaf SIZE. Better check hair/texture plus the corolla.",
+    "leaf_surface": "Leaf blades generally not coarsely hairy, minutely gland-dotted/pitted; leaf can feel smooth compared with shrubby blue sage's conspicuous rough leaf hairs. Pitted glands require true macro.",
+    "corolla": "In UT Austin regional description, two-lipped corolla ~25 mm long, typically scarlet/rose-red wild; cultivated varieties can be white, orange, pink and purple. Do not use garden flower color as a wild-species diagnostic.",
+    "inflorescence": "Terminal raceme with successive opposite pairs of ascending flowers, conspicuous comparatively large two-lipped lips and persistent glandular calyx.",
+    "cultivar_caution": "S. greggii is sold in many colors and can be confused in gardens with S. microphylla and Salvia × jamensis hybrids; cultivar or hybrid flowers do NOT confirm wild S. greggii identity or native provenance."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia ballotiflora"
+    ],
+    "key_distinctions": "Salvia ballotiflora: S. greggii has larger showier flowers and generally larger less-hairy leaves; S. ballotiflora has tiny blue-purple flowers and small hairy rough leaves."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Salvia",
+    "Autumn Sage",
+    "Central Texas",
+    "Genus comparison",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "2.5-autumn-vs-shrubby-blue-photo-first",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_enhanced": true,
+    "last_visual_reviewed": "2026-10-13",
+    "visual_status": "Two new CC BY-SA licensed photos staged, one existing preserved. Visual ID lesson now focuses leaf roughness and flower size; same-scale macros and arrows for final polish.",
+    "range_status_preserved": true
+  },
+  "images": [
+    {
+      "file": "images/01-flower-habit.jpg",
+      "role": "Flower / branching habit reference",
+      "creator": "Raul654",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-leaf-and-flower-close.jpg",
+      "role": "Additional close flower and leaves; cultivated/unknown wild provenance",
+      "creator": "Consultaplantas",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii_1c.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike"
+    },
+    {
+      "file": "images/03-flowering-branch.jpg",
+      "role": "Additional flower and branching habit; no wild Texas provenance claim",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii_kz12.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "mA0uMKVyswA",
+      "timestamp": "09:30",
+      "record_id": "jvid-mA0uMKVyswA-005",
+      "role": "mounded shrub habit / flowering architecture",
+      "source_confidence": "source-explicit",
+      "rights": "private study; public reuse not assumed"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "4zKfoRtl4Co",
+      "timestamp": "00:22",
+      "record_id": "jvid-4zKfoRtl4Co-001",
+      "role": "mature calyx / seed collection / fruiting Salvia structure",
+      "source_confidence": "source-explicit",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "photo_diagnostic_lesson": {
+    "pair": "Salvia greggii vs Salvia ballotiflora",
+    "look_here_first": "Both are WOODY shrubs. Check a whole leaf and the FLOWER SIZE: Greggii smooth-ish oval leaves and large showy ~25-mm corollas; ballotiflora rough/hairy serrate leaves and smaller blue-purple ~10–13-mm corollas.",
+    "key": [
+      {
+        "step": 1,
+        "structure": "Woody stem",
+        "greggii": "Many branched stems, often older brown woody lower portion",
+        "ballotiflora": "Also woody and shrubby — not a decisive difference",
+        "photo_need": "whole shrub plus older bark"
+      },
+      {
+        "step": 2,
+        "structure": "Leaf surface",
+        "greggii": "Generally smooth to touch with minutely sunken gland dots, usually not conspicuously hirsute",
+        "ballotiflora": "Conspicuous rough/hairy texture with small raised hairs both sides",
+        "photo_need": "matched dorsal/abaxial leaf macros; scales and focus"
+      },
+      {
+        "step": 3,
+        "structure": "Leaf outline",
+        "greggii": "Elliptic/obovate, often entire to low-crenate; 8–48 mm",
+        "ballotiflora": "Ovate, serrated/wavy, about 15–38 mm; size overlaps",
+        "photo_need": "whole leaf beside ruler, do not overstate width split"
+      },
+      {
+        "step": 4,
+        "structure": "Flower corolla",
+        "greggii": "Conspicuous showy lip, about 25 mm long in regional treatment; color variable cultivars",
+        "ballotiflora": "Smaller blue/lavender purple often less than 13 mm, multiple clustered",
+        "photo_need": "side-on flower in millimeters for BOTH species"
+      },
+      {
+        "step": 5,
+        "structure": "Calyx hairs",
+        "greggii": "Short glandular hairs, ribs visible; needs macro",
+        "ballotiflora": "Hairy calyx and tubular flower; also needs macro",
+        "photo_need": "same scale side/back calyx pair"
+      }
+    ],
+    "memory_rule": "GREGGII = smooth-ish leaf and BIG showy flower. BALLOTIFLORA = ROUGH leaf and SMALL blue-purple flower.",
+    "warnings": [
+      "Leaf sizes overlap, and both are woody. Don't diagnose from shrub form alone.",
+      "S. greggii garden plants may be cultivars or hybrid S. × jamensis or S. microphylla lookalikes.",
+      "No invented gland arrows in ordinary habit photos."
+    ],
+    "sources": [
+      "https://w3.biosci.utexas.edu/prc/K12/pdf/Salvia%20greggii",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:455736-1"
+    ]
+  },
+  "visual_comparison": {
+    "title": "Autumn sage: relatively smooth leaves, showy flower, woody shrub",
+    "subtitle": "Three exact species photos; newly added two are cultivated/not certified Texas provenance. Read photo caption and compare same-scale flower sizes; color alone isn't diagnostic.",
+    "items": [
+      {
+        "label": "SHRUB FLOWER AND BRANCH",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-greggii/images/01-flower-habit.jpg",
+        "caption": "Original cultivated red autumn-sage bloom with branch. Study big corolla, opposite small leaves; this is not a wild-locality certificate.",
+        "creator": "Raul654",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii.jpg",
+        "markers": []
+      },
+      {
+        "label": "FLOWER + LEAF CLOSE-UP",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-greggii/images/02-leaf-and-flower-close.jpg",
+        "caption": "Flower and leaf detail: compare large showy two-lipped corolla with smaller S. ballotiflora flowers; the leaf blade is comparatively smooth, but microglands need true magnification.",
+        "creator": "Consultaplantas",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii_1c.JPG",
+        "markers": []
+      },
+      {
+        "label": "SECOND FLOWERING BRANCH",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-greggii/images/03-flowering-branch.jpg",
+        "caption": "Another actual S. greggii flowering branch to reinforce pairwise leaves and showy flowers; do NOT infer wild provenance or absence of tiny glands.",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii_kz12.jpg",
+        "markers": []
+      }
+    ],
+    "annotation_status": "Final pixel-precise arrows and measured macros still needed; no guessed targets."
+  },
+  "diagnostic_photo_targets": [
+    "Same-magnification leaf UPPER and UNDERSIDE macros of natural S. greggii and S. ballotiflora, with actual hairs/glands marked",
+    "Side-on Gregii corolla with metric ruler, paired Ballotiflora corolla on same scale",
+    "Wild western target-region habitat and true S. greggii flowering branch versus cultivated hybrid",
+    "Stem close showing woody periderm and decussate leaf pairs",
+    "Flower calyx macro with individual parts identified only if visible"
+  ]
+}

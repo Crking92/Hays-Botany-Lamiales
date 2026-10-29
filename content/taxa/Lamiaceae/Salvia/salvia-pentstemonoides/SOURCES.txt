@@ -1,0 +1,10 @@
+Big Red Sage photo polish 2026-10-13. Existing canonical S. pentstemonoides photo kept unchanged.
+NEW exact source: Chris Best / USFWS, July 11 2021, Public Domain: https://www.fws.gov/media/big-red-sadge-rosette-cibolo-bluffs
+Direct source verified through FWS indexed image: https://www.fws.gov/sites/default/files/images/2025-01/20210711_100210.jpg
+CRITICAL image ID note: media page is misleadingly titled 'rosette', but the actual image is a red tubular FLOWER plus green calyx closeup on a flowering stem; no basal rosette present. File installed as 02-cibolo-flower-calyx-close.jpg, NOT a rosette.
+REAL basal rosette and annotated flower details, source and rights:
+USFWS Species Status Assessment Figure 2.1a (big red sage rosette growing in limestone bluff) and Fig 2.1d (flower anatomy labels), figures by Chris Best/USFWS per Section 9.1 Photograph and Drawing Credits, media PDF listed Public Domain: https://www.fws.gov/media/big-red-sage-species-status-assessment
+Underlying PDF: https://www.fws.gov/sites/default/files/documents/2025-01/big-red-sage-ssa-november-2024.pdf
+The rosette Fig 2.1a and annotated Fig 2.1d have not been extracted or installed as physical JPEGs; remain external exact links. Do not count as gallery photos or mark their arrows done. Individual PDF figures lack independent direct URL with physical photo installer; site photo without rosette must NOT substitute.
+USFWS characters: thick glossy basal leaves to 12 cm, large red tubular flowers roughly 4 cm, stiff stems to 1.5 m. Rare native; don't reveal fine locality records or collect specimens.
+All pre-existing range status PASS and source county decisions retained; photo polish changes only.

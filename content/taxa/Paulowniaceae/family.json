@@ -1,0 +1,123 @@
+{
+  "rank": "family",
+  "name": "Paulowniaceae",
+  "common_name": "Paulownia / princess-tree family",
+  "lineage_context": {
+    "order": "Lamiales",
+    "batch": "Lamiales residual",
+    "close_project_families": [
+      "Scrophulariaceae",
+      "Bignoniaceae"
+    ],
+    "teaching_goal": "Teach Paulownia as a modern family split from old Scrophulariaceae using tree habit, enormous opposite leaves, woody capsule and masses of winged seeds."
+  },
+  "project_scope": {
+    "selection_mode": "Paulownia tomentosa comparison module",
+    "note": "The sole project species is accepted but native to East Asia and introduced in Texas. This is a crew/invasive-lookalike family lesson, not a native anchor."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Look for a fast-growing tree with enormous opposite cordate leaves and terminal panicles of large lavender tubular flowers. Confirm persistent woody capsules packed with thousands of tiny winged seeds.",
+    "vegetative": "Trees or woody plants; Paulownia has very large opposite cordate leaves, often densely hairy beneath.",
+    "reproductive": "Large bisexual tubular/campanulate 5-lobed flowers in terminal panicles; stamens epipetalous; ovary superior.",
+    "fruit": "Woody 2-valved capsule containing very numerous tiny multi-winged seeds.",
+    "field_tip": "Huge opposite heart-shaped leaves + lavender spring flower panicles + persistent woody seed capsules = Paulowniaceae/Paulownia."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_015",
+    "teaching_order": "giant opposite leaf → lavender terminal panicle → woody capsule → winged seed → old Scrophulariaceae split",
+    "intro": "Paulownia is an excellent taxonomy-and-field combination: once a scroph in older treatments, now easy to remember as its own woody Lamiales family.",
+    "steps": [
+      {
+        "title": "1 · Start with the enormous opposite leaf",
+        "photo_role": "leaf + node scale reference",
+        "look_for": "Very large heart-shaped leaves in opposite pairs, often velvety beneath.",
+        "why_it_matters": "The leaf size and arrangement are an immediate field clue even without flowers.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "2 · Find the terminal lavender flower panicle",
+        "photo_role": "flowering panicle",
+        "look_for": "Large erect clusters of lavender-blue tubular/campanulate flowers, often appearing before full leaf-out.",
+        "why_it_matters": "This ties the tree to the fused-corolla Lamiales pattern.",
+        "status": "rights_safe_reference_pending"
+      },
+      {
+        "title": "3 · Open the woody capsule",
+        "photo_role": "persistent winter capsule",
+        "look_for": "Pointed woody 2-valved capsules that can remain on the tree after leaf fall.",
+        "why_it_matters": "Fruit is much more diagnostic than generic purple flower color.",
+        "status": "local_or_reference_visual_pending"
+      },
+      {
+        "title": "4 · Look at the tiny winged seeds",
+        "photo_role": "seed macro",
+        "look_for": "Numerous tiny flat seeds with conspicuous membranous wings.",
+        "why_it_matters": "Seed structure is one of the strongest visible characters supporting Paulowniaceae.",
+        "status": "highest_priority_macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Paulowniaceae vs Scrophulariaceae",
+        "rule": "Paulownia is now separated from Scrophulariaceae. Its tree habit, giant opposite cordate leaves, woody capsule and masses of tiny winged seeds make the project species distinctive."
+      },
+      {
+        "title": "Paulowniaceae vs Bignoniaceae",
+        "rule": "Both can be woody Lamiales with large tubular flowers and winged seeds. Paulownia has huge opposite simple cordate leaves and compact woody capsules; many Bignoniaceae have compound leaves or vines and long bivalved capsules."
+      }
+    ],
+    "caveat": "The project species Paulownia tomentosa is introduced in Texas; family recognition does not imply native restoration value."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Paulownia",
+        "fast_cue": "tree + enormous opposite cordate leaves + lavender panicles + woody capsule with many winged seeds",
+        "role": "introduced comparison genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "winged seed",
+      "annotation_goal": "show seed body and multiple thin wings"
+    },
+    {
+      "priority": 1,
+      "structure": "persistent woody capsule",
+      "annotation_goal": "show 2-valved opening"
+    },
+    {
+      "priority": 2,
+      "structure": "opposite giant leaf node",
+      "annotation_goal": "scale leaf against hand/twig without relying on size alone"
+    },
+    {
+      "priority": 2,
+      "structure": "Paulowniaceae-vs-Bignoniaceae fruit card",
+      "annotation_goal": "compact woody capsule vs long bivalved capsule"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Paulowniaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126798-1"
+    },
+    {
+      "source": "Plants of the World Online — Paulownia tomentosa",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:185784-2/general-information"
+    },
+    {
+      "source": "US Forest Service — Paulownia tomentosa",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/pautom"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-015",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "introduced_comparison_live_capsule_seed_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "bignonia-capreolata",
+  "entry_type": "species",
+  "family": "Bignoniaceae",
+  "genus": "Bignonia",
+  "species": "capreolata",
+  "scientific_name": "Bignonia capreolata",
+  "authority": "L.",
+  "common_name": "Crossvine",
+  "synonyms": [
+    "Anisostichus capreolata",
+    "Doxantha capreolata"
+  ],
+  "taxonomic_note": "Accepted species; Texas-native at the state level but fails the project's current target-zone native threshold.",
+  "look_here_first": "Look at the leaf and climbing organ together: crossvine usually has two broad leaflets, with the third leaflet position modified into a branched tendril ending in adhesive pads.",
+  "county_occurrences_target_zone": [
+    "Bandera"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "USDA-derived Texas county/native-status data provide only Bandera inside the current target zone. Travis occurrences are explicitly documented as cultivated in the deep review.",
+    "range_guardrail": "Broad ecoregion presence and cultivated Hill Country records are not converted into exact native counties.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "LOOKALIKE_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen to semi-evergreen woody climbing vine",
+      "leaves opposite and typically bifoliolate",
+      "third leaflet position modified into a branched tendril",
+      "tendril branches end in adhesive discs/pads",
+      "leaflets broad, glossy and mostly entire",
+      "showy orange-red to reddish/yellow trumpet-shaped flowers",
+      "long flattened 2-valved capsule with winged seeds"
+    ],
+    "comparison_training": "The two-leaflet-plus-tendril architecture is the fastest way to separate crossvine from trumpet creeper."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Campsis radicans",
+      "Dolichandra unguis-cati",
+      "Lonicera sempervirens"
+    ],
+    "key_distinctions": "Trumpet creeper has 7–11 serrated leaflets and aerial rootlets. Catclaw vine has claw-like hooks at the tendril tips. Coral honeysuckle has simple leaves and berries."
+  },
+  "tags": [
+    "Bignoniaceae",
+    "Bignonia",
+    "Crossvine",
+    "Woody vine",
+    "Comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b018",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "comparison_retained": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/bignonia-capreolata-provisional-face.jpg",
+      "role": "Climbing flowering habit recognizable face",
+      "creator": "Susan Adams",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bignonia_capreolata.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-5938052405-c267298b9.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Two leaflets and branched adhesive-tipped tendril, flower and young fruit",
+      "creator": "Michael A. Thaibinh",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5938052405",
+      "gbif_occurrence_id": "5938052405",
+      "source_determination": "Bignonia capreolata L.",
+      "accepted_target": "Bignonia capreolata",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604565045/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

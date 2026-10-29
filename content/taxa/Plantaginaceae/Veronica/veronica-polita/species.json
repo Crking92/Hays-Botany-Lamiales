@@ -1,0 +1,37 @@
+{
+  "id": "veronica-polita",
+  "family": "Plantaginaceae",
+  "genus": "Veronica",
+  "species": "polita",
+  "scientific_name": "Veronica polita",
+  "common_name": "Gray field speedwell (introduced)",
+  "look_here_first": "Look for tiny four-lobed blue flowers with a pale center and opposite rounded, toothed leaves; examine fruit capsule lobes and hair pattern to separate Veronica persica.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Veronica%20polita",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Introduced lawn and disturbed-soil comparison only; photographed in Poland.",
+  "images": [
+    {
+      "file": "images/commons-veronica-polita.jpg",
+      "role": "Provisional close flowering plant view; mature capsule and hairs still need close-ups",
+      "creator": "Krzysztof Ziarnek (Kenraiz)",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Veronica_polita_kz10.jpg",
+      "study_use": "Private educational visual identification learner",
+      "public_reuse": "Attribution, license hyperlink and ShareAlike retained for derivatives"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

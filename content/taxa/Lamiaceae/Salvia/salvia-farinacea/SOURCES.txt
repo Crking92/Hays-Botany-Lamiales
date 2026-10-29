@@ -1,0 +1,11 @@
+PHOTO DIAGNOSTIC PASS 2026-10-13. Both species already canonical; preserve native county/range labels and all existing media.
+Scientific primary treatments:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Salvia%20farinacea
+https://w3.biosci.utexas.edu/prc/K12/pdf/Salvia%20azurea%20grandiflora
+Mealy S. farinacea calyx can be densely felted with WHITE OR DARK VIOLET hairs. Azurea calyx is greener, more visible, ~15 ribs in local var grandiflora. Mature leaves and flowering axes provide secondary evidence.
+Existing canonical records count Williamson County as target zone, although project 24-county rule excludes Williamson. This discrepancy belongs to separate range reconciliation; no status changes from photo lane.
+All files carry exact Commons source links, photographer and license in image-sources.csv. No arbitrary arrows on tiny hairs; real original-image pixel QA required for final overlays.
+New media all Michelle W. (鍾偉瑋) CC BY 4.0:
+Travis County Texas: https://commons.wikimedia.org/wiki/File:Salvia_farinacea_168170655.jpg
+Williamson County Texas (OUTSIDE target): https://commons.wikimedia.org/wiki/File:Salvia_farinacea_150590284.jpg
+Third same-species flowering image: https://commons.wikimedia.org/wiki/File:Salvia_farinacea_72416206.jpg

@@ -1,0 +1,499 @@
+{
+  "id": "phyla-nodiflora",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Phyla",
+  "species": "nodiflora",
+  "scientific_name": "Phyla nodiflora",
+  "authority": "(L.) Greene",
+  "common_name": "Turkey tangle frogfruit",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO. Three accepted varieties are recognized globally; learner stays species-level. Field-key caution (2026-10-19): Kew/POWO currently accepts Phyla nodiflora, P. lanceolata and P. cuneifolia separately. Cardoso et al. (2025), Nordic Journal of Botany doi:10.1002/njb.04825, propose a broader P. nodiflora concept encompassing lanceolata and cuneifolia because leaf differences overlap. Retain the project's current Kew species concepts, but teach leaf traits as typical tendencies, not infallible single-character diagnoses.",
+  "look_here_first": "CREW FIELD ID: First find a low mat of running stems. Look at nodes for opposite paired leaves, and follow the thin mostly leafless flower stalk back to a leaf axil. Its tiny white/lilac flowers cluster around a purplish button that elongates with age. Inspect 3–5 mature leaves: a blade commonly widest beyond midlength, with most teeth toward the tip and a narrowing, less-toothed base. Rooting at buried/contact nodes is typical but may be hidden. These characters support Phyla; they do NOT unambiguously separate traditional P. nodiflora from P. lanceolata or P. cuneifolia, which a 2025 revision combines.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "BONAP/NAPA maps Phyla nodiflora at county level and treats it as native in Texas. Hays County — UT Plant Resources Center's Purola Preserve flora lists P. nodiflora among plants occurring naturally and not introduced. Travis County — UT Plant Resources Center's Travis County Verbenaceae herbarium index includes P. nodiflora; additional wild Travis records are documented at Emma Long and Reimers Ranch. Williamson County — UT Plant Resources Center provides a detailed county treatment for P. nodiflora.",
+    "range_guardrail": "Frogfruit is widely planted as a groundcover. County proof uses native-flora/herbarium treatments, not landscape plantings."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "GROUND LEVEL: creeping perennial, frequently forming interconnected mats; a growing point may root where it touches soil",
+      "NODE: paired opposite (decussate) leaves with little or no visible stalk; young stems can appear nearly four-sided",
+      "LEAF: generally spoon-shaped to elliptic; many mature blades broader beyond halfway and toothed mainly nearer tip; check several leaves because this varies",
+      "FLOWER: one slender, mostly naked stalk from a leaf axil, topped with a tight button/cylinder of minute white to lavender two-lipped flowers",
+      "FRUIT: an older head becomes elongated and scaly; individual dry fruits split into two tiny one-seeded mericarps, not usually visible without dissection"
+    ],
+    "comparison_training": "Phyla lanceolata: The best leaf split: P. nodiflora is usually widest beyond the middle and its teeth are concentrated in the distal half; P. lanceolata is widest nearer the middle and the teeth extend farther down the blade. Phyla cuneifolia: Wedgeleaf frogfruit has a more distinctly wedge-shaped leaf architecture. Use several mature leaves rather than one odd leaf, because Phyla leaf shape varies along a shoot. Glandularia spp.: Glandularia can also form low mats with verbena-like flowers, but its flowers are much larger and borne in more open terminal heads/spikes; Phyla has tiny flowers packed into a compact button/cylinder on a naked axillary peduncle.",
+    "crew_20_second_sequence": [
+      "STEP 1: Find the creeping stem rather than judging one isolated leaf.",
+      "STEP 2: Check a node for two opposite leaves and any roots or root buds against the soil.",
+      "STEP 3: Trace the narrow flower-head stalk to a leaf axil; look for a densely packed button/cylinder of tiny pale flowers.",
+      "STEP 4: Check the tooth pattern and widest point on three to five fully formed leaves, ideally from more than one shoot.",
+      "STEP 5: If flower-head attachment is hidden or leaves overlap other Phyla concepts, report Phyla sp. rather than force a precise species."
+    ],
+    "habit_and_stems": "Perennial clonal, low prostrate to procumbent herb. Tough, flexible runners/rooting stems, typically 2.5–30 cm tall including ascending shoots (UT Williamson County treatment); buried/contact nodes can form adventitious roots. Young shoots may be weakly four-angled. Rooting habit is useful but not species-unique.",
+    "leaf_arrangement": "Opposite and decussate: two leaves are borne at each node, with successive pairs rotated about 90 degrees. Not alternate; pair attachment is a high-value field check.",
+    "leaves": "Usually (5–)10–30 mm long × 3–12 mm wide in UT Williamson County specimens. Oblanceolate, spatulate or elliptic, tapering toward a short petiole (often <2.5 mm). Usually several teeth per side mainly above the middle, but old/shaded/drought shoots vary considerably; inspect multiple leaves. Hairs can be inconspicuous without magnification.",
+    "inflorescence": "A single many-flowered condensed headlike spike arises from a leaf axil on a mostly leafless peduncle (usually 4–70 mm, occasionally to 90 mm in UT county treatment). Head initially approximately spherical/button-shaped, elongating into a short cylinder as it matures (often 5–20 × 4.5–8 mm). Repeated purple/green overlapping bracts form a scaly head.",
+    "flowers": "Minute white, lilac or pinkish, bilaterally symmetrical, two-lipped flowers, sometimes with yellow throat/marking, emerge in a ring around the head. Treat color as variable; flower architecture and stalk origin matter more.",
+    "fruits": "Dry schizocarp hidden among bracts and enclosed by a persistent calyx; separates into TWO one-seeded mericarps (nutlets), usually about 1.6–2 mm long. A photo of the brown cylindrical HEAD does not by itself reveal the isolated mericarps. Hand lens or dissected mature head needed.",
+    "microscope_traits": "Appressed two-armed, medifixed (T-shaped or malpighiaceous) hairs are characteristic of Phyla. Check stems and leaf surfaces under magnification; do not claim that ordinary habit photos resolve individual hairs. Genus-level, not a nodiflora-vs-lanceolata shortcut.",
+    "hays_county_habitat": "Look in openings, lawns, sidewalk/bed edges, moist low spots, drainage margins, alluvial soils and disturbed ground in Central Texas. The taxon tolerates wet spells and dry periods; its growth and bloom display may change with mowing or irrigation. A planted patch alone is not proof of natural county occurrence.",
+    "phenology": "Flowers repeatedly through warm weather in Central Texas, generally spring through fall and sometimes longer in mild conditions; living stems may persist through winter. Heads can carry flowers, bracts and developing fruits together, and the same patch can show rounded young and cylindrical old heads.",
+    "crew_management": "Do not confuse low height with an absence of management value: flowering heads offer nectar, and foliage serves as a documented caterpillar host. Repeated close mowing removes blooms. Flag before routine blanket herbicide/weeding on pollinator or restoration sites; tolerate appropriate spread but still manage walkway edges and competing vegetation as site needs dictate.",
+    "larval_host_evidence": "Native Plant Society of Texas reports frogfruit as host/nectar plant for Phaon crescent, common buckeye and white peacock butterflies. This is a host-association summary, NOT a local host-species count or verification that all three are breeding at the exact site. Nectar visitors are not automatically larvae.",
+    "when_to_stop_at_genus": "Recent revision (Cardoso, O'Leary & Trovó, 2025) recognizes only P. betulifolia and a broad P. nodiflora, synonymizing the traditional P. lanceolata and P. cuneifolia; Kew currently treats these separately. Leaf shape/teeth/texture overlap. When the morphology of an individual plant will not separate the narrow concepts, use Phyla sp. or P. nodiflora sensu lato as appropriate with an explicit taxonomy note."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Phyla lanceolata",
+      "Phyla cuneifolia",
+      "Glandularia spp.",
+      "Calyptocarpus vialis",
+      "Dichondra carolinensis",
+      "Eclipta prostrata"
+    ],
+    "key_distinctions": "The best leaf split: P. nodiflora is usually widest beyond the middle and its teeth are concentrated in the distal half; P. lanceolata is widest nearer the middle and the teeth extend farther down the blade. Wedgeleaf frogfruit has a more distinctly wedge-shaped leaf architecture. Use several mature leaves rather than one odd leaf, because Phyla leaf shape varies along a shoot. Glandularia can also form low mats with verbena-like flowers, but its flowers are much larger and borne in more open terminal heads/spikes; Phyla has tiny flowers packed into a compact button/cylinder on a naked axillary peduncle.",
+    "taxonomy_caution": "Kew recognizes P. lanceolata and P. cuneifolia separately (checked 2026-10-19), whereas a 2025 peer-reviewed revision proposes including both within P. nodiflora s.l. Use the following leaf comparison as a traditional practical field heuristic, not a definitive taxonomic test. When several leaves overlap strongly, record Phyla sp. pending additional evidence.",
+    "field_matrix": [
+      {
+        "taxon": "Phyla nodiflora (Kew narrow concept)",
+        "focus": "Multiple mature leaves, flowering head, leaf base",
+        "usual_pattern": "Oblanceolate or spoon-shaped blade often broadest above its midpoint; teeth typically near distal half; lower blade narrows to an untoothed wedge.",
+        "limitation": "Shape and teeth vary markedly, including within a shoot."
+      },
+      {
+        "taxon": "Phyla lanceolata",
+        "focus": "Multiple mature leaves at similar nodes",
+        "usual_pattern": "Often more elliptic/lanceolate and broadest around the middle, with teeth usually extending farther down the blade.",
+        "limitation": "Broad overlap with P. nodiflora; 2025 revision treats this name within P. nodiflora s.l."
+      },
+      {
+        "taxon": "Phyla cuneifolia",
+        "focus": "Leaf texture and wedge-shaped blade",
+        "usual_pattern": "Traditionally distinguished by relatively wedge-shaped, thicker or more leathery foliage.",
+        "limitation": "Leaf shape and texture can overlap; 2025 revision treats this name within P. nodiflora s.l."
+      },
+      {
+        "taxon": "Glandularia spp.",
+        "focus": "Where flower stalk starts; flower size and head arrangement",
+        "usual_pattern": "Larger individual flowers in terminal heads/spikes rather than many tiny flowers in an axillary stalked button.",
+        "limitation": "Low growth habit and pinkish/white flowers alone are not distinguishing."
+      }
+    ],
+    "practical_groundcover_separators": [
+      {
+        "lookalike": "Calyptocarpus vialis — straggler daisy",
+        "look_here_first": "Identify the actual flower structure",
+        "frogfruit": "many tiny white-to-lilac flowers around a purple/green button, on an axillary stalk",
+        "other": "small YELLOW composite daisy head, with ray/disk florets and involucral bracts; belongs to Asteraceae",
+        "caution": "both can be low, spreading and have toothed leaves; mat habit and opposite leaves alone do not settle it."
+      },
+      {
+        "lookalike": "Dichondra carolinensis — Carolina ponyfoot",
+        "look_here_first": "Complete mature leaf and flower",
+        "frogfruit": "usually longer wedge-based toothed leaves with a conspicuous flowering head",
+        "other": "rounded/kidney-shaped leaves with little or no obvious serration; flowers inconspicuous and solitary",
+        "caution": "nonflowering shoots need careful leaf inspection"
+      },
+      {
+        "lookalike": "Glandularia bipinnatifida / other prairie verbenas",
+        "look_here_first": "Flower size/placement and divided leaves",
+        "frogfruit": "minute blooms in a very compact axillary button or cylinder",
+        "other": "larger showier clustered flowers; prairie verbena can have deeply dissected leaves, unlike the simple toothed blades of frogfruit",
+        "caution": "not all Glandularia leaves are equally divided; compare reproductive structures"
+      },
+      {
+        "lookalike": "Eclipta prostrata — false daisy",
+        "look_here_first": "Examine the small white reproductive head and the length of mature leaves",
+        "frogfruit": "tiny distinct two-lipped flowers crowd a dark purplish/green compact spike; leaves shorter and often wedge-shaped",
+        "other": "a white ASTERACEAE composite head with many short ray and disk florets plus an involucre of green bracts; leaves typically narrow/longer and rough-hairy",
+        "caution": "both can sprawl or root at lower nodes and bear opposite toothed leaves. White color, root nodes or leaf arrangement alone do not separate them."
+      }
+    ],
+    "do_not_trust_alone": [
+      "A single spoon-shaped leaf, as the traditionally separated Phyla names intergrade",
+      "The color or apparent number of blossoms in one cropped head",
+      "Mat-forming growth alone (multiple local groundcovers creep)",
+      "A cultivated or intentionally planted patch as evidence for local wild nativity",
+      "An older brown spike mistaken for an individual nutlet or seed",
+      "A visual claim of T-shaped hairs without genuine macro/microscope detail"
+    ]
+  },
+  "tags": [
+    "Verbenaceae",
+    "Phyla",
+    "Turkey tangle frogfruit",
+    "Central Texas",
+    "Visual comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "visual_reviewed": true,
+    "visual_status": "usable-partial",
+    "last_visual_reviewed": "2026-10-05",
+    "field_id_finish_status": "PASS_IN_PROGRESS",
+    "field_id_visual_annotation_reviewed": "2026-10-19"
+  },
+  "photo_note": "Photo fast-fill 016 physically installed all three previously vetted exact-species learner selections. Physical files are present and decodable; scientific taxonomy/range/morphology fields are unchanged.",
+  "images": [
+    {
+      "file": "images/01-flowers-leaves.jpg",
+      "role": "Flowers and leaves / creeping groundcover structure",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080605-6676_Phyla_nodiflora.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-mat-habit.jpg",
+      "role": "Whole plant / mat-forming habit",
+      "creator": "Dinesh Valke",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_(L.)_Greene_(48918376436).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-flower-head.jpg",
+      "role": "Flower head / match-like inflorescence field reference",
+      "creator": "yating",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/guides/14344",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Three vetted exact-species images are physically installed and verified in canonical content. Scientific PASS unchanged."
+  },
+  "visual_comparison": {
+    "title": "Frogfruit — trace the stalk, leaf edge, and tiny flower head",
+    "subtitle": "Crew field ID: first recognize the mat, then inspect actual flower and leaf structures. Two external Commons close-ups and one fruiting-head reference have image-level CC licenses and confirmed visible anatomy, but are not counted as physically installed canonical gallery files.",
+    "memory_rule": "First see a creeping mat. Then find the axillary, nearly leafless flower stalk and the many tiny flowers; use SEVERAL leaves, not just one, to evaluate the frogfruit type.",
+    "items": [
+      {
+        "label": "1 — Low mat and repeated heads",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/02-mat-habit.jpg",
+        "image_role": "Field habit / leaves and flowering stalks",
+        "caption": "Look for the low mat, opposite leaves, and several upright slender stalks holding small heads. Rooting at the nodes is typical, but actual roots are not visible clearly enough in this photo to label.",
+        "why_it_matters": "Establishes field context; neither a creeping mat nor a buttonlike head by itself establishes which Phyla species it is.",
+        "creator": "Dinesh Valke",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_(L.)_Greene_(48918376436).jpg",
+        "photo_status": "EXISTING_PHYSICAL_PHOTO_VISUALLY_INSPECTED; whole-plant/root-node anatomy still incomplete"
+      },
+      {
+        "label": "2 — Flower parts and leaf teeth (arrows)",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/03-flower-head.jpg",
+        "image_fit": "contain",
+        "image_role": "Actual upper leaf teeth, tiny flowers, and leafless head stalk",
+        "caption": "The upper portions of the leaves have conspicuous teeth while their narrowed bases tend to be entire. Many tiny individual flowers occupy a compact purplish head on a mostly leafless peduncle (flower stalk). The labels identify directly visible structures, not unphotographed roots or microscopic hairs.",
+        "why_it_matters": "Together the leaf arrangement and small axillary head help establish Phyla. Leaf width and where teeth start only suggest traditional P. nodiflora versus P. lanceolata; they are not decisive when traits overlap.",
+        "creator": "yating",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/guides/14344",
+        "photo_status": "INSTALLED_EXACT_SPECIES; PHOTO_INSPECTED_2026-10-19; guide species #58 credits yating CC BY-NC; standalone NONCOMMERCIAL display only; original JPEG unchanged and live arrow overlay added",
+        "markers": [
+          {
+            "label": "Upper leaf teeth",
+            "label_x": 4,
+            "label_y": 10,
+            "target_x": 40.5,
+            "target_y": 20.2
+          },
+          {
+            "label": "Tiny flowers",
+            "label_x": 76,
+            "label_y": 18,
+            "target_x": 69.7,
+            "target_y": 40.7
+          },
+          {
+            "label": "Flower-head stalk",
+            "label_x": 75,
+            "label_y": 76,
+            "target_x": 64.2,
+            "target_y": 68.5
+          }
+        ]
+      },
+      {
+        "label": "3 — More mature leaves and heads",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/01-flowers-leaves.jpg",
+        "image_role": "Several older serrate leaves and rounded-to-elongated heads",
+        "caption": "Check multiple leaves along the mat: broad upper blades, toothed distal margins, and narrower bases. The flower head may elongate as it matures. This photo is a second independent growth view, not a microscopic hair or fruit confirmation.",
+        "why_it_matters": "Leaf shape is variable; verifying the pattern on more than one leaf is better than diagnosing a plant from its most unusual leaf.",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080605-6676_Phyla_nodiflora.jpg",
+        "photo_status": "EXISTING_PHYSICAL_PHOTO_VISUALLY_INSPECTED; unannotated"
+      },
+      {
+        "label": "4 — Opposite leaves and real teeth (external licensed detail)",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Phyla_nodiflora_leaves.jpg",
+        "image_fit": "contain",
+        "image_role": "Opposite leaf pair, cuneate bases and toothed blade edges",
+        "caption": "On this actual photo, a pair of leaves attaches opposite at a stem node. Their broad upper margins are toothed and the blades narrow toward the base. Good for training on leaf attachment, but the visible pattern cannot uniquely distinguish the currently separated Phyla taxa.",
+        "why_it_matters": "Learn what an opposite node and distal serration actually look like, then repeat the check along several different leaves.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_leaves.jpg",
+        "photo_status": "EXTERNAL_REFERENCE_ONLY; Wikimedia source/original physically inspected via linked full-image view on 2026-10-19; license/photo ID verified; no canonical JPEG installed; no arrows",
+        "image_license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "label": "5 — Surface texture and leaf teeth (external licensed detail)",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Phyla_nodiflora_adaxial_leaf_surface.jpg",
+        "image_fit": "contain",
+        "image_role": "Upper leaf surface and enlarged tooth placement",
+        "caption": "This external close-up clearly resolves an upper leaf face, its midrib and multiple marginal teeth. Reflective white flecks are NOT evidence of visible individual T-shaped hairs; those require further magnification.",
+        "why_it_matters": "Understand serrate versus entire blade sections at a useful field scale without pretending the hair anatomy was photographed.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_adaxial_leaf_surface.jpg",
+        "photo_status": "EXTERNAL_REFERENCE_ONLY; visually inspected original; license/photo ID verified; not installed; no arrows",
+        "image_license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "label": "6 — An older fruiting spike (external licensed detail)",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Starr_080602-5424_Phyla_nodiflora.jpg",
+        "image_fit": "contain",
+        "image_role": "Mature elongating head among creeping leaves",
+        "caption": "An older head is elongated and pale green with tightly overlapping scales/bracts. This is NOT an isolated mericarp image; dissect the head for the one-seeded fruit pieces.",
+        "why_it_matters": "Shows how the same species looks different after the buttonlike flowering stage. Still need a true dissected fruit macro for advanced confirmation.",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080602-5424_Phyla_nodiflora.jpg",
+        "photo_status": "EXTERNAL_REFERENCE_ONLY; visually inspected source image, Commons CC BY 3.0 verified; not installed as source JPEG; no arrows",
+        "image_license_url": "https://creativecommons.org/licenses/by/3.0/"
+      },
+      {
+        "label": "7 — Opposite nodes and fruiting spike attachment (licensed source photo)",
+        "scientific_name": "Phyla nodiflora",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Frog_fruit_%28Phyla_nodiflora%29_%287770294248%29.jpg/960px-Frog_fruit_%28Phyla_nodiflora%29_%287770294248%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "image_fit": "contain",
+        "image_role": "Three mature opposite leaf pairs, nearly leafless axillary peduncles and elongated older flower/fruit heads",
+        "caption": "Trace the central creeping stem. At each visible node a pair of toothed leaves sits opposite, and a slender flower-head stalk rises from a leaf axil. Each head is elongated/scaly as flowers age. No roots, isolated mericarps or individual T-shaped hairs are resolved in this image.",
+        "why_it_matters": "This photograph puts the paired leaves, AXILLARY peduncle insertion and flowering-to-fruiting change together in one useful view. It is NOT a photograph proving roots at nodes.",
+        "creator": "Franco Folini",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Frog_fruit_(Phyla_nodiflora)_(7770294248).jpg",
+        "source_photo_id": "Flickr 7770294248 / Wikimedia Commons File:Frog fruit (Phyla nodiflora) (7770294248).jpg",
+        "photo_status": "EXTERNAL_REFERENCE_ONLY; source photograph visually examined at 960/1280px; photo-level creator/license checked at Commons; correct organ claims limited to visible elements; original image not modified; public reusable with BY-SA attribution and adaptation license requirements; thumbnail URL obtained by clicking original Commons image, rather than independently guessed server hash.",
+        "public_reuse": "yes, CC BY-SA 2.0 with attribution and ShareAlike if adapted",
+        "markers": []
+      }
+    ],
+    "overlay_note": "Original 3 installed photos preserved; the photo-specific three arrows in the existing yating CC BY-NC image are browser overlays and require final phone/desktop geometric QA. The other THREE real licensed diagnostic reference images are externally hosted, credited and visually reviewed but not counted as canonical local JPEGs. A mature spike is not a fruit dissection. Taxonomy note: Cardoso et al. 2025 combine lanceolata/cuneifolia into nodiflora s.l.; Kew's narrow concepts are currently retained. For ambiguity, identify Phyla sp. until confirmed.",
+    "study_only_intro": "For related frogfruit names, open the source taxonomy pages rather than mistake these three nodiflora images for side-by-side congener evidence.",
+    "study_only_photo_links": [
+      {
+        "label": "Phyla lanceolata — accepted name/range at Kew",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:194563-2",
+        "look_for": "Compare several mature leaf blades; this is a taxonomic reference, not an installed photo."
+      },
+      {
+        "label": "Phyla cuneifolia — accepted name/range at Kew",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:194560-2",
+        "look_for": "Study traditionally wedge-shaped, thicker blades; diagnostic overlap remains."
+      },
+      {
+        "label": "Rooting at nodes — original author photo (usage unverified)",
+        "url": "https://www.polyploid.net/swplants/pages/Phyla_nodif.html",
+        "look_for": "Look at the sprawling runner on dirt, especially lower stem nodes and tiny root initials; do not claim photo-level permission to republish.",
+        "reuse": "LINK ONLY — individual photo rights not verified"
+      },
+      {
+        "label": "Kew — complete runner, including real roots",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:194567-2/general-information",
+        "look_for": "Rooted runners and long lateral roots; verify the exact Kew image's reproduction license before copying or annotating.",
+        "reuse": "LINK ONLY — original image license not confirmed"
+      },
+      {
+        "label": "Published microscopy — seed and two-armed hair figure",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2222180812601376",
+        "look_for": "Figure 2C and Figure 4C–F; research study only; cannot republish without permission.",
+        "reuse": "ALL RIGHTS RESERVED — no embedded reproduction"
+      }
+    ]
+  },
+  "field_id_finish_pass": {
+    "date": "2026-10-19",
+    "status": "PASS_IN_PROGRESS",
+    "source_revision": "Kew POWO + World Flora Online + Cardoso et al. 2025",
+    "scientific_sources": [
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:194567-2/general-information",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:194563-2",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:194560-2",
+      "https://www.worldfloraonline.org/taxon/wfo-0000270345",
+      "https://doi.org/10.1002/njb.04825",
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Phyla%20nodiflora.html",
+      "https://www.npsot.org/posts/map-item/conservation-plaza-butterfly-garden/",
+      "https://www.npsot.org/posts/native-plant/phyla-nodiflora/",
+      "https://plants.ces.ncsu.edu/plants/phyla-nodiflora/",
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Eclipta%20prostrata.html"
+    ],
+    "physically_inspected_original_photos": [
+      "images/01-flowers-leaves.jpg",
+      "images/02-mat-habit.jpg",
+      "images/03-flower-head.jpg"
+    ],
+    "verified_live_arrow_photo": "images/03-flower-head.jpg",
+    "arrow_targets": "Original 1024×768 source pixels; labels identify upper leaf tooth, individual white flower, and flower-head stalk. Final mobile/browser screenshot QA not yet performed.",
+    "remaining_for_finished": [
+      "Validate existing 3 live arrow overlay target positions on an actual narrow-screen browser or screenshot; original pixel targeting alone is not mobile QA.",
+      "Acquire PUBLICLY REUSABLE exact species photo where ACTUAL roots are visible at stem node; Kew/polyploid leads remain reference-only until image rights verified.",
+      "Get true dissected two-mericarps (1.6–2 mm) macro; older head is NOT a seed close-up.",
+      "Get high-magnification malpighiaceous/T-shaped hair image only if demonstrably visible; normal leaf closeup is insufficient.",
+      "If teaching narrow-concept P. lanceolata / P. cuneifolia beyond text, obtain species-reviewed same-scale evidence and explicitly state debated species boundaries.",
+      "Verify public deployment image requests, credit links and Commons external photo rendering; external image references remain live-link-dependent."
+    ],
+    "public_visual_reference_count": 4,
+    "photo_reference_review": [
+      {
+        "file": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_leaves.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "iNaturalist_photo": "285691792",
+        "actual_visible": "opposite leaves with tapered bases and distal toothed margins",
+        "canonical_installed": false
+      },
+      {
+        "file": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_adaxial_leaf_surface.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "iNaturalist_photo": "53172982",
+        "actual_visible": "upper leaf blade and toothed margins",
+        "canonical_installed": false
+      },
+      {
+        "file": "https://commons.wikimedia.org/wiki/File:Starr_080602-5424_Phyla_nodiflora.jpg",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "actual_visible": "mature fruiting spike among foliage, not isolated mericarps",
+        "canonical_installed": false
+      },
+      {
+        "file": "https://commons.wikimedia.org/wiki/File:Frog_fruit_(Phyla_nodiflora)_(7770294248).jpg",
+        "creator": "Franco Folini",
+        "license": "CC BY-SA 2.0",
+        "flickr_photo": "7770294248",
+        "actual_visible": "opposite toothed paired leaves, axillary peduncle origins, multiple elongated heads; not roots or individual nutlets",
+        "canonical_installed": false,
+        "checked_at": "2026-10-19"
+      }
+    ],
+    "last_content_polish": "2026-10-19",
+    "photo_search_leads": [
+      {
+        "role": "rooting node",
+        "source": "https://www.polyploid.net/swplants/pages/Phyla_nodif.html",
+        "status": "LINK_ONLY_RIGHTS_UNCLEAR",
+        "evidence": "Caption explicitly identifies stems rooting at nodes; individual root structures not sufficiently clear to label from thumbnail; no public-reuse permission verified."
+      },
+      {
+        "role": "rooting-node roots spread",
+        "source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:194567-2/general-information",
+        "status": "LINK_ONLY_RIGHTS_UNCLEAR",
+        "evidence": "Kew image shows entire pulled/arranged runner with genuine roots; its individual photo licensing is not identified from the POWO overview."
+      },
+      {
+        "role": "seed SEM and malpighiaceous hairs",
+        "source": "https://www.sciencedirect.com/science/article/pii/S2222180812601376",
+        "status": "LINK_ONLY_ALL_RIGHTS_RESERVED",
+        "evidence": "2012 article has Figure 2C malpighiaceous hair and Figure 4C-F seed microscopy; journal identifies copyright as all rights reserved, so no direct learner reuse permission."
+      }
+    ]
+  },
+  "gallery_external_refs": [
+    {
+      "gallery_species_id": "phyla-nodiflora",
+      "file": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Phyla_nodiflora_leaves.jpg",
+      "role": "Opposite leaves / serration close-up",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_leaves.jpg",
+      "source_photo_id": null,
+      "public_reuse": "yes",
+      "external_reference": true,
+      "visual_role_reviewed": true,
+      "study_use": "yes",
+      "external_note": "Credited verified exact-species external Wikimedia Commons photo. Not saved as a canonical local image. Check 'Diagnostic photo comparisons' for annotated arrows and teaching."
+    },
+    {
+      "gallery_species_id": "phyla-nodiflora",
+      "file": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Phyla_nodiflora_adaxial_leaf_surface.jpg",
+      "role": "Leaf blade, upper surface and marginal teeth",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_adaxial_leaf_surface.jpg",
+      "source_photo_id": null,
+      "public_reuse": "yes",
+      "external_reference": true,
+      "visual_role_reviewed": true,
+      "study_use": "yes",
+      "external_note": "Credited verified exact-species external Wikimedia Commons photo. Not saved as a canonical local image. Check 'Diagnostic photo comparisons' for annotated arrows and teaching."
+    },
+    {
+      "gallery_species_id": "phyla-nodiflora",
+      "file": "https://upload.wikimedia.org/wikipedia/commons/3/37/Starr_080602-5424_Phyla_nodiflora.jpg",
+      "role": "Older elongated inflorescence and fruiting head",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080602-5424_Phyla_nodiflora.jpg",
+      "source_photo_id": null,
+      "public_reuse": "yes",
+      "external_reference": true,
+      "visual_role_reviewed": true,
+      "study_use": "yes",
+      "external_note": "Credited verified exact-species external Wikimedia Commons photo. Not saved as a canonical local image. Check 'Diagnostic photo comparisons' for annotated arrows and teaching."
+    },
+    {
+      "gallery_species_id": "phyla-nodiflora",
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Frog_fruit_%28Phyla_nodiflora%29_%287770294248%29.jpg/960px-Frog_fruit_%28Phyla_nodiflora%29_%287770294248%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "role": "Opposite leaf nodes, flower-stalk attachment and mature heads",
+      "creator": "Franco Folini",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Frog_fruit_(Phyla_nodiflora)_(7770294248).jpg",
+      "source_photo_id": "Flickr 7770294248 / Wikimedia Commons File:Frog fruit (Phyla nodiflora) (7770294248).jpg",
+      "public_reuse": "yes",
+      "external_reference": true,
+      "visual_role_reviewed": true,
+      "study_use": "yes",
+      "external_note": "Credited verified exact-species external Wikimedia Commons photo. Not saved as a canonical local image. Check 'Diagnostic photo comparisons' for annotated arrows and teaching."
+    }
+  ],
+  "gallery_note": "Main swipe photo viewer includes installed images PLUS individually licensed external exact-species references. The canonical images[] and physical JPEG files are unchanged; these additional source photos are externally hosted, with source and CC license credited. Look-alike taxon photos remain in the separate comparison section."
+}

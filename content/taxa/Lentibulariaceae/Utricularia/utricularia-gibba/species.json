@@ -1,0 +1,37 @@
+{
+  "id": "utricularia-gibba",
+  "family": "Lentibulariaceae",
+  "genus": "Utricularia",
+  "species": "gibba",
+  "scientific_name": "Utricularia gibba",
+  "common_name": "Humped bladderwort",
+  "look_here_first": "Look for tiny yellow flowers rising above water on stalks and free-floating finely dissected submerged shoots bearing minute suction bladders; examine lower corolla lip and spur.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Utricularia%20gibba",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photographed in Brazil; genus and species local distribution requires separate evidence.",
+  "images": [
+    {
+      "file": "images/commons-utricularia-gibba.jpg",
+      "role": "Provisional yellow flower macro; underwater carnivorous bladder traps not shown.",
+      "creator": "Alex Popovkin",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Utricularia_gibba_flower_01_(3x4).jpg",
+      "study_use": "Noncommercial plant visual field learner",
+      "public_reuse": "Credit creator, Commons file, CC license, any modifications"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

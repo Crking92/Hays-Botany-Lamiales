@@ -1,0 +1,179 @@
+{
+  "id": "fraxinus-berlandieriana",
+  "entry_type": "species",
+  "family": "Oleaceae",
+  "genus": "Fraxinus",
+  "species": "berlandieriana",
+  "scientific_name": "Fraxinus berlandieriana",
+  "authority": "A.DC.",
+  "common_name": "Mexican ash",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO. Historical confusion with Fraxinus pennsylvanica and F. velutina makes reproductive and leaflet characters especially important.",
+  "look_here_first": "Count the leaflets and inspect a samara. Mexican ash usually has 3–5 leaflets with coarse sharp serration toward the tips; samara wings expand gradually from near the base, and occasional 3-winged fruits can occur.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Comal",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Later manual reconciliation retained Travis and Comal and added Bexar from a voucher-backed San Antonio Missions flora.",
+    "range_guardrail": "Because this ash has a history of confusion with green and velvet ash, do not infer county presence from ambiguous Fraxinus records."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "medium riparian or bottomland ash",
+      "usually 3–5 leaflets, sometimes more",
+      "leaflet margins coarsely and sharply serrate on distal half to two-thirds",
+      "lower leaflet surface glabrous in the Central Texas comparison treatment",
+      "leaf scar shallowly hemispheric with shallowly concave apex",
+      "samaras usually 2-winged but occasional 3-winged fruits may occur",
+      "samara wings gradually expand from near the base and narrowly flange the fruit body"
+    ],
+    "comparison_training": "Green ash generally carries more leaflets and has a broader shield-shaped scar with differently broadened samaras; Texas ash tends to have 5–7 leaflets, a glaucous lower surface, and smaller mostly terminal-winged samaras."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Fraxinus pennsylvanica",
+      "Fraxinus albicans",
+      "Fraxinus velutina"
+    ],
+    "key_distinctions": "Use leaflet count/serration, lower leaflet surface, leaf scar, and especially samara structure together; occasional 3-winged fruits are a useful supporting clue."
+  },
+  "tags": [
+    "Oleaceae",
+    "Fraxinus",
+    "Mexican ash",
+    "Riparian Tree",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-pass-range-reconciled-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "external_display_images_count": 1,
+    "last_visual_reviewed": "2026-10-11",
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole riparian tree",
+    "full 3–5 leaflet leaf",
+    "coarse leaflet serration",
+    "lower leaflet surface",
+    "twig/bud/leaf scar",
+    "2-winged samara",
+    "3-winged samara if available"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/fraxinus-berlandieriana-provisional-face.jpg",
+      "role": "Entire living Fraxinus berlandieriana tree at Barcelona; species identification follows Commons record, later diagnostic leaf/bud images necessary.",
+      "creator": "Pere López Brosa (pere prlpz)",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Freixe_americ%C3%A0_de_la_pla%C3%A7a_Gal%C2%B7la_Plac%C3%ADdia_P1510486.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/pics/FRBE-lfbend-1x-10in.jpg",
+      "role": "PRIVATE STUDY — Central Texas lower leaflet surface reference",
+      "creator": "UT Austin Plant Resources Center / Bob Harms",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/FRAXI-CenTex.html",
+      "platform": "UT Austin Plant Resources Center",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Fraxinus berlandieriana",
+      "diagnostic_visibility": "Matched local underside macro showing the glabrous surface used in the Central Texas comparison."
+    },
+    {
+      "file": "images/joey-inat-458111115.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/458111115",
+      "observation_url": "https://www.inaturalist.org/observations/255612981",
+      "observation_id": "255612981",
+      "photo_id": "458111115",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/458111115/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "field_diagnostics": {
+    "single_best_trait": "On a fruiting tree, use the >1.5 cm samara whose wings expand gradually from near the base; occasional 3-winged fruits are an excellent supporting clue.",
+    "fastest_traits": [
+      "Usually 3–5(–7) leaflets",
+      "Coarse sharp serration on distal 1/2–2/3 of leaflet",
+      "Lower leaflet surface glabrous in the Central Texas treatment",
+      "Shallow hemispheric leaf scar",
+      "Samara >1.5 cm with gradually expanding/flanging wings; occasional 3-winged fruit"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Fraxinus pennsylvanica",
+        "distinction": "Green ash usually has more leaflets with much weaker marginal teeth and a samara wing that is decurrent before abruptly broadening distally; 3-winged fruits are not the normal Central Texas pattern."
+      },
+      {
+        "taxon": "Fraxinus albicans",
+        "distinction": "Texas ash generally has 5–7 leaflets, a glaucous white-waxy underside and a much smaller ~1 cm mostly terminal-winged samara."
+      }
+    ],
+    "unreliable_alone": [
+      "3–5 leaflets by itself",
+      "riparian habitat",
+      "single leaf scar"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Mature 2-winged samara with ruler showing gradual wing expansion from base",
+    "3-winged samara if available, clearly labeled as supporting not mandatory",
+    "Full 3–5(–7) leaflet leaf showing coarse distal serration",
+    "Lower leaflet macro showing glabrous/non-waxy surface",
+    "Fresh shallow-hemispheric leaf scar + bud"
+  ],
+  "diagnostic_reference_links": [
+    {
+      "source_page": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/FRAXI-CenTex.html",
+      "role": "Central Texas samara, leaf-scar, margin and lower-surface comparison plate",
+      "public_reuse": "no unless individual image rights are verified"
+    }
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "UT Austin Plant Resources Center",
+      "url": "https://w3.biosci.utexas.edu/prc/DigFlora/ASH/FRAXI-CenTex.html"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "text-polished-local-underside-reference-present-samara-macros-open",
+    "reviewed": "2026-10-11"
+  }
+}

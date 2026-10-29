@@ -1,0 +1,204 @@
+{
+  "id": "salvia-farinacea",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "species": "farinacea",
+  "scientific_name": "Salvia farinacea",
+  "authority": "Benth.",
+  "common_name": "Mealy Blue Sage",
+  "synonyms": [
+    "Salvia amabilis Kunth & C.D.Bouché",
+    "Salvia earlei Wooton & Standl.",
+    "Salvia farinacea var. heteranthera Brandegee",
+    "Salvia farinacea var. latifolia Shinners"
+  ],
+  "taxonomic_note": "",
+  "field_group": "Clonal perennial sage",
+  "look_here_first": "Look behind a blue-violet flower at the calyx: a thick white OR dark-violet FELT of short hairs covers it. A purple calyx can still be mealy blue sage. Compare broader, usually serrated stem leaves and condensed upright flower groups with azure sage's narrow nearly entire leaves and more open green-calyxed axis.",
+  "project_tracker_diagnostic": "rhizomatous clonal perennial; not rosetted; only cauline opposite leaves; linear-lanceolate to lanceolate leaves; calyx densely farinose/mealy; erect repeated verticils",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Wildflower Center printable Hays County native list / NPSOT Hill Country compilation. Travis — Balcones Canyonlands Preserve plant list explicitly includes Salvia farinacea. Williamson — UT Plant Resources Center Vascular Plants of Williamson County detailed treatment.",
+    "approval_exception": null
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous clonal perennial",
+      "not rosetted; only cauline opposite leaves",
+      "linear-lanceolate to lanceolate leaves",
+      "calyx densely farinose/mealy",
+      "erect repeated verticils"
+    ],
+    "joey_field_note": "Joey's landscaping frame gives the upright flowering habit and repeated inflorescence architecture at field scale. Use that gestalt only as supporting context; the mealy/farinose calyx remains the decisive field character.",
+    "calyx": "UT Texas study: outer calyx densely white-haired or violet-haired, compressed side-to-side, about 5–8 mm long and ~10-ribbed. Not necessarily visibly white!",
+    "morphs": "White hairy form often blue flowers/white marks on lip; dark violet hairy form often darker blue without white marks. Both S. farinacea: do NOT use flower/calyx pigment as separate species.",
+    "leaves": "Opposite cauline leaves, blade often ~30–95 × 11–33 mm (occasional 5 mm narrow outliers), lanceolate/ovate, usually serrated; narrower S. azurea often ~4–8 mm wide and mostly entire.",
+    "inflorescence": "Erect interrupted terminal panicle, condensed paired axillary cymes often 10+ flowers per cyme; many flowers crowded compared with azure sage.",
+    "habit": "Rhizomatous clonal perennial with several shoots, typically 30–100 cm in local descriptions; not rosetted."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia azurea"
+    ],
+    "key_distinctions": "Salvia azurea: S. farinacea has the characteristic mealy/farinose calyx; S. azurea has a green normally hairy calyx and a taller, more open flowering axis."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Salvia",
+    "Mealy Blue Sage",
+    "Central Texas",
+    "Genus comparison",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "2.2-farinacea-azure-photo-first",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "joey_enhanced": true,
+    "last_visual_reviewed": "2026-10-13",
+    "visual_status": "3 real exact species photos staged; white and violet felted calyx morphs taught, detailed hair macros and arrows remain."
+  },
+  "images": [
+    {
+      "file": "images/01-flowers-leaves.jpg",
+      "role": "Flowering axis / flowers / leaves",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_070906-8642_Salvia_farinacea.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-travis-mealyflower.jpg",
+      "role": "Exact Salvia farinacea flowering photo Travis County Texas",
+      "creator": "Michelle W. (鍾偉瑋)",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_168170655.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/03-williamson-mealyflower.jpg",
+      "role": "Exact Salvia farinacea flowering photo Williamson County outside target zone",
+      "creator": "Michelle W. (鍾偉瑋)",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_150590284.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/04-mealy-flower-spike.jpg",
+      "role": "Exact Salvia farinacea flowering head and calyx context",
+      "creator": "Michelle W. (鍾偉瑋)",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_72416206.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "mA0uMKVyswA",
+      "timestamp": "17:32",
+      "record_id": "jvid-mA0uMKVyswA-011",
+      "role": "flowering habit / upright inflorescences",
+      "source_confidence": "source-explicit",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "photo_comparison_lesson": {
+    "pair": "Salvia farinacea versus Salvia azurea",
+    "memory_rule": "MEALY = CALYX with densely packed white OR violet hairs + broader serrate leaves. AZURE = greener ribbed calyx + narrow leaves + airy flowers.",
+    "look_here_first": "Locate the calyx (outer cup behind flower) and decide whether a dense fuzzy coat conceals its green surface; do not confuse dark purple felt with an absence of hairs.",
+    "diagnostic_differences": [
+      {
+        "structure": "calyx",
+        "farinacea": "Dense white OR violet felted hairs; somewhat flat-sided, ~10-ribbed",
+        "azurea": "Bell-shaped greener, ~15-ribbed in local var. grandiflora, shorter/sparser hairs"
+      },
+      {
+        "structure": "leaf",
+        "farinacea": "Commonly 11–33 mm wide, toothed",
+        "azurea": "Commonly 4–8 mm wide, entire or nearly so"
+      },
+      {
+        "structure": "flowering structure",
+        "farinacea": "Relatively dense many-flowered cymes",
+        "azurea": "More open interrupted panicle"
+      },
+      {
+        "structure": "base",
+        "farinacea": "Clonal rhizomes",
+        "azurea": "Woody rootstock"
+      }
+    ],
+    "cautions": [
+      "Dark violet hairy calyx is also farinacea.",
+      "Not every cultivated farinacea represents original local genotype; source photos retain locality.",
+      "Do not count individual calyx hairs from wide field photographs."
+    ]
+  },
+  "visual_comparison": {
+    "title": "Mealy blue sage: white-or-purple felted calyces and crowded flower groups",
+    "items": [
+      {
+        "label": "ORIGINAL MEALY FLOWER SPIKE",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/images/01-flowers-leaves.jpg",
+        "caption": "A cluster of blue flowers with flower cups; look for the dense coat beneath the corolla and compare leaf width with azure sage.",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_070906-8642_Salvia_farinacea.jpg",
+        "markers": []
+      },
+      {
+        "label": "TRAVIS COUNTY FLOWERING FIELD",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/images/02-travis-mealyflower.jpg",
+        "caption": "Exact mealy sage photo from Travis County. Study flower cups and leaf/stem context; precise hair macro requires closer imaging.",
+        "creator": "Michelle W. (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_168170655.jpg",
+        "markers": []
+      },
+      {
+        "label": "WILLIAMSON COUNTY CALYX CONTEXT",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/images/03-williamson-mealyflower.jpg",
+        "caption": "Exact specimen from Williamson County, outside project target zone. Calyx and flowering arrangement practice only; no in-zone evidence implied.",
+        "creator": "Michelle W. (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_150590284.jpg",
+        "markers": []
+      },
+      {
+        "label": "FLOWER AXIS AND FELTED CUP CONTEXT",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/images/04-mealy-flower-spike.jpg",
+        "caption": "Additional real S. farinacea flowering axis. When cup is violet instead of white, it may still be densely hairy; color alone does not settle ID.",
+        "creator": "Michelle W. (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_72416206.jpg",
+        "markers": []
+      }
+    ],
+    "arrow_qa": "No invented calyx hair locations in field photos; exact arrows after original pixel inspection."
+  },
+  "diagnostic_photo_targets": [
+    "White-haired morph and deep-violet-haired morph calyces in same-magnification comparisons",
+    "Calyx back macro with metric ruler and exact felted hair marking",
+    "Broader serrated mature leaves next to azure sage linear leaves and scale",
+    "Rhizomatous colony base versus azure sage woody rootstock"
+  ]
+}

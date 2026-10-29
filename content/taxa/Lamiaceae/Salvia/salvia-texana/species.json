@@ -1,0 +1,281 @@
+{
+  "id": "salvia-texana",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "species": "texana",
+  "scientific_name": "Salvia texana",
+  "authority": "(Scheele) Torr.",
+  "common_name": "Texas Sage",
+  "synonyms": [
+    "Salviastrum texanum Scheele",
+    "Salvia texana var. canescens A.Gray",
+    "Salviastrum canescens (A.Gray) I.M.Johnst.",
+    "Salviastrum texanum var. canescens (A.Gray) Cory"
+  ],
+  "field_group": "Low spring blue sage",
+  "look_here_first": "PHOTOGRAPH THE BASE before flowers: Texas sage is NOT a true rosette, but has basal leaves plus stem leaves. Basal leaves are narrowly elliptic to oblanceolate (~25–60 × 4–10+ mm); then look for terminal many-flowered raceme with leaflike bracts. Critical tiny confirmation is glandular hairs SUNKEN in pits on the foliage; Engelmann has elevated tack-shaped glands.",
+  "project_tracker_diagnostic": "Low perennial with both basal and cauline leaves, sunken/pitted glandular hairs, conspicuous bracts, and a sharply pointed strongly ribbed calyx.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "UT Hays County flora, Travis County Balcones Canyonlands records, and UT Williamson County treatment; no county presence inferred.",
+      "source_document": "content/taxa/Lamiaceae/Salvia/salvia-texana/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "habit": "Taprooted perennial with woody caudex, usually short.",
+    "leaves": "Both basal and cauline opposite leaves; basal blades narrow oblanceolate to elliptic.",
+    "surface": "Leaf surfaces have sunken/pitted glandular hairs.",
+    "inflorescence": "Terminal raceme with conspicuous leaflike bracts.",
+    "calyx": "Strongly ribbed, sharply pointed lobes.",
+    "best_field_traits": [
+      "basal + cauline leaves",
+      "pitted glandular hairs",
+      "leaflike bracts",
+      "sharply pointed ribbed calyx",
+      "Joey's Borderlands podcast context places this sage in xeric scrub/limestone-hill country; use habitat as supporting context after checking the ribbed pointed calyx and pitted glandular hairs.",
+      "Basal AND cauline leaves (but NOT a true rosette)",
+      "Leaflike pointed bracts and many-flowered terminal raceme",
+      "Glandular hairs sunken in leaf pits (microscope/macro only)"
+    ],
+    "joey_field_context": "A Borderlands podcast transcript normalizes Joey's spoken taxon to Salvia texana with high confidence and associates it with xeric scrub/limestone hills. The archive still flags an audio check as desirable, so this is kept as attributed habitat context rather than a new diagnostic character.",
+    "basal_rosette_correction": "S. texana has BASAL leaves and cauline leaves, but detailed UT Austin specimen treatment explicitly says NOT ROSETTED; do not call the plant a basal rosette.",
+    "basal_leaf_measurement": "Basal blade narrowly oblanceolate to narrowly elliptic, ~25–60 × 4–10+ mm, petiolate; cauline leaves sessile and narrower. Width overlaps Engelmann at 4–5 mm.",
+    "flowering_axis": "Terminal many-flowered raceme, often 8–14 opposite pairs of flowers with conspicuous sharply pointed leaflike bracts, not paired 3-flowered cymes per node like S. engelmannii.",
+    "calyx_measurement": "Green calyx ~11–12 mm long, conspicuously 10-ribbed and sharply pointed; individual pitted glandular hairs need high magnification.",
+    "gland_surface": "Sunken glandular hairs lie in pits on foliage/calyx. Tiny structures usually NOT resolved in general-purpose flower photos."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia engelmannii",
+      "Salvia azurea"
+    ],
+    "key_distinctions": "Engelmann sage lacks the basal-leaf set and has conspicuous tack-shaped glands. Azure sage is much taller with a long open flowering axis."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Salvia",
+    "Texas sage",
+    "Limestone",
+    "Genus comparison",
+    "Joey-context"
+  ],
+  "curation_status": {
+    "version": "2.1-visual-diagnostic-first-pass",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "last_reviewed": "2026-10-13",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "joey_context_added": true,
+    "visual_status": "Two exact-source physical photos integrated with captions and plant-pair key; correctly labeled microstructure still missing. No invented arrows.",
+    "joey_inat_photo_install": "2026-10-15",
+    "diagnostic_b004_provisional_installed": "2026-10-19"
+  },
+  "images": [
+    {
+      "file": "images/01-flowering-detail.jpg",
+      "role": "Flowers / bracts / calyx / leaves",
+      "creator": "Wikimedia Commons contributor",
+      "license": "license on file page; verify before reuse",
+      "source_page": "https://commons.wikimedia.org/wiki/Category:Salvia_texana",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-field-reference.jpeg",
+      "role": "Field habit / leaves / inflorescence",
+      "creator": "iNaturalist observer; resolve before public use",
+      "license": "license not verified",
+      "source_page": "https://www.gbif.org/es/species/2926988",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/joey-inat-369798579.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/369798579",
+      "observation_url": "https://www.inaturalist.org/observations/208982603",
+      "observation_id": "208982603",
+      "photo_id": "369798579",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/369798579/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/diagnostic004-627129092-purple-flower-calyx.jpg",
+      "role": "Purple bilabiate corollas, hairy calyces, upper bracts and flowering axis; gland pits not resolved",
+      "creator": "Russell Pfau",
+      "license": "CC BY",
+      "license_url": "",
+      "source_platform": "iNaturalist via GBIF",
+      "source_page": "https://www.gbif.org/occurrence/6184979809",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627129092/original.jpg",
+      "photo_id": "627129092",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution; preserve ShareAlike if applicable",
+      "photo_review": "Full-size photo reviewed; anatomical view confirmed. Species-level identity remains provisional.",
+      "photo_validation_status": "provisional source-taxon agreement, not specimen-confirmed",
+      "modifications": "JPEG display copy, EXIF/GPS removed; original retained in private immutable archive",
+      "source_archive": "diagnostic-39139862679"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't podcast",
+      "record_id": "j021-016",
+      "source_title": "Nuevo Leon & Borderlands Rants",
+      "source_page": "https://www.iheart.com/podcast/256-crime-pays-but-botany-does-43074956/episode/nuevo-leon-borderlands-rants-332459595/",
+      "timestamp": "01:15:31–01:16:58",
+      "role": "xeric scrub / limestone-hill habitat context",
+      "source_transcript_taxon": "Salvia tex aana",
+      "normalized_candidate": "Salvia texana",
+      "confidence": "high-confidence transcript normalization; audio check recommended",
+      "rights": "source transcript/context; no image promoted"
+    }
+  ],
+  "photo_diagnostic_lesson": {
+    "pair": "Salvia texana vs Salvia engelmannii",
+    "steps": [
+      {
+        "number": 1,
+        "look": "Lowest living leaves",
+        "question": "Are both basal and stem leaves present?",
+        "here": "Texas sage: basal leaves plus cauline leaves; base not arranged as a persistent true rosette. Study complete plant, not only a cropped flowering tip.",
+        "confidence": "strong when complete base shown"
+      },
+      {
+        "number": 2,
+        "look": "Basal leaf + ruler",
+        "question": "Is basal blade narrowly oblanceolate to elliptic and often 4–10+ mm wide?",
+        "here": "Texas: ~25–60 mm long; Engelmann stem leaves are linear ~3–5 mm wide. Width overlaps at 4–5 mm.",
+        "confidence": "supporting; widths overlap"
+      },
+      {
+        "number": 3,
+        "look": "Flower stalk structure",
+        "question": "Are blooms arranged as a many-flowered raceme with large pointed leafy bracts?",
+        "here": "Texas sage often 8–14 opposite pairs of flowers; Engelmann has opposing 3-flowered cymes.",
+        "confidence": "high with clear flowering node"
+      },
+      {
+        "number": 4,
+        "look": "Calyx lateral photo",
+        "question": "Can you see the pointed bracts and 10 ribs?",
+        "here": "Texas 11–12 mm sharply pointed 10-ribbed calyx; Engelmann also 10-ribbed and short-awned so don't identify from ribs alone.",
+        "confidence": "supporting"
+      },
+      {
+        "number": 5,
+        "look": "Leaf-surface macro",
+        "question": "Are the minute glands recessed into shallow pits?",
+        "here": "Texas: pitted glands; Engelmann raised tack-shaped glands. MUST use actual adequate macro with scale; existing broad photos cannot show this reliably.",
+        "confidence": "true discriminant but unphotographed"
+      }
+    ],
+    "memory_rule": "TEXANA: basal + stem leaves, pit glands, pointed bracts. ENGELMANN: stem leaves only, tack glands, three-flower cymes.",
+    "mini_glossary": {
+      "oblanceolate": "ob-LAN-see-uh-late — a narrow leaf widest above its middle, near its tip",
+      "cauline": "KAW-lin — on the stem",
+      "bract": "BRAKT — a modified leaf just below a flower or flower cluster",
+      "raceme": "ray-SEEM — an unbranched flowering axis with individual stalked flowers",
+      "calyx": "KAY-liks — the cup of sepals around the flower base",
+      "glandular_hair": "Tiny hair with a gland at its tip or embedded in its surface"
+    },
+    "sources": [
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Salvia%20texana.html",
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Salvia%20engelmannii.html"
+    ]
+  },
+  "visual_comparison": {
+    "title": "Texas sage — learn leaf placement, pointed bracts, and flowering axis",
+    "subtitle": "Two physically present source photos. They illustrate broad structures; neither proves microscopic pitted glands without true magnification.",
+    "items": [
+      {
+        "label": "BLUE-VIOLET FLOWERS + POINTED BRACTS",
+        "scientific_name": "Salvia texana",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-texana/images/01-flowering-detail.jpg",
+        "image_fit": "contain",
+        "caption": "Flower cluster, pointed bracts and calyx/leaf context. Separate bract (modified leaf) from calyx (flower cup); do not pretend to resolve individual glandular hairs.",
+        "creator": "Wikimedia Commons contributor (individual rights not yet resolved)",
+        "license": "file-level attribution/rights require review",
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Salvia_texana",
+        "markers": [],
+        "annotation_status": "Need rights verification and per-pixel labeling before arrows."
+      },
+      {
+        "label": "PLANT HABIT AND NARROW LEAVES",
+        "scientific_name": "Salvia texana",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-texana/images/02-field-reference.jpeg",
+        "image_fit": "contain",
+        "caption": "Texas sage wildflower habit and inflorescence from existing exact-species source; a complete base is needed to prove basal leaves, while leaf surfaces need much closer magnification for sunken glands.",
+        "creator": "iNaturalist observer (attribution unresolved)",
+        "license": "license not verified; private learner study only",
+        "source_page": "https://www.gbif.org/es/species/2926988",
+        "markers": [],
+        "annotation_status": "Do not present unverified low-magnification details as exact gland labels."
+      }
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Complete living basal plus cauline leaf set (NO true rosette) in same photograph",
+    "Basal oblanceolate 4–10+ mm versus Engelmann cauline linear 3–5 mm paired with real mm ruler",
+    "Same-level flowering node: S. texana flower pairs vs S. engelmannii 3-flowered cymes",
+    "Close pointed bract and calyx 11–12 mm with scale and labels",
+    "Verified close micrograph of SUNKEN/pitted glandular hairs compared with Engelmann tack glands"
+  ],
+  "range_validation_handoff": {
+    "flag": "Current claimed third confirmed county is Williamson, excluded from 24-county target-zone list; needs independent range audit and reconciliation with source pool/native metrics. This visual lesson does not certify PASS. Preserve existing status pending separate range-lane correction.",
+    "explicit_counties_in_current_species_file": [
+      "Hays",
+      "Travis",
+      "Williamson"
+    ],
+    "county_zone_count_excluding_Williamson": 2,
+    "needs_additional_in_zone_county": true
+  },
+  "native_metrics_excluded": true,
+  "photo_note": "Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "lantana-camara",
+  "family": "Verbenaceae",
+  "genus": "Lantana",
+  "species": "camara",
+  "scientific_name": "Lantana camara",
+  "common_name": "Common lantana (introduced)",
+  "look_here_first": "Recognize opposite rough, toothed leaves and dense clusters of small tubular flowers whose colors may change; check black fleshy drupes and branching prickles.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Lantana%20camara",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Introduced Lantana camara comparative card; never label it a local native or recommend it as a restoration planting. Photo taken from a cultivated specimen, not proof of wild-type origin.",
+  "images": [
+    {
+      "file": "images/commons-lantana-camara-dinkum.jpg",
+      "role": "Provisional visible flower clusters and foliage; flower color is not sufficient to diagnose the broad Lantana camara complex.",
+      "creator": "Dinkum",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lantana_camara.JPG",
+      "study_use": "Noncommercial botanical visual learner",
+      "public_reuse": "Public domain/CC0; creator acknowledged"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

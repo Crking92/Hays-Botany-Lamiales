@@ -1,0 +1,209 @@
+{
+  "id": "salvia-ballotiflora",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "species": "ballotiflora",
+  "scientific_name": "Salvia ballotiflora",
+  "authority": "Benth.",
+  "common_name": "Shrubby Blue Sage",
+  "synonyms": [
+    "Salvia ballotiflora var. eulaliae Fernald",
+    "Salvia laxa Benth."
+  ],
+  "taxonomic_note": "",
+  "field_group": "Woody shrubby sage",
+  "look_here_first": "This is a WOODY branching shrub with SMALL BLUE to lavender flowers (often ~10–13 mm long), rough/hairy ovate leaves with serrated/wavy edges. Do not describe its leaves as categorically smaller than autumn sage: sizes overlap (ballotiflora ~15–38 mm vs greggii ~8–48 mm in descriptions). More useful split: balloon-flower shrub sage's distinctly textured leaf faces and tiny blue-purple corollas versus S. greggii's generally smoother leaf blades with larger often ~25-mm showy corollas. Hays introduced-from-Medina specimen is NOT proof this is wild native in Hays.",
+  "project_tracker_diagnostic": "woody densely branched shrub/subshrub; small ovate leaves with serrate/wavy margins; leaf surfaces hairy/rough; small blue to purple flowers; elongated flower clusters; dry rocky limestone/scrub habitat",
+  "county_occurrences_target_zone": [
+    "Medina",
+    "Uvalde",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Medina — UT Plant Resources Center records the Hays study plant as introduced from a cliff above the Medina River in Medina County. Uvalde — Harvard University Herbaria records E.J. Palmer specimen 11337 from Uvalde and additional Sabinal material. Val Verde — official Devils River/Dan A. Hughes landscape inventory and Laughlin AFB natural-resources inventory explicitly document Salvia ballotiflora in Val Verde County.",
+    "approval_exception": null
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "woody densely branched shrub/subshrub",
+      "small ovate leaves with serrate/wavy margins",
+      "leaf surfaces hairy/rough",
+      "small blue to purple flowers",
+      "elongated flower clusters",
+      "dry rocky limestone/scrub habitat",
+      "At close range, inspect the hairy calyx/corolla tube and upper-lip hairs; Joey notes flowers around 10 mm across."
+    ],
+    "flower_detail": "Showy for its size but MUCH smaller than S. greggii in comparison: blue to lavender-purple bilabiate flowers about 10–13 mm; hair on upper corolla lip/calyx, which requires focused macro.",
+    "joey_field_note": "Joey also notes pleasant volatile compounds/aromatic character in the leaves; treat odor as a supporting cue, not a primary ID character.",
+    "leaves": "Opposite ovate leaves roughly 15–38 mm, often coarsely toothed or crenulate/wavy, hair roughness on upper and lower faces; dimensions may overlap S. greggii.",
+    "comparison_to_greggii": "S. greggii also woody and may have similarly small leaves, but many cultivated S. greggii have large ~25 mm corollas and comparatively smooth elliptic foliage; don't rely on leaf LENGTH alone.",
+    "hays_flora_context": "UT Austin Hays flora specifically lists Salvia ballotiflora as introduced from a cliff above Medina River (Medina County) to Hays collection. This is not wild in-situ Hays nativity proof; keep historical introduction separate from source-pool learner inclusion."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia greggii"
+    ],
+    "key_distinctions": "Salvia greggii: Both are woody. S. ballotiflora has much smaller, inconspicuous blue-purple flowers and distinctly small hairy leaves; autumn sage usually has larger showier flowers and a different compact shrub habit."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Salvia",
+    "Shrubby Blue Sage",
+    "Central Texas",
+    "Genus comparison",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "2.5-ballotiflora-photo-first",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_enhanced": true,
+    "last_visual_reviewed": "2026-10-13",
+    "visual_status": "Two exact species Commons media source pages staged with rights/author pending, strictly private study. Original licensed image preserved; reliable diagnostic field photo linked externally. No macro arrow positions verified.",
+    "range_status_preserved": true
+  },
+  "images": [
+    {
+      "file": "images/01-flower-closeup.JPG",
+      "role": "Flower cluster / corolla close-up",
+      "creator": "TDogg310",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_1.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-commons-field-view-provisional.jpg",
+      "role": "Exact species Commons photo, original pixel structure not yet audited — PRIVATE only",
+      "creator": "iNaturalist photographer, exact Commons page awaiting verification",
+      "license": "file license still to verify",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_343007199.jpg",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-commons-flower-view-provisional.jpg",
+      "role": "Exact species Commons photo, original pixel structure not yet audited — PRIVATE only",
+      "creator": "iNaturalist photographer, exact Commons page awaiting verification",
+      "license": "file license still to verify",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_589592598.jpg",
+      "study_use": "yes",
+      "public_reuse": "no"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / iNaturalist",
+      "record_id": "j003-001",
+      "observation_id": "189992377",
+      "source_page": "https://www.inaturalist.org/observations/189992377",
+      "role": "flower side / calyx / corolla tube / indumentum / upper-lip hairs",
+      "note": "Joey notes flowers about 10 mm across and aromatic/volatile compounds in the leaves.",
+      "rights": "educational/private study with creator credit; exact photo license should be rechecked for public reuse"
+    }
+  ],
+  "photo_diagnostic_lesson": {
+    "pair": "Shrubby Blue Sage versus Autumn Sage",
+    "first": "Check a mature stem leaf surface and corolla SIDE VIEW first; both plants are woody.",
+    "compare": [
+      {
+        "part": "Foliage",
+        "ballotiflora": "Ovate, usually 15–38 mm, serrated/wavy and rough with obvious hairs on both faces",
+        "greggii": "Elliptic/obovate around 8–48 mm; generally smoother, pitted microglands; SIZE OVERLAPS",
+        "photo_need": "macro of upper AND underside of same-maturity leaves plus ruler"
+      },
+      {
+        "part": "Flower",
+        "ballotiflora": "Blue-purple small ~10–13 mm, smaller upper lip with hair detail",
+        "greggii": "Larger ~25 mm tubular/lipped flower, often red/pink but cultivated purple/white/orange exist",
+        "photo_need": "two side-view corollas with mm ruler"
+      },
+      {
+        "part": "Inflorescence",
+        "ballotiflora": "Clusters of small blue flowers with small calyces",
+        "greggii": "Pairs of more showy flowers in terminal racemes",
+        "photo_need": "same-scale flowering shoot"
+      },
+      {
+        "part": "Stems",
+        "ballotiflora": "Woody densely branched",
+        "greggii": "Woody many-branched",
+        "photo_need": "both are woody; supporting only"
+      }
+    ],
+    "memory_rule": "SHRUBBY BLUE = ROUGH toothed leaf and SMALL blue flower. AUTUMN = smoother oval leaf and BIGGER showy flower.",
+    "source_photo_priority": "One old verified CC BY-SA floral closeup; two new species-gallery photos provisional study only pending exact author license and image feature QA.",
+    "cautions": [
+      "Do not equate native Texas with wild Hays occurrence; Hays Flora collection was introduced from Medina.",
+      "Flower COLOR alone unreliable in ornamental greggii.",
+      "Leaf size overlaps.",
+      "No pixel arrows on uninspected images."
+    ]
+  },
+  "visual_comparison": {
+    "title": "Shrubby blue sage — blue flowers plus rough serrated leaf",
+    "subtitle": "One audited CC BY-SA cultivated flower closeup + two provisional source-exact Commons gallery images for private visual learning; their individual image attribution and pixel-diagnostic role remain unverified.",
+    "items": [
+      {
+        "label": "VERIFIED BLUE-PURPLE FLOWERS",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-ballotiflora/images/01-flower-closeup.JPG",
+        "caption": "Cultivated exact species: blue-purple corollas and nearby green leaves; compare with larger more showy S. greggii flowers. Do not invent a scale or visible hair count.",
+        "creator": "TDogg310",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_1.JPG",
+        "markers": []
+      },
+      {
+        "label": "ADDITIONAL SPECIES VIEW · PROVISIONAL",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-ballotiflora/images/02-commons-field-view-provisional.jpg",
+        "caption": "Exact species page from Wikimedia Commons. Private learner breadth photo only. Photographer/license and exact diagnostic feature in THIS frame still need audit; don't use for a hair-arrow or locality certification.",
+        "creator": "iNaturalist observer — see Commons exact photo page; file-level creator not yet independently resolved",
+        "license": "Wikimedia Commons file-specific license awaiting attribution check",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_343007199.jpg",
+        "markers": [],
+        "annotation_status": "Provisional source/view — original metadata/pixel audit pending."
+      },
+      {
+        "label": "THIRD SPECIES VIEW · PROVISIONAL",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-ballotiflora/images/03-commons-flower-view-provisional.jpg",
+        "caption": "Exact species page from Wikimedia Commons. Private learner breadth photo only. Photographer/license and exact diagnostic feature in THIS frame still need audit; don't use for a hair-arrow or locality certification.",
+        "creator": "iNaturalist observer — see Commons exact photo page; file-level creator not yet independently resolved",
+        "license": "Wikimedia Commons file-specific license awaiting attribution check",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_589592598.jpg",
+        "markers": [],
+        "annotation_status": "Provisional source/view — original metadata/pixel audit pending."
+      }
+    ]
+  },
+  "external_verified_diagnostic_study_photos": [
+    {
+      "role": "Rough green toothed leaf and small blue flowers on wild Salvia ballotiflora",
+      "url": "https://w3.biosci.utexas.edu/prc/DF/pages/SABA5.html",
+      "photographer": "William R. Carr (Texas flora)",
+      "reuse_rights": "© 2009 W. R. Carr; linked external source only, no image downloaded",
+      "caption": "Dolan Falls photo shows rough textured serrate ovate leaves, small blue flowers, woodier stems and flower buds",
+      "status": "external link — not installed due to copyright restrictions"
+    },
+    {
+      "role": "Hays introduced specimen provenance",
+      "url": "https://w3.biosci.utexas.edu/prc/HaysFlora/pages/SABA5.html",
+      "note": "Introduced from Medina County; not a Hays wild-native record"
+    }
+  ],
+  "diagnostic_photo_targets": [
+    "License/creator audit for provisional Commons species photos 343007199 and 589592598 before any public reuse",
+    "Confirmed close leafy stem with rough hairs both leaf faces, 1-mm ruler and pixel QA",
+    "Photo pair at SAME scale Greggi 25mm corolla vs Ballotiflora 10–13mm corolla",
+    "Photo of green serrate leaf margin and true hairs, not just a vague leafy shrub"
+  ]
+}

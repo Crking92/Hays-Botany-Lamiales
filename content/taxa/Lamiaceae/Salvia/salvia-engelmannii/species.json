@@ -1,0 +1,201 @@
+{
+  "id": "salvia-engelmannii",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "species": "engelmannii",
+  "scientific_name": "Salvia engelmannii",
+  "authority": "A.Gray",
+  "common_name": "Engelmann's Sage",
+  "synonyms": [
+    "Salviastrum engelmannii (A.Gray) Briq."
+  ],
+  "field_group": "Low glandular blue sage",
+  "look_here_first": "FIRST photograph stem BASE: Engelmann’s sage has cauline (stem) leaves but no persistent basal-leaf set. Narrow linear leaf blades ~30–60 × 3–5 mm. THEN count flowers in axillary cymes (three per cyme) and examine the ten-ribbed 10–11 mm calyx with short awned tips. Tack-shaped subsessile glands require true macro; never pretend broad shot proves them.",
+  "project_tracker_diagnostic": "Low dense perennial with only cauline narrow leaves, tack-shaped glandular hairs, repeated 3-flowered cymes, strongly 10-ridged awned calyces, and a pale strongly marked lower corolla lip.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson",
+    "Comal"
+  ],
+  "target_zone_count": 4,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays native list, Travis preserve records, UT Williamson County treatment, and Comal County herbarium material; no county presence inferred."
+  },
+  "morphology_keys": {
+    "habit": "Perennial low dense clump with many stems.",
+    "leaves": "Only cauline narrow leaves; paired bases can form a short sheath across the node.",
+    "surface": "Conspicuous tack-shaped subsessile glandular hairs.",
+    "inflorescence": "3-flowered cymes repeated at closely spaced nodes.",
+    "calyx": "Strongly 10-ridged with short awned lobe tips.",
+    "floral_detail": "Pale blue-violet corolla with a broad white/violet-marked lower lip.",
+    "best_field_traits": [
+      "no basal-leaf set",
+      "tack-shaped glands",
+      "3-flowered cymes",
+      "10-ridged awned calyx"
+    ],
+    "leaf_measurement": "Cauline linear leaves typically ~30–60 mm long and 3–5 mm wide (UT Austin Williamson County morphology).",
+    "calyx_measurement": "Calyx ~10–11 mm long, 10-ridged with short ~0.5 mm awns and tack-shaped glands (microscope/strong macro needed).",
+    "flower_group": "Two opposite axillary cymes at each flowering node, typically 3 flowers per cyme.",
+    "corolla": "Blue-violet with conspicuous white/violet-marked lower lip; corolla approximately 18–22 mm (UT Austin); can overlap Texas sage.",
+    "lookalike_first": "Compare S. texana basal + stem leaf set and pitted (rather than tack-shaped) glands; both are low, blue-violet sages."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia texana",
+      "Salvia azurea"
+    ],
+    "key_distinctions": "Texas sage has basal leaves and pitted/sunken glands. Azure sage is much taller and more open."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Salvia",
+    "Engelmann sage",
+    "Edwards Plateau",
+    "Genus comparison"
+  ],
+  "curation_status": {
+    "version": "2.1-visual-diagnostic-pair-stage",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "last_reviewed": "2026-10-13",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "visual_status": "One exact licensed field photo queued; real photo panels and field morphology polished, gland micrograph still missing; no fake arrows."
+  },
+  "images": [
+    {
+      "file": "images/01-edwards-plateau-field-reference.jpg",
+      "role": "Exact wild sage with flowers and narrow leaves",
+      "creator": "Craig Hensley",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_engelmannii_iNat-43145045.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/02-whole-plant-habit.jpg",
+      "role": "Cultivated plant habit and flowering branches; retain private learner, not for public export",
+      "creator": "Lone Star Nursery",
+      "license": "site rights not verified",
+      "source_page": "https://lonestarnursery.com/products/sage-engelmanns-blue",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-chalk-mountain-flowering-study.jpg",
+      "role": "Wild regional flowering plant and stem leaf context, not microscopic glands",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_engelmannii.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    }
+  ],
+  "photo_diagnostic_lesson": {
+    "pair": "Salvia texana versus Salvia engelmannii",
+    "steps": [
+      {
+        "number": 1,
+        "look": "Plant base",
+        "question": "Is there a real set of basal leaves?",
+        "here": "Engelmann: only cauline leaves; document the basal nodes, not just a cropped flowering shoot.",
+        "confidence": "high when a complete plant is visible"
+      },
+      {
+        "number": 2,
+        "look": "Leaf with real ruler",
+        "question": "Are blades narrow linear (~3–5 mm wide)?",
+        "here": "Engelmann: narrow linear cauline blades 30–60 × 3–5 mm. Some Texas sage leaves overlap; basal leaf shape is corroboration.",
+        "confidence": "supporting"
+      },
+      {
+        "number": 3,
+        "look": "One flowering node",
+        "question": "Are there 3-flowered cymes in each opposite cluster?",
+        "here": "Engelmann: paired cymes, usually three florets each, along compact flowering axis. Need a good side-view with individual pedicels visible.",
+        "confidence": "supporting high if verified"
+      },
+      {
+        "number": 4,
+        "look": "Calyx side/back",
+        "question": "Can you see 10 ribs and tiny awn points?",
+        "here": "Engelmann: calyx ~10–11 mm; 10 strong ribs and short ~0.5 mm awns. Texas sage calyx is also 10-ribbed and pointed; not decisive without glands.",
+        "confidence": "use with other traits"
+      },
+      {
+        "number": 5,
+        "look": "Leaf/calyx macro",
+        "question": "Are gland heads tack-shaped above the surface?",
+        "here": "Engelmann: raised tack-shaped subsessile glands; Texas sage: glands embedded in small pits. Requires verified original macro; none of these broad gallery photos resolve individual glands.",
+        "confidence": "high structurally, not yet photo-proven"
+      }
+    ],
+    "memory_rule": "Engelmann = stem leaves + groups of three + tack glands. Texas = basal leaves + pit glands.",
+    "mini_glossary": {
+      "cauline": "KAW-lin — on the stem",
+      "cyme": "SIME — a little branching flower group",
+      "verticil": "VER-ti-sil — clustered blooms around a node, often made of two opposing cymes",
+      "calyx": "KAY-liks — the usually green outer cup surrounding the flower",
+      "awn": "AWN — a thin pointed extension at the end of a calyx tooth",
+      "glandular_hair": "A hair bearing a tiny sticky or aromatic gland at its tip."
+    },
+    "sources": [
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Salvia%20engelmannii.html",
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Salvia%20texana.html"
+    ]
+  },
+  "visual_comparison": {
+    "title": "Engelmann’s sage — learn the real plant before the microscopic gland test",
+    "subtitle": "Three real Engelmann sage photos with provenance, including one independently licensed regional 2024 image. Do NOT label gland pits or tack-shaped hairs on unsuited wide shots.",
+    "items": [
+      {
+        "label": "LOCAL FLOWERING STALK · EDWARDS PLATEAU",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-engelmannii/images/01-edwards-plateau-field-reference.jpg",
+        "image_fit": "contain",
+        "caption": "Exact species Craig Hensley; a wild Edwards Plateau flowering sage. Study narrow paired leaves and flower form; identify individual gland heads only in a true macro.",
+        "creator": "Craig Hensley",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_engelmannii_iNat-43145045.jpg",
+        "markers": [],
+        "annotation_status": "Macro targets not demonstrably visible from broad reference."
+      },
+      {
+        "label": "CLUMPED PLANT FORM · CULTIVATED",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-engelmannii/images/02-whole-plant-habit.jpg",
+        "image_fit": "contain",
+        "caption": "Nursery image shows compact branched stems; cultivated and rights not cleared for public redistribution. Crew/private study only.",
+        "creator": "Lone Star Nursery",
+        "license": "site rights not verified",
+        "source_page": "https://lonestarnursery.com/products/sage-engelmanns-blue",
+        "markers": [],
+        "annotation_status": "study only; public reuse no"
+      },
+      {
+        "label": "CHALK MOUNTAIN FIELD FLOWERING",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-engelmannii/images/03-chalk-mountain-flowering-study.jpg",
+        "image_fit": "contain",
+        "caption": "Wild near Glen Rose, Somervell County, May 2024. Original author sonnia hill, CC BY 2.0; view flowering architecture, NOT individual glands.",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_engelmannii.jpg",
+        "markers": [],
+        "annotation_status": "Leaf and flower study; gland microstructure unverified"
+      }
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Complete plant base with NO basal leaves (reproducible ID shot)",
+    "Three-flowered opposing axillary cymes, each pedicel visible",
+    "A leaf against mm ruler measuring 3–5 mm width",
+    "Calyx side/back with 10 ribs and short awns in good focus",
+    "Real micromacro of tack-shaped surface glands, with ruler and correctly located arrows",
+    "Matched S. texana pit-shaped leaf glands at SAME magnification"
+  ]
+}

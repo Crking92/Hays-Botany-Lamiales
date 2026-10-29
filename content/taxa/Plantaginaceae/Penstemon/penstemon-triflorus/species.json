@@ -1,0 +1,107 @@
+{
+  "id": "penstemon-triflorus",
+  "entry_type": "species",
+  "family": "Plantaginaceae",
+  "genus": "Penstemon",
+  "species": "triflorus",
+  "scientific_name": "Penstemon triflorus",
+  "authority": "A.Heller",
+  "common_name": "Hill Country penstemon",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO with two accepted varieties, var. triflorus and var. integrifolius. The learner stays species-level; staminode hairiness varies among the varieties.",
+  "look_here_first": "Start with the glossy leaves and the narrower pink-to-red corolla. Hill Country penstemon is an erect perennial with opposite dark-green leaves; lower leaves are often toothed while upper leaves become smaller and more entire/connate. Flowers are usually about 25–35 mm, distinctly smaller than P. cobaea.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Kerr",
+    "Bandera"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — TPWD/TxDOT county rare-species documentation explicitly lists threeflower penstemon for Hays County. Kerr County — the Kerr Wildlife Management Area vascular flora lists Penstemon triflorus; multiple herbarium collections also document it near Kerrville. Bandera County — University of Colorado herbarium records include a Texas, Bandera County specimen of Penstemon triflorus.",
+    "range_guardrail": "Cultivated/display records from the Lady Bird Johnson Wildflower Center in Travis County are not counted; Texas Wildbuds explicitly notes those plants are not native to Travis County."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial with several erect to bushy stems",
+      "opposite dark-green often glossy leaves",
+      "lower leaves often toothed",
+      "upper leaves smaller and often entire/connate",
+      "terminal clustered/racemose inflorescence",
+      "corolla usually about 25–35 mm and pink/rose/red to lavender depending variety",
+      "pale throat commonly marked with darker guide lines",
+      "staminode glabrous in var. triflorus but lightly bearded in var. integrifolius",
+      "fruit a capsule"
+    ],
+    "comparison_training": "Penstemon cobaea: P. cobaea has much larger 35–55 mm pale flowers with a strongly inflated throat and broader serrate leaves. Penstemon baccharifolius: P. baccharifolius is a woody-based low subshrub with thick leathery serrate leaves and red flowers from cliff/rock crevices. Penstemon tenuis: P. tenuis has tiny 10–14 mm lavender flowers, sharp small calyx lobes and a wetter coastal/alluvial ecology."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Penstemon cobaea",
+      "Penstemon baccharifolius",
+      "Penstemon tenuis"
+    ],
+    "key_distinctions": "P. cobaea has much larger 35–55 mm pale flowers with a strongly inflated throat and broader serrate leaves. P. baccharifolius is a woody-based low subshrub with thick leathery serrate leaves and red flowers from cliff/rock crevices. P. tenuis has tiny 10–14 mm lavender flowers, sharp small calyx lobes and a wetter coastal/alluvial ecology."
+  },
+  "tags": [
+    "Plantaginaceae",
+    "Penstemon",
+    "Hill Country penstemon",
+    "Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b022",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/penstemon-triflorus-provisional-face.jpg",
+      "role": "Flowers / recognizable face",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Penstemon_triflorus_flowers.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6184753638-491091a23.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Narrow pink-to-red corolla and glossy opposite leaf details",
+      "creator": "Wilton Shaw Jr",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6184753638",
+      "gbif_occurrence_id": "6184753638",
+      "source_determination": "Penstemon triflorus A.Heller",
+      "accepted_target": "Penstemon triflorus",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630113707/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

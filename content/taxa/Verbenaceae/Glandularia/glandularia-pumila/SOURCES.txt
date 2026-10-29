@@ -1,0 +1,43 @@
+Glandularia pumila — sources and photo-rights handoff (2026-10-12)
+Morphology (high priority):
+https://w3.biosci.utexas.edu/prc/K12/pdf/Glandularia%20pumila
+https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf
+Taxonomy:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110644-2
+Exact-species original-site photo leads, NOT yet cleared for embedding:
+https://www.wildflower.org/plants/result.php?id_plant=GLPU4 (individual photographer/license must be checked)
+https://www.gardenstylesanantonio.com/plants/dwarf-vervain/ (SAWS; rights not granted)
+https://identify.plantnet.org/el/namerica/species/Glandularia%20pumila%20(Rydb.)%20Umber/data/galleries (some photos labeled CC-BY-SA 3, but must pin a specific photograph, author and URL)
+https://www.npsnm.org/wildflowersnm/Glandularia_pumila.html (George Oxford Miller; explicitly copyrighted)
+https://www.texaswildbuds.com/glandularia-pumila.html (Tom Lebsack; original-site reference only)
+Photo priority: single exact-species habit/leaf and pink head face; then isolated mature broad fan-lobed leaf; then old compact fruiting spike.
+This canonical species page currently has no images[]; do not substitute G. bipinnatifida images.
+
+--- First cleared exact-species photo (2026-10-12) ---
+Pl@ntNet featured Glandularia pumila specimen; author Angela; license CC BY-SA 3 (specified beside image on accepted taxon page).
+Taxon and attribution: https://identify.plantnet.org/el/namerica/species/Glandularia%20pumila%20(Rydb.)%20Umber/data
+Verified exact original image: https://bs.plantnet.org/image/o/258f239e64608ec94f364a119185b4a4576d9472
+Role: low verbena in flower, broad lobed leaves and compact lavender-pink head; image displays individual lobes, although not a true isolated leaf macro.
+Status: source verified, licensed, remotely linked in species.json and genus.json, no local physical image file. Photo observation/submission ID not exposed; SHA-1 image ID retained in direct URL. Preserve CC BY-SA 3.0 and attribution for any public reuse/derivative overlays.
+Secondary backup 1 (not installed): iNaturalist Texas guide https://www.inaturalist.org/guides/14344, Glandularia pumila credited to ellen hildebrandt CC BY-NC. Direct underlying photo ID/image source not confirmed; keep link-only until exact photo is pinned.
+Secondary backup 2 (not installed): Kew POWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110644-2/images includes one herbarium image under stated Herbarium Catalogue licensing CC BY 3.0. Unique image record not pinned, so source-only; not an in-field face substitute.
+Remaining final polish: matched macro of isolated broad fan-like leaf at same scale as G. bipinnatifida, mature compact fruiting head, and full habit.
+
+OWNER-AUTHORIZED PRIVATE PHOTO, 2026-10-14
+Glass Root Garden; https://www.inaturalist.org/photos/623376721; observation 342330454.
+Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.
+Source API license: none_recorded; public_reuse=no. EXIF/GPS stripped.
+
+LIBRARY-FIRST IMAGE SELECTION 027 2026-10-16T18:19:09.402933+00:00
+Glandularia pumila
+Creator: Jo Roberts; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6130006489
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/glandularia-pumila/gbif-159adfd7ddb97f.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 027 2026-10-16T18:19:09.402933+00:00
+Glandularia pumila
+Creator: Jo Roberts; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6130006489
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/glandularia-pumila/gbif-6c3a6ee3932364.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

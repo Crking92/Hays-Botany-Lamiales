@@ -1,0 +1,9 @@
+Master Pool Phase3 preflight; source rows 615.
+Accepted-name reference https://powo.science.kew.org/results?q=Lantana%20camara
+Species-specific photograph: https://commons.wikimedia.org/wiki/File:Lantana_camara.JPG
+Download exact original (Commons redirect, width-constrained by existing curation installer): https://commons.wikimedia.org/wiki/Special:Redirect/file/Lantana%20camara.JPG
+Creator Dinkum
+Photo license CC0 1.0
+Visible photo role Provisional visible flower clusters and foliage; flower color is not sufficient to diagnose the broad Lantana camara complex.
+Photo/review caveat Introduced Lantana camara comparative card; never label it a local native or recommend it as a restoration planting. Photo taken from a cultivated specimen, not proof of wild-type origin.
+No BONAP county nativity label assigned by this batch; image locality does not prove native distribution. Preserve any independent nativity HOLDs.

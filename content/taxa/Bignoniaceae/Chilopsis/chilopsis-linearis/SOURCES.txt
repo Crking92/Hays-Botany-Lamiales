@@ -1,0 +1,28 @@
+CHILOPSIS LINEARIS — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only on an existing PROVISIONAL_LEARNER page. Scientific/range status remains PROVISIONAL and native_metrics_excluded remains unchanged.
+
+Existing project/Joey routes were checked first; no installed exact-species gallery was available.
+
+1) Desert willow tree / habit.
+Creator: Almapayokels (metadata credits Pam Kelso)
+License: CC0 1.0
+Source: https://commons.wikimedia.org/wiki/File:Chilopsis_Linearis.jpg
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Chilopsis_Linearis.jpg
+Role: small-tree habit.
+
+2) Exact-species flowering branch.
+Creator: Stan Shebs
+License: CC BY-SA 3.0
+Source: https://commons.wikimedia.org/wiki/File:Chilopsis_linearis.jpg
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Chilopsis_linearis.jpg
+Role: trumpet flowers / flowering branch.
+
+3) Exact-species foliage.
+Creator: Stan Shebs
+License: CC BY-SA 3.0
+Source: https://commons.wikimedia.org/wiki/File:Chilopsis_linearis_foliage.jpg
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Chilopsis_linearis_foliage.jpg
+Role: narrow linear-lanceolate foliage.
+
+Fast-fill presentation only. These photos do not upgrade or imply resolution of the page's provisional range status.

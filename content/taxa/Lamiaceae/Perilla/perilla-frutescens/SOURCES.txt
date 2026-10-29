@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:190343-2
+Source research-grade observation: https://www.inaturalist.org/observations/178192764
+Photo: https://www.inaturalist.org/photos/310026999
+Attribution: (c) Cat, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 054 2026-10-18T00:06:11.962426+00:00
+Perilla frutescens
+Creator: Andy Jordan; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6252512392
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/perilla-frutescens/gbif-10e2161595cf21.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 054 2026-10-18T00:06:11.962426+00:00
+Perilla frutescens
+Creator: sonoresmore; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6519573416
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/perilla-frutescens/gbif-0c0f0ec67b51f5.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

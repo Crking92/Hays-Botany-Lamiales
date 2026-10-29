@@ -1,0 +1,119 @@
+{
+  "id": "ligustrum-quihoui",
+  "entry_type": "species",
+  "family": "Oleaceae",
+  "genus": "Ligustrum",
+  "species": "quihoui",
+  "scientific_name": "Ligustrum quihoui",
+  "authority": "Carrière",
+  "common_name": "Quihoui privet",
+  "look_here_first": "Find opposite, narrow elliptic to oblanceolate leaves on nearly horizontal, spreading branchlets. Check that blades taper strongly toward very short petioles (often 2.5 mm or less), with mostly hairless leaf blades. Flowers and fruits are nearly stalkless (sessile to subsessile), unlike the distinctly pedicelled clusters of Chinese privet.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 642,
+    "target_zone_status": "COMPARISON_NON_NATIVE",
+    "learner_role": "INVASIVE_COMPARISON",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Native to China, introduced as ornamental and documented as invasive in Texas by NPSOT; learner-approved encounter species, not a native target-zone PASS."
+  },
+  "morphology_keys": {
+    "habit": "Many-stemmed semi-evergreen to winter-deciduous shrub, locally about 3.5 m tall; branchlets spread almost horizontally, giving two-ranked foliage.",
+    "stems": "Young stems often somewhat four-angled, becoming round; densely short-hairy/tomentose on young axes.",
+    "leaves": "Opposite to subopposite, simple, entire; blade elliptic, lanceolate or oblanceolate, about 10–36 × 4–11 mm, narrow and strongly tapering at base, apex blunt to rounded, blade essentially glabrous; short channelled petiole to about 2.5 mm.",
+    "flowers": "Small white four-lobed corollas with two stamens in slender clusters; inspect attachment of individual flowers (sessile to subsessile) rather than relying on flower color.",
+    "fruit": "Deep-purple obovoid drupes about 5.5–7.4 × 3.2–5.3 mm, often very shortly stalked; inspect mature fruit attachment and fruit shape."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ligustrum sinense",
+      "Ligustrum lucidum",
+      "Ligustrum japonicum",
+      "Ilex vomitoria"
+    ],
+    "key_distinctions": "Versus L. sinense: Quihoui privet has markedly horizontal branches, narrower lanceolate/oblanceolate leaves tapering at base, and flowers/fruits sessile or nearly so; Chinese privet usually has broader rhombic-elliptic/ovate leaves, hairs along the lower midvein, and distinctly pedicelled flowers/fruits. Versus L. lucidum: Quihoui privet has much smaller leaves (typically 1–3.6 cm rather than 7–15 cm) and a shrubby habit. Native yaupon has alternate, often crenate leaves, unlike opposite entire privet leaves.",
+    "cautions": "Fruit/flower stalk visibility requires a macro; verify several mature nodes. Young and pruned growth can distort leaf dimensions and branch architecture. Do not classify as native from Texas occurrence; NPSOT calls this introduced invasive."
+  },
+  "diagnostic_image_needs": [
+    "Opposite narrow leaves with scale and tapered base",
+    "Horizontal branch habit and young stem hairs",
+    "Sessile or subsessile flowers/fruit macro contrasted with L. sinense",
+    "Mature drupe and panicle structure",
+    "Matched same-scale leaf and underside comparison with L. sinense"
+  ],
+  "images": [
+    {
+      "file": "images/ligustrum-quihoui-daderot-habit.jpg",
+      "role": "habit",
+      "creator": "Daderot",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ligustrum_quihoui_-_Quarryhill_Botanical_Garden_-_DSC03364.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-104517096.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/104517096",
+      "observation_url": "https://www.inaturalist.org/observations/64963133",
+      "observation_id": "64963133",
+      "photo_id": "104517096",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/104517096/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-104517110.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/104517110",
+      "observation_url": "https://www.inaturalist.org/observations/64963133",
+      "observation_id": "64963133",
+      "photo_id": "104517110",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/104517110/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-13",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

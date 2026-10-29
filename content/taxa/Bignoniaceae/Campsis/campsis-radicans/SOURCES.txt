@@ -1,0 +1,19 @@
+CAMPSIS RADICANS — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; settled PASS taxonomy/range unchanged.
+
+Existing project/Joey material was checked first; no installed exact-species gallery was available.
+
+1) Campsis_radicans-leaf.jpg
+Source: https://commons.wikimedia.org/wiki/File:Campsis_radicans-leaf.jpg
+Creator: Jaknouse
+License: CC BY-SA 3.0
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Campsis_radicans-leaf.jpg
+Role: odd-pinnate compound leaf with sharply serrated leaflets.
+
+2) Campsis_radicans_LeavesFlowers_BotGardBln0806.JPG
+Source: https://commons.wikimedia.org/wiki/File:Campsis_radicans_LeavesFlowers_BotGardBln0806.JPG
+Creator: BotBln
+License: CC BY-SA 3.0
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Campsis_radicans_LeavesFlowers_BotGardBln0806.JPG
+Role: flowering vine context with compound leaves and orange trumpet flowers.

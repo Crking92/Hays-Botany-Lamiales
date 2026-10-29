@@ -1,0 +1,19 @@
+PHOTO FAST-FILL 058 — Physostegia angustifolia
+Date: 2026-10-11
+Source: https://commons.wikimedia.org/wiki/File:Physostegia_angustifolia_142804673.jpg
+960px physical download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Physostegia_angustifolia_142804673.jpg/960px-Physostegia_angustifolia_142804673.jpg
+Creator: Alex Abair
+License: CC BY 4.0
+License URL: https://creativecommons.org/licenses/by/4.0/
+Study use: yes
+Public reuse: CC BY 4.0 attribution required
+Visual role: Close side view of a flower, show bilabiate white corolla and calyx/flower arrangement; habit and leaf/stem comparisons still require later enrichment.
+Photo provenance: Exact-species Commons photograph originating iNaturalist observation 86664581, photo 142804673, photographed 2021-07-11 in Arkansas. Commons photo license bot confirmed CC BY 4.0 January 2026.
+Preserve all scientific/range/HOLD decisions.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Physostegia angustifolia
+Creator: Wendy A; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6400895615
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/physostegia-angustifolia/gbif-398899eb42ec07.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

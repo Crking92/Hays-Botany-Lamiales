@@ -1,0 +1,66 @@
+{
+  "rank": "genus",
+  "family": "Acanthaceae",
+  "name": "Anisacanthus",
+  "authority": "Nees",
+  "common_group": "Flame acanthuses / desert honeysuckles",
+  "project_scope": {
+    "selection_mode": "B083 science + B150 source-concept reconciliation",
+    "canonical_ids": [
+      "anisacanthus-quadrifidus-var-wrightii"
+    ],
+    "represented_source_concepts": [
+      "anisacanthus-quadrifidus",
+      "anisacanthus-quadrifidus-wrightii"
+    ],
+    "source_concept_count": 3,
+    "note": "Central Texas flame acanthus is taught as Anisacanthus quadrifidus var. wrightii. Bare A. quadrifidus and malformed A. quadrifidus wrightii source rows are represented by that canonical variety rather than duplicated."
+  },
+  "source_concept_status": [
+    {
+      "id": "anisacanthus-quadrifidus",
+      "scientific_name": "Anisacanthus quadrifidus",
+      "status": "SOURCE_CONCEPT_REPRESENTED_BY_VAR_WRIGHTII"
+    },
+    {
+      "id": "anisacanthus-quadrifidus-var-wrightii",
+      "scientific_name": "Anisacanthus quadrifidus var. wrightii",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "anisacanthus-quadrifidus-wrightii",
+      "scientific_name": "Anisacanthus quadrifidus wrightii",
+      "status": "MALFORMED_SOURCE_DUPLICATE_REPRESENTED_BY_VAR_WRIGHTII"
+    }
+  ],
+  "study_strategy": {
+    "priority": [
+      "woody multi-stem shrub habit",
+      "opposite narrow lanceolate leaves",
+      "long orange-red to scarlet tubular bilabiate flowers",
+      "terminal spike-like clusters / condensed cymes",
+      "accepted variety handling"
+    ],
+    "warning": "Do not use the bare species name as a separate Central Texas learner concept. Current project taxonomy teaches the Texas native flame acanthus as A. quadrifidus var. wrightii; Hays Purola material is introduced and does not establish native Hays occurrence."
+  },
+  "quick_key": [
+    {
+      "if": "Central Texas woody shrub with narrow opposite leaves and orange-red tubular hummingbird flowers",
+      "then": "Anisacanthus quadrifidus var. wrightii — canonical PASS"
+    },
+    {
+      "if": "source says Anisacanthus quadrifidus without variety",
+      "then": "map the Central Texas flame-acanthus source concept to var. wrightii; do not create a second learner"
+    },
+    {
+      "if": "source says Anisacanthus quadrifidus wrightii",
+      "then": "normalize malformed name to A. quadrifidus var. wrightii"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-b150",
+    "genus_audit": "complete",
+    "source_concepts_reconciled": true,
+    "last_reviewed": "2026-10-05"
+  }
+}

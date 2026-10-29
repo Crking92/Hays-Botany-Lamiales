@@ -1,0 +1,160 @@
+{
+  "id": "verbena-scabra",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Verbena",
+  "species": "scabra",
+  "scientific_name": "Verbena scabra",
+  "authority": "",
+  "common_name": "Sandpaper vervain",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Feel or closely inspect the broad leaves: this is the big sandpaper-textured Verbena, with broad ovate leaves and long, thin flowering spikes that can form a branched panicle.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Comal",
+    "Travis"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Kew/POWO accepts Verbena scabra as native to the southern/central United States through Mexico and the Caribbean. USDA PLANTS-derived county native-status data explicitly marks Verbena scabra native in Hays, Comal, and Travis Counties (and several other project counties). The project Hays County native-source list independently includes Verbena scabra. UT Plant Resources Center documents Travis and Williamson County material, providing supporting local occurrence/morphology context.",
+    "range_guardrail": "The strict decision relies on county records explicitly marked native in the USDA-derived dataset; broad southeastern U.S. range language alone is not used."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "robust perennial, often 40–150 cm tall",
+      "broad ovate leaves, much wider than those of the other native B013 species",
+      "upper leaf surface harshly scabrous/sandpapery from short stiff hairs",
+      "lower nodes can root adventitiously in wet or submerged conditions",
+      "long slender spikes, often grouped into a branched panicle",
+      "flowers tiny relative to the very long spike",
+      "stems and rachises scabrous with pustulate-based hairs"
+    ],
+    "verbena_training": "Separate these by leaf architecture + hair texture + spike/branching architecture before using flower color."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Verbena brasiliensis",
+      "Verbena xutha",
+      "Verbena halei"
+    ],
+    "key_distinctions": "Verbena brasiliensis: Both can become tall and branched, but V. scabra has much broader sandpaper leaves and very long slender spikes; Brazilian vervain has narrow simple serrate leaves and many short compact spikes in an open panicle. Verbena xutha: V. xutha has distinctly lobed leaves and coarser discrete spikes; V. scabra has broad unlobed/serrate sandpaper leaves. Verbena halei: V. halei is much more slender with deeply divided lower leaves and narrow upper leaves."
+  },
+  "tags": [
+    "Verbenaceae",
+    "Verbena",
+    "Sandpaper vervain",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-009",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 4,
+    "last_photo_pass": "2026-10-12",
+    "photo_files_present": 2,
+    "manual_library_install_014": "2026-10-16"
+  },
+  "photo_note": "Diagnostic role list is preserved in research draft; exact final photo set can be polished later. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/22798502/large.jpeg",
+      "role": "Flowering spike / sandpaper vervain field reference",
+      "creator": "Alison Northup",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/guides/14344",
+      "inaturalist_photo_id": 22798502,
+      "source_type": "iNaturalist open data via Wildlife and Wildflowers of Texas guide",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "note": "Guide photo credit 47 identifies Alison Northup and CC BY; observation ID was not exposed by the guide retrieval path."
+    },
+    {
+      "file": "https://yavapaiplants.extension.arizona.edu/sites/default/files/styles/yp_card_image/public/Forbs/Images/Verbena_scabra_-_Sandpaper_Ver_1536861633_L_GS.jpg.webp?itok=eFw6hAAg",
+      "role": "Leaf close-up — broad toothed opposite leaf and flowering stem",
+      "creator": "Gordon Scott",
+      "license": "CC BY-SA (version not specified by Extension page)",
+      "license_status": "CC BY-SA designation verified; edition/version requires source follow-up for final public reuse",
+      "platform": "University of Arizona Cooperative Extension / Southwest Biodiversity Network",
+      "source_page": "https://yavapaiplants.extension.arizona.edu/verbena-scabra",
+      "source_record_id": "Verbena_scabra_-_Sandpaper_Ver_1536861633_L_GS",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "remote_only": true,
+      "local_file_present": false,
+      "caption": "Arizona voucher-type field reference: broad ovate serrate opposite leaves above a water-margin stem. A general photo cannot resolve the tiny swollen hair bases responsible for sandpaper texture. Source credit Gordon Scott, CC BY-SA (version unresolved).",
+      "diagnostic_roles": [
+        "broad coarsely toothed leaf",
+        "opposite leaf placement",
+        "long delicate flower spikes"
+      ]
+    },
+    {
+      "file": "images/library-review014-7464802251b2f2b.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Small flower and rough foliage plus flower spike closeup",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4424160882",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321752127/original.jpeg",
+      "source_determination": "Verbena scabra",
+      "source_observation_id": "4424160882",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/verbena-scabra/gbif-a1c5f9f368ac05.jpg",
+      "archive_image_sha256": "fa57452cb87eb87865e591a6539caa72c2dfa69d9afed8830da313518969e855",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review014-3637c11a1b5f4fd.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Small flower and rough foliage plus flower spike closeup",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/1323003871",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4985259/original.jpeg",
+      "source_determination": "Verbena scabra",
+      "source_observation_id": "1323003871",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/verbena-scabra/gbif-8fd531b3823f34.jpg",
+      "archive_image_sha256": "4c8e6255eb22baffc0461208ace9e2a86252820041645fa322ceadd4cc630ccf",
+      "image_dimensions": [
+        1024,
+        768
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-05",
+    "note": "Presentation fast-fill only; settled scientific taxonomy/range status is unchanged. One exact-species licensed field anchor installed; gallery remains source-limited pending additional easy diagnostic views.",
+    "last_photo_pass": "2026-10-12",
+    "photo_polish_pending": "true trichome macro on leaf adaxial surface"
+  }
+}

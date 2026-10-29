@@ -1,0 +1,124 @@
+{
+  "id": "forestiera-angustifolia",
+  "entry_type": "species",
+  "family": "Oleaceae",
+  "genus": "Forestiera",
+  "species": "angustifolia",
+  "scientific_name": "Forestiera angustifolia",
+  "authority": "Torr.",
+  "common_name": "Narrowleaf Elbowbush / Texas Swamp-privet",
+  "look_here_first": "Start with the tiny linear leaves. Narrowleaf elbowbush is densely twiggy with stiff 90-degree branching and very narrow leathery, often slightly rolled leaves. That skeletal, almost olive-like foliage separates it quickly from the broader-leaved F. pubescens.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Uvalde",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — City of Austin environmental assessment in Travis County explicitly lists F. angustifolia; Uvalde — Harris Ranch vegetation study records the species; Bexar — archaeological/environmental vegetation documentation lists elbow bush F. angustifolia.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen to semi-evergreen shrub, drought-deciduous in severe dryness",
+      "dense intricate branching with stiff near-right-angle branchlets",
+      "tiny linear leathery leaves",
+      "leaf margins entire and often revolute",
+      "young twigs dark; older bark smooth gray",
+      "inconspicuous green-yellow apetalous flowers before new leaves",
+      "small black single-seeded drupe"
+    ],
+    "comparison_training": "F. pubescens has much broader elliptic/ovate leaves with more visible pubescence and a winter-deciduous habit; F. angustifolia is the narrow, skeletal-leaved shrub."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Forestiera pubescens"
+    ],
+    "key_distinctions": "F. pubescens has much broader elliptic/ovate leaves with more visible pubescence and a winter-deciduous habit; F. angustifolia is the narrow, skeletal-leaved shrub."
+  },
+  "tags": [
+    "Oleaceae",
+    "Forestiera",
+    "Narrowleaf Elbowbush / Texas Swamp-privet",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b037",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/forestiera-angustifolia-provisional-face.jpg",
+      "role": "Shrub foliage / narrow-leaved habit recognizable face",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Guaiacum_angustifolium_1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-220263366.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/220263366",
+      "observation_url": "https://www.inaturalist.org/observations/129598300",
+      "observation_id": "129598300",
+      "photo_id": "220263366",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/220263366/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-342482746.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/342482746",
+      "observation_url": "https://www.inaturalist.org/observations/194782769",
+      "observation_id": "194782769",
+      "photo_id": "342482746",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/342482746/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

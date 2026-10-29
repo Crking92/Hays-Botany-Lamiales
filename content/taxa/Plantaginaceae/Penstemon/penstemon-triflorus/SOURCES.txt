@@ -1,0 +1,14 @@
+PHOTO FAST-FILL 028 — Penstemon triflorus
+Date: 2026-10-06
+Temporary one-photo learner coverage from exact-species/current-taxonomic-concept reusable media.
+Source: https://commons.wikimedia.org/wiki/File:Penstemon_triflorus_flowers.jpg
+License: CC BY-SA 3.0
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:53:55.608078+00:00
+Penstemon triflorus A.Heller
+https://www.gbif.org/occurrence/6184753638
+Wilton Shaw Jr | CC BY-NC http://creativecommons.org/licenses/by-nc/4.0/
+Target visual view (NOT YET verified): Narrow pink-to-red corolla and glossy opposite leaf details
+No anatomy arrows; no scientific or native-range changes.

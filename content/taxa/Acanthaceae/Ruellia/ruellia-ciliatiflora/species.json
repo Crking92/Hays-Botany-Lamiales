@@ -1,0 +1,179 @@
+{
+  "id": "ruellia-ciliatiflora",
+  "entry_type": "species",
+  "family": "Acanthaceae",
+  "genus": "Ruellia",
+  "species": "ciliatiflora",
+  "scientific_name": "Ruellia ciliatiflora",
+  "authority": "Hook.",
+  "common_name": "common wild petunia / violet ruellia",
+  "synonyms": [
+    "Ruellia nudiflora (Engelm. & A.Gray) Urb.",
+    "Ruellia nudiflora var. nudiflora",
+    "Ruellia occidentalis (A.Gray) Tharp & F.A.Barkley"
+  ],
+  "taxonomic_note": "Current Kew/POWO accepts Ruellia ciliatiflora and places the familiar Texas name Ruellia nudiflora in synonymy. Texas field literature still widely uses R. nudiflora; learner preserves that name as a primary alias.",
+  "look_here_first": "Start with where the flowers are. Common wild petunia sends a conspicuous peduncled, branching terminal flower stalk above the leaves; the flowers are not sitting directly in the leaf axils. Then confirm mostly glabrous/glabrescent oval-ovate leaves with wavy to low-dentate margins.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — UT Plant Resources Center Purola Preserve documents Ruellia nudiflora in the natural flora. Travis County — UT Plant Resources Center's Travis County Acanthaceae specimen index includes three Ruellia nudiflora var. nudiflora specimens. Williamson County — UT Plant Resources Center provides a detailed local treatment of Ruellia nudiflora var. nudiflora.",
+    "range_guardrail": "County records under R. nudiflora are accepted for the current R. ciliatiflora concept because Kew explicitly synonymizes that name; preserve the alias rather than duplicating the taxon."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb/subshrub with woody or persistent base",
+      "stems usually erect to ascending and relatively sparsely branched",
+      "opposite oval to ovate leaves, usually rounded to subacute at tip",
+      "foliage essentially glabrous to only inconspicuously short-hairy",
+      "leaf margins commonly wavy, subentire or low-dentate",
+      "inflorescences terminal and upper-axillary, distinctly pedunculate and branching into cymes",
+      "purple to violet funnel-shaped flowers elevated above foliage",
+      "calyx and fruit usually glandular-pubescent",
+      "capsule pubescent and explosively dehiscent"
+    ],
+    "comparison_training": "Ruellia drummondiana: R. drummondiana bears flowers/cymes directly from leaf axils with essentially no peduncle and has short fine pubescence; its capsules contain only 2–4 seeds. Ruellia humilis: R. humilis also has axillary nearly sessile flowers but is conspicuously long-pilose, especially on stems and leaf margins. Ruellia metziae: R. metziae also has terminal pedunculate flowers but is typically white to pale purple and has somewhat narrower leaves; preserve as a later local comparison."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ruellia drummondiana",
+      "Ruellia humilis",
+      "Ruellia metziae"
+    ],
+    "key_distinctions": "R. drummondiana bears flowers/cymes directly from leaf axils with essentially no peduncle and has short fine pubescence; its capsules contain only 2–4 seeds. R. humilis also has axillary nearly sessile flowers but is conspicuously long-pilose, especially on stems and leaf margins. R. metziae also has terminal pedunculate flowers but is typically white to pale purple and has somewhat narrower leaves; preserve as a later local comparison."
+  },
+  "tags": [
+    "Acanthaceae",
+    "Ruellia",
+    "common wild petunia / violet ruellia",
+    "Central Texas",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-b026",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "joey_enhanced": true,
+    "video_study_media_count": 1,
+    "photo_metadata_count": 4,
+    "photo_files_present": 3,
+    "manual_library_install_027": "2026-10-16"
+  },
+  "photo_note": "Diagnostic photo roles are verified in the deep-review draft; exact reusable selections remain a later visual-polish task.\n2026-10-16 photo recovery: local staged image 746790297; narrow persistent calyx lobes and hairs visible; exact identity follows source research-grade label and remains provisional; missing open flower, complete branching flowering stalk with leaves, seed capsule and confirmed leaf-node macro. No anatomy arrows. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "28:48",
+      "record_id": "N4yq5Z1_0Eo-36",
+      "role": "persistent calyx / capsule / opposite foliage",
+      "source_taxon": "Ruellia nudiflora",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/ruellia-nudiflora_calyx-capsule-source-label_28-48.jpg"
+    }
+  ],
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ruellia%20ciliatiflora%20%284611089716%29.jpg",
+      "role": "Flower and foliage / common wild petunia reference",
+      "creator": "Dinesh Valke",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_ciliatiflora_(4611089716).jpg",
+      "original_source_page": "https://www.flickr.com/photos/dinesh_valke/4611089716/",
+      "source_type": "Flickr via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "note": "Source description uses the familiar older name Ruellia nudiflora. The canonical project record explicitly places R. nudiflora in synonymy under accepted R. ciliatiflora, so this image is used for the same current taxon concept."
+    },
+    {
+      "file": "images/inat-746790297-ruellia-ciliatiflora-inflorescence.jpg",
+      "role": "Close view of a hairy branching inflorescence with slender persistent calyx lobes; flowers, capsules and precise anatomical labels are not resolved",
+      "creator": "verdeloth8 (source account; individual photographer unverified)",
+      "license": "CC0 per staged individual-photo metadata; live photo-level verification pending",
+      "platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/746790297",
+      "source_record_id": "746790297",
+      "observation_id": "406476262",
+      "photo_id": "746790297",
+      "source_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/746790297/large.jpg",
+      "study_use": true,
+      "public_reuse": "review",
+      "remote_only": false,
+      "local_file_present": true,
+      "caption": "Provisional exact-species source image of a hairy flowering stalk and slender persistent calyx lobes. Do not infer flower or fruit anatomy from this view; no arrows added.",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "file": "images/library-review027-9cfbf20f2d6b23d.jpg",
+      "role": "Purple tubular corollas with low branching leafy habit; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show tubular flowers and plant foliage",
+      "creator": "Rob Foster",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6253302529",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611898471/original.jpg",
+      "source_determination": "Ruellia ciliatiflora",
+      "source_observation_id": "6253302529",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/ruellia-ciliatiflora/gbif-1615c50f837343.jpg",
+      "archive_image_sha256": "8040a69baa2cf411dfabcadee3f2c0a6ef03109d73e487f836628d46fb9aeff6",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review027-42ac8d6f8cc19bd.jpg",
+      "role": "Corolla face and lobes at close range; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show tubular flowers and plant foliage",
+      "creator": "Trap Hers",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5109825609",
+      "media_source_url": "https://bs.plantnet.org/image/o/040152a064e294423ea4eca4864327f387f4997e",
+      "source_determination": "Ruellia ciliatiflora",
+      "source_observation_id": "5109825609",
+      "library_release_tag": "hays-photo-library-seed-plantnet-20261015",
+      "library_archive_file": "staged_images/ruellia-ciliatiflora/plantnet via gbif-64437f60715912.jpg",
+      "archive_image_sha256": "c2c1bef91e23ed8131c04e63f45e18488f6a5810cdd22476f5e7160e1a877e73",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-05",
+    "note": "One locally installed iNaturalist close-up of hairy flowering stalk and narrow persistent calyx lobes, plus original external Wikimedia reference. Photographer/live photo license review and flowering/whole-plant diagnostic views still needed; annotation pending.",
+    "physically_installed_image_count": 1
+  }
+}

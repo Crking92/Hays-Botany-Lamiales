@@ -1,0 +1,168 @@
+{
+  "rank": "genus",
+  "name": "Chilopsis",
+  "family": "Bignoniaceae",
+  "common_group": "Desert willow",
+  "project_scope": {
+    "canonical_species_ids": [
+      "chilopsis-linearis"
+    ],
+    "canonical_species_count": 1,
+    "source_pool_taxa": [
+      "Chilopsis linearis"
+    ],
+    "lookalike_reference_genera": [
+      "Campsis",
+      "Bignonia"
+    ],
+    "native_target_zone_calculated": false,
+    "source_of_status": "content/taxa/Bignoniaceae/Chilopsis/chilopsis-linearis/species.json",
+    "note": "One canonical species in this genus in the current learner; comparisons to other genera are NOT separate canonical species."
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Free-standing deciduous shrub/small tree, not a climbing vine. Leaves simple and extraordinarily narrow, alternate OR opposite on different shoots; long, ruffled pink-lavender trumpet flowers; extremely long thin dry two-valved capsules release flat seeds with hair-fringed ends. It is NOT a true Salix willow.",
+    "emphasis": "USE LEAF STRUCTURE / CLIMBING MECHANISM first; flower color alone is poor Bignoniaceae ID. Confirm with long 2-valved capsule and seeds.",
+    "family_note": "Bignoniaceae generally has bilateral trumpet-shaped flowers with four fertile didynamous stamens + reduced fifth, and capsules with winged or haired seeds."
+  },
+  "genus_comparison_matrix": [
+    {
+      "character": "habit",
+      "Chilopsis": "Freestanding woody shrub or small tree with airy irregular crown",
+      "Campsis": "Climbing vine with aerial rootlets",
+      "Bignonia": "Climbing woody vine with adhesive tendrils"
+    },
+    {
+      "character": "leaf unit",
+      "Chilopsis": "SINGLE linear entire leaf, often very narrow (roughly 3–10+ in long)",
+      "Campsis": "7–11 pinnate serrate leaflets",
+      "Bignonia": "2 leaflets plus tendril"
+    },
+    {
+      "character": "leaf arrangement",
+      "Chilopsis": "Alternate and sometimes opposite; never demand opposite for this genus",
+      "Campsis": "Usually opposite",
+      "Bignonia": "Usually opposite"
+    },
+    {
+      "character": "flower",
+      "Chilopsis": "Ruffled pink, lavender, pale or white tubular flower with marked throat",
+      "Campsis": "Orange/red tubes",
+      "Bignonia": "Orange/red tubes often yellow throat"
+    },
+    {
+      "character": "fruit",
+      "Chilopsis": "Long, very slender dry capsule; several flat seeds with hairy fringe at each end",
+      "Campsis": "Long robust dry capsule with papery winged seeds",
+      "Bignonia": "Long flat capsule with many winged seeds"
+    },
+    {
+      "character": "look-alike Salix",
+      "Chilopsis": "Smooth-edged narrow willow-like blade but Bignoniaceae trumpets and narrow two-valved winged-seed capsules",
+      "Campsis": "Not willow-like foliage",
+      "Bignonia": "Not willow-like foliage"
+    }
+  ],
+  "look_here_first_sequence": [
+    "First decide that the plant is a SELF-SUPPORTING small tree, not a vine; this splits from local Campsis/Bignonia.",
+    "Inspect a simple, extremely narrow leaf (often alternate, sometimes opposite); no individual leaflets or tendrils.",
+    "Examine flowering twigs for broad-throated ruffled flowers marked with streaks rather than willow catkins.",
+    "On fruiting specimens examine long, narrow two-valved capsules and flattened seed fringes, unlike Salix cottony seed plumes."
+  ],
+  "lookalikes_and_scientific_cautions": [
+    "True willows (Salix spp., Salicaceae) produce catkins and capsules with tufted silky seeds; do not key Chilopsis by narrow leaves alone.",
+    "Catalpa and ×Chitalpa hybrids are Bignoniaceae with showy flowers and capsules, but foliage and parentage differ; garden provenance matters.",
+    "Chilopsis linearis occurs naturally in arid western/southwestern Texas and is planted elsewhere; canonical target-zone native status remains false.",
+    "Simple leaves may be alternate, opposite or sometimes whorled; a family key requiring opposite compound foliage will incorrectly exclude Chilopsis."
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "role": "narrow leaves at stem nodes",
+      "priority": "critical",
+      "show": "entire blade, arrangement alternate versus opposite on twig with ruler"
+    },
+    {
+      "role": "flower corolla and throat",
+      "priority": "critical",
+      "show": "five ruffled lobes, throat nectar guides, four stamens + staminode"
+    },
+    {
+      "role": "wing-fringed seeds and capsule",
+      "priority": "critical",
+      "show": "dry 2-valved very slender capsule splitting, flat seed with long hairs at both ends and measurement"
+    },
+    {
+      "role": "Chilopsis vs Salix",
+      "priority": "high",
+      "show": "same-scale narrow leaves, but Chilopsis trumpet and Salix catkin/seed cotton"
+    },
+    {
+      "role": "full airy tree habit",
+      "priority": "high",
+      "show": "trunk and branching, foliage and flowers/fruit, provenance"
+    },
+    {
+      "role": "Chilopsis vs Bignonia/Campsis",
+      "priority": "high",
+      "show": "simple linear leaf vs pinnate vs tendrilled leaves, clear labels"
+    }
+  ],
+  "existing_photo_inventory": [
+    {
+      "path": "content/taxa/Bignoniaceae/Chilopsis/chilopsis-linearis/images/01-small-tree-habit.jpg",
+      "role": "whole habit"
+    },
+    {
+      "path": "content/taxa/Bignoniaceae/Chilopsis/chilopsis-linearis/images/02-trumpet-flowers-branch.jpg",
+      "role": "flowering branch"
+    },
+    {
+      "path": "content/taxa/Bignoniaceae/Chilopsis/chilopsis-linearis/images/03-narrow-foliage.jpg",
+      "role": "narrow foliage"
+    }
+  ],
+  "visual_training_group": [
+    {
+      "name": "Campsis radicans",
+      "door": "WOODY CLIMBER + aerial attachment rootlets + odd pinnate leaf of 7–11 serrated leaflets"
+    },
+    {
+      "name": "Bignonia capreolata",
+      "door": "WOODY CLIMBER + adhesive branched tendril replacing third leaflet + TWO leaflets per leaf"
+    },
+    {
+      "name": "Chilopsis linearis",
+      "door": "SELF-SUPPORTING TREE/SHRUB + SINGLE very narrow willow-like leaf (alternate or opposite) + trumpet flowers"
+    }
+  ],
+  "diagnostic_photo_handoff": "Diagnostic-photo lane: seed capsules split lengthwise and hairy seeds still missing; no fruit photos installed by this genus lane.",
+  "scientific_sources": [
+    {
+      "title": "Canonical species cards",
+      "notes": "Use corresponding exact source species.json for approved learner identity, source image licenses and project range classification"
+    },
+    {
+      "title": "Bignoniaceae family recognition",
+      "path": "content/taxa/Bignoniaceae/family.json",
+      "notes": "4 didynamous stamens + reduced fifth, two-valved dry capsules and flattened wind-dispersed seeds"
+    },
+    {
+      "title": "Texas A&M Forest Service Trees of Texas — desert willow",
+      "url": "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=30&t=D",
+      "notes": "alternate/opposite narrow leaves, 7–12-in capsules"
+    },
+    {
+      "title": "US Forest Service FEIS Chilopsis",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/chilin",
+      "notes": "hair-fringed seed and narrow capsule"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-backfill-2026-10-11",
+    "last_reviewed": "2026-10-11",
+    "comparison_rows": 6,
+    "photo_locks": 6,
+    "visual_status": "existing canonical species assets inventoried; no new photos installed",
+    "scientific_decisions": "unchanged",
+    "species_installation": "none"
+  }
+}

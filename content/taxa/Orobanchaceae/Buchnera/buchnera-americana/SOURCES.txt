@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319121-2
+Source research-grade observation: https://www.inaturalist.org/observations/171264740
+Photo: https://www.inaturalist.org/photos/297166214
+Attribution: (c) Brian Charles, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Buchnera americana
+Creator: ashleyrsteel; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5198576572
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/buchnera-americana/gbif-2fedca8d98de5a.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

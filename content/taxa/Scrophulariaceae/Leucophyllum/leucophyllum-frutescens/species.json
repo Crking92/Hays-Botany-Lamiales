@@ -1,0 +1,164 @@
+{
+  "id": "leucophyllum-frutescens",
+  "entry_type": "species",
+  "family": "Scrophulariaceae",
+  "genus": "Leucophyllum",
+  "species": "frutescens",
+  "scientific_name": "Leucophyllum frutescens",
+  "authority": "(Berland.) I.M.Johnst.",
+  "common_name": "Cenizo / Texas silverleaf / Texas sage",
+  "synonyms": [
+    "Terania frutescens Berland."
+  ],
+  "look_here_first": "Start with WOODY SHRUB + small silver/ash-gray fuzzy leaves (densely matted fine hairs) packed along the branches. Then locate ONE tubular, two-lipped, five-lobed lavender to purple flower emerging from a LEAF AXIL. Count four stamens in two length pairs when flower is accessible. The common name 'Texas sage' is NOT Salvia texana.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Master Plant Pool row 636, My iNaturalist flora and personal list, 3 source flags; 9 observations (6 wild-tagged, 3 cultivated), Hays Local in tracker.",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "range_basis": "Native to Texas (native range predominantly South Texas/Trans-Pecos) per UT Austin herbarium and Texas A&M; BONAP/NAPA county distribution needs reconciliation for at least 3 of 24 project counties. Hays-area observations and nursery plantings do not prove historic indigenous range.",
+    "native_metrics_excluded": true
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "learner_role": "RANGE_UNRESOLVED",
+  "morphology_keys": {
+    "habit": "Much-branched evergreen or seasonally semi-evergreen woody shrub to about 2.5 m; gray older bark, no spines; natural shrubs often irregular rather than sheared balls.",
+    "leaves": "Small simple entire-margined elliptic to obovate blades, mostly under about 2.5 cm, pale gray from dense soft matted trichomes; foliage often crowded on short shoots and sometimes appears paired though generally described as alternate/clustered; distinguish leaf arrangement on several nodes rather than one tight tuft.",
+    "leaf_hairs": "Dense fine soft woolly hairs (tomentum) give ashy silver color; a hand lens and good macro help distinguish hair surface from waxy/glaucous coating.",
+    "flowers": "Usually solitary in upper leaf axils; pink-lavender to violet, occasionally white; funnel/bell-shaped tubular corolla, five unequal lobes arranged in two lips, throat may have darker spotting and hairs.",
+    "reproductive": "Usually four fertile stamens (two longer, two shorter, didynamous); superior two-carpellate ovary, mature fruit a dry many-seeded capsule splitting by two valves. Clear stamen/calyx/fruit views needed in final photo polish.",
+    "habitat": "Limestone/caliche hillsides and dry brushlands, widespread in South Texas and used ornamentally well outside indigenous stands."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Salvia texana (true Texas sage)",
+      "Other Salvia spp. with purple flowers",
+      "Leucophyllum langmaniae and other Leucophyllum in cultivation",
+      "Buddleja marrubiifolia",
+      "Solanum elaeagnifolium"
+    ],
+    "key_distinctions": "True Salvia is Lamiaceae: often strongly four-angled herbaceous stems, opposite leaves, flowers in verticillasters and typically two fertile stamens; cenizo is a woody Scrophulariaceae shrub with densely gray hairy leaves and single axillary tubular flowers with four fertile stamens. Other Leucophyllum/cultivars can have overlapping leaf/flower characters: avoid exact taxon or wild-origin calls from bloom color or foliage brightness alone. Silverleaf nightshade has rotate/starry flowers and may have prickles, not cenizo's tubular bilabiate flower."
+  },
+  "diagnostic_image_needs": [
+    {
+      "priority": 1,
+      "role": "Whole wild-origin mature shrub in South Texas brush with scale / growth architecture",
+      "status": "PROVISIONAL nonlocal habit photo installed from curated source; natural wild habitat view pending"
+    },
+    {
+      "priority": 1,
+      "role": "Leaf node showing true attachment plus 10x macro of silver tomentose hairs",
+      "status": "Foliage image selected; specific hairs and node arrows pending close-up"
+    },
+    {
+      "priority": 1,
+      "role": "Flower FRONT and SIDE + flower stalk emerging from exact leaf axil",
+      "status": "General flowers/leaves photos selected; same-flower paired closeups pending"
+    },
+    {
+      "priority": 2,
+      "role": "Calyx, dissected corolla showing four stamens (2 long + 2 short)",
+      "status": "Closeup flower and possible old fruit available; exact counted stamens, dissected calyx and 2-valved ripe capsule still PENDING final polish"
+    },
+    {
+      "priority": 2,
+      "role": "Two-valved ripe capsule with seeds and twig detail",
+      "status": "PENDING final polish"
+    },
+    {
+      "priority": 2,
+      "role": "Wild-type Leucophyllum versus cultivated or related Leucophyllum same-scale comparisons",
+      "status": "PENDING final polish"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/cenizo-texas-flowers-and-leaves.jpg",
+      "role": "Texas field location: flowering branch with gray leaves and solitary axillary pink flowers; near branch sharper than distant top background",
+      "creator": "cricketsblog (Melissa McMasters)",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cenizo.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, CC attribution"
+    },
+    {
+      "file": "images/cenizo-ashy-leaves.jpg",
+      "role": "Key leaf recognition: small gray densely hairy obovate/elliptic leaves clustered on woody twig",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_071227-0920_Leucophyllum_frutescens.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, CC attribution"
+    },
+    {
+      "file": "images/cenizo-flower-close.jpg",
+      "role": "Flowering shrub overview showing multiple pink flowers and gray foliage, not an individual flower macro",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0 US",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-090806-3883-Leucophyllum_frutescens-flowers_and_leaves-Wailuku-Maui_(24340932104).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, CC attribution"
+    },
+    {
+      "file": "images/cenizo-flowering-habit.jpg",
+      "role": "Whole shrub branch and flowering habit, visual recognition only, likely cultivated",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0 US",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-090806-3882-Leucophyllum_frutescens-flowering_habit-Wailuku-Maui_(24878196321).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, CC attribution"
+    },
+    {
+      "file": "images/cenizo-flower-fruit.jpg",
+      "role": "flower and fruit, closeup",
+      "creator": "Forest and Kim Starr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_041028-0233_Leucophyllum_frutescens.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "name": "BONAP NAPA/TDC county map (county evidence not yet adjudicated)",
+      "url": "https://bonap.net/TDC/Image/Map?locationType=County&mapType=Normal&taxonId=23072&taxonType=Species"
+    },
+    {
+      "name": "Texas A&M AgriLife range and morphological description",
+      "url": "https://rangeplants.tamu.edu/plant/ceniza-purplesage-texas-silverleaf/"
+    },
+    {
+      "name": "UT Austin herbarium / Cenizo locality and native range",
+      "url": "https://w3.biosci.utexas.edu/prc/wildflowers/flower/leucophyllum-frutescens"
+    },
+    {
+      "name": "UT Austin teaching photo gallery (study link only; license not established)",
+      "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/scr/leucophyllum_frutescens.htm"
+    }
+  ],
+  "photo_note": "Five exact-species Creative Commons images after installer: South Texas flowers/leaves; leaf detail; two wider shrub/flowering views; close-up flower and old fruit. No named cultivars. Exact hair macro, calyx, confirmed dehiscing capsule and wild natural-origin comparisons remain final polish.",
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_enrichment",
+    "image_count": 5,
+    "note": "Five physical licensed real photos installed and linked. Species recognition field-ready provisional; highly diagnostic microscopics, true wild-origin comparison and target-zone native evidence pending."
+  },
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "range_reviewed": false,
+    "lookalikes_reviewed": true,
+    "source_pool_approved": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-13",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "visual_reviewed": true,
+    "visual_status": "field_recognition_provisional",
+    "photo_backfill_needed": false
+  }
+}

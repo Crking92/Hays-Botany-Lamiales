@@ -1,0 +1,7 @@
+Master Plant Pool Phase3 accepted-name preflight; Kew: https://powo.science.kew.org/results?q=Plantago%20rhodosperma
+iNaturalist research-grade observation: https://www.inaturalist.org/observations/265245797
+Photo exact ID: https://www.inaturalist.org/photos/476406656
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/476406656/large.jpeg
+Creator / attribution: (c) Joey Santore, some rights reserved (CC BY-NC)
+License: CC BY-NC. Usage: private noncommercial botanical training only.
+Images visually provisional; no native-range claim or diagnostic anatomy verification.

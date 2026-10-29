@@ -1,0 +1,28 @@
+CASTILLEJA INDIVISA — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; settled PASS taxonomy/range unchanged.
+
+Existing project/Joey material was checked first; no installed exact-species gallery was available.
+
+Exact-species iNaturalist guide: https://www.inaturalist.org/guide_taxa/385179
+
+1) Photo ID 82571
+Creator: CameliaTWU
+License: CC BY-NC-SA
+Source: https://www.inaturalist.org/photos/82571
+Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/82571/large.jpg
+Role: several whole flowering stems showing compact annual habit and red bracts.
+
+2) Photo ID 314503
+Creator: Judith Ellen Lopez
+License: CC BY-NC
+Source: https://www.inaturalist.org/photos/314503
+Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/314503/large.JPG
+Role: flowering spike with red bracts and projecting pale corolla.
+
+3) Photo ID 2999074
+Creator: Roberto R. Calderón
+License: CC BY-NC
+Source: https://www.inaturalist.org/photos/2999074
+Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/2999074/large.jpg
+Role: close flower/bract structure.

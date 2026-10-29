@@ -1,0 +1,707 @@
+{
+  "id": "glandularia-bipinnatifida",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Glandularia",
+  "species": "bipinnatifida",
+  "scientific_name": "Glandularia bipinnatifida",
+  "common_name": "Prairie Verbena / Dakota Mock Vervain",
+  "taxonomic_note": "Current Kew/POWO accepted species concept. Historical Verbena combinations remain useful search aliases in sources. Source-pool nominate variety is represented in this species-level learner card; no separate variety card created.",
+  "look_here_first": "LOOK AT THE MATURE LEAVES BEFORE THE FLOWERS. They occur in OPPOSITE pairs on a slightly 4-angled, hairy stem, and the larger leaves are deeply cut twice into many fernlike narrow lobes. Then inspect the tight terminal cluster: five-lobed, two-lipped tubular lilac-to-purple flowers with a bract beneath EACH flower. From the side look for the narrow pointed flower bract near/slightly longer than its hairy 5-toothed calyx, and later for a fruiting spike that stretches out so the persistent calyces become more separated. Compare with Glandularia pumila (smaller, broadly divided leaves and shorter compact fruiting spike) before confirming. Purple flowers alone never prove this ID.",
+  "county_occurrences_target_zone": [
+    "Uvalde",
+    "Medina",
+    "Real"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "South-central Texas floristic voucher set explicitly records G. bipinnatifida in Uvalde, Medina, and Real counties; Williamson and Travis are also independently documented.",
+    "range_guardrail": "Exact county voucher evidence; no inferred counties."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "OPPOSITE leaves at hairy, often four-angled stem nodes; follow a stem and check pairs.",
+      "Mature leaf often deeply twice-pinnately cut, with many secondary narrow lobes, fern-like at a glance.",
+      "Low mat-forming to ascending habit on sunny, open Central Texas prairie/limestone edges.",
+      "Rounded terminal cluster is a SHORT DENSE SPIKE, not a true single composite flower.",
+      "Each corolla is a fused tube ending in five unequal lobes (two upper/three lower).",
+      "Hairy persistent five-toothed calyx; a separate narrow bract subtends each flower, often slightly longer.",
+      "After bloom, the spike axis lengthens so calyces become spaced; compare with G. pumila.",
+      "Size, color and lobe count vary: combine mature leaf, bract/calyx and spike, never purple flowers alone."
+    ],
+    "comparison_training": "G. pumila is lower and more compact, with smaller broadly ovate leaves divided into fewer broader lobes and a very short dense spike that does not elongate much in fruit. G. bipinnatifida looks more finely cut and feathery.",
+    "leaf_arrangement": "Opposite and decussate on 4-angled stems; petiolate, larger leaves often broad triangular in overall outline.",
+    "leaf_dissected": "Larger mature leaves opposite, petiolate, often broadly triangular/ovate in overall outline and deeply once- or twice-pinnately divided: each primary lobe often has secondary sublobes, creating a fernlike effect. Smaller apical/young leaves may be less divided. Examine mature mid-stem leaves and photograph both sides.",
+    "flowering_structure": "Dense terminal spike, flat-to-rounded in flower; spike rachis extends conspicuously as fruits mature, and individual flowers/bracts can become spaced.",
+    "fruit": "Flowering spike axis elongates as seeds develop, separating the hairy persistent calyces; inside each mature calyx the schizocarp yields four one-seeded mericarps (nutlets). A dense *flowering* head and elongated *fruiting* spike can occur on the same plant.",
+    "field_checks": [
+      "Compare mature leaves at same scale, not small juvenile leaves.",
+      "Look for strong 1–2-pinnate leaf division.",
+      "Inspect older fruiting head for elongation and separated calyces.",
+      "Check single calyx/flower tube in profile for supporting measures."
+    ],
+    "habitat_habit": "Low spreading or ascending, short-lived perennial or annual herb on open limestone, clay/caliche or grassy prairie margins; several stems from base; lower stems may root where they touch soil. Not a cultivar identity.",
+    "stem_nodes": "Stem hairy, roughly 4-angled/square in cross-section; leaf pairs opposite/decussate. Angles can be reddish. Supporting family trait; NOT species-specific.",
+    "flower_anatomy": "Not five separate petals: the corolla is ONE fused tube ending in five unequal spreading lobes, organized 2 upper + 3 lower; some lower lobes notched. Round to flat-topped tightly crowded terminal flowering spike, often lilac, pale pink or violet. Flowers about 8–12 mm across in UT regional account; variation across populations.",
+    "calyx_bract": "Each tiny flower has a narrow awl/lanceolate green bract subtending a hairy five-toothed calyx; bract generally slightly longer than calyx in Williamson specimens. Do not label a bract unless the separate leaflike structure BELOW an individual calyx is visibly resolved.",
+    "crew_checklist": [
+      "1. Photo full plant and follow creeping/ascending stems.",
+      "2. Take TOP-DOWN view of an entire mature opposite LEAF PAIR and one large twice-cut leaf.",
+      "3. Photograph a node from the side: leaf pair, stem hair and four-angled stem.",
+      "4. Shoot a flower HEAD top-on with the individual fused tubular 5-lobed corollas visible.",
+      "5. Shoot SIDE of head at macro scale: find one bract BELOW one hairy calyx, not a random other lobe.",
+      "6. Shoot an old fruiting spike and compare its length to a young flowering one on same plant."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Glandularia pumila",
+      "Glandularia quadrangulata",
+      "Verbena halei",
+      "Verbena xutha",
+      "Verbena brasiliensis",
+      "Glandularia canadensis",
+      "Glandularia × hybrida"
+    ],
+    "key_distinctions": "vs LOCAL G. pumila: G. bipinnatifida usually has larger fernlike twice-cut mature leaves and a more elongating fruiting spike; G. pumila typically smaller broadly divided leaves, very small flowers, compact fruiting spike. Flower color overlaps. vs G. quadrangulata: small pale flowers (often white/lavender), smaller heads and less extensive second-order lobing; county occurrence not assumed. Both Glandularia and Verbena may have opposite leaves, but many Verbena have elongated slender spikes even when flowering. Check leaf + flower bract/calyx + fruit spike as combined ID.",
+    "cross_genus_lookalikes": [
+      {
+        "taxon": "Verbena halei",
+        "difference": "Both can show divided leaves; Glandularia bipinnatifida more typically has compact flower heads at anthesis and conspicuous 1–2-pinnate foliage, while V. halei has slender, often open spikes and lower leaves variably dissected."
+      },
+      {
+        "taxon": "Verbena xutha",
+        "difference": "Both may have lobed leaves; Gulf vervain usually has coarser, predominantly 3-lobed leaves and elongate spikes, not feathery twice-divided foliage and terminal clustered Glandularia flower heads."
+      },
+      {
+        "taxon": "Verbena brasiliensis",
+        "difference": "Introduced tall/wiry upright vervain with slender long branching flowering spikes and coarsely toothed, not finely twice-cut foliage; do not equate every purple verbena with native prairie verbena."
+      },
+      {
+        "taxon": "Glandularia canadensis",
+        "difference": "Showier rose vervain is more eastern/sandy; mature leaves less deeply dissected and commonly longer corolla tubes; glandular calyx pubescence useful. Not automatically a confirmed Hays-county look-alike."
+      },
+      {
+        "taxon": "Glandularia × hybrida (garden vervain)",
+        "difference": "Escaped/cultivated multi-colored hybrids may have similar clusters; origin and vegetative morphology vary. Do not use nursery cultivar photographs as wild native reference."
+      }
+    ],
+    "field_comparison_matrix": [
+      {
+        "taxon": "Glandularia bipinnatifida",
+        "context": "Target: native prairie verbena",
+        "leaf": "Larger mature leaves deeply twice-cut into narrow secondary lobes",
+        "flowering_head": "Showy round/flat dense terminal spike of purple/lilac tubular five-lobed flowers",
+        "fruiting_head": "Axis elongates, calyces become spaced",
+        "field_tip": "Show mature leaf AND old fruiting spike for stronger ID."
+      },
+      {
+        "taxon": "Glandularia pumila",
+        "context": "Local native: low/pink mock vervain",
+        "leaf": "Generally smaller broadly triangular leaves with fewer wider primary lobes and irregular sublobes",
+        "flowering_head": "Smaller tighter head; smaller florets; purple/pink overlap",
+        "fruiting_head": "Spike remains compact or elongates far less",
+        "field_tip": "Mature side-by-side leaf at same scale plus old fruiting axis."
+      },
+      {
+        "taxon": "Glandularia quadrangulata",
+        "context": "Texas native; local county confirmation pending",
+        "leaf": "Less feathery/variously lobed; variable forms",
+        "flowering_head": "Smaller pale/lavender/white flowers and short heads",
+        "fruiting_head": "Check narrow bracts and nutlets with botanical key",
+        "field_tip": "Provisional if pale diminutive Glandularia; no color-only diagnosis."
+      },
+      {
+        "taxon": "Verbena halei",
+        "context": "Texas native",
+        "leaf": "Variable narrow to lobed leaves, not usually fernlike 2-pinnate",
+        "flowering_head": "Longer narrower slender flowering spikes rather than round face",
+        "fruiting_head": "Typically extended spikes",
+        "field_tip": "Follow a whole spike; do not identify by one isolated bloom."
+      },
+      {
+        "taxon": "Verbena xutha",
+        "context": "Texas native; exact county unreviewed",
+        "leaf": "Coarser 3-lobed to toothed foliage",
+        "flowering_head": "Long narrow spikes rather than crowded rounded terminal Glandularia heads",
+        "fruiting_head": "Elongate slender spikes",
+        "field_tip": "Photograph whole stem with mature leaves and spikes."
+      },
+      {
+        "taxon": "Verbena brasiliensis",
+        "context": "Introduced species",
+        "leaf": "Lanceolate and toothed, not fernlike",
+        "flowering_head": "Many tiny flowers on thin branching spikelike axes, tall stems",
+        "fruiting_head": "Long dispersed flowering branches",
+        "field_tip": "Unwanted introduced vervain is not this native."
+      },
+      {
+        "taxon": "Glandularia canadensis",
+        "context": "Regional/eastern comparison; Hays occurrence unconfirmed",
+        "leaf": "Less finely cut, often broader-lobed",
+        "flowering_head": "Showy larger pink or purple flowers",
+        "fruiting_head": "Calyx may have many glandular hairs",
+        "field_tip": "Prioritize morphology and verified source localities."
+      },
+      {
+        "taxon": "Glandularia × hybrida",
+        "context": "Cultivated or escaped horticultural complex",
+        "leaf": "Variable, often coarser",
+        "flowering_head": "Dense larger ornamentals in many color forms",
+        "fruiting_head": "Variable",
+        "field_tip": "Do not treat clone/cultivar imagery as native ecotype evidence."
+      }
+    ],
+    "crew_key": [
+      "Opposite hairy leaves on low spreading stems? Inspect a mature mid-stem leaf.",
+      "Strong 1–2-stage fernlike incisions? Candidate G. bipinnatifida; shallow fan-lobed leaves suggest G. pumila.",
+      "Flower is 5 LOBES on a fused tube, in a rounded terminal crowd of separate little flowers.",
+      "Side macro: pointed individual flower bract, hairy five-toothed calyx; confirm real structures, don't assume.",
+      "Old fruiting spike elongated and calyces separated? Supports bipinnatifida over often compact G. pumila.",
+      "If only purple flower-head photo is available, keep Glandularia sp.; do not promise species."
+    ]
+  },
+  "tags": [
+    "Verbenaceae",
+    "Glandularia",
+    "Prairie Verbena / Dakota Mock Vervain",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b032",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 10,
+    "morphology_polished": "2026-10-12",
+    "photo_files_present": 9,
+    "glass_root_garden_photo_install": "2026-10-14",
+    "field_id_text_reviewed": "2026-10-20",
+    "finished_field_id_pass": "PASS_IN_PROGRESS",
+    "required_to_finish": [
+      "Photograph an individually resolved flower's bract and hairy calyx, both pointed at true features",
+      "Photograph an old elongated fruiting spike at same scale as G. pumila",
+      "Verify completed first-look overlay after public Pages build",
+      "Retain current restrictions on the three Joey CC BY-NC and Glass Root private-study images"
+    ],
+    "public_licensed_gallery_update": "2026-10-20",
+    "annotated_gallery_pixel_review": "2026-10-20: 7 source-JPEG-verified targets across 4 publicly reusable photos; in-gallery and always-visible first-look overlays enabled."
+  },
+  "photo_note": "Diagnostic roles defined; exact reusable image lock remains visual-polish work. Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Joey Santore photo additions are rights-limited CC BY-NC and botanical ID provisional. 2026-10-20: 5 public-safe Wikimedia photos physically archived (2 replace remote only, 3 new), 10 gallery records total. No new arrows invented.",
+  "images": [
+    {
+      "file": "images/commons-masonbrock-texas-prairie-verbena.jpg",
+      "role": "Recognize it — Texas wild plant photographed in dry rocky Ellis County prairie; show general clustered purple flowers and coarse habitat context. Only label structures actually visible.",
+      "creator": "Mason Brock",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida.jpg",
+      "source_type": "Wikimedia Commons; Ellis County, Texas",
+      "study_use": "Credited public botanical education",
+      "public_reuse": "Yes; obey linked individual Public Domain/CC BY/CC BY-SA source rights.",
+      "previous_remote_file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Glandularia%20bipinnatifida.jpg",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida.jpg",
+      "source_platform": "Wikimedia Commons, licensed original photo",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Glandularia_bipinnatifida.jpg",
+      "original_image_sha256": "f38f8a875220c5c1e7aa96f4ca53e1aeafe20de6675c3c5c51ebc2f11ae7df60",
+      "original_image_dimensions": [
+        2992,
+        3012
+      ],
+      "image_dimensions": [
+        1589,
+        1600
+      ],
+      "source_taxon": "Glandularia bipinnatifida",
+      "modifications": "EXIF removed and image downscaled to 1600 pixels; no arrows added.",
+      "anatomy_arrows": [
+        {
+          "label": "Hairy flowering spike",
+          "target_fraction": [
+            0.35,
+            0.34
+          ]
+        }
+      ],
+      "photo_review": "Exact species and individual photographer/source license independently researched; source image pixel-level anatomy arrow review still pending.",
+      "manual_arrow_review": "2026-10-20 real local JPEG readback via GitHub connector, viewed full image; marker percentages map to exact visually present structure on saved rescaled file SHA256=f38f8a875220c5c1e7aa96f4ca53e1aeafe20de6675c3c5c51ebc2f11ae7df60"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/94460910/large.jpg",
+      "role": "Flower cluster and dissected foliage / field reference",
+      "creator": "sonnia hill",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/guides/14344",
+      "inaturalist_photo_id": 94460910,
+      "source_type": "iNaturalist open data via Wildlife and Wildflowers of Texas guide",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "note": "Guide photo credit 50 identifies sonnia hill and CC BY; observation ID was not exposed by the guide retrieval path."
+    },
+    {
+      "file": "images/commons-fonseca-prairie-verbena-527.jpg",
+      "role": "Look closer — source-verified Glandularia flower cluster and cut foliage. Distinguish individual five-lobed corolla, calyx and pinnate leaves only if clear in downloaded pixels.",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY-SA",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_000000000527.jpg",
+      "platform": "Wikimedia Commons",
+      "source_record_id": "File:Glandularia bipinnatifida 000000000527.jpg",
+      "study_use": "Credited public botanical education",
+      "public_reuse": "Yes; obey linked individual Public Domain/CC BY/CC BY-SA source rights.",
+      "remote_only": true,
+      "local_file_present": false,
+      "caption": "Real flowering prairie verbena photo: divided foliage clearly visible below the central flowering spike; 2-pinnate dissection varies with leaf maturity. © Juan Carlos Fonseca Mata, CC BY-SA 4.0.",
+      "diagnostic_roles": [
+        "twice-divided foliage",
+        "dense flowering spike at anthesis",
+        "persistent green hairy calyces"
+      ],
+      "photo_checked": "2026-10-12",
+      "annotation_status": "genus teaching overlay; source photo unmodified",
+      "previous_remote_file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Glandularia_bipinnatifida_000000000527.jpg/960px-Glandularia_bipinnatifida_000000000527.jpg",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_platform": "Wikimedia Commons, licensed original photo",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Glandularia_bipinnatifida_000000000527.jpg",
+      "original_image_sha256": "3d70a6b40b94042e45d80498e23161410a3a0e0e330a7e095a661dd3e27d4f65",
+      "original_image_dimensions": [
+        3007,
+        2290
+      ],
+      "image_dimensions": [
+        1600,
+        1218
+      ],
+      "source_taxon": "Glandularia bipinnatifida",
+      "modifications": "EXIF removed and image downscaled to 1600 pixels; no arrows added.",
+      "anatomy_arrows": "none, no pixel-validated annotation added by this installer",
+      "photo_review": "Exact species and individual photographer/source license independently researched; source image pixel-level anatomy arrow review still pending."
+    },
+    {
+      "file": "images/glass-root-665237164-first-photo.jpg",
+      "role": "Deeply divided leaves and dense rounded flower heads; calyx macro still needed",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/665237164",
+      "observation_url": "https://www.inaturalist.org/observations/364406064",
+      "observation_id": 364406064,
+      "photo_id": 665237164,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/665237164/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/joey-review034-9ade4e11118169c1.jpg",
+      "role": "Side of purple flower cluster showing densely overlapping green bracts and floral tube bases (source taxon determination provisional; fine structure not independently validated)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/364643011",
+      "source_observation": "https://www.inaturalist.org/observations/206179555",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364643011/large.jpeg",
+      "source_determination": "Glandularia bipinnatifida",
+      "photo_id": "364643011",
+      "observation_id": "206179555",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review034-ee07cf8695d5bb2e.jpg",
+      "role": "Lateral flowering spike with long bracts and flower profile against dark background (source taxon determination provisional; fine structure not independently validated)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/364653054",
+      "source_observation": "https://www.inaturalist.org/observations/206179555",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364653054/large.jpeg",
+      "source_determination": "Glandularia bipinnatifida",
+      "photo_id": "364653054",
+      "observation_id": "206179555",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review034-c276b62253d902c6.jpg",
+      "role": "Finger-scale close view of deeply dissected leaves and purple flowering head (source taxon determination provisional; fine structure not independently validated)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/97623909",
+      "source_observation": "https://www.inaturalist.org/observations/61032627",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97623909/large.jpeg",
+      "source_determination": "Glandularia bipinnatifida",
+      "photo_id": "97623909",
+      "observation_id": "61032627",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/commons-annika-554081866-texas.jpg",
+      "role": "Recognize it — source-ID prairie verbena in Central Texas. Photograph useful for species context; leaf and flower anatomy remain visually unmarked pending full-frame inspection.",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "Wikimedia Commons, licensed original photo",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_554081866.jpg",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/1/18/Glandularia_bipinnatifida_554081866.jpg",
+      "original_image_sha256": "fcbe9df60405f47a6b8adb5fa01a163694eefefab2eee85430a3ea968cbaf464",
+      "original_image_dimensions": [
+        1797,
+        2048
+      ],
+      "image_dimensions": [
+        1404,
+        1600
+      ],
+      "source_taxon": "Glandularia bipinnatifida",
+      "study_use": "Credited public botanical education",
+      "public_reuse": "Yes; obey linked individual Public Domain/CC BY/CC BY-SA source rights.",
+      "modifications": "EXIF removed and image downscaled to 1600 pixels; no arrows added.",
+      "anatomy_arrows": [
+        {
+          "label": "5 lobes · one corolla",
+          "target_fraction": [
+            0.43799999999999994,
+            0.235
+          ]
+        },
+        {
+          "label": "Deeply cut simple leaf",
+          "target_fraction": [
+            0.71,
+            0.688
+          ]
+        }
+      ],
+      "photo_review": "Exact species and individual photographer/source license independently researched; source image pixel-level anatomy arrow review still pending.",
+      "manual_arrow_review": "2026-10-20 real local JPEG readback via GitHub connector, viewed full image; marker percentages map to exact visually present structure on saved rescaled file SHA256=fcbe9df60405f47a6b8adb5fa01a163694eefefab2eee85430a3ea968cbaf464"
+    },
+    {
+      "file": "images/commons-michelle-586522824-comal.jpg",
+      "role": "Recognize it — public-reusable Comal County Texas exact-name Glandularia field photo, useful for regional comparison; no unverified anatomy labels.",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "Wikimedia Commons, licensed original photo",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_586522824.jpg",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Glandularia_bipinnatifida_586522824.jpg",
+      "original_image_sha256": "01938aceff8aacb0f035ff288498bb13f6b3ab11d352ece4bbecf6d9014c201f",
+      "original_image_dimensions": [
+        2048,
+        1362
+      ],
+      "image_dimensions": [
+        1600,
+        1064
+      ],
+      "source_taxon": "Glandularia bipinnatifida",
+      "study_use": "Credited public botanical education",
+      "public_reuse": "Yes; obey linked individual Public Domain/CC BY/CC BY-SA source rights.",
+      "modifications": "EXIF removed and image downscaled to 1600 pixels; no arrows added.",
+      "anatomy_arrows": [
+        {
+          "label": "5-lobed fused corolla",
+          "target_fraction": [
+            0.406,
+            0.35600000000000004
+          ]
+        },
+        {
+          "label": "Hairy developing flower cluster",
+          "target_fraction": [
+            0.502,
+            0.7
+          ]
+        }
+      ],
+      "photo_review": "Exact species and individual photographer/source license independently researched; source image pixel-level anatomy arrow review still pending.",
+      "manual_arrow_review": "2026-10-20 real local JPEG readback via GitHub connector, viewed full image; marker percentages map to exact visually present structure on saved rescaled file SHA256=01938aceff8aacb0f035ff288498bb13f6b3ab11d352ece4bbecf6d9014c201f"
+    },
+    {
+      "file": "images/commons-fonseca-171222-flowering.jpg",
+      "role": "Flower and stem detail — independently credited specimen of Glandularia bipinnatifida. Compare head and foliage from a second camera angle; confirm anatomical substructures before adding arrows.",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_platform": "Wikimedia Commons, licensed original photo",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_(Verbenaceae)_171222.jpg",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Glandularia_bipinnatifida_(Verbenaceae)_171222.jpg",
+      "original_image_sha256": "d736304e47a763e25ef222b7c5986a647ddbec23c93e4c36c368e126d7a38abd",
+      "original_image_dimensions": [
+        4202,
+        4203
+      ],
+      "image_dimensions": [
+        1600,
+        1600
+      ],
+      "source_taxon": "Glandularia bipinnatifida",
+      "study_use": "Credited public botanical education",
+      "public_reuse": "Yes; obey linked individual Public Domain/CC BY/CC BY-SA source rights.",
+      "modifications": "EXIF removed and image downscaled to 1600 pixels; no arrows added.",
+      "anatomy_arrows": [
+        {
+          "label": "Bristly stem hairs",
+          "target_fraction": [
+            0.526,
+            0.12
+          ]
+        },
+        {
+          "label": "5 lobes · tubular flower",
+          "target_fraction": [
+            0.509,
+            0.568
+          ]
+        }
+      ],
+      "photo_review": "Exact species and individual photographer/source license independently researched; source image pixel-level anatomy arrow review still pending.",
+      "manual_arrow_review": "2026-10-20 real local JPEG readback via GitHub connector, viewed full image; marker percentages map to exact visually present structure on saved rescaled file SHA256=d736304e47a763e25ef222b7c5986a647ddbec23c93e4c36c368e126d7a38abd"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "ten_photo_mix_four_source_pixel_annotated_field_views",
+    "image_count": 10,
+    "note": "10 source-attributed gallery entries; five new locally saved public-safe originals, four annotated JPEGs with seven reviewed anatomy pointers rendered on main image and first-look study card. Remaining photo holds: separate hairy calyx+floral bract, measured mature leaf-pair, ripe elongated fruiting spike.",
+    "manual_arrow_count": 7,
+    "annotated_photo_count": 4
+  },
+  "diagnostic_photo_plan": [
+    {
+      "role": "mature leaf close-up",
+      "arrow": "central rachis and narrow second-order segment",
+      "status": "NEW rights-cleared licensed photo added; existing wide shots still provisional"
+    },
+    {
+      "role": "flowering cluster + old fruiting cluster on same plant",
+      "arrow": "elongated fruit rachis with spaced persistent calyces",
+      "status": "requires matched fruit photography"
+    },
+    {
+      "role": "calyx/bract side macro",
+      "arrow": "five calyx ribs, hirsute calyx, bract length",
+      "status": "specialty final pass"
+    }
+  ],
+  "curated_sources": [
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Glandularia%20bipinnatifida.html",
+    {
+      "source": "UT Austin Vascular Plants of Williamson County - morphology",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Glandularia%20bipinnatifida.html"
+    },
+    {
+      "source": "B. L. Turner 1998 Texas Glandularia taxonomic key",
+      "url": "https://w3.biosci.utexas.edu/prc/pdfs/Turner_Lundellia01.pdf"
+    },
+    {
+      "source": "POWO accepted Glandularia bipinnatifida and synonym Verbena bipinnatifida",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:862854-1"
+    },
+    {
+      "source": "Native Plant Society Texas regional ecological and bloom distribution",
+      "url": "https://www.npsot.org/posts/native-plant/glandularia-bipinnatifida/"
+    }
+  ],
+  "synonyms": [
+    "Glandularia bipinnatifida var. bipinnatifida"
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "role": "Habit in Central Texas habitat",
+      "status": "EXISTING_PHOTOS_PARTIAL",
+      "instruction": "Whole creeping/spreading plant with scale, one site wide-shot."
+    },
+    {
+      "role": "Mature opposite twice-cut leaf pair",
+      "status": "NEEDS_MATCHED_PUBLIC_MACRO",
+      "instruction": "Top-down entire mature pair with visible second-order lobes; ruler if possible."
+    },
+    {
+      "role": "Five-lobed tubular corolla front",
+      "status": "NEEDS_VERIFIED_ARROW",
+      "instruction": "Label a complete individual flower, not an overlapping cluster."
+    },
+    {
+      "role": "Side profile of individual bract, hairy calyx and corolla tube",
+      "status": "NEEDS_MATCHED_PUBLIC_MACRO",
+      "instruction": "Expose a single flower unit and mark bract below its corresponding calyx."
+    },
+    {
+      "role": "Old fruiting spike with separated persistent calyces",
+      "status": "NEEDS_MATCHED_PUBLIC_MACRO",
+      "instruction": "Paired photo of flower and ripe fruiting heads, ideally same plant."
+    },
+    {
+      "role": "Leaf-pair at four-angled hairy node",
+      "status": "NEEDS_MATCHED_PUBLIC_MACRO",
+      "instruction": "Turn leaf aside so both opposite petioles and angular stem in focus."
+    }
+  ],
+  "field_id_finalization": {
+    "review_date": "2026-10-20",
+    "stage": "PASS_IN_PROGRESS",
+    "text_review": "PASS_UT_AUSTIN_FNA_TURNER_KEY",
+    "photo_review": "2026-10-20: 5 Commons originals physically saved with rights and source SHA; exact displayed local JPEG images directly viewed, 7 annotation targets on four separate photos checked against visible corolla lobes, simple deeply cut leaves, bristly stem and hairy flowering heads. Source-linked galleries and photo-first panel now wired; 2 highly discriminative diagnostic macro gaps remain.",
+    "arrow_policy": "Only use saved original photo-specific 0..1 target fractions AFTER viewing actual JPEG. No invented second-order lobe/bract or calyx labels.",
+    "missing": "Real annotated mature leaf pair, single flower-tube/lobe, individual bract and hairy calyx macro, and ripe elongated fruiting spike.",
+    "hold": "Do not change approved local native inclusion or misrepresent cultivar/CC BY-NC privately licensed photos as unrestricted.",
+    "field_training_status": "READY_FOR_CREW_RECOGNITION; INDIVIDUAL_BRACT_CALYX_AND_RIPE_FRUITING_SPIKE_PENDING",
+    "annotated_real_photos": 4,
+    "verified_anatomy_arrows": 7,
+    "remaining": [
+      "Individual flower's narrow bract vs five-toothed hairy calyx macro under 10× scale",
+      "Old elongated fruiting spike with spaced persistent calyces; compare to G. pumila at equal size",
+      "Optional whole opposite leaf-pair with centimeter ruler and four-angled stem closeup"
+    ]
+  },
+  "visual_comparison": {
+    "instance_id": "glandularia-bipinnatifida-20261020",
+    "title": "Prairie verbena: field ID arrows on real photographs",
+    "subtitle": "Same-species real photo evidence. Arrows point to structures inspected on the saved JPEG. Review mature leaves and actual five-lobed flowers; do not over-identify a single hairy flower bract.",
+    "items": [
+      {
+        "label": "Mature leaves & flowers",
+        "scientific_name": "Glandularia bipinnatifida",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-annika-554081866-texas.jpg",
+        "image_role": "Field close view — one five-lobed flower and a deeply cut single leaf on the same Texas plant",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_554081866.jpg",
+        "caption": "Five lobes belong to one fused corolla, not five separate petals. Lower right shows one deeply incised simple leaf, not a set of separate leaflets.",
+        "why_it_matters": "Teaches two species-recognition traits in the same source-verified plant photo; young leaves may be less divided.",
+        "markers": [
+          {
+            "label": "5 lobes · one corolla",
+            "label_x": 9,
+            "label_y": 12,
+            "target_x": 43.8,
+            "target_y": 23.5
+          },
+          {
+            "label": "Deeply cut simple leaf",
+            "label_x": 67,
+            "label_y": 55,
+            "target_x": 71,
+            "target_y": 68.8
+          }
+        ]
+      },
+      {
+        "label": "Comal County flower structure",
+        "scientific_name": "Glandularia bipinnatifida",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-michelle-586522824-comal.jpg",
+        "image_role": "Five lobes of the fused tubular corolla and multiple densely hairy developing floral calyces",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_586522824.jpg",
+        "caption": "One individually identifiable purple five-lobed corolla at upper center; multiple green hairy closed floral units beneath, not a single bract or a ripe seed head.",
+        "why_it_matters": "Local Comal County flower detail; purple shade and flower size alone are not enough to separate other Glandularia.",
+        "markers": [
+          {
+            "label": "5-lobed fused corolla",
+            "label_x": 10,
+            "label_y": 19,
+            "target_x": 40.6,
+            "target_y": 35.6
+          },
+          {
+            "label": "Hairy developing flower cluster",
+            "label_x": 60,
+            "label_y": 87,
+            "target_x": 50.2,
+            "target_y": 70
+          }
+        ]
+      },
+      {
+        "label": "Bristly stem and flower",
+        "scientific_name": "Glandularia bipinnatifida",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-171222-flowering.jpg",
+        "image_role": "Clearly visible stiff hairs on a stem and one lavender five-lobed verbena flower",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_(Verbenaceae)_171222.jpg",
+        "caption": "The upright reddish stem at upper center is visibly bristly; the lower flower shows the five-lobed fused corolla. Hairiness alone is a family/genus support clue, not a species distinction.",
+        "why_it_matters": "Supports identification without claiming a bract/calyx macro that this image does not isolate.",
+        "markers": [
+          {
+            "label": "Bristly stem hairs",
+            "label_x": 66,
+            "label_y": 10,
+            "target_x": 52.6,
+            "target_y": 12
+          },
+          {
+            "label": "5 lobes · tubular flower",
+            "label_x": 66,
+            "label_y": 54,
+            "target_x": 50.9,
+            "target_y": 56.8
+          }
+        ]
+      },
+      {
+        "label": "Hairy terminal flowering spike",
+        "scientific_name": "Glandularia bipinnatifida",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-masonbrock-texas-prairie-verbena.jpg",
+        "image_role": "Hairy persistent green floral structures immediately below the purple flowers, natural dry-prairie habit",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida.jpg",
+        "caption": "Side view shows the hairy compact flowering axis beneath the corollas. This arrow does not isolate a single flower's narrow bract versus its five-toothed calyx.",
+        "why_it_matters": "Useful for recognizing what the terminal spike actually looks like in a Texas roadside/prairie population.",
+        "markers": [
+          {
+            "label": "Hairy flowering spike",
+            "label_x": 9,
+            "label_y": 45,
+            "target_x": 35,
+            "target_y": 34
+          }
+        ]
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Prairie verbena: leaves first, not just purple blooms",
+    "featured_photo_indices": [
+      0,
+      1,
+      2
+    ],
+    "steps": [
+      "Look for one deeply divided SIMPLE leaf (not many separate leaflets) and an opposite leaf pair at a node.",
+      "Find one complete flower: five uneven lobes on one fused tubular corolla.",
+      "Follow the densely hairy terminal spike and look for an old fruiting spike that elongates.",
+      "Before naming it, compare G. pumila's smaller, more broadly lobed leaves and compact fruiting spike."
+    ],
+    "field_rule": "Mature leaf dissection + terminal tubular corolla head + fruiting-spike behavior is a stronger ID than flower color or an isolated flower.",
+    "warning": "Bract vs calyx on a SINGLE flower, a measured calyx profile and old elongated fruiting head are not yet demonstrated in these photographs. Do not claim those structures were arrow-verified."
+  }
+}

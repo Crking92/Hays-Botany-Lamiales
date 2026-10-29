@@ -1,0 +1,106 @@
+{
+  "id": "justicia-americana",
+  "entry_type": "species",
+  "family": "Acanthaceae",
+  "genus": "Dianthera",
+  "species": "americana",
+  "scientific_name": "Dianthera americana",
+  "authority": "L.",
+  "common_name": "American water-willow",
+  "synonyms": [
+    "Justicia americana (L.) Vahl"
+  ],
+  "taxonomic_note": "Current POWO accepts Dianthera americana. Justicia americana remains the familiar Texas/U.S. field name and should stay a prominent alias/search term.",
+  "look_here_first": "Aquatic or riparian colony-former with long narrow opposite leaves and long-peduncled axillary flower spikes; white flowers carry purple spotting on the lower lip.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Hays and Travis are exact target-zone records. Williamson is documented but is outside the project target-county list and does not count toward the three-county rule.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Correct stale PASS while preserving learner admission."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "aquatic rhizomatous clonal perennial",
+      "erect shoots from shoreline or shallow water",
+      "glabrous tough ridged stems",
+      "long narrow opposite leaves",
+      "long-peduncled axillary condensed spikes",
+      "white flowers with purple spotting on lower lip"
+    ],
+    "comparison_training": "Distinct from Justicia pilosella by tall glabrous water-edge habit and much longer narrow leaves."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Justicia pilosella"
+    ],
+    "key_distinctions": "Water-willow is aquatic, rhizomatous, tall and glabrous; J. pilosella is a tiny hairy dry-site mound."
+  },
+  "tags": [
+    "Acanthaceae",
+    "Dianthera",
+    "Justicia americana alias",
+    "Water-willow",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-correction-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "diagnostic_image_needs": [
+    "aquatic colony habit",
+    "opposite narrow leaves",
+    "node/stem",
+    "peduncled flower spike",
+    "flower close-up",
+    "fruit"
+  ],
+  "photo_note": "Two exact-species photographs physically installed and credited: Alex Abair CC BY 4.0 shoots/leaf habit and Judy Gallagher CC BY 2.0 flower macro. The floral macro is installed, not an external candidate. Remaining diagnostic views: opposite leaf nodes, axillary peduncled spike in context, fruit; anatomy arrows annotation_pending until visually verified.",
+  "images": [
+    {
+      "file": "images/justicia-americana-provisional-face.jpg",
+      "role": "American water willow shoots; modern project accepted Dianthera americana = pictured Justicia americana synonym, iNaturalist photo 647228027.",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Justicia_americana_647228027.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by"
+    },
+    {
+      "file": "images/justicia-americana-flower-macro.jpg",
+      "role": "flower macro",
+      "creator": "Judy Gallagher",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Water_Willow_-_Justicia_americana,_Leesylvania_State_Park,_Woodbridge,_Virginia.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-08",
+    "note": "Two verified local exact-species photos (shoot habit and flower macro); gallery still provisional for opposite leaf-node, axillary spike and fruit diagnostics. annotation_pending; do not infer arrow coordinates."
+  }
+}

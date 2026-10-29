@@ -1,0 +1,9 @@
+Approved source pool working taxon Utricularia gibba; original source rows 1225.
+Taxonomy search https://powo.science.kew.org/results?q=Utricularia%20gibba
+Exact licensed image Commons file https://commons.wikimedia.org/wiki/File:Utricularia_gibba_flower_01_(3x4).jpg
+Physical original download via https://commons.wikimedia.org/wiki/Special:Redirect/file/Utricularia%20gibba%20flower%2001%20(3x4).jpg
+Creator Alex Popovkin
+Image license CC BY 2.0
+Photo provisional role Provisional yellow flower macro; underwater carnivorous bladder traps not shown.
+Caution Photographed in Brazil; genus and species local distribution requires separate evidence.
+Photo is an aid, not completed independent confirmation of all botanical parts or Hays-range nativity.

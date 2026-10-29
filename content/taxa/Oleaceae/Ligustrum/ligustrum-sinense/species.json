@@ -1,0 +1,94 @@
+{
+  "id": "ligustrum-sinense",
+  "entry_type": "species",
+  "family": "Oleaceae",
+  "genus": "Ligustrum",
+  "species": "sinense",
+  "scientific_name": "Ligustrum sinense",
+  "authority": "Lour.",
+  "common_name": "Chinese privet",
+  "look_here_first": "Inspect an opposite leaf pair on an unpruned shoot: blades are thin, usually 1–3 inches long, often hairy beneath along the midvein, with hairy petioles and young stems. Confirm short terminal and upper-axillary white flower panicles.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 643,
+    "target_zone_status": "COMPARISON_NON_NATIVE",
+    "learner_role": "NON_NATIVE_COMPARISON",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Native to eastern Asia; introduced in North America. Learner-approved encounter/comparison taxon, not a confirmed target-zone native."
+  },
+  "morphology_keys": {
+    "habit": "Evergreen to semi-evergreen, many-stemmed shrub often forming dense thickets by suckering.",
+    "leaves": "Opposite, simple, entire, elliptic to oblong, usually 1–3 inches long, thinner than L. lucidum; hairs along underside midvein and on petioles.",
+    "flowers": "Small white four-lobed flowers in shorter terminal or upper-axillary panicles, usually about 2–3 inches long.",
+    "fruit": "Clusters of purple-black to black drupes.",
+    "stems": "Young twigs often hairy, with lenticels; can form suckering thickets."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ligustrum lucidum",
+      "Ligustrum japonicum",
+      "Ilex vomitoria"
+    ],
+    "key_distinctions": "L. lucidum typically has larger 3–6 inch glossy leathery leaves with an opaque marginal rim and 6–8 sunken lateral veins, and larger terminal panicles. Ilex vomitoria (native yaupon) has alternate, often crenate leaves, not opposite entire leaves; check nodes rather than leaf color.",
+    "cautions": "Privets vary with pruning, shade, and juvenile growth. Use multiple mature leaves, nodes, venation and panicle structure; do not use fruit color alone."
+  },
+  "diagnostic_image_needs": [
+    "Matched mature leaf top and underside with scale",
+    "Leaf margin, midvein hair and petiole macro",
+    "Flower panicle and fruit close-up",
+    "Unpruned whole plant and bark/twig"
+  ],
+  "images": [
+    {
+      "file": "images/ligustrum-sinense-bidgee-leaves-flowers.jpg",
+      "role": "Opposite leaves and flowers; provisional nonlocal habit/leaf recognition",
+      "creator": "Bidgee",
+      "license": "CC BY-SA 2.5 Australia",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ligustrum_sinense_leaves_and_flowers.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-5938027934-cc6aee06f.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Opposite leaves and young-stem hairs, small panicle flowers and berries",
+      "creator": "José Garrido",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5938027934",
+      "gbif_occurrence_id": "5938027934",
+      "source_determination": "Ligustrum sinense Lour.",
+      "accepted_target": "Ligustrum sinense",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605158906/original.jpg",
+      "image_dimensions": [
+        1013,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-13",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

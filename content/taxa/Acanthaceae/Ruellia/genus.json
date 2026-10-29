@@ -1,0 +1,429 @@
+{
+  "rank": "genus",
+  "family": "Acanthaceae",
+  "name": "Ruellia",
+  "authority": "L.",
+  "common_group": "Wild petunias / ruellias",
+  "project_scope": {
+    "selection_mode": "B026/B081 science + B137 source-concept reconciliation",
+    "canonical_species_count": 4,
+    "canonical_species_ids": [
+      "ruellia-ciliatiflora",
+      "ruellia-drummondiana",
+      "ruellia-humilis",
+      "ruellia-metziae"
+    ],
+    "represented_source_concepts": [
+      "ruellia-nudiflora",
+      "ruellia-nudiflora-var-nudiflora",
+      "ruellia-occidentalis"
+    ],
+    "source_pool_row_count": 6,
+    "note": "The source pool contains historical names now represented by canonical Ruellia ciliatiflora. Preserve those names for provenance and field-literature continuity without creating duplicate learner pages.",
+    "photo_verified_local_species": 3,
+    "photo_external_only_species": [
+      "ruellia-ciliatiflora"
+    ],
+    "known_native_status_caveat": "All four current PASS species use Williamson County in the recorded source basis. Williamson County is outside the user's strict target list; preserve original statuses but request zone-qualified re-audit."
+  },
+  "source_concept_status": [
+    {
+      "id": "ruellia-ciliatiflora",
+      "scientific_name": "Ruellia ciliatiflora",
+      "status": "CANONICAL_PASS",
+      "aliases": [
+        "Ruellia nudiflora",
+        "Ruellia nudiflora var. nudiflora",
+        "Ruellia occidentalis"
+      ]
+    },
+    {
+      "id": "ruellia-drummondiana",
+      "scientific_name": "Ruellia drummondiana",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "ruellia-humilis",
+      "scientific_name": "Ruellia humilis",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "ruellia-metziae",
+      "scientific_name": "Ruellia metziae",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "ruellia-nudiflora",
+      "scientific_name": "Ruellia nudiflora",
+      "status": "SOURCE_ALIAS_REPRESENTED_BY_RUELLIA_CILIATIFLORA"
+    },
+    {
+      "id": "ruellia-nudiflora-var-nudiflora",
+      "scientific_name": "Ruellia nudiflora var. nudiflora",
+      "status": "SOURCE_ALIAS_REPRESENTED_BY_RUELLIA_CILIATIFLORA"
+    },
+    {
+      "id": "ruellia-occidentalis",
+      "scientific_name": "Ruellia occidentalis",
+      "status": "SOURCE_ALIAS_REPRESENTED_BY_RUELLIA_CILIATIFLORA"
+    }
+  ],
+  "study_strategy": {
+    "priority": [
+      "terminal/peduncled versus axillary/nearly sessile flower position",
+      "long-pilose versus fine short pubescence versus nearly glabrous foliage",
+      "white versus violet/purple corolla",
+      "terminal panicle/cyme architecture",
+      "capsule seed count when available"
+    ],
+    "warning": "Do not identify these from purple flower color alone. Flower position and hair type are the fastest field split."
+  },
+  "quick_key": [
+    {
+      "if": "purple/violet flowers raised above the foliage on conspicuous peduncled branching terminal or upper-axillary cymes; foliage mostly glabrous to inconspicuously hairy",
+      "then": "Ruellia ciliatiflora (= R. nudiflora / R. occidentalis source concepts)"
+    },
+    {
+      "if": "purple flowers/cymes essentially sessile in the leaf axils; stems and leaves finely short-pubescent; capsule with only 2–4 seeds",
+      "then": "Ruellia drummondiana"
+    },
+    {
+      "if": "purple flowers nearly sessile in leaf axils AND stems/leaves/margins conspicuously long-pilose or shaggy",
+      "then": "Ruellia humilis"
+    },
+    {
+      "if": "large white to pale flowers in a terminal branching panicle; upper inflorescence and calyx densely stalked-glandular-hairy",
+      "then": "Ruellia metziae"
+    }
+  ],
+  "taxonomy_note": "Current Kew/POWO accepts Ruellia ciliatiflora Hook. and places Ruellia nudiflora and Ruellia occidentalis in synonymy. The project keeps historical Texas source names as aliases while using one canonical R. ciliatiflora learner.",
+  "curation_status": {
+    "version": "1.2-five-photo-ruellia-genus-and-source-audit",
+    "genus_audit": "complete",
+    "source_concepts_reconciled": true,
+    "last_reviewed": "2026-10-14",
+    "visual_examples": 6,
+    "installed_exact_species_examples": 5,
+    "remote_only_examples": 1,
+    "diagnostic_macro_status": "pending: capsule retinacula, hair lengths, upper gland tips; no fake arrows",
+    "native_status_warning": "Williamson County outside zone; flagged all four PASS for target-county review without altering species cards or approved learner admission",
+    "photo_assets": "Existing physical species files referenced, no new photo binaries installed",
+    "photo_verify_note": "Five physical exact-species examples, one clearly external reference; field-photo-only anatomy proof pending."
+  },
+  "look_here_first": "1) Find where each FLOWER STALK begins. Is the plant carrying a raised terminal/upper-axillary branching CYME (R. ciliatiflora, R. metziae), or are flowers clustered ALMOST SESSILE at a foliage leaf AXIL (R. drummondiana, R. humilis)? 2) Compare actual HAIR LENGTH on stem and leaf margins at the same scale: conspicuously LONG PILOSE/CILIATE R. humilis, versus fine SHORT PUBESCENCE of R. drummondiana. 3) On terminal-flowered plants, check white to pale flowers and conspicuously STALKED GLANDULAR HAIRS on the metziae calyx/inflorescence versus typically violet ciliatiflora. 4) When fruiting, compare SEED COUNT and opened CAPSULE RETINACULA; a true macro is needed. DO NOT use purple color alone.",
+  "shared_traits": [
+    "Simple opposite leaves often DECUSSATE (successive leaf pairs rotated about 90 degrees). Stems often somewhat four-angled at least when young; these characters are shared with several unrelated families.",
+    "Five-lobed corollas arise from a funnel-shaped corolla tube; flowers may be white, violet or purple and are not reliably separated by color alone.",
+    "Some Ruellia bloom from raised terminal/peduncled branching cymes; others flower on short almost sessile axillary branches. This POSITION is the genus's best first species split.",
+    "Fruit matures as a dry capsule, typically 2-locular with hinged seed-support RETINACULA/JACULATORS. The family character needs a verified macro; current gallery pictures mostly show flowering shoots.",
+    "Stalked glandular hairs on the calyx/upper flowers and ordinary long ciliate leaf-edge hairs are different plant structures, and both are highly useful for distinguishing species."
+  ],
+  "species_comparison_matrix": [
+    {
+      "species": "Ruellia ciliatiflora",
+      "flower_position": "Conspicuously peduncled branching terminal/upper-axillary cymes",
+      "stem_leaf_hairs": "Nearly glabrous to inconspicuous short hairs",
+      "calyx": "Often glandular-pubescent",
+      "fruit": "Pubescent capsule; count seeds where mature",
+      "look_first": "Follow stalk above foliage; check leaf hair density"
+    },
+    {
+      "species": "Ruellia drummondiana",
+      "flower_position": "Paired nearly sessile axillary cymes",
+      "stem_leaf_hairs": "Fine short pubescence",
+      "calyx": "Long narrow glandular-hairy lobes",
+      "fruit": "2–4 seeds per capsule in canonical review",
+      "look_first": "Inspect leaf axil, then count mature seeds"
+    },
+    {
+      "species": "Ruellia humilis",
+      "flower_position": "Axillary, nearly sessile flowers",
+      "stem_leaf_hairs": "Conspicuous long pilose hairs and ciliate leaf margins",
+      "calyx": "Check hairs in same focal plane as leaf margin",
+      "fruit": "Generally more than 2–4 seeds; confirm with mature fruit",
+      "look_first": "Magnify long leaf-margin hairs"
+    },
+    {
+      "species": "Ruellia metziae",
+      "flower_position": "Terminal panicle of opposite cymes",
+      "stem_leaf_hairs": "Upper inflorescence and calyx densely stalked-glandular-hairy",
+      "calyx": "Dense stalked glands",
+      "fruit": "Seed counts need verified matched fruit",
+      "look_first": "Terminal branching cluster + calyx gland macro"
+    }
+  ],
+  "overlap_cautions": [
+    "R. ciliatiflora and R. metziae both carry raised terminal/upper-axillary clusters; use stalked calyx/inflorescence glands and floral details rather than corolla color alone.",
+    "R. humilis and R. drummondiana both have axillary nearly sessile flowers; compare actual hair length on matching stem/leaf positions and mature capsule seed number.",
+    "Flower color is not an independent diagnosis; lighting, age, and pale morphs can mislead.",
+    "R. nudiflora, R. occidentalis and R. nudiflora var. nudiflora are represented source concepts under canonical R. ciliatiflora, not extra species."
+  ],
+  "realistic_lookalikes": [
+    "Ruellia simplex — long, narrow lanceolate leaves and a typically taller habit; a landscape escape that requires structural confirmation",
+    "Justicia species — bilabiate flowers and different capsule/inflorescence architecture",
+    "Dyschoriste linearis — smaller axillary flowers, narrow foliage, and distinct calyx/capsule morphology"
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "character": "Inflorescence attachment",
+      "roles": [
+        "whole terminal cymes with stalk traced to node: R. ciliatiflora and R. metziae",
+        "matched leaf-axil flower attachment: R. drummondiana and R. humilis"
+      ]
+    },
+    {
+      "character": "Hair length and placement",
+      "roles": [
+        "same-scale stem and leaf-margin macros: long pilose R. humilis vs short pubescent R. drummondiana vs sparse-haired R. ciliatiflora"
+      ]
+    },
+    {
+      "character": "Stalked glands",
+      "roles": [
+        "lateral calyx and upper peduncle macros with scale: R. metziae vs R. ciliatiflora"
+      ]
+    },
+    {
+      "character": "Capsule seed number",
+      "roles": [
+        "opened mature capsule and all seeds in one frame: R. drummondiana vs R. humilis"
+      ]
+    },
+    {
+      "character": "Genus architecture",
+      "roles": [
+        "opposite node, corolla front/side, mature capsule"
+      ]
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Ruellia metziae vs Ruellia ciliatiflora",
+      "question": "Verify consistent non-color gland density/type and calyx measurements in matched local material before assigning a numeric couplet."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Ruellia four species native-target-zone PASS county tally",
+      "question": "All four Ruellia PASS records include Williamson as a supporting county; Williamson is OUTSIDE the current locked target-zone county list. Recheck valid target-zone county counts: ciliatiflora Hays+Travis, humilis Hays+Travis, metziae Hays+Travis, drummondiana Travis+Real appear to be just two valid counties each. Audit whether any extra eligible county records prove their current PASS scientific status. Preserve approved learner inclusion while checking."
+    }
+  ],
+  "genus_diagnostics": {
+    "flower_position": "An AXIL is the angle where a LEAF meets the STEM. 'SESSILE' (or nearly sessile) flowers have almost no obvious elongated supporting stalk. A PEDUNCLE is the stalk of a flower cluster (CYME); a PEDICEL supports one individual flower. Long branching terminal/upper-axillary clusters suggest R. ciliatiflora or metziae. Short nearly stalkless leaf-axil clusters suggest R. humilis or drummondiana. Follow the branch to its origin before deciding.",
+    "leaf_hairs": "PUBESCENCE means plant hairs. PILOSE describes comparatively long soft hairs; CILIATE means a conspicuous fringe of hairs ON THE LEAF EDGE. Humilis has many visibly long hairs especially on leaf margins; drummondiana tends to short/fine hairs; ciliatiflora can be very sparse or inconspicuously short-hairy. Same magnification and stem position are necessary.",
+    "glandular_hairs": "A GLANDULAR HAIR is a hair with a minute swollen secretory tip; stalked glands are distinctive on the calyx lobes and upper flowering branches of R. metziae. Simple hairs and stalked glands can coexist; do not label an ordinary hair a gland unless the head is in focus.",
+    "leaves": "Leaves are SIMPLE and generally OPPOSITE/DECUSSATE (successive pairs at right angles); two leaf stalks may form slight ridges at a node. Compare complete ovate to elliptic blades, leaf margin and hairiness, but avoid calling species from shape alone.",
+    "corolla": "The COROLLA is the joined petal structure: a narrow TUBE widens to a funnel/throat with five free-ended LOBES. A flower can be violet, pale lavender or white; metziae often bright white. Do not infer the sex, seed count or gland density from flower color.",
+    "calyx": "The CALYX is the green outer ring of five narrow SEPAL lobes below the corolla. Fine hairs/gland-tipped hairs on calyx lobes offer strong Ruellia comparisons, especially metziae versus ciliatiflora. Need macro shots with specimen provenance and precise arrows.",
+    "stamens": "Ruellia commonly has FOUR fertile STAMENS in two length pairs attached to the inner flower tube (didynamous), not the two visible exserted stamens of certain Justicia-like relatives. They are often not visible from a distant front photo. Dissection macro needed before pointing to precise filament/anther pairs.",
+    "capsule": "The elongate dry, often 2-chambered CAPSULE opens in two longitudinal VALVES; hooked seed-supports (RETINACULA or JACULATORS) help flick seeds away. R. drummondiana has exceptionally few seeds (roughly 2–4 in the local treatment), while humilis typically bears more. Open a RIPE capsule to count, not a green bud. Don't imply the current flower portraits show retinacula.",
+    "stem": "Four-sided young stems and opposite leaves help route to Acanthaceae but neither is genus-exclusive. Look at the leaf nodes and the upper inflorescence for more decisive species characters."
+  },
+  "comparison_cards": [
+    {
+      "title": "Humilis vs drummondiana — hairy vs fuzzy",
+      "taxon_ids": [
+        "ruellia-humilis",
+        "ruellia-drummondiana"
+      ],
+      "look_here_first": "Both have flowers almost SESSILE in the leaf AXILS. Humilis shows LONG individual PILOSE stem hairs and a CILIATE fringe along the leaf margin. Drummondiana usually has a finer SHORT fuzzy pubescence. In a fruiting plant inspect mature capsule seed number (drummondiana about 2–4).",
+      "photo_requirements": [
+        "same-scale matched leaf edge and stem hairs with scale",
+        "side view at axil showing very short flower stalk",
+        "opened ripe capsule seeds counted without destroying attribution"
+      ],
+      "caution": "The single installed drummondiana habit photo cannot prove capsule seed count; do not infer it visually."
+    },
+    {
+      "title": "Metziae vs ciliatiflora — raised flowering sprays",
+      "taxon_ids": [
+        "ruellia-metziae",
+        "ruellia-ciliatiflora"
+      ],
+      "look_here_first": "Both raise branching floral CYMES above the leaves. Metziae often bears larger white flowers and dense STALKED GLANDS on calyx and terminal branches; ciliatiflora (= old nudiflora/occidentalis source usage) often has purple flowers and sparser foliage hairs. Flower color alone is not a proof.",
+      "photo_requirements": [
+        "same-scale whole terminal inflorescence and stalk origin",
+        "individual calyx with stalked gland heads in focus",
+        "rights-cleared physically installed ciliatiflora photo; currently external"
+      ],
+      "caution": "Preserve historical R. nudiflora/R. occidentalis aliases under canonical ciliatiflora; do not duplicate these as learner species."
+    },
+    {
+      "title": "Family clue — fruit hooks vs mint nutlets",
+      "taxon_ids": [
+        "ruellia-ciliatiflora",
+        "ruellia-drummondiana",
+        "ruellia-humilis",
+        "ruellia-metziae"
+      ],
+      "look_here_first": "Cut open a ripe capsule and look for two valves and several hooked internal seed supports (RETINACULA). This separates typical Acanthaceae fruit from Lamiaceae's often four separate nutlets, though retinacula are NOT universal across Acanthaceae.",
+      "photo_requirements": [
+        "open Ruellia mature fruit showing locules and hook supports",
+        "contrast photo of a genuine mint calyx with nutlets"
+      ],
+      "caution": "All current Ruellia photo panels here are flower and foliage views; a dissected capsule image is still missing."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Ruellia: flower position first, hairs second, capsules last",
+    "subtitle": "Five physically installed exact-species photographs across three canonical species, plus one labeled offsite licensed reference for R. ciliatiflora. Existing flower portraits teach recognition and the search locations for structures; fine hairs and hooks remain targeted macro gaps.",
+    "memory_rule": "RAISED/BRANCHED flowering cymes → CILIATIFLORA (violet) or METZIAE (often white plus glandular calyx). NEARLY SESSILE AXILLARY flowers → HUMILIS (long visibly fringed hairs) or DRUMMONDIANA (short fine hairs and 2–4 seeds). Always verify actual hairs and fruit before a strict identification.",
+    "items": [
+      {
+        "label": "Drummond's ruellia — violet flower and foliage",
+        "scientific_name": "Ruellia drummondiana",
+        "image_role": "flowering habit / look for flower at axil",
+        "image_url": "content/taxa/Acanthaceae/Ruellia/ruellia-drummondiana/images/ruellia-drummondiana-provisional-face.jpg",
+        "creator": "Michelle",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_drummondiana.jpg",
+        "caption": "Find where a violet FLOWER is attached to the leafy shoot. The critical question: does its stalk run almost straight out of the LEAF AXIL? The existing portrait is not independently confirmed as a close-up of the axillary node. Compare fine SHORT HAIRS with humilis in a true closeup.",
+        "markers": [],
+        "visual_status": "physically_installed_exact_species; attribute_source; diagnostic_microstructural_arrows_pending"
+      },
+      {
+        "label": "Prairie petunia — flower front and hairy leaves",
+        "scientific_name": "Ruellia humilis",
+        "image_role": "violet five-lobed corolla and foliage",
+        "image_url": "content/taxa/Acanthaceae/Ruellia/ruellia-humilis/images/01-habit-flower.jpg",
+        "creator": "Miwasatoshi",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia-humilis-20080401.JPG",
+        "caption": "Find the five spreading COROLLA LOBES above a fused tubular throat and adjacent OPPOSITE leaves. The existing source caption describes pubescence; a hair-tip macro is still needed to positively label ciliate hairs.",
+        "markers": [],
+        "visual_status": "physically_installed_exact_species; attribute_source; diagnostic_microstructural_arrows_pending"
+      },
+      {
+        "label": "Prairie petunia — flower near foliage",
+        "scientific_name": "Ruellia humilis",
+        "image_role": "axillary blossom / hairy foliage",
+        "image_url": "content/taxa/Acanthaceae/Ruellia/ruellia-humilis/images/02-flower-foliage.jpg",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_humilis_kz01.jpg",
+        "caption": "Track the flower toward its LEAF AXIL and compare the HAIRY leaf margins. Fine individual hairs and exact stalk attachment must be verified visually before placing any arrow.",
+        "markers": [],
+        "visual_status": "physically_installed_exact_species; attribute_source; diagnostic_microstructural_arrows_pending"
+      },
+      {
+        "label": "Prairie petunia — hairy stem and calyx context",
+        "scientific_name": "Ruellia humilis",
+        "image_role": "flower/calyx with pubescent stem",
+        "image_url": "content/taxa/Acanthaceae/Ruellia/ruellia-humilis/images/03-field-habit.jpg",
+        "creator": "Chris Light",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Hairy_Wild_Petunia_(Ruellia_humilis)_6397.jpg",
+        "caption": "Compare the outer CALYX directly below the purple petals and the relatively shaggy shoots, but do not mistake any developing capsule for a mature fruit. True hairs/gland tips require a focused macro.",
+        "markers": [],
+        "visual_status": "physically_installed_exact_species; attribute_source; diagnostic_microstructural_arrows_pending"
+      },
+      {
+        "label": "Metz's ruellia — pale terminal bloom",
+        "scientific_name": "Ruellia metziae",
+        "image_role": "white flower and flowering shoot",
+        "image_url": "content/taxa/Acanthaceae/Ruellia/ruellia-metziae/images/ruellia-metziae-provisional-face.jpg",
+        "creator": "Michelle W.",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_metziae_in_bloom.jpg",
+        "caption": "Notice the pale/white five-lobed flower on a taller branching shoot. To distinguish it from pale-flowered ciliatiflora, a calyx close-up should show the stalked GLANDULAR hairs; this whole-flower portrait is only a recognition anchor.",
+        "markers": [],
+        "visual_status": "physically_installed_exact_species; attribute_source; diagnostic_microstructural_arrows_pending"
+      },
+      {
+        "label": "Violet wild petunia — offsite reference",
+        "scientific_name": "Ruellia ciliatiflora",
+        "image_role": "flower and foliage; raised inflorescence context",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ruellia%20ciliatiflora%20%284611089716%29.jpg",
+        "creator": "Dinesh Valke",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_ciliatiflora_(4611089716).jpg",
+        "caption": "External Wikimedia Commons image linked from canonical R. ciliatiflora species card. Original source calls it R. nudiflora, a project-recognized synonym. Image remains on Wikimedia Commons rather than stored as a GitHub image file; if unavailable, refer to source_page. Confirm flower stalk position before adding an arrow.",
+        "markers": [],
+        "visual_status": "external_reference_real_photo"
+      }
+    ],
+    "specialty_photo_targets": [
+      {
+        "priority": 1,
+        "taxa": [
+          "ruellia-humilis",
+          "ruellia-drummondiana"
+        ],
+        "part": "matched leaf-edge hairs with magnification",
+        "need": "true same-scale long pilose/ciliate versus minute pubescence, high focus and honest labels",
+        "status": "needs_macro"
+      },
+      {
+        "priority": 1,
+        "taxa": [
+          "ruellia-ciliatiflora",
+          "ruellia-metziae"
+        ],
+        "part": "stalked calyx glands and terminal cyme origin",
+        "need": "flowering-axis side views and magnification; source-specific rights check",
+        "status": "needs_macro"
+      },
+      {
+        "priority": 1,
+        "taxa": [
+          "ruellia-ciliatiflora",
+          "ruellia-drummondiana",
+          "ruellia-humilis",
+          "ruellia-metziae"
+        ],
+        "part": "opened two-valved capsule with individual seed hooks and seed count",
+        "need": "hand-dissected mature capsules; jaculators/retinacula indicated with verified arrow coordinates; include mm scale",
+        "status": "needs_macro"
+      },
+      {
+        "priority": 2,
+        "taxa": [
+          "ruellia-ciliatiflora"
+        ],
+        "part": "physical licensed exact-species photo",
+        "need": "download/source and install the existing CC BY-SA 2.0 Commons picture, preserving proper license and creator; currently external only",
+        "status": "offsite_only"
+      },
+      {
+        "priority": 2,
+        "taxa": [
+          "ruellia-ciliatiflora",
+          "ruellia-drummondiana",
+          "ruellia-humilis",
+          "ruellia-metziae"
+        ],
+        "part": "four-stamen corolla throat dissection",
+        "need": "correctly position four stamens, filament ridges and calyx after actual magnification",
+        "status": "needs_macro"
+      }
+    ],
+    "arrow_policy": "All markers empty: we verified file and taxon metadata only, not pixel-location annotations. Do not label gland, retinaculum, or seed count as visible in an ordinary flower portrait."
+  },
+  "scientific_sources": [
+    {
+      "title": "Kew Plants of the World Online — Ruellia morphological description",
+      "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A326011-2/general-information",
+      "supports": "four stamens, capsule structure, retinacula"
+    },
+    {
+      "title": "Kew POWO — Ruellia ciliatiflora and historical nudiflora concept",
+      "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A53920-1/general-information",
+      "supports": "historic common wild petunia Ruellia nudiflora synonym and raised cyme"
+    },
+    {
+      "title": "UT Austin Williamson County — Ruellia metziae",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Ruellia%20metziae.pdf",
+      "supports": "white corolla, terminal cymes, stalked calyx and upper inflorescence glands"
+    },
+    {
+      "title": "UT Austin Williamson County — Ruellia humilis",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Ruellia%20humilis",
+      "supports": "long hairs, ciliate leaf margin, axillary flowers and calyx"
+    },
+    {
+      "title": "UT Austin Hays County natural flora — Purola Preserve",
+      "url": "https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html",
+      "supports": "Hays occurrence of humilis, metziae and older nudiflora synonym"
+    }
+  ]
+}

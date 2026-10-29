@@ -1,0 +1,57 @@
+# Deep Review sources — Verbena halei
+Reviewed: 2026-10-02
+Batch: deep-review-batch-017-verbena-b013
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Kew/POWO — accepted Verbena halei Small; Texas native:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:263072-2
+
+Important synonyms retained:
+- Verbena officinalis subsp. halei
+- Verbena officinalis var. halei
+
+## Strict target-zone range
+Hays — project Hays County native-source list.
+Travis — UT Plant Resources Center Travis County Verbenaceae herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Verbenaceae.html
+Kerr — Kerr WMA vascular flora:
+https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf
+
+Decision: PASS — Hays, Travis, Kerr.
+
+## Morphology
+NPSOT:
+https://www.npsot.org/posts/native-plant/verbena-halei/
+UT Williamson County detailed treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Verbena%20halei
+
+Key: slender plant; deeply pinnatifid lower leaves transitioning to narrow/simple upper leaves; comparatively much less gray-hairy than V. canescens.
+
+## Photo leads
+User iNaturalist example:
+https://www.inaturalist.org/observations/354880008
+UT PlantPics:
+https://www.bio.utexas.edu/courses/bio406d/images/pics/vrb/verbena_halei.htm
+Exact photo IDs/roles remain pending approval.
+
+
+JOEY/FAMILY TRAINING LAYER
+Joey Verbenaceae material plus authoritative review is trusted for opposite-leaf/spike/calyx/fruit morphology teaching.
+
+OWNER-AUTHORIZED PRIVATE PHOTO, 2026-10-14
+Glass Root Garden; https://www.inaturalist.org/photos/671352095; observation 367610117.
+Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.
+Source API license: none_recorded; public_reuse=no. EXIF/GPS stripped.
+
+JOEY LIBRARY PHOTO REVIEW 034 2026-10-16T18:54:07.560100+00:00
+Verbena halei
+Joey Santore / iNaturalist; CC BY-NC (exact version consult photo source)
+https://www.inaturalist.org/photos/258119803
+Independent botanical determination not completed; no anatomy arrows.
+
+JOEY LIBRARY PHOTO REVIEW 034 2026-10-16T18:54:07.560100+00:00
+Verbena halei
+Joey Santore / iNaturalist; CC BY-NC (exact version consult photo source)
+https://www.inaturalist.org/photos/258119875
+Independent botanical determination not completed; no anatomy arrows.

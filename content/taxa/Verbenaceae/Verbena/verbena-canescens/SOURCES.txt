@@ -1,0 +1,50 @@
+# Deep Review sources — Verbena canescens
+Reviewed: 2026-10-02
+Batch: deep-review-batch-017-verbena-b013
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Kew/POWO — accepted Verbena canescens Kunth; Texas native:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:865078-1
+
+Synonym to preserve:
+Verbena canescens var. roemeriana
+
+## Strict target-zone range
+Hays — project Hays County native-source list.
+Travis — UT PRC Travis County herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Verbenaceae.html
+Kerr — Kerr WMA vascular flora:
+https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf
+
+Decision: PASS — Hays, Travis, Kerr.
+
+## Morphology
+UT Williamson County:
+https://w3.biosci.utexas.edu/prc/K12/pages/Verbena%20canescens.html
+NPSOT:
+https://www.npsot.org/posts/native-plant/verbena-canescens/
+UT PlantPics:
+https://www.bio.utexas.edu/courses/bio406d/images/pics/vrb/verbena_canescens.htm
+
+Key: low stature and dense gray canescent/hirsute covering over stems and leaves; terminal spike; only shallow leaf lobing/teeth.
+
+## Photo lead
+User iNaturalist example:
+https://www.inaturalist.org/observations/273570578
+
+
+JOEY/FAMILY TRAINING LAYER
+Joey Verbenaceae material plus authoritative review is trusted for opposite-leaf/spike/calyx/fruit morphology teaching.
+
+JOEY LIBRARY PHOTO REVIEW 019 2026-10-16T17:27:51.917176+00:00
+Verbena canescens
+Joey Santore / iNaturalist; CC BY-NC (exact version consult photo source)
+https://www.inaturalist.org/photos/221119425
+Independent botanical determination not completed; no anatomy arrows.
+
+JOEY LIBRARY PHOTO REVIEW 019 2026-10-16T17:27:51.917176+00:00
+Verbena canescens
+Joey Santore / iNaturalist; CC BY-NC (exact version consult photo source)
+https://www.inaturalist.org/photos/239976640
+Independent botanical determination not completed; no anatomy arrows.

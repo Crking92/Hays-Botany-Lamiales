@@ -1,0 +1,105 @@
+{
+  "id": "aloysia-gratissima",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Aloysia",
+  "species": "gratissima",
+  "scientific_name": "Aloysia gratissima",
+  "common_name": "Whitebrush / beebush",
+  "look_here_first": "Measure several mature leaves and compare intact axillary racemes. Leaves often 10–20 × 5–8 mm; short racemes have crowded flower bases. Do not identify by white flowers or scent alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Texas native at state level; three qualifying project counties not verified."
+  },
+  "morphology_keys": {
+    "leaves": "Opposite, usually small oblong or oblanceolate blades; typically entire but some forms toothed.",
+    "racemes": "Short, dense, axillary; flower bases close together.",
+    "habit": "Branched woody aromatic shrub; axillary leafy fascicles may be present."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Aloysia virgata",
+      "Lantana urticoides",
+      "Verbena halei"
+    ],
+    "key_distinctions": "A. virgata usually has larger toothed leaves and lax, flexuose racemes; Lantana has rounded heads; Verbena is herbaceous with spikes.",
+    "cautions": "Use multiple mature leaves and flowering axes; leaf teeth, height, scent and flower color alone are unreliable."
+  },
+  "images": [
+    {
+      "file": "images/aloysia-gratissima-raceme.jpg",
+      "role": "Dense flowering raceme",
+      "creator": "Dick Culbert",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aloysia_gratissima_(8730120650).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-357407566.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/357407566",
+      "observation_url": "https://www.inaturalist.org/observations/202374454",
+      "observation_id": "202374454",
+      "photo_id": "357407566",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/357407566/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-515210339.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/515210339",
+      "observation_url": "https://www.inaturalist.org/observations/286579899",
+      "observation_id": "286579899",
+      "photo_id": "515210339",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/515210339/large.jpg",
+      "image_dimensions": [
+        577,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-12",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

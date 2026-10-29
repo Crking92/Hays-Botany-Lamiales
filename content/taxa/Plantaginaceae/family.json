@@ -1,0 +1,89 @@
+{
+  "rank": "family",
+  "name": "Plantaginaceae",
+  "common_name": "Plantain / penstemon family",
+  "project_scope": {
+    "selection_mode": "Penstemon-centered family reference module",
+    "note": "Penstemon cobaea is the best current family visual reference; the website's canonical Plantaginaceae species set remains sparse."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "For Penstemon-style plants, inspect inside the fused bilateral corolla: four fertile stamens plus a sterile fifth stamen/staminode.",
+    "habit": "Mostly herbs; leaves simple and without stipules.",
+    "flower": "Fused usually zygomorphic corolla; commonly 2 or 4 fertile stamens, with staminodes in some lineages.",
+    "fruit": "Usually a many-seeded capsule.",
+    "field_tip": "Penstemon: four fertile stamens and a fifth staminode, but NOT family-universal. Plantago: dense small-flowered spike and pyxis (lid-opening capsule); Veronica: often two stamens. Check fruit and genus before calling the family."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Penstemon gives you a memorable doorway into Plantaginaceae: four fertile stamens plus one sterile beardtongue inside a bilateral tube.",
+    "steps": [
+      {
+        "title": "1 · Start with the Penstemon gestalt",
+        "photo_role": "prairie penstemon habit + flowers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Penstemon%20cobaea.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Penstemon_cobaea.jpg",
+        "image_label": "Penstemon cobaea",
+        "image_credit": "Public Domain · USDA NRCS",
+        "look_for": "Herbaceous habit with opposite simple leaves and large bilateral tubular flowers.",
+        "why_it_matters": "A strong local Plantaginaceae teaching form.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Find the beardtongue",
+        "photo_role": "staminode inside corolla",
+        "look_for": "Four fertile stamens plus a sterile fifth stamen/staminode.",
+        "why_it_matters": "This is the signature Penstemon mechanism behind the common name beardtongue.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "3 · Follow to the capsule",
+        "photo_role": "many-seeded capsule",
+        "look_for": "A dry capsule with many seeds rather than mint-family nutlets.",
+        "why_it_matters": "Fruit separates Plantaginaceae from Lamiaceae in many local tubular-flowered herbs.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Remember family breadth",
+        "photo_role": "non-Penstemon Plantaginaceae",
+        "look_for": "The family includes forms that do not look like Penstemon at all.",
+        "why_it_matters": "Prevents the learner from turning a genus-level staminode into a family-wide rule.",
+        "status": "reference_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Plantaginaceae vs Lamiaceae",
+        "rule": "Plantaginaceae commonly has a many-seeded capsule; Lamiaceae commonly matures four nutlets or a drupaceous fruit."
+      },
+      {
+        "title": "Plantaginaceae vs Acanthaceae",
+        "rule": "Acanthaceae commonly has a capsule with retinacula/jaculators that launch seeds; Plantaginaceae lacks that mechanism."
+      }
+    ],
+    "caveat": "The current visual lesson is intentionally Penstemon-centered; family breadth should expand as more local genera are promoted.",
+    "reconciliation_2026_10_14": {
+      "status": "canonical_text_reconciled_visual_annotation_pending",
+      "look_here_first": "LOOK FIRST by genus: Penstemon has 4 fertile stamens plus a fifth sterile staminode in a bilateral tube. Plantago has tiny spike flowers and a circumscissile capsule (pyxis); Veronica often has 2 stamens and a 4-lobed corolla. Broad Plantaginaceae is NOT uniformly bilabiate or staminode-bearing. Confirm fruit and current genus.",
+      "local_confusion": "Confusable Lamiales: Acanthaceae may have seed-support retinacula in a 2-locular capsule (not universal); Plantaginaceae capsules lack those hooks. Lamiaceae typically makes four nutlets, often with a gynobasic style. Orobanchaceae includes green hemiparasites; Scrophulariaceae older broad placements differ from current taxonomy. Corolla color is weak.",
+      "photo_handoff": "Photo locks: Penstemon dissected 4 anthers + staminode; Plantago flower/pyxis lid and seeds; Veronica 2 stamens and unequal corolla lobes; Bacopa/Mecardonia flower-to-fruit; matched Plantaginaceae capsule vs Ruellia retinacula and mint nutlets. Route remaining Leucospora, Maurandella, Nuttallanthus with genus-specific floral photos.",
+      "photo_verification_note": "Only images explicitly identified as inspected in the existing audit are verified. Proposed arrow targets remain annotation_pending; no new image files installed."
+    }
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "reference_first_pass"
+  },
+  "penstemon_visual_extension": {
+    "title": "Beardtongue flower parts",
+    "look_here_first": "On a flower throat close-up, distinguish four fertile stamens from the often hairy fifth sterile stamen, called the staminode. Inspect the calyx, upper leaf attachment, and dry seed capsule.",
+    "photo_reference_paths": [
+      "content/taxa/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+      "content/taxa/Plantaginaceae/Penstemon/penstemon-triflorus/images/penstemon-triflorus-provisional-face.jpg"
+    ],
+    "restricted_study_images": 2,
+    "pending": "Rights-cleared Penstemon cobaea flowers, matched staminode closeups and verified anatomical arrows",
+    "range_note": "Penstemon tenuis remains RANGE HOLD and is only a morphology comparison."
+  }
+}

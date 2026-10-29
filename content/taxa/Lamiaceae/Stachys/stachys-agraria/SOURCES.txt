@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Stachys%20agraria
+Source research-grade observation: https://www.inaturalist.org/observations/157807355
+Photo: https://www.inaturalist.org/photos/272797701
+Attribution: (c) Oscar Alejandro Morales Juárez, some rights reserved (CC BY-SA)
+License: CC BY-SA; Attribution; ShareAlike requirements
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

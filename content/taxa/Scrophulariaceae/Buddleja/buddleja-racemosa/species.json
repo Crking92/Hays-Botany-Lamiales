@@ -1,0 +1,53 @@
+{
+  "id": "buddleja-racemosa",
+  "family": "Scrophulariaceae",
+  "genus": "Buddleja",
+  "species": "racemosa",
+  "scientific_name": "Buddleja racemosa",
+  "common_name": "Texas butterflybush",
+  "look_here_first": "Small woody shrub with opposite leaves and distinct rounded clusters of tiny flowers along an elongated inflorescence; inspect leaf undersides and flower heads.",
+  "curation_status": {
+    "visual_reviewed": false,
+    "taxonomy_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/joey-373982289.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/373982289",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-373982378.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/373982378",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-373982455.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/373982455",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

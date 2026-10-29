@@ -1,0 +1,179 @@
+{
+  "id": "verbena-halei",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Verbena",
+  "species": "halei",
+  "scientific_name": "Verbena halei",
+  "authority": "",
+  "common_name": "Texas vervain",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Look at the leaf dissection and overall slenderness first: lower leaves are often deeply pinnatifid, while the upper flowering branches become narrow and simple; the plant is much less gray-woolly than Verbena canescens.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Kew/POWO accepts Verbena halei and lists Texas within its native range. Hays County — the project Hays County native-source list includes Verbena halei. Travis County — the University of Texas Plant Resources Center Travis County Verbenaceae index includes a Verbena halei herbarium specimen. Kerr County — the Kerr Wildlife Management Area vascular flora documents Verbena halei without an introduced marker.",
+    "range_guardrail": "Do not use cultivated/native-plant-sale listings as county evidence. User iNaturalist observations support encounter/photo value but are not required for the range decision."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "slender perennial, usually one to a few stems with an open branched flowering canopy",
+      "lower leaves variable but often deeply pinnately lobed or cut",
+      "upper leaves become much narrower, simpler, and sometimes nearly entire",
+      "stems comparatively sparsely hairy rather than densely gray-canescent",
+      "slender terminal/branched spikes with widely spaced tiny lavender-purple flowers",
+      "four-angled to ridged stems; opposite leaves",
+      "fruit breaks into four one-seeded mericarps"
+    ],
+    "verbena_training": "Separate these by leaf architecture + hair texture + spike/branching architecture before using flower color."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Verbena canescens",
+      "Verbena xutha",
+      "Verbena scabra"
+    ],
+    "key_distinctions": "Verbena canescens: Gray vervain is shorter and densely gray-hairy/canescent over stems and leaves; Texas vervain is more slender and comparatively greener/less hairy, with more deeply divided lower leaves. Verbena xutha: Gulf vervain is coarser, more strongly hispid/glandular, and typically has conspicuous 3-lobed leaves rather than the slender highly variable pinnatifid-to-linear leaf progression of V. halei. Verbena scabra: Sandpaper vervain is much more robust, with broad rough ovate leaves and long coarse spikes."
+  },
+  "tags": [
+    "Verbenaceae",
+    "Verbena",
+    "Texas vervain",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-009",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 6,
+    "leaf_diagnostic_photo_found": "2026-10-12",
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "photo_note": "Diagnostic role list is preserved in research draft; exact final photo set can be polished later. Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Joey Santore photo additions are rights-limited CC BY-NC and botanical ID provisional.",
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Verbena%20halei.jpg",
+      "role": "Whole plant / Texas vervain in bloom",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_halei.jpg",
+      "original_source_page": "https://www.inaturalist.org/photos/1442369",
+      "observation_source": "https://www.inaturalist.org/observations/1145793",
+      "inaturalist_photo_id": 1442369,
+      "inaturalist_observation_id": 1145793,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/16674993/large.jpg",
+      "role": "Flowering spike / exact-species field reference",
+      "creator": "Steve Harbula",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/guides/14344",
+      "inaturalist_photo_id": 16674993,
+      "source_type": "iNaturalist open data via Wildlife and Wildflowers of Texas guide",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "note": "Guide photo credit 44 identifies Steve Harbula and CC BY-NC; observation ID was not exposed by the guide retrieval path."
+    },
+    {
+      "file": "https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Verbena+halei_0256.JPG&id=1254&size=w",
+      "role": "USGS mature leaf close-up: deeply incised leaf lobes and basal taper",
+      "caption": "Actual leaf shown. Strong for lower-leaf architecture; cannot independently exclude Gulf vervain.",
+      "creator": "Larry Allain / U.S. Geological Survey",
+      "license": "Public domain",
+      "platform": "USGS Plants of Louisiana",
+      "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/1254",
+      "source_record_id": "Verbena+halei_0256.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "remote_only": true,
+      "local_file_present": false,
+      "exact_species": true,
+      "visible_diagnostic_structure_verified": true
+    },
+    {
+      "file": "images/glass-root-671352095-first-photo.jpg",
+      "role": "Slender flowering stems in mixed vegetation; flowers soft-focused, leaf and calyx macro still needed",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/671352095",
+      "observation_url": "https://www.inaturalist.org/observations/367610117",
+      "observation_id": 367610117,
+      "photo_id": 671352095,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/671352095/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/joey-review034-a0991f497cf63d49.jpg",
+      "role": "Tiny lavender corollas arranged along terminal verbena spike (source taxon determination provisional; fine structure not independently validated)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/258119803",
+      "source_observation": "https://www.inaturalist.org/observations/149766332",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258119803/large.jpeg",
+      "source_determination": "Verbena halei",
+      "photo_id": "258119803",
+      "observation_id": "149766332",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review034-192e4a7ffa9e4d4c.jpg",
+      "role": "Purple flowers and bracts scattered on slender upright flowering axis (source taxon determination provisional; fine structure not independently validated)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/258119875",
+      "source_observation": "https://www.inaturalist.org/observations/149766332",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258119875/large.jpeg",
+      "source_determination": "Verbena halei",
+      "photo_id": "258119875",
+      "observation_id": "149766332",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 4,
+    "note": "Private owner-authorized first-photo coverage; fine diagnostic views remain pending."
+  }
+}

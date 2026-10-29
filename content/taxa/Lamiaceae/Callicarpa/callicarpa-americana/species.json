@@ -1,0 +1,75 @@
+{
+  "id": "callicarpa-americana",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Callicarpa",
+  "species": "americana",
+  "scientific_name": "Callicarpa americana",
+  "authority": "L.",
+  "common_name": "American Beautyberry",
+  "look_here_first": "Start with the fruit arrangement and opposite leaves. American beautyberry has tight rings/clusters of vivid purple-magenta berries hugging the stem at the leaf axils, plus opposite serrate leaves on a softly hairy shrub.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Williamson — county vascular flora lists Callicarpa americana. Travis — Pace Bend Park vegetation inventory documents American beautyberry in Travis County. Hays — project Hays-local source pool/native observation set includes C. americana.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous shrub",
+      "opposite simple leaves",
+      "coarsely serrate leaf margins",
+      "young stems/leaves often softly hairy",
+      "small pale pinkish flowers in axillary cymes",
+      "dense beadlike purple-magenta fruit clusters encircling the stem at nodes",
+      "fruit persists into fall"
+    ],
+    "comparison_training": "Opposite serrate leaves + dense purple berry rings directly at the nodes are the fastest confirmation."
+  },
+  "curation_status": {
+    "version": "1.0-b053",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "images": [
+    {
+      "file": "images/01-fruiting-shrub-habit.jpg",
+      "role": "Whole shrub/branching habit with arching fruiting stems",
+      "creator": "Tom Potterfield",
+      "license": "CC BY-NC-SA (version not specified on guide)",
+      "source_page": "https://www.inaturalist.org/guide_taxa/1559133",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-lavender-pink-flower-clusters.jpg",
+      "role": "Lavender-pink axillary flower clusters with exserted stamens",
+      "creator": "zen Sutherland",
+      "license": "CC BY-NC-SA (version not specified on guide)",
+      "source_page": "https://www.inaturalist.org/guide_taxa/1559133",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-purple-fruit-opposite-leaves.jpg",
+      "role": "Purple-magenta fruit clusters hugging the stem with opposite serrate leaves",
+      "creator": "Forest and Kim Starr",
+      "license": "CC BY 2.0",
+      "source_page": "https://www.inaturalist.org/guide_taxa/1559133",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+PHOTO FAST-FILL 033 — Physostegia virginiana
+Date: 2026-10-06
+Temporary one-photo learner coverage from exact-species reusable media.
+Source: https://commons.wikimedia.org/wiki/File:Physostegia_virginiana.jpg
+Creator: Biotaman
+License: Public domain
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+LIBRARY-FIRST IMAGE SELECTION 010 2026-10-16T15:37:23.277744+00:00
+Physostegia virginiana
+Creator: andrew2285; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6518397286
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/physostegia-virginiana/gbif-6812b2c162fd74.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

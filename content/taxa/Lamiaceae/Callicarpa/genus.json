@@ -1,0 +1,27 @@
+{
+  "rank": "genus",
+  "family": "Lamiaceae",
+  "name": "Callicarpa",
+  "common_group": "Beautyberries",
+  "project_scope": {
+    "selection_mode": "B053 singleton genus anchor",
+    "species_ids": [
+      "callicarpa-americana"
+    ],
+    "species_count": 1
+  },
+  "study_strategy": {
+    "priority": [
+      "opposite leaves",
+      "axillary fruit rings",
+      "leaf serration",
+      "twig pubescence",
+      "fruit color"
+    ],
+    "warning": "The fruit clusters are distinctive, but leaf arrangement and node position let you confirm the genus when fruit is absent."
+  },
+  "curation_status": {
+    "version": "1.0-b053",
+    "last_reviewed": "2026-10-03"
+  }
+}

@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Hygrophila%20costata
+Source research-grade observation: https://www.inaturalist.org/observations/146487742
+Photo: https://www.inaturalist.org/photos/251859349
+Attribution: (c) Enrique Cenoz, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

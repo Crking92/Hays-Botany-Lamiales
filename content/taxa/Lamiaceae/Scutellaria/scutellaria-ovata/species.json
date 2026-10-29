@@ -1,0 +1,112 @@
+{
+  "id": "scutellaria-ovata",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Scutellaria",
+  "species": "ovata",
+  "scientific_name": "Scutellaria ovata",
+  "common_name": "Heart-leaved skullcap",
+  "synonyms": [],
+  "taxonomic_note": "Kew/POWO accepts Scutellaria ovata as a Texas-native species with recognized infraspecific structure. The learner remains at species rank; accepted variety records may support the species-level county concept.",
+  "look_here_first": "First check size and leaves. This is a much taller rhizomatous perennial than the small local skullcaps, with large triangular-ovate leaves, truncate to shallowly heart-shaped bases, crenate margins, and relatively large blue-violet flowers.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Hays",
+    "Gillespie"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis is locked by UT Plant Resources Center specimens; Hays and Gillespie are documented in the Smithsonian monographic treatment under accepted S. ovata var. bracteata and roll up to the species-level learner concept.",
+    "range_guardrail": "Keep variety identity separate unless diagnostic evidence supports it; county evidence at an accepted infraspecific rank may support the species-level occurrence without assigning a variety to an unknown plant."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous perennial, substantially taller than S. drummondii and S. wrightii",
+      "often about 35–70 cm tall in regional treatments",
+      "opposite large triangular-ovate leaves",
+      "leaf bases truncate to shallowly cordate",
+      "leaf margins crenate",
+      "leafy raceme with bilaterally symmetric blue-violet flowers",
+      "two-lipped Scutellaria calyx with the projecting visorlike scutellum",
+      "corollas much larger than S. drummondii, roughly 21–25 mm in regional comparison treatments"
+    ],
+    "comparison_training": "S. drummondii is a small glandular-hairy annual with acute leaves and much smaller flowers; S. wrightii is a low bushy perennial with small rounded entire leaves. S. ovata is taller, rhizomatous, and conspicuously larger-leaved and larger-flowered."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Scutellaria drummondii",
+      "Scutellaria wrightii"
+    ],
+    "key_distinctions": "Tall rhizomatous habit plus large triangular-ovate crenate leaves and large flowers separates S. ovata from the much smaller local annual/perennial skullcaps."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Scutellaria",
+    "Heart-leaved skullcap",
+    "Central Texas",
+    "Skullcap comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-pass-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole rhizomatous habit",
+    "large triangular-ovate leaf and base",
+    "crenate leaf margin",
+    "flower close-up with calyx scutellum",
+    "side-by-side scale comparison with S. drummondii and S. wrightii"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/scutellaria-ovata-provisional-face.jpg",
+      "role": "Flowering plant / recognizable face",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Scutellaria_ovata.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    },
+    {
+      "file": "images/gbif-manual-6235828652-2f141be93.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Square stem, ovate toothed leaves, corolla and helmetlike calyx outgrowth",
+      "creator": "Wendy A",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6235828652",
+      "gbif_occurrence_id": "6235828652",
+      "source_determination": "Scutellaria ovata Hill",
+      "accepted_target": "Scutellaria ovata",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644403290/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,41 @@
+BACOPA MONNIERI — CURATION SOURCES
+Reviewed: 2026-10-02
+Status: PASS / APPROVED FOR INSTALL
+
+TAXONOMY
+Kew POWO accepted Bacopa monnieri (L.) Wettst.: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1072674-2
+IPNI notes Bacopa monnieri (L.) Pennell is an isonym of the earlier Wettstein combination: https://www.ipni.org/n/28333-2
+NPSOT: https://www.npsot.org/posts/native-plant/bacopa-monnieri/
+
+STRICT TARGET-ZONE RANGE
+Harvard University Herbaria Bacopa monnieri specimen index:
+https://kiki.huh.harvard.edu/databases/specimen_search.php?gen=bacopa&sp=monnieri&start=0
+Hays — C.B. Hellquist 15841, San Marcos: Aquarena Springs.
+Travis — B.C. Tharp, Austin: Colorado River; also R.R. Innes 277, Austin: Colorado River.
+Comal — F.J. Lindheimer 1056, New Braunfels.
+Kew also treats Texas as native.
+
+MORPHOLOGY
+Kew POWO general information and NPSOT page above; Flora of China description for detailed leaf/flower/capsule structure:
+https://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020622
+
+JOEY SPECIES LAYER
+Video Hr3nBxvgCv4 — Aquatic Plants on the San Marcos River
+023 @ 00:34:41.7 — low creeping habit / fleshy leaves
+024 @ 00:35:16.7 — flower close-up
+Rights: private-study frames; public reuse not assumed.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04
+Joey Santore / Crime Pays But Botany Doesn't — Aquatic Plants on the San Marcos River
+https://www.youtube.com/watch?v=Hr3nBxvgCv4
+bacopa-monnieri_habit-source-label_00-34-41.7.jpg @ 00:34:41.7 — Low creeping water-hyssop mat; look for its small fleshy leaves. Original source label is visible.
+bacopa-monnieri_flower-closeup_00-35-16.7.jpg @ 00:35:16.7 — Water-hyssop flower close-up showing the pale corolla lobes and central reproductive structures.
+Rights: private study only; public reuse not cleared. User confirms private learner. Original frames and source labels preserved. Files decoded and visually inspected before installation.
+
+LEARNER FAST-FILL PHOTO BACKFILL — 2026-10-05
+iNaturalist guide taxon: Bacopa monnieri
+https://www.inaturalist.org/guide_taxa/1252470
+Photo ID 28883234 — creator shaggybee — CC BY-NC.
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/28883234/large.jpg
+Role: flower plus fleshy opposite/sessile leaf context; exact species.
+Fast-fill scope only; existing taxonomy/range PASS unchanged.

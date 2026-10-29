@@ -1,0 +1,100 @@
+{
+  "id": "ruellia-metziae",
+  "entry_type": "species",
+  "family": "Acanthaceae",
+  "genus": "Ruellia",
+  "species": "metziae",
+  "scientific_name": "Ruellia metziae",
+  "authority": "Tharp",
+  "common_name": "Metz's ruellia / wild white petunia",
+  "synonyms": [
+    "Ruellia metziae var. marshii Tharp & F.A.Barkley"
+  ],
+  "look_here_first": "Start with the flower color and inflorescence. Ruellia metziae has conspicuously large white flowers in a terminal panicle of opposite cymes, and the upper inflorescence axes and calyx are densely stalked-glandular-hairy.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve natural-flora list records Ruellia metziae. Travis — the species holotype is from Travis County and the UT Travis County Acanthaceae specimen index includes R. metziae. Williamson — UT Plant Resources Center provides a dedicated Williamson County treatment.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb",
+      "opposite decussate leaves",
+      "terminal panicle of cymes",
+      "large white corolla",
+      "upper inflorescence with dense stalked glandular hairs",
+      "4-sided stems aging more cylindrical",
+      "dry rocky limestone habitat"
+    ],
+    "comparison_training": "R. ciliatiflora usually has violet to purple flowers and less strikingly white corollas. R. metziae is easiest to recognize by the large white flowers plus glandular-hairy upper inflorescence."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ruellia ciliatiflora",
+      "Ruellia humilis",
+      "Ruellia drummondiana"
+    ],
+    "key_distinctions": "R. metziae has large white flowers in a terminal branching inflorescence. R. humilis is conspicuously long-pilose and typically bears axillary flowers; R. drummondiana has nearly sessile axillary flowers."
+  },
+  "curation_status": {
+    "version": "1.0-b081",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/ruellia-metziae-provisional-face.jpg",
+      "role": "Flowering habit recognizable face",
+      "creator": "Michelle W.",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_metziae_in_bloom.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6234296690-51bf74d37.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Terminal panicle of white flowers and stalked-glandular inflorescence hairs",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6234296690",
+      "gbif_occurrence_id": "6234296690",
+      "source_determination": "Ruellia metziae Tharp",
+      "accepted_target": "Ruellia metziae",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632955137/original.jpg",
+      "image_dimensions": [
+        1350,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "rank": "family",
+  "name": "Verbenaceae",
+  "common_name": "Verbena family",
+  "project_scope": {
+    "selection_mode": "Central Texas structure-first family module",
+    "note": "Canonical Verbena species remain photo-light; rights-cleared Lantana family references supply fruit/head breadth until Verbena images are locked."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with opposite/decussate exstipulate leaves, then the inflorescence: spikes or compact heads are common. Confirm a tubular flower, superior ovary and usually terminal style.",
+    "flowers": "Usually 4- or 5-merous, tubular and zygomorphic to weakly bilabiate.",
+    "fruit": "Can split into 2 or 4 mericarps or become drupaceous, depending on genus.",
+    "field_tip": "Look at opposite/decussate stipule-free leaves, small tubular flowers and how they are clustered. Lantana makes many-flowered rounded bracteate heads and drupes; frogfruit Phyla creeps with condensed heads; Verbena often has elongated spikes and dry splitting fruits. Both Verbenaceae and Lamiaceae may have four-angled stems. Determine superior ovary, style origin, and fruit rather than using stem shape alone."
+  },
+  "visual_lesson": {
+    "status": "partial_visual_lock",
+    "teaching_order": "opposite leaf pairs → woody Lantana rounded many-flowered head (installed) → creeping Phyla head and mat (installed) → Verbena elongated spike → Lantana fleshy drupes vs dry fruits → terminal style and superior ovary anatomy (macro still pending)",
+    "intro": "SEE real opposite-leaved Verbena-family examples: Texas lantana's many-flowered orange head on a woody shrub and frogfruit's pale tiny heads on a creeping mat. SPOT the bracts and individual florets, NAME the inflorescence and FRUIT type, then COMPARE Verbena elongated spikes and the square-stemmed mint family. Flower head COLOR does not prove a plant is local native Lantana.",
+    "steps": [
+      {
+        "title": "1 · Keep the Verbena spike in mind",
+        "photo_role": "canonical Verbena spike/flower",
+        "anchor_species_id": "verbena-halei",
+        "look_for": "Opposite leaves and an elongated spike of small tubular flowers.",
+        "why_it_matters": "This is the common local Verbena family form.",
+        "status": "canonical_photo_lock_pending"
+      },
+      {
+        "title": "2 · Compare Texas lantana's rounded flower head",
+        "photo_role": "bracteate capitulum / flower head / opposite rough leaves",
+        "source_page": "https://www.inaturalist.org/photos/272160509",
+        "image_label": "Wild Texas lantana, flowering head and rough foliage",
+        "image_credit": "Chet Burrier · CC BY 4.0",
+        "look_for": "The orange-and-yellow rounded cluster is a HEAD of many individual tiny tubular flowers—not a single flower. On adjacent shoots look for the coarsely toothed leaves. This Texas research-grade photo does NOT reveal separate bractlet veins or fine underside hairs.",
+        "why_it_matters": "Shows the woody, compact-headed Lantana branch of Verbenaceae using a real installed photograph instead of an image with disputed species identification.",
+        "status": "installed_verified_exact_species_cc_by4",
+        "anchor_species_id": "lantana-urticoides",
+        "anchor_image_index": 0
+      },
+      {
+        "title": "3 · Lantana makes fleshy drupes (comparison image)",
+        "photo_role": "Lantana drupes",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lantana_camara_fruits.jpg",
+        "image_label": "Lantana camara-type drupe fruit (external comparison)",
+        "image_credit": "CC BY / CC BY-SA · Alvesgaspar",
+        "look_for": "Dark fleshy fruits of a Lantana camara-type COMPARISON show a drupe pattern, not the four dry nutlets some other Verbena relatives produce. This is NOT a verified image of L. urticoides and must not be reused as one.",
+        "why_it_matters": "Illustrates real variation within Verbenaceae fruits, while keeping nonlocal or horticultural L. camara photos separate from native Texas lantana.",
+        "status": "external_comparison_photo_only_not_urticoides"
+      },
+      {
+        "title": "4 · Separate from Lamiaceae",
+        "photo_role": "style / ovary comparison",
+        "look_for": "Verbenaceae commonly has a terminal style and less deeply lobed ovary; Lamiaceae commonly has a deeply 4-lobed ovary with gynobasic style.",
+        "why_it_matters": "This is far stronger than stem shape.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Spot a different family flower head on frogfruit",
+        "photo_role": "Phyla nodiflora short dense head and creeping stems",
+        "anchor_species_id": "phyla-nodiflora",
+        "anchor_image_index": 0,
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Phyla_nodiflora",
+        "image_label": "Frogfruit white-lilac tiny-flowered heads",
+        "image_credit": "Forest & Kim Starr · CC BY 3.0",
+        "look_for": "Small white-purple FLOWERS form a short condensed head on slender peduncles close to a low groundcover. Contrast Texas lantana's larger rounded orange head and woody shrub habit. A flower cluster isn't one huge flower.",
+        "why_it_matters": "A second physically installed Verbenaceae genus demonstrates compact floral heads without assuming Lantana and Phyla have the same fruit.",
+        "status": "installed_verified_exact_species_cc_by3"
+      },
+      {
+        "title": "6 · Compare shrub vs mat-forming creeping stems",
+        "photo_role": "Phyla nodiflora groundcover habit vs Lantana woody shrub",
+        "anchor_species_id": "phyla-nodiflora",
+        "anchor_image_index": 1,
+        "source_page": "https://www.flickr.com/search/?text=Phyla%20nodiflora%20Dinesh%20Valke",
+        "image_label": "Frogfruit mat and opposite leaves",
+        "image_credit": "Dinesh Valke · CC BY-SA 2.0",
+        "look_for": "Notice the spreading low stems with opposite toothed leaves and many low clustered flower heads. Frogfruit is a groundcover, NOT a woody Texas lantana shrub, even though both are Verbena-family plants.",
+        "why_it_matters": "Separates family traits that are genuinely shared (opposite foliage and many-flowered heads) from genus-level growth form and fruit clues.",
+        "status": "installed_verified_exact_species_cc_by_sa2"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Verbenaceae vs Lamiaceae",
+        "rule": "Do not use square stems alone. Read inflorescence architecture, ovary lobing, style position and fruit."
+      },
+      {
+        "title": "Verbenaceae vs Rubiaceae",
+        "rule": "Rubiaceae has interpetiolar stipules and an inferior ovary; Verbenaceae lacks stipules and has a superior ovary."
+      },
+      {
+        "title": "Texas lantana vs frogfruit (Phyla nodiflora)",
+        "rule": "Both can have opposite leaves and dense heads made of many tiny tubular flowers. Texas lantana is a WOODY rough-leaved shrub making dark fleshy drupes; Phyla is a creeping mat herb with small matchlike heads and dry splitting fruits."
+      },
+      {
+        "title": "Native lantana vs ornamental lantana hybrids",
+        "rule": "Yellow/orange/red flowers occur in L. urticoides and L. camara/strigocamara cultivated complexes. Look for fine bractlet shape, leaf underside vein hairs, shrub form and accepted provenance; prickles can vary and are not a decisive yes/no character."
+      }
+    ],
+    "caveat": "The canonical Verbena photo lock is still pending; the current visual module is scientifically usable but not visually complete. Texas lantana family anchor now uses physically installed image from research-grade Texas observation photo 272160509 (Chet Burrier CC BY 4.0); two earlier Commons L. urticoides-labeled images were identity-held and do not support the family visual. Frogfruit anchors are public CC BY and BY-SA installed species images; exact Phyla source links remain in each canonical species image record. Lantana bractlets, individual anthers, Lantana urticoides drupe and verified arrows still need calibrated macros."
+  },
+  "curation_status": {
+    "version": "1.1-recognition-confusion-polish",
+    "last_reviewed": "2026-10-09",
+    "visual_lock": "partial_complete_diagnostic_macros_pending",
+    "lantana_photo_led_upgrade": "2026-10-14: one licensed true Texas lantana head photo and two exact frogfruit public-licensed example photos installed and visually verified; disputed Lantana Commons photos excluded, all previous family science preserved."
+  },
+  "family_confusion_cleanup": {
+    "version": "1.0-comparison-first",
+    "updated": "2026-10-06",
+    "field_question": "Opposite leaves and a tubular flower: mint, verbena, or madder/coffee family?",
+    "look_here_first": [
+      "At the node: are there interpetiolar stipules between opposite leaves?",
+      "At the ovary: is it inferior, or superior and deeply lobed?",
+      "At fruiting: four nutlets, a drupe/schizocarp, or a capsule/berry-like fruit?",
+      "Use square stems and aroma only as supporting clues."
+    ],
+    "comparison_matrix": [
+      {
+        "family": "Lamiaceae",
+        "first_lock": "Opposite/decussate leaves usually without stipules; stems often 4-angled and foliage often aromatic.",
+        "break_the_tie": "Superior ovary commonly deeply 4-lobed with a gynobasic style; fruit commonly four nutlets.",
+        "exception": "Not every mint is aromatic, square-stemmed, bilabiate, or four-nutleted; Callicarpa is a conspicuous local breadth exception."
+      },
+      {
+        "family": "Verbenaceae",
+        "first_lock": "Opposite leaves and often 4-angled stems can mimic Lamiaceae closely.",
+        "break_the_tie": "Do not stop at the stem. Inspect ovary/style/fruit architecture; the classic deeply 4-lobed gynobasic mint ovary is not the default verbena pattern.",
+        "exception": "Family boundaries historically shifted, so older references may place some genera differently."
+      },
+      {
+        "family": "Rubiaceae",
+        "first_lock": "Opposite or whorled leaves can mimic mints/verbena vegetatively.",
+        "break_the_tie": "Look BETWEEN opposite petioles for interpetiolar stipules, then confirm an inferior ovary when flowers/fruit allow.",
+        "exception": "In Galium and relatives stipules can look leaflike, making the node appear whorled rather than simply opposite."
+      }
+    ],
+    "decision_key": [
+      "Opposite leaves: inspect the node before the flower.",
+      "Distinct interpetiolar stipule or stipular sheath between petioles? → strong Rubiaceae door; seek inferior ovary confirmation.",
+      "No stipules: inspect the ovary/style and later fruit.",
+      "Deeply four-lobed superior ovary + style arising among/between lobes + four nutlets → strong Lamiaceae door.",
+      "Opposite-leaved Lamiales look-alike without that mint ovary/fruit package → keep Verbenaceae and other Lamiales open until reproductive characters resolve it."
+    ],
+    "diagnostic_visual_roles": [
+      {
+        "priority": 1,
+        "shot": "same-node macro: Lamiaceae vs Verbenaceae vs Rubiaceae",
+        "labels": "no stipule | no stipule | interpetiolar stipule"
+      },
+      {
+        "priority": 1,
+        "shot": "ovary/style comparison macro or botanical diagram",
+        "labels": "Lamiaceae 4-lobed superior ovary + gynobasic style | Verbenaceae contrasting ovary/style | Rubiaceae inferior ovary"
+      },
+      {
+        "priority": 1,
+        "shot": "fruit comparison",
+        "labels": "mint four nutlets | representative verbena-family fruit | representative local Rubiaceae fruit"
+      },
+      {
+        "priority": 2,
+        "shot": "Galium node exception",
+        "labels": "leaf blades vs leaflike stipules producing apparent whorl"
+      }
+    ],
+    "sources": [
+      {
+        "source": "Flora of China — Lamiaceae",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10476",
+        "supports": "opposite leaves without stipules; often 4-angled stems; superior ovary often 4-parted with gynobasic style; usually four nutlets"
+      },
+      {
+        "source": "Flora of China — Rubiaceae",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10778",
+        "supports": "opposite/whorled leaves and interpetiolar stipules; stipules can be leaflike in Galium/Rubieae"
+      }
+    ]
+  },
+  "family_confusion_visual_polish": {
+    "version": "1.1-five-genus-fruit-first",
+    "updated": "2026-10-09",
+    "scope": "Existing 14-taxon / five-genus Master Plant Pool; recognition/confusion polish only, not a species taxonomy or native-range review.",
+    "field_question": "Opposite leaves, small tubular flowers and a four-angled stem: how do I prove Verbenaceae instead of a mint, Rubiaceae or another Lamiales family?",
+    "look_here_first": [
+      "At a mature leaf node, look for opposite/decussate leaves without interpetiolar stipules; this is a first-pass clue, not proof.",
+      "Trace one flower to the ovary and style: in common Verbenaceae the ovary is superior, generally not deeply four-lobed externally, and the style is terminal; contrast the deeply four-lobed, often gynobasic mint ovary.",
+      "Inspect a mature fruit WITH its persistent calyx: determine whether it divides into four dry mericarps, two dry mericarps, or is a fleshy drupe. Fruit architecture gives stronger genus routing than flower color.",
+      "Read inflorescence structure: elongate spike/panicle of spikes, short contracted head, creeping pedunculate head, woody raceme, or woody head."
+    ],
+    "comparison_matrix": [
+      {
+        "against": "Lamiaceae",
+        "similarity": "Opposite exstipulate leaves, tubular/bilabiate flowers, frequently four-angled stems; both may produce four nutlet-like units.",
+        "separate": "Dissect the superior ovary before fruiting: typical mint has four conspicuous lobes with gynobasic style, while typical verbena-family ovary is less deeply lobed with terminal style. Compare mature mericarps and calyx; fruit count alone can mislead.",
+        "exceptions": "Callicarpa is in Lamiaceae despite its drupaceous fruit; not every mint has a gynobasic style. Do not use scent or square stem as a family key."
+      },
+      {
+        "against": "Rubiaceae",
+        "similarity": "Opposite leaves and sometimes clustered small tubular flowers; Cephalanthus heads can resemble Verbenaceae heads at a distance.",
+        "separate": "At the node find interpetiolar stipules; confirm inferior Rubiaceae ovary beneath floral parts. Verbenaceae generally lacks stipules and has a superior ovary.",
+        "exceptions": "Galium stipules can resemble extra whorled leaves. Rubiaceae fruits are diverse; avoid using fruit fleshiness alone."
+      },
+      {
+        "against": "Plantaginaceae / Acanthaceae",
+        "similarity": "Lamiales with opposite leaves and tubular flowers; a small spike can resemble Verbena.",
+        "separate": "Plantaginaceae commonly has many-seeded capsules; Acanthaceae often has two-valved capsules with retinacula (seed-support hooks), though not universally. Verbenaceae typically has mericarps or drupaceous fruits, not those capsule mechanisms.",
+        "exceptions": "Fruit and stamen patterns vary; dissect the actual local specimen rather than treating a single character as universal."
+      }
+    ],
+    "five_genus_routing": [
+      {
+        "genus": "Verbena",
+        "master_pool_taxa": 5,
+        "door": "Usually erect/ascending herbs with elongate terminal spikes or panicles of spikes; persistent calyx encloses a dry fruit separating into four one-seeded mericarps.",
+        "compare": "Glandularia generally has a shorter, contracted head and relatively long style; Verbena spikes may be compact when young. Confirm fruit and mature inflorescence."
+      },
+      {
+        "genus": "Glandularia",
+        "master_pool_taxa": 3,
+        "door": "Often lower, spreading herbs with compact terminal flower heads/spikes; deeply divided leaves common in local taxa; dry fruit separates into four mericarps.",
+        "compare": "Versus Verbena, compare contracted unbranched heads, style relative to ovary and leaf division; no single vegetative character is sufficient."
+      },
+      {
+        "genus": "Phyla",
+        "master_pool_taxa": 1,
+        "door": "Prostrate/creeping stems often rooting at nodes, pedunculate dense heads of very small flowers; fruit divides into TWO dry mericarps.",
+        "compare": "Versus Lantana, check herbaceous creeping nodes and dry two-part fruit rather than woody shoots and fleshy drupe; versus Glandularia, compare flower size, leaf division and fruit count."
+      },
+      {
+        "genus": "Lantana",
+        "master_pool_taxa": 3,
+        "door": "Woody shrub with rough opposite leaves and compact rounded/flattened heads; fruit matures as a fleshy drupe with a hard stone/pyrene.",
+        "compare": "A flower head alone can mimic Phyla; follow to woody stem and mature fleshy fruit. Lantana species/hybrid identities are separate taxonomy-review work."
+      },
+      {
+        "genus": "Aloysia",
+        "master_pool_taxa": 2,
+        "door": "Woody aromatic shrubs with opposite or sometimes whorled leaves and small tubular flowers in relatively narrow spikes/racemes; fruit is a dry schizocarp, often two nutlet-like mericarps.",
+        "compare": "Unlike Lantana, usually elongated flowering axes and dry rather than fleshy fruit; unlike Verbena, persistent woody branching. Scent is supporting, never decisive."
+      }
+    ],
+    "diagnostic_visual_locks": [
+      {
+        "priority": 1,
+        "role": "same-scale mature fruit comparison across five pool genera",
+        "labels": "Verbena four mericarps | Glandularia four mericarps | Phyla two mericarps | Lantana drupe/stone | Aloysia dry schizocarp",
+        "status": "photo_acquisition_handoff"
+      },
+      {
+        "priority": 1,
+        "role": "dissected flower-center comparison with Lamiaceae",
+        "labels": "Verbenaceae superior ovary + terminal style | Lamiaceae deeply four-lobed superior ovary + gynobasic style; annotate exceptions",
+        "status": "photo_or_diagram_handoff"
+      },
+      {
+        "priority": 1,
+        "role": "same-node macro with Rubiaceae",
+        "labels": "opposite petioles | interpetiolar stipule present/absent; Galium apparent whorl",
+        "status": "photo_acquisition_handoff"
+      },
+      {
+        "priority": 2,
+        "role": "matched inflorescence architectural board",
+        "labels": "Verbena elongate spike | Glandularia contracted head | Phyla pedunculate creeping head | Lantana woody head | Aloysia woody raceme",
+        "status": "photo_acquisition_handoff"
+      },
+      {
+        "priority": 2,
+        "role": "fruit mechanism comparison with Plantaginaceae and Acanthaceae",
+        "labels": "Verbenaceae schizocarp/mericarps | Plantaginaceae capsule and seeds | Acanthaceae capsule with retinacula where present",
+        "status": "photo_acquisition_handoff"
+      }
+    ],
+    "teaching_cautions": [
+      "Four dry mericarps are not unique to Verbenaceae: mints often yield four nutlets; inspect ovary/style architecture and other characters.",
+      "A head is an inflorescence, not one flower; dissect a single small corolla and calyx from the head.",
+      "Some older references place Callicarpa, Vitex or other former Verbenaceae members in this family; modern treatments place these in Lamiaceae.",
+      "Do not infer native status from inclusion in Master Plant Pool. Encounter/comparison taxa remain in the learner with existing status labels."
+    ],
+    "source_notes": [
+      {
+        "source": "Kew Plants of the World Online, Verbenaceae general morphology",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000070-2/general-information",
+        "supports": "dry schizocarp 2/4 mericarps or drupaceous fruit; current family concept"
+      },
+      {
+        "source": "PlantNET NSW Verbenaceae genus key",
+        "url": "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=fm&name=VERBENACEAE&page=nswfl",
+        "supports": "Phyla 2-mericarpy; Verbena vs Glandularia spike/head and style; Lantana drupe"
+      },
+      {
+        "source": "Kew POWO Verbena morphology",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:330551-2/general-information",
+        "supports": "Verbena 4 mericarps and spikes; superior ovary and style"
+      },
+      {
+        "source": "Royal Botanic Gardens Victoria HortFlora Aloysia treatment",
+        "url": "https://hortflora.rbg.vic.gov.au/taxon/ada0d29e-5340-11e7-b82b-005056b0018f",
+        "supports": "Aloysia woody, opposite/whorled leaves, spikes/racemes and 2 nutlets"
+      }
+    ]
+  }
+}

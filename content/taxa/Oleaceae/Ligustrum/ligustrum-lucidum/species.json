@@ -1,0 +1,119 @@
+{
+  "id": "ligustrum-lucidum",
+  "entry_type": "species",
+  "family": "Oleaceae",
+  "genus": "Ligustrum",
+  "species": "lucidum",
+  "scientific_name": "Ligustrum lucidum",
+  "authority": "W.T.Aiton",
+  "common_name": "Glossy privet",
+  "look_here_first": "Inspect opposite, thick, glossy leaves 3–6 inches long: look for a distinct opaque 1–2 mm rim at the blade edge and 6–8 pairs of lateral veins. Confirm large terminal flower/fruit panicles and woody tree-like habit.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 641,
+    "target_zone_status": "COMPARISON_NON_NATIVE",
+    "learner_role": "NON_NATIVE_COMPARISON",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Native to eastern Asia; introduced in North America. Learner-approved encounter/comparison taxon, not a confirmed target-zone native."
+  },
+  "morphology_keys": {
+    "habit": "Broadleaf evergreen shrub or small tree; can reach a large tree-like crown.",
+    "leaves": "Opposite, simple, entire, thick and glossy, usually 3–6 inches long; conspicuous opaque margin rim, 6–8 pairs of lateral veins; veins sunken beneath.",
+    "flowers": "Small white four-lobed flowers borne in large terminal panicles, roughly 5–8 inches long.",
+    "fruit": "Numerous blue-black drupes in persistent terminal panicles.",
+    "stems": "Tan twigs with lenticels; leaves largely glabrous."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ligustrum sinense",
+      "Ligustrum japonicum",
+      "Ilex vomitoria"
+    ],
+    "key_distinctions": "L. sinense typically has thinner 1–3 inch leaves with hairs along the underside midvein and hairy petioles, shorter 2–3 inch panicles, and a shrubbier thicket habit. L. japonicum can have thick leaves but lacks the same prominent opaque marginal rim; check venation and flowers.",
+    "cautions": "Privets vary with pruning, shade, and juvenile growth. Use multiple mature leaves, nodes, venation and panicle structure; do not use fruit color alone."
+  },
+  "diagnostic_image_needs": [
+    "Matched mature leaf top and underside with scale",
+    "Leaf margin, midvein hair and petiole macro",
+    "Flower panicle and fruit close-up",
+    "Unpruned whole plant and bark/twig"
+  ],
+  "images": [
+    {
+      "file": "images/ligustrum-lucidum-starr-fruit-leaves.jpg",
+      "role": "Pressed exact-species leaves and fruit for recognition; provisional nonlocal specimen",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_020719-0032_Ligustrum_lucidum.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/glass-root-garden-566051502-flower-panicles.jpg",
+      "role": "NON-NATIVE glossy privet: branched clusters of small pale flowers, glossy opposite foliage",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/566051502",
+      "observation_url": "https://www.inaturalist.org/observations/313451496",
+      "observation_id": 313451496,
+      "photo_id": 566051502,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/566051502/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-646772667-glossy-leaves.jpg",
+      "role": "NON-NATIVE glossy privet: dense evergreen branches with opposite glossy simple leaves; use for native look-alike comparison",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/646772667",
+      "observation_url": "https://www.inaturalist.org/observations/354555487",
+      "observation_id": 354555487,
+      "photo_id": 646772667,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/646772667/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "learner_visual_status": {
+    "status": "photo_enriched_diagnostic_macros_pending",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-13",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful."
+}

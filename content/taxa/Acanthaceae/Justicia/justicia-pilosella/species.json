@@ -1,0 +1,143 @@
+{
+  "id": "justicia-pilosella",
+  "entry_type": "species",
+  "family": "Acanthaceae",
+  "genus": "Justicia",
+  "species": "pilosella",
+  "scientific_name": "Justicia pilosella",
+  "authority": "(Nees) Hilsenb.",
+  "common_name": "Hairy tube-tongue",
+  "synonyms": [
+    "Siphonoglossa pilosella (Nees) Torr."
+  ],
+  "taxonomic_note": "Current POWO accepts Justicia pilosella.",
+  "look_here_first": "Start with scale and hairs: a very low suffrutescent mound with conspicuously ciliate opposite leaves and paired axillary pale pink-purple tubular flowers.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Bexar"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis and Bexar are exact target-zone records. Williamson is documented but is outside the project target-county list and does not count.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Correct stale PASS while preserving learner admission."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "low suffrutescent perennial mound",
+      "many branched stems from base",
+      "conspicuous white hirsute/ciliate hairs",
+      "small opposite elliptic leaves with rounded tips",
+      "paired axillary tubular flowers",
+      "club-shaped capsule with up to four seeds"
+    ],
+    "comparison_training": "Tiny, dry-site and hairy versus the tall glabrous aquatic Dianthera americana."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Dianthera americana"
+    ],
+    "key_distinctions": "Low hairy dry-site mound + small ciliate leaves + paired axillary flowers."
+  },
+  "tags": [
+    "Acanthaceae",
+    "Justicia",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-correction-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "diagnostic_image_needs": [
+    "whole low habit",
+    "ciliate leaf margin",
+    "paired axillary flowers",
+    "flower close-up",
+    "capsule/seed"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful.",
+  "images": [
+    {
+      "file": "images/justicia-pilosella-provisional-face.jpg",
+      "role": "Gregg's tube-tongue habit and flower from Bexar County, Texas; node and fruit macros remain later polish.",
+      "creator": "Casey Cowan, iNaturalist user seekingtrees",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Justicia_pilosella.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc0"
+    },
+    {
+      "file": "images/glass-root-garden-491856212-flower-and-opposite-leaves.jpg",
+      "role": "Small lilac tube-tongue flower with opposite leaves and low branched habit; corolla shape observable, internal reproductive details not resolved",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/491856212",
+      "observation_url": "https://www.inaturalist.org/observations/273477324",
+      "observation_id": 273477324,
+      "photo_id": 491856212,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/491856212/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-647336904-flower-side-and-leaves.jpg",
+      "role": "Side view of pale-lilac flower with adjacent oval leaves and branching habit; useful for flower versus leaf comparisons",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/647336904",
+      "observation_url": "https://www.inaturalist.org/observations/354880186",
+      "observation_id": 354880186,
+      "photo_id": 647336904,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/647336904/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "photo_enriched_diagnostic_macros_pending",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-12",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

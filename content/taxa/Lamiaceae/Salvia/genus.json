@@ -1,0 +1,892 @@
+{
+  "rank": "genus",
+  "family": "Lamiaceae",
+  "name": "Salvia",
+  "authority": "L.",
+  "common_group": "Sages",
+  "project_scope": {
+    "selection_mode": "comparison-first",
+    "species_ids": [
+      "salvia-coccinea",
+      "salvia-azurea",
+      "salvia-texana",
+      "salvia-engelmannii",
+      "salvia-farinacea",
+      "salvia-roemeriana",
+      "salvia-greggii",
+      "salvia-ballotiflora",
+      "salvia-lyrata",
+      "salvia-pentstemonoides"
+    ],
+    "planned_comparison_species": [],
+    "note": "Salvia comparison set completed with ten canonical species. S. greggii and S. lyrata remain range-evidence exceptions approved by the user; their species files preserve UNRESOLVED strict-range status.",
+    "species_count": 10
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "opposite decussate leaves",
+      "square/4-angled stems common",
+      "bilabiate flowers",
+      "two fertile stamens with elongate connective/lever architecture",
+      "deeply 4-lobed ovary with gynobasic style",
+      "fruit separating into nutlets",
+      "flowers grouped in cymes/verticils along a flowering axis"
+    ],
+    "priority": [
+      "salvia-texana vs salvia-engelmannii: count basal vs cauline leaves and flower cymes, study calyx glands only with macros",
+      "salvia-farinacea vs salvia-azurea: mealy calyx vs open tall flower axis and narrow leaves",
+      "salvia-coccinea vs salvia-roemeriana vs salvia-pentstemonoides: separate basal leaf patterns, habitat and flower size",
+      "salvia-greggii vs salvia-ballotiflora: woody shrubs and distinctive leaves/calyces",
+      "salvia-lyrata: deeply lyrate rosette leaf vs other blue flowered sages",
+      "basal leaves present vs absent",
+      "leaf width, shape, and petiole",
+      "gland/hair type",
+      "calyx surface, ribs, and lobe tips",
+      "bracts and cyme structure"
+    ],
+    "warning": "Do not identify Texas sages primarily by flower color. Several local species overlap in blue-violet shades."
+  },
+  "quick_key": [
+    {
+      "if": "broad triangular/deltoid leaves on conspicuous petioles; tall red-flowered sage",
+      "then": "Salvia coccinea"
+    },
+    {
+      "if": "tall perennial with narrow linear leaves and long open flowering axis; calyx green and not mealy",
+      "then": "Salvia azurea"
+    },
+    {
+      "if": "low perennial with basal + cauline leaves, sunken/pitted glandular hairs, sharply pointed ribbed calyx",
+      "then": "Salvia texana"
+    },
+    {
+      "if": "low dense clump, only cauline narrow leaves, tack-shaped glands, 3-flowered cymes",
+      "then": "Salvia engelmannii"
+    },
+    {
+      "if": "mealy/farinose calyx on an erect perennial with lanceolate cauline leaves",
+      "then": "Salvia farinacea"
+    },
+    {
+      "if": "basal rosette in shaded Ashe-juniper habitat with red tubular flowers",
+      "then": "Salvia roemeriana"
+    },
+    {
+      "if": "woody shrub with tiny rough hairy leaves and small blue-purple flowers",
+      "then": "Salvia ballotiflora"
+    },
+    {
+      "if": "large basal rosette, tall stalk, and unusually large red/rose flowers in limestone seep or canyon habitat",
+      "then": "Salvia pentstemonoides"
+    },
+    {
+      "if": "woody aromatic shrub with small elliptic leaves and comparatively large showy flowers",
+      "then": "Salvia greggii"
+    },
+    {
+      "if": "flat basal rosette of deeply lyrate leaves with a mostly leafless flowering stalk and small blue-lavender flowers",
+      "then": "Salvia lyrata"
+    }
+  ],
+  "curation_status": {
+    "version": "2.5-all-salvia-visual-first-pass",
+    "last_reviewed": "2026-10-13",
+    "visual_status": "All 10 canonical Salvia species have readable photo-first diagnostics and comparison groups. 2 woody and lyreleaf modules integrated; new images staged/pipeline in flight. Pixel-accurate arrows, attribution on 2 provisional ballotiflora photos and matched-scale micros remain final polish.",
+    "annotated_panels": 0,
+    "photo_panels": 30,
+    "multi_species_comparison": true,
+    "photo_new_pair_panels": 7,
+    "red_trio_panels": 8,
+    "physical_big_red_images": 2,
+    "big_red_new_photo_verified": "content/taxa/Lamiaceae/Salvia/salvia-pentstemonoides/images/02-cibolo-flower-calyx-close.jpg",
+    "new_photo_install_outcome": "success — FWS image downloaded, old image retained, zero warnings",
+    "index_sync_retry_note": "Index job push initially conflicted with concurrent bot commit, no content/build error; fresh main change triggers new index build.",
+    "range_decisions_unchanged": true
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "FIRST identify the growth form (shrub, annual herb, or low perennial); then whole-plant leaves, then the flowering node and calyx. Tiny leaf gland shapes are strong when correctly photographed but cannot be guessed from a fuzzy full-plant shot.",
+    "shared_traits": [
+      "opposite decussate leaves",
+      "square/4-angled stems common",
+      "bilabiate flowers",
+      "two fertile stamens with elongate connective/lever architecture",
+      "deeply 4-lobed ovary with gynobasic style",
+      "fruit separating into nutlets",
+      "flowers grouped in cymes/verticils along a flowering axis"
+    ],
+    "science_caution": "S. texana has basal leaves but is not itself a true basal rosette (UT Austin); never claim basal rosette in that species. Also many blue-violet Salvia have strongly ribbed calyces: ribs alone are NOT a reliable species ID."
+  },
+  "photo_comparison_focus": {
+    "priority": 1,
+    "pair": [
+      "salvia-texana",
+      "salvia-engelmannii"
+    ],
+    "key_traits": [
+      {
+        "look": "Leaves at plant base",
+        "texana": "Basal AND cauline leaves but NOT true rosette; basal leaf 25–60 × 4–10+ mm",
+        "engelmannii": "Only cauline leaves, slender linear ~30–60 × 3–5 mm",
+        "why": "Best whole-plant difference if base in frame",
+        "photo_requirements": "Photograph full rooted base on each plant, and paired leaves on 1-mm ruler"
+      },
+      {
+        "look": "Flower groups at same stem node",
+        "texana": "Terminal many-flowered axis/raceme; often 8–14 flower pairs, sharply pointed leafy bracts",
+        "engelmannii": "Two opposing axillary cymes with three flowers per cyme, often close nodes",
+        "why": "Teaches difference between individual flower pairs and multi-flower branching cymes",
+        "photo_requirements": "Same-level flowering node side close-up with visible pedicels, no overlapping labels"
+      },
+      {
+        "look": "Gland position",
+        "texana": "Glandular hairs embedded/sunken in pits on leaf and calyx",
+        "engelmannii": "Subsessile tack-shaped glands stand above leaf/calyx surface",
+        "why": "Microstructure true separator when adequately photographed",
+        "photo_requirements": "Exact species same-magnification leaf/calyx macro, millimeter scale and arrows directly on confirmed glands; not available yet"
+      },
+      {
+        "look": "Calyx",
+        "texana": "Green 10-ribbed pointed calyx ~11–12 mm",
+        "engelmannii": "10-ribbed calyx ~10–11 mm with ~0.5-mm awn tips and raised tack glands",
+        "why": "Mostly overlapping; calyx alone insufficient",
+        "photo_requirements": "Side/back photo of same-maturity calyces at ruler scale"
+      },
+      {
+        "look": "Petals and color",
+        "texana": "Blue-violet 2-lipped, relatively dark lower lip",
+        "engelmannii": "Pale blue-violet, often very white/violet-marked lower lip",
+        "why": "Flower color/brightness varies and cannot be sole split",
+        "photo_requirements": "Same light, angle, camera and stage for both species"
+      }
+    ],
+    "memory_rule": "TEXANA = basal leaves + PIT glands + pointed leafy bracts. ENGELMANN = stem leaves only + TACK glands + three-flower cymes.",
+    "do_not_label_without_macro": [
+      "sunken/pitted gland hair",
+      "individual tack-shaped gland head",
+      "one flower in a 3-flowered cyme when pedicels not separately visible"
+    ],
+    "source_pages": [
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Salvia%20texana.html",
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Salvia%20engelmannii.html"
+    ]
+  },
+  "visual_comparison": {
+    "title": "Salvia ID — photo-first look-alikes and rosette/leaf keys",
+    "subtitle": "All ten installed Salvia species covered by photo comparison lessons; read actual photo captions for locality, licensing and diagnostic visibility. Red, blue, woody and lyreleaf comparisons.",
+    "items": [
+      {
+        "label": "TEXAS SAGE · BRACTS & FLOWER HEADS",
+        "species_id": "salvia-texana",
+        "scientific_name": "Salvia texana",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-texana/images/01-flowering-detail.jpg",
+        "image_fit": "contain",
+        "caption": "Look at the pointed, leaflike bracts beside each blue-violet flower; the green calyx cups each flower. The pitted gland detail needs a dedicated micro shot.",
+        "creator": "Wikimedia Commons contributor — unresolved",
+        "license": "unverified individual photo; private study only",
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Salvia_texana",
+        "markers": [],
+        "annotation_status": "no arrows yet — image pixel/licensing QA pending"
+      },
+      {
+        "label": "ENGELMANN · EDWARDS PLATEAU STEM",
+        "species_id": "salvia-engelmannii",
+        "scientific_name": "Salvia engelmannii",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-engelmannii/images/01-edwards-plateau-field-reference.jpg",
+        "image_fit": "contain",
+        "caption": "Exact wild plant. Find its narrow stem leaves and compare bloom color/shape with Texas sage. Raised tack-shaped glands require a macro.",
+        "creator": "Craig Hensley",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_engelmannii_iNat-43145045.jpg",
+        "markers": [],
+        "annotation_status": "big morphological features only"
+      },
+      {
+        "label": "TEXAS SAGE · HABIT & STEM LEAVES",
+        "species_id": "salvia-texana",
+        "scientific_name": "Salvia texana",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-texana/images/02-field-reference.jpeg",
+        "image_fit": "contain",
+        "caption": "Existing field photograph of habit, upper leaves and flower groups; base not in view may conceal the diagnostically useful basal leaves.",
+        "creator": "iNaturalist observer unresolved",
+        "license": "image reuse unverified",
+        "source_page": "https://www.gbif.org/es/species/2926988",
+        "markers": [],
+        "annotation_status": "no guesses about base of cropped photograph"
+      },
+      {
+        "label": "ENGELMANN · FLOWER-AND-LEAF FIELD",
+        "species_id": "salvia-engelmannii",
+        "scientific_name": "Salvia engelmannii",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-engelmannii/images/03-chalk-mountain-flowering-study.jpg",
+        "image_fit": "contain",
+        "caption": "Somervell County native Engelmann sage, 2024. Added with source and CC BY 2.0 attribution, for matched flowering plant shape.",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_engelmannii.jpg",
+        "markers": [],
+        "annotation_status": "field photo, not micromorphology"
+      },
+      {
+        "label": "ENGELMANN · OVERALL CLUMP, CULTIVATED",
+        "species_id": "salvia-engelmannii",
+        "scientific_name": "Salvia engelmannii",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-engelmannii/images/02-whole-plant-habit.jpg",
+        "image_fit": "contain",
+        "caption": "Cultivated comparison for compact clumping form only. Not a wild field diagnostic or public-reuse image.",
+        "creator": "Lone Star Nursery",
+        "license": "rights not verified, no public reuse",
+        "source_page": "https://lonestarnursery.com/products/sage-engelmanns-blue",
+        "markers": [],
+        "annotation_status": "private learner only"
+      },
+      {
+        "species_id": "salvia-azurea",
+        "scientific_name": "Salvia azurea",
+        "label": "AZURE · AIRY BLOOM AND NARROW LEAVES",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-azurea/images/01-habit-flowering-axis.jpg",
+        "image_fit": "contain",
+        "creator": "OakleyOriginals",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Azure_Blue_Sage_(Salvia_azurea).jpg",
+        "caption": "Long interrupted flower axis, narrow stem leaves. Best whole-plant first look.",
+        "markers": [],
+        "annotation_status": "Diagnostic structures described only where large enough to recognize; hairs/ribs require original-image QA, no guessed arrow coordinates."
+      },
+      {
+        "species_id": "salvia-farinacea",
+        "scientific_name": "Salvia farinacea",
+        "label": "MEALY BLUE · DENSE FLOWER GROUPS",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/images/01-flowers-leaves.jpg",
+        "image_fit": "contain",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_070906-8642_Salvia_farinacea.jpg",
+        "caption": "Relatively congested floral groups with felted flower cups; calyx hairs may be white OR dark violet.",
+        "markers": [],
+        "annotation_status": "Diagnostic structures described only where large enough to recognize; hairs/ribs require original-image QA, no guessed arrow coordinates."
+      },
+      {
+        "species_id": "salvia-azurea",
+        "scientific_name": "Salvia azurea",
+        "label": "AZURE · TEXAS FLOWER AND GREEN CALYX",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-azurea/images/03-nacogdoches-texas-flower.jpg",
+        "image_fit": "contain",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_azurea.jpg",
+        "caption": "Nacogdoches County TX; blue corolla and green calyx behind it. Do not infer it is confirmed local Hays variety.",
+        "markers": [],
+        "annotation_status": "Diagnostic structures described only where large enough to recognize; hairs/ribs require original-image QA, no guessed arrow coordinates."
+      },
+      {
+        "species_id": "salvia-farinacea",
+        "scientific_name": "Salvia farinacea",
+        "label": "MEALY BLUE · TRAVIS COUNTY FLOWER CALYX",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/images/02-travis-mealyflower.jpg",
+        "image_fit": "contain",
+        "creator": "Michelle W. (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_168170655.jpg",
+        "caption": "Travis County native specimen; examine dense short hairs of the flower cups when zoomed.",
+        "markers": [],
+        "annotation_status": "Diagnostic structures described only where large enough to recognize; hairs/ribs require original-image QA, no guessed arrow coordinates."
+      },
+      {
+        "species_id": "salvia-azurea",
+        "scientific_name": "Salvia azurea",
+        "label": "AZURE · CLOSE CALYX (FLORIDA VARIETY)",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-azurea/images/04-calyx-nonlocal-var-azurea.jpg",
+        "image_fit": "contain",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_azurea_azurea_326217423.jpg",
+        "caption": "Florida S. azurea var. azurea; comparison of calyx/corolla but NOT a local var. grandiflora reference.",
+        "markers": [],
+        "annotation_status": "Diagnostic structures described only where large enough to recognize; hairs/ribs require original-image QA, no guessed arrow coordinates."
+      },
+      {
+        "species_id": "salvia-farinacea",
+        "scientific_name": "Salvia farinacea",
+        "label": "MEALY BLUE · FLOWER/CALYX (WILLIAMSON)",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/images/03-williamson-mealyflower.jpg",
+        "image_fit": "contain",
+        "creator": "Michelle W. (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_150590284.jpg",
+        "caption": "Williamson County TX outside 24-county target; wild exact species for morphological study, not range PASS evidence.",
+        "markers": [],
+        "annotation_status": "Diagnostic structures described only where large enough to recognize; hairs/ribs require original-image QA, no guessed arrow coordinates."
+      },
+      {
+        "species_id": "salvia-farinacea",
+        "scientific_name": "Salvia farinacea",
+        "label": "MEALY BLUE · FELTED CALYX CONTEXT",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/images/04-mealy-flower-spike.jpg",
+        "image_fit": "contain",
+        "creator": "Michelle W. (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_72416206.jpg",
+        "caption": "Another source-exact flower-axis photo. Mealy refers to dense hairs (white OR violet), not white dust only.",
+        "markers": [],
+        "annotation_status": "Diagnostic structures described only where large enough to recognize; hairs/ribs require original-image QA, no guessed arrow coordinates."
+      },
+      {
+        "species_id": "salvia-coccinea",
+        "scientific_name": "Salvia coccinea",
+        "label": "SCARLET · UPRIGHT SIMPLE LEAVES",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-coccinea/images/02-whole-habit-leaves.jpg",
+        "image_fit": "contain",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_259451907.jpg",
+        "caption": "Whole scarlet sage field habit: simple triangular to ovate opposite stem leaves, obvious petioles, branching flower stem; no true basal woodland rosette.",
+        "markers": [],
+        "annotation_status": "Only broad visible structures; true arrow tip positions require original image pixel inspection."
+      },
+      {
+        "species_id": "salvia-coccinea",
+        "scientific_name": "Salvia coccinea",
+        "label": "SCARLET · FLOWERING WHORLS",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-coccinea/images/04-flowering-axis-front.jpg",
+        "image_fit": "contain",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_259451924.jpg",
+        "caption": "Florida species-verified photo of red flowers along successive flowering whorls (verticils), not one terminal flower. Don't infer local wild provenance.",
+        "markers": [],
+        "annotation_status": "Only broad visible structures; true arrow tip positions require original image pixel inspection."
+      },
+      {
+        "species_id": "salvia-coccinea",
+        "scientific_name": "Salvia coccinea",
+        "label": "SCARLET · SIMPLE LEAF REVERSE",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-coccinea/images/05-leaf-underside-veins.jpg",
+        "image_fit": "contain",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_196699694.jpg",
+        "caption": "Abaxial leaf surface and veins: one simple blade per petiole. Cedar sage can carry 1–3 leaflets, a more useful split than red petals.",
+        "markers": [],
+        "annotation_status": "Only broad visible structures; true arrow tip positions require original image pixel inspection."
+      },
+      {
+        "species_id": "salvia-roemeriana",
+        "scientific_name": "Salvia roemeriana",
+        "label": "CEDAR · TRAVIS WILD LEAF & FLOWER",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-roemeriana/images/01-field-reference.jpg",
+        "image_fit": "contain",
+        "creator": "Michelle W. (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_roemeriana_166737864.jpg",
+        "caption": "Wild Travis County cedar sage foliage and crimson floral context. Search for long petioles and potential lateral leaflets; root/rosette still needs an uncropped shot.",
+        "markers": [],
+        "annotation_status": "Only broad visible structures; true arrow tip positions require original image pixel inspection."
+      },
+      {
+        "species_id": "salvia-roemeriana",
+        "scientific_name": "Salvia roemeriana",
+        "label": "CEDAR · TEXAS HILL COUNTRY",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-roemeriana/images/02-hillcountry-field-flower.jpg",
+        "image_fit": "contain",
+        "creator": "Michelle Wong (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_roemeriana_589580286.jpg",
+        "caption": "New Texas Hill Country cedar sage reference from 2025. Don't label 'rosette' unless it is visibly present; learn flower/leaf gestalt.",
+        "markers": [],
+        "annotation_status": "Only broad visible structures; true arrow tip positions require original image pixel inspection."
+      },
+      {
+        "species_id": "salvia-roemeriana",
+        "scientific_name": "Salvia roemeriana",
+        "label": "CEDAR · CULTIVATED FLOWER",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-roemeriana/images/03-cultivated-flower-leaf.jpg",
+        "image_fit": "contain",
+        "creator": "Scott Zona",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_roemeriana.jpg",
+        "caption": "Cultivated in Florida, exact species. Crimson flowers for morphology comparison only, not wild Texas habitat or provenance.",
+        "markers": [],
+        "annotation_status": "Only broad visible structures; true arrow tip positions require original image pixel inspection."
+      },
+      {
+        "species_id": "salvia-pentstemonoides",
+        "scientific_name": "Salvia pentstemonoides",
+        "label": "BIG RED · WILD ROCKY BLUFF",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-pentstemonoides/images/01-cibolo-bluffs-habit.jpg",
+        "image_fit": "contain",
+        "creator": "Chris Best/USFWS",
+        "license": "Public Domain",
+        "source_page": "https://www.fws.gov/media/big-red-sage-cibolo-bluffs",
+        "caption": "Wild Big Red Sage along limestone Cibolo bluffs: tall stiff flowering stalk and large pinkish-red tubular flowers. FWS measurements: stems to 1.5 m, flowers around 4 cm, thick smooth basal blades to 12 cm.",
+        "markers": [],
+        "annotation_status": "Only broad visible structures; true arrow tip positions require original image pixel inspection."
+      },
+      {
+        "label": "BIG RED · FLOWER/CALYX CLOSE-UP (NOT ROSETTE)",
+        "scientific_name": "Salvia pentstemonoides",
+        "species_id": "salvia-pentstemonoides",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-pentstemonoides/images/02-cibolo-flower-calyx-close.jpg",
+        "image_fit": "contain",
+        "creator": "Chris Best/USFWS",
+        "license": "Public Domain",
+        "source_page": "https://www.fws.gov/media/big-red-sadge-rosette-cibolo-bluffs",
+        "caption": "Close exact Big Red Sage corolla and green sharply tipped calyx. Despite 'rosette' in the USFWS media page title, the actual photographed image shows flowers, NOT basal leaves. See linked USFWS Fig 2.1a for real rosette.",
+        "markers": [],
+        "annotation_status": "True visible flower/calyx; precise individual-point arrows deferred until pixel QA."
+      },
+      {
+        "species_id": "salvia-greggii",
+        "scientific_name": "Salvia greggii",
+        "label": "AUTUMN · SHOWY FLOWER",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-greggii/images/01-flower-habit.jpg",
+        "image_fit": "contain",
+        "creator": "Raul654",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii.jpg",
+        "caption": "Large red floral display, oval opposite leaves; cultivated, not verified local wild provenance.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      },
+      {
+        "species_id": "salvia-greggii",
+        "scientific_name": "Salvia greggii",
+        "label": "AUTUMN · LEAF AND FLOWER",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-greggii/images/02-leaf-and-flower-close.jpg",
+        "image_fit": "contain",
+        "creator": "Consultaplantas",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii_1c.JPG",
+        "caption": "Flower and leaf close view; smooth-looking small oval leaves and relatively showy flower, compare with shrubby blue sage's tiny bloom.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      },
+      {
+        "species_id": "salvia-greggii",
+        "scientific_name": "Salvia greggii",
+        "label": "AUTUMN · BRANCHED SHOOT",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-greggii/images/03-flowering-branch.jpg",
+        "image_fit": "contain",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii_kz12.jpg",
+        "caption": "Another cultivated/unknown-origin autumn sage branch. Colors and morphology may vary; do not assume native provenance.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      },
+      {
+        "species_id": "salvia-ballotiflora",
+        "scientific_name": "Salvia ballotiflora",
+        "label": "SHRUBBY BLUE · VERIFIED FLOWER",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-ballotiflora/images/01-flower-closeup.JPG",
+        "image_fit": "contain",
+        "creator": "TDogg310",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_1.JPG",
+        "caption": "Small blue-purple flowers, rough hairy leaves sometimes visible. Source is cultivated, exact species. Compare 10–13-mm flowers to Greggii ~25 mm.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      },
+      {
+        "species_id": "salvia-ballotiflora",
+        "scientific_name": "Salvia ballotiflora",
+        "label": "SHRUBBY BLUE · PROVISIONAL VIEW",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-ballotiflora/images/02-commons-field-view-provisional.jpg",
+        "image_fit": "contain",
+        "creator": "iNaturalist observer, metadata pending",
+        "license": "rights audit pending — private only",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_343007199.jpg",
+        "caption": "Additional exact-species private study image; license/author and visible diagnostic role need checking before public re-use.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      },
+      {
+        "species_id": "salvia-ballotiflora",
+        "scientific_name": "Salvia ballotiflora",
+        "label": "SHRUBBY BLUE · PROVISIONAL VIEW 2",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-ballotiflora/images/03-commons-flower-view-provisional.jpg",
+        "image_fit": "contain",
+        "creator": "iNaturalist observer, metadata pending",
+        "license": "rights audit pending — private only",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_589592598.jpg",
+        "caption": "Second source-exact private study photo; verify attribution and exact leaf/calyx features before any diagnostic arrows.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      },
+      {
+        "species_id": "salvia-lyrata",
+        "scientific_name": "Salvia lyrata",
+        "label": "LYRELEAF · ROSETTE WITH FLOWERS",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-lyrata/images/01-rosette-flowering-habit.jpg",
+        "image_fit": "contain",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata.jpg",
+        "caption": "See a low leaf rosette and upper flowering stalk on one plant. Don't use flower color alone to identify.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      },
+      {
+        "species_id": "salvia-lyrata",
+        "scientific_name": "Salvia lyrata",
+        "label": "LYRELEAF · TEXAS WINTER ROSETTE",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-lyrata/images/02-texas-winter-rosette.jpg",
+        "image_fit": "contain",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata_-_rosette.jpg",
+        "caption": "Anderson County Texas winter basal rosette: look for the large TERMINAL leaf lobe and smaller LATERAL lobes on a SINGLE blade.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      },
+      {
+        "species_id": "salvia-lyrata",
+        "scientific_name": "Salvia lyrata",
+        "label": "LYRELEAF · TWO-LIPPED FLOWER DETAIL",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-lyrata/images/03-lower-flower-lip.jpg",
+        "image_fit": "contain",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata_lower_corolla_lip.jpg",
+        "caption": "Florida study flower with broad lavender lower corolla lip; this is a flower part photo, not a Texas voucher.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      },
+      {
+        "species_id": "salvia-lyrata",
+        "scientific_name": "Salvia lyrata",
+        "label": "LYRELEAF · SPACED FLOWERING WHORLS",
+        "image_url": "content/taxa/Lamiaceae/Salvia/salvia-lyrata/images/04-inflorescence-whorls.jpg",
+        "image_fit": "contain",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_lyrata_inflorescence_and_blurred_background.jpg",
+        "caption": "Small lavender flowers widely spaced on more or less leafless stalk; follow stalk DOWN to ground-level lyrate rosette.",
+        "markers": [],
+        "annotation_status": "No invented arrows. Provisional rights/images for ballotiflora panels noted in card."
+      }
+    ],
+    "photo_count": 30,
+    "distinct_species": 2,
+    "annotation_policy": "Arrows only after individual photo target QA; don't label a rosette when the source image crops off the plant base."
+  },
+  "diag_photos_needed": {
+    "highest": [
+      "matched whole rooted plants showing basal versus cauline leaves",
+      "paired measured basal / stem leaf blades",
+      "real flower node top and lateral views showing paired individual flowers versus 3-flowered cymes",
+      "matched 1-mm leaf and calyx gland macros: sunken pit glands versus raised tack glands",
+      "matched full side calyx with true ruler, ribs and awn tips"
+    ],
+    "remaining_groups": [],
+    "final_arrow_QA": "Open each original on phone; if visual arrows target empty space, do not mark photo reviewed.",
+    "new_woody_and_lyreleaf": [
+      "Exact original-pixel visible rough leaf macro of S. ballotiflora and smoother S. greggii",
+      "Same-scale whole corolla pairs with ruler for Greggii vs ballotiflora",
+      "Lyrata rosette lobe/leaflet photo arrows visually checked",
+      "Licensed wild Hays specimen photos where possible, not cultivated introductions"
+    ]
+  },
+  "field_vocabulary": {
+    "cauline": "KAW-lin — on stems",
+    "basal": "BAY-sul — near plant base; basal leaves do NOT always make a rosette",
+    "rosette": "roh-ZET — tight cluster of leaves at ground-level crown",
+    "cyme": "SIME — flowering group with branching pedicels; count separate flowers in each",
+    "raceme": "ray-SEEM — mostly unbranched flower axis with individual flower stalks",
+    "verticil": "VER-ti-sil — flowers grouped around one node, often opposite cymes",
+    "gland": "GLAND — minute secretory structure; can sit sunken (pit) or raised (tack)",
+    "farinose": "far-ih-NOSE — densely coated in short powdery-looking hairs, not actual flour",
+    "calyx": "KAY-liks — green or purplish outer cup behind a flower",
+    "rib": "A raised longitudinal ridge on a calyx or stem",
+    "rhizome": "RY-zohm — underground horizontal stem that can make new shoots",
+    "trichome": "TRY-kohm — a plant hair; its density and color can be diagnostic",
+    "foliolate": "FOH-lee-uh-lit — divided into identifiable leaflets; 3-foliolate means three separate leaflet blades",
+    "petiole": "PET-ee-ohl — the stalk attaching a leaf blade to a stem",
+    "peltate": "PEL-tayt — stalk attached under the leaf blade, not at the edge; cedar sage can only LOOK almost peltate",
+    "corolla": "kuh-ROLL-uh — all joined petals including the flower tube and lips",
+    "lyrate": "LYE-rate — a leaf widest at a rounded tip lobe, with smaller side lobes nearer the petiole",
+    "lobe": "Part of the SAME leaf blade bounded by notches",
+    "leaflet": "A SEPARATE blade forming part of a compound leaf",
+    "sinus": "The indentation between leaf lobes",
+    "pubescent": "PYOO-bess-ent — covered in plant hairs",
+    "glabrous": "GLAY-brus — with no obvious hairs",
+    "crenate": "KREE-nayt — margin with rounded shallow teeth",
+    "axillary": "AK-sill-air-ee — arising from an angle between leaf and stem"
+  },
+  "photo_review_cautions": [
+    "Some pre-existing Salvia texana photo records have unresolved photographer and rights; study-only, not public export.",
+    "One Commons photo titled 'Blue Sage / Texas Sage' (4553958082) says 'Could be Engelmann’s Salvia' on its source page; exclude from learner despite correct-looking Commons category.",
+    "UT Williamson specimen says texana NOT rosetted; distinguish basal leaves from true rosette.",
+    "Canonical Salvia texana range record counts Williamson as a target county, but Williamson is NOT within project 24-county zone. Flag to science/range lane for reconciliation, without changing a settled status in this PHOTO lane.",
+    "Farinacea has BOTH white-felted and dark-violet-felted calyx forms, UT Austin local description; 'not white' does not rule it out.",
+    "S. azurea local var. grandiflora differs in taxonomic scope from the Florida var. azurea diagnostic photo; show provenance in every panel.",
+    "Salvia azurea AND farinacea canonical PASS county lists also count Williamson, outside the target-zone list: flag for separate 3-county recertification, do not alter this science decision in visual lane.",
+    "Salvia ballotiflora UT Hays Flora introduced from Medina County — don't count as wild Hays native.",
+    "Salvia ballotiflora current strict PASS uses Val Verde outside target zone; needs scientific range recertification, separate from visual learner.",
+    "Shrubby blue two additional Commons images have unknown individual credits/licenses and must remain private-only pending audit.",
+    "Lyreleaf Texas winter rosette photographed Anderson County, outside target; photo doesn't fix unresolved nativity status.",
+    "Autumn sage cultivars/hybrids may mislead; glossy smooth leaf/large flower is supportive only."
+  ],
+  "photo_comparison_groups": [
+    {
+      "pair_id": "azurea-farinacea",
+      "species_ids": [
+        "salvia-azurea",
+        "salvia-farinacea"
+      ],
+      "name": "Azure Sage vs Mealy Blue Sage",
+      "priority": 1,
+      "panel_indices": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "look_here_first": "Calyx first: Azure has greener exposed ribbed cup; Mealy has densely felted white OR dark-violet hairy cup.",
+      "compare": [
+        {
+          "part": "Calyx outside",
+          "azurea": "Green surface visible, bell-shaped ~8 mm, around 15 ribs in central Texas var. grandiflora",
+          "farinacea": "Calyx flattened, densely felted with white or violet short hairs; around 10 ribs",
+          "confidence": "Best first split when calyx actually visible"
+        },
+        {
+          "part": "Leaf width and edge",
+          "azurea": "Usually 4–8 mm wide, linear/linear-lanceolate, mostly entire",
+          "farinacea": "Usually 11–33 mm wide, ovate/lanceolate, serrated",
+          "confidence": "Strong supporting, local measurements overlap in tiny leaves"
+        },
+        {
+          "part": "Flower-axis architecture",
+          "azurea": "Tall, long open interrupted panicle, lower parts leafy",
+          "farinacea": "Often shorter, upright relatively congested spike groups; lower axis not leafy",
+          "confidence": "Useful from field gestalt, weather/cultivars change"
+        },
+        {
+          "part": "Plant base",
+          "azurea": "Thick perennial woody rootstock",
+          "farinacea": "Shallow clonal rhizomes produce multiple shoots",
+          "confidence": "High when rooted plant visible, absent from standard bloom photos"
+        },
+        {
+          "part": "Flower color",
+          "azurea": "Blue to pale blue",
+          "farinacea": "Blue through deep violet; can have white marks or none",
+          "confidence": "NOT diagnostic alone"
+        }
+      ],
+      "memory_rule": "AZURE = AIRY, NARROW, GREEN CUP. MEALY = FELTY WHITE OR VIOLET CUP, BROADER TOOTHED LEAVES.",
+      "photo_priorities": [
+        "Same-scale calyx side macro (mealy WHITE and PURPLE morph) versus local var grandiflora green calyx",
+        "Measurable leaves side by side with real ruler",
+        "Two complete flowering axes with mature leaves",
+        "Optional rooted woody-stock vs rhizomes images"
+      ],
+      "taxon_context": "Texas var grandiflora versus Florida var azurea closeup is illustrative only; do not certify local variety from nonlocal photos.",
+      "source_urls": [
+        "https://w3.biosci.utexas.edu/prc/K12/pdf/Salvia%20farinacea",
+        "https://w3.biosci.utexas.edu/prc/K12/pdf/Salvia%20azurea%20grandiflora"
+      ]
+    },
+    {
+      "pair_id": "red-salvia-trio",
+      "name": "Red-Flowered Sage Trio",
+      "species_ids": [
+        "salvia-coccinea",
+        "salvia-roemeriana",
+        "salvia-pentstemonoides"
+      ],
+      "panel_indices": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "priority": 1,
+      "look_here_first": "Plant BASE and COMPLETE LEAF before red flowers. Scarlet: simple, stem-leafy annual; cedar: true perennial woodland rosette, sometimes 1–3 leaflets; big red: large smooth dark green rosette and big ~4 cm corollas.",
+      "comparison_matrix": [
+        {
+          "character": "Plant base and longevity",
+          "coccinea": "Upright leafy annual/short-lived perennial; generally branched stems, not typical thick rosette",
+          "roemeriana": "Taprooted perennial, LOW leaf rosette and stem leaves",
+          "pentstemonoides": "Long-lived perennial with thick smooth rosette leaves to ~12 cm, stout flowering stalk to ~1.5 m"
+        },
+        {
+          "character": "Complete mature leaf",
+          "coccinea": "ONE simple broad triangular/ovate serrated blade on petiole; many stem leaves",
+          "roemeriana": "Often LONG petioled, simple or 1–3 leaflets; cordate/broad terminal leaflet and optional two smaller lateral leaflets",
+          "pentstemonoides": "Smooth thick dark green large basal blade; not characteristically a three-leaflet leaf"
+        },
+        {
+          "character": "Flowers",
+          "coccinea": "Scarlet red two-lipped tubes on successive whorls; flowering color cultivars vary",
+          "roemeriana": "Crimson tubes, with flower cymes usually 3 flowers each; calyx ~11 mm",
+          "pentstemonoides": "Large reddish-purple/pink-red flowers ~4 cm long; much larger on average; calyx aging green to purple"
+        },
+        {
+          "character": "Habitat",
+          "coccinea": "Variable: open/disturbed or lightly shaded beds/woodlands",
+          "roemeriana": "Often juniper duff, rocky woodland shade",
+          "pentstemonoides": "Seep-fed, often shaded limestone bluffs and ravines near creeks; rare endemic"
+        },
+        {
+          "character": "Potential traps",
+          "coccinea": "Cultivar color, red/orange intensity not absolute",
+          "roemeriana": "1-foliolate leaves can look simple; nearly-peltate petiole impression isn't peltate",
+          "pentstemonoides": "Young small plants or dried rosettes may look like cedar; check flowers/scale and habitat"
+        }
+      ],
+      "memory_rule": "SCARLET = SIMPLE STEM LEAVES. CEDAR = SHADY ROSETTE, MAYBE 3 LEAFLETS. BIG RED = BIG SMOOTH ROSETTE + ~4-CM FLOWERS.",
+      "field_photo_instructions": [
+        "1. Whole rooted plant including base, 2. one mature leaf showing stalk and any side leaflets, 3. side flower with a centimeter ruler, 4. opposite cymes and individual pedicels, 5. calyx behind corolla. Compare in same photo scale."
+      ],
+      "source_pages": [
+        "https://w3.biosci.utexas.edu/prc/K12/pages/Salvia%20roemeriana.html",
+        "https://www.fws.gov/species/big-red-sage-salvia-pentstemonoides"
+      ],
+      "conservation_caution": "Big Red Sage rare wild populations: do not publish fine wild coordinates, disturb rootstock, uproot plants, or collect flowering material for a training photo.",
+      "photo_references": [
+        {
+          "name": "USFWS Big Red Sage SSA, Figures 2.1a (rosette) and 2.1d (annotated flower anatomy)",
+          "page": "https://www.fws.gov/media/big-red-sage-species-status-assessment",
+          "photo_type": "separate PDF figures for online study; NOT local image files",
+          "photographer": "Chris Best/USFWS",
+          "license": "Public Domain",
+          "status": "source-rights verified, extraction pending"
+        }
+      ]
+    },
+    {
+      "pair_id": "greggii-ballotiflora",
+      "name": "Woody Sage — Autumn vs Shrubby Blue",
+      "species_ids": [
+        "salvia-greggii",
+        "salvia-ballotiflora"
+      ],
+      "panel_indices": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "look_here_first": "BOTH are woody. Compare upper and undersides of leaves (smooth-ish vs ROUGH hairy); compare corolla LENGTH (~25mm vs ~10–13mm) rather than just red versus blue.",
+      "comparison_matrix": [
+        {
+          "character": "Habit",
+          "greggii": "Mounded woody many-branched shrub",
+          "ballotiflora": "Also woody densely branched shrub",
+          "why": "Woody alone won't split them"
+        },
+        {
+          "character": "Leaf SIZE",
+          "greggii": "~8–48 mm in UT local treatment",
+          "ballotiflora": "~15–38 mm in descriptions",
+          "why": "Overlaps — DON'T key mainly by size"
+        },
+        {
+          "character": "Leaf TEXTURE",
+          "greggii": "Relatively smooth, with minute sunken gland dots (needs macro)",
+          "ballotiflora": "Rough with conspicuous fine leaf hairs on upper/lower surfaces",
+          "why": "Best texture split with sharp photo"
+        },
+        {
+          "character": "Flower",
+          "greggii": "~25 mm, often red/rose in wild but cultivar colors many",
+          "ballotiflora": "Usually blue-purple and smaller ~10–13 mm",
+          "why": "Best size-based view WITH metric ruler"
+        },
+        {
+          "character": "Calyx",
+          "greggii": "Ribbed and glandular; clearer with closeup",
+          "ballotiflora": "Hairy small calyx, also glandular",
+          "why": "Not absolute without microscopic QA"
+        }
+      ],
+      "memory_rule": "GREGGII = relatively SMOOTH leaf and larger flower. BALLOTIFLORA = ROUGH leaf and much smaller blue flower.",
+      "external_photo_reference": {
+        "taxon": "Salvia ballotiflora",
+        "source": "https://w3.biosci.utexas.edu/prc/DF/pages/SABA5.html",
+        "photographer": "William R. Carr",
+        "usage": "copyrighted external reference only; do not rehost"
+      },
+      "exact_photo_requirements": [
+        "Matched leaf surface hair macros 1-mm scale",
+        "Matched flowers 10–13 and ~25 mm same scale with cm ruler",
+        "Original Commons individual author/license audit for two provisional shrubby blue panels",
+        "Cultivar / Salvia × jamensis caution for S. greggii nursery plants"
+      ],
+      "warnings": [
+        "Hays UT source lists shrubby blue sage as introduced from Medina — don't count as naturally occurring Hays species.",
+        "Canonical shrubby blue sage PASS uses Val Verde as third county, which isn't on project 24-county list; range revalidation separate.",
+        "Autumn sage UNRESOLVED range remains unchanged.",
+        "Two shrubby blue images are private-only provisional and may need attribution replacement."
+      ]
+    },
+    {
+      "pair_id": "lyrata-rosette",
+      "name": "Lyreleaf Sage — basal rosette and lobe vs leaflet",
+      "species_ids": [
+        "salvia-lyrata",
+        "salvia-roemeriana"
+      ],
+      "panel_indices": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "look_here_first": "One lyre-shaped basal LEAF: large terminal lobe and smaller lateral lobes joined to the blade. Follow flower stalk upward: small lavender flowers. CEDAR has red flowers and some leaves with 1–3 SEPARATE leaflets, not one cut blade.",
+      "comparison_matrix": [
+        {
+          "character": "Leaf blade",
+          "lyrata": "Often one lyre-shaped blade with large terminal lobe and smaller side lobes",
+          "roemeriana": "May have simple broad leaf or separate terminal+two lateral leaflets"
+        },
+        {
+          "character": "Habit",
+          "lyrata": "Flat perennial basal rosette + often leafless tall axis",
+          "roemeriana": "Perennial basal rosette, flower stem in Ashe-juniper woodland"
+        },
+        {
+          "character": "Flowers",
+          "lyrata": "Small blue-lavender and separated along stalk",
+          "roemeriana": "Crimson two-lipped flowers in paired cymes"
+        },
+        {
+          "character": "Leaf seasonal color",
+          "lyrata": "May turn purple in winter/cultivars; unreliable alone",
+          "roemeriana": "Green/purplish leaves also variable; color not enough"
+        }
+      ],
+      "memory_rule": "LYRELEAF = one LOBED blade, lavender flowers. CEDAR = sometimes separate LEAFLETS, red flowers.",
+      "photo_requirements": [
+        "Matched complete lyreleaf and cedar sage leaves with labels (no wrong arrows)",
+        "Hays-confirmed source photos of basal rosette and flower",
+        "Pixel-correct arrows: terminal lobe, lateral lobe, sinus, corolla lower lip"
+      ],
+      "warnings": [
+        "Lyreleaf native range still UNRESOLVED 2 target counties. Do not turn it PASS from Texas Anderson County photo.",
+        "Texas rosette image location Anderson County is outside project zone."
+      ]
+    }
+  ],
+  "look_here_first": "For blue/purple sages: first check whole plant and opposite leaves, then a SIDE VIEW of the CALYX behind the corolla. In azurea vs farinacea, green visibly ribbed versus dense white-or-purple fuzzy calyx. In texana vs engelmannii, basal+stem leaves versus stem-only, then pit/tack glands. Avoid identifying from blue flower alone.",
+  "photo_final_red_sage": {
+    "priority": [
+      "One actual public-domain photo of BIG RED SAGE BASAL ROSETTE — SSA Fig 2.1a. Do not mislabel flower photo as rosette.",
+      "Separate Fig 2.1d clear labeled flower anatomy (theca, style, corolla/calyx lips); illustrator Chris Best/USFWS.",
+      "True calibrated measured flower with 1-cm ruler; existing photos don't show scale.",
+      "Mobile-checked arrows with arrows on exact structures, not arbitrary background."
+    ],
+    "rights_note": "Big Red existing USFWS image public domain; new scarlet/cedar CC BY; preserve source and place labels.",
+    "important_source_warning": "USFWS media '/big-red-sadge-rosette-cibolo-bluffs' is misnamed: photograph shows flowers and calyces on flowering stem, no basal rosette. Label correctly in app and queue SSA Fig 2.1a as true rosette."
+  }
+}

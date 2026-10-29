@@ -1,0 +1,250 @@
+{
+  "rank": "genus",
+  "family": "Orobanchaceae",
+  "name": "Agalinis",
+  "common_group": "False foxgloves",
+  "project_scope": {
+    "species_ids": [
+      "agalinis-edwardsiana",
+      "agalinis-heterophylla"
+    ],
+    "species_count": 2,
+    "source_pool_species_count": 2
+  },
+  "curation_status": {
+    "version": "1.2-photo-led-genus-anatomy",
+    "last_reviewed": "2026-10-14",
+    "status": "two installed exact-species photos verified; matched diagnostic macros pending"
+  },
+  "look_here_first": "Measure the pedicel from flowering branch to calyx on several intact flowers, then inspect calyx lobe length relative to the tube. Long pedicels with very short calyx lobes favor A. edwardsiana; very short pedicels with conspicuous calyx lobes favor A. heterophylla.",
+  "shared_genus_traits": [
+    "Slender green hemiparasitic herbs with narrow leaves.",
+    "Bilaterally symmetric tubular corollas and small calyces.",
+    "Branch angle and pink-purple flower color overlap and are not sufficient for identification."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Flower pedicel length",
+      "edwardsiana": "Relatively long, reported up to about 30 mm",
+      "heterophylla": "Typically about 1.6–3.2 mm",
+      "priority": "Primary; measure multiple flowers"
+    },
+    {
+      "character": "Calyx lobes",
+      "edwardsiana": "Very short relative to calyx tube",
+      "heterophylla": "Conspicuous relative to calyx tube",
+      "priority": "Primary; side-on hand-lens view"
+    },
+    {
+      "character": "Lower leaves",
+      "edwardsiana": "Narrow simple leaves",
+      "heterophylla": "Narrow leaves; occasionally three-parted lower leaves",
+      "priority": "Supporting, not required"
+    },
+    {
+      "character": "Flower color and branch angle",
+      "edwardsiana": "Pink-purple flowers; angled branches possible",
+      "heterophylla": "Pink-purple flowers; angled branches possible",
+      "priority": "Overlapping; not diagnostic"
+    }
+  ],
+  "quick_comparison_steps": [
+    "Find intact flowers with stalk attachment visible.",
+    "Measure pedicels on several flowers with millimeter scale.",
+    "Photograph calyx side-on and compare lobes with tube length.",
+    "Check lower leaves as supporting evidence; do not identify from color alone."
+  ],
+  "overlap_and_cautions": [
+    "Both species can have narrow leaves, purple flowers and right-angle branching.",
+    "A single damaged or immature flower may give misleading pedicel measurements.",
+    "Other Agalinis species may occur; do not force an identification if measured characters disagree.",
+    "Both canonical species retain unresolved target-zone range labels."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Agalinis purpurea",
+      "look_for": "Compare intact pedicels and calyx lobes before naming."
+    },
+    {
+      "taxon": "Agalinis tenuifolia",
+      "look_for": "Use calyx and pedicel measurements rather than leaf narrowness."
+    },
+    {
+      "taxon": "Other narrow-leaved Orobanchaceae",
+      "look_for": "Compare corolla form, calyx and bracts; green hemiparasitic habit is not species-specific."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "shot": "Paired flowering pedicels with millimeter scale",
+      "character": "Long versus very short pedicel"
+    },
+    {
+      "priority": 1,
+      "shot": "Matched calyx side macros with tube and lobe labels",
+      "character": "Short versus conspicuous lobes"
+    },
+    {
+      "priority": 2,
+      "shot": "Lower leaf sequences on both plants",
+      "character": "Occasional three-parted lower leaves in heterophylla"
+    },
+    {
+      "priority": 2,
+      "shot": "Whole flowering branch including stalk origins",
+      "character": "Context for accurate pedicel measurements"
+    }
+  ],
+  "existing_media_references": [
+    {
+      "species_id": "agalinis-edwardsiana",
+      "reference": "species.json existing CC BY 4.0 flowering branch by Michelle Wong",
+      "installed_path": "content/taxa/Orobanchaceae/Agalinis/agalinis-edwardsiana/images/agalinis-edwardsiana-branch.jpg",
+      "observed_anatomy": "installed_verified: opposite narrow leaves and branching node; no diagnostic flower visible; annotation_pending"
+    },
+    {
+      "species_id": "agalinis-heterophylla",
+      "reference": "species.json existing CC0 flowering habit by Donna",
+      "installed_path": "content/taxa/Orobanchaceae/Agalinis/agalinis-heterophylla/images/agalinis-heterophylla-habit.jpg",
+      "observed_anatomy": "installed_verified: pink tubular flowers, slender leaves and habit; pedicel/calyx not measurable; annotation_pending"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Acquire matched scale-bearing pedicel and calyx macro photos of both species."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Confirm pedicel measurement ranges and calyx lobe ratios in regional keys before strict exclusions."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Prioritize paired millimeter-scaled pedicel and calyx-lobe macros for both species; existing verified photos only teach node/habit. Keep creator/license and leave arrows pending."
+    }
+  ],
+  "sources": [
+    "content/taxa/Orobanchaceae/Agalinis/agalinis-edwardsiana/species.json",
+    "content/taxa/Orobanchaceae/Agalinis/agalinis-heterophylla/species.json",
+    "content/taxa/Orobanchaceae/family.json",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:330777-2/general-information",
+    "https://www.missouriplants.com/Agalinis_heterophylla_page.html"
+  ],
+  "comparison_cards": [
+    {
+      "title": "Pedicel: the flower stalk, not the branch",
+      "taxon_ids": [
+        "agalinis-edwardsiana",
+        "agalinis-heterophylla"
+      ],
+      "look_here_first": "Compare several side-on flower stalks measured from branch to calyx: A. edwardsiana up to ~30 mm; A. heterophylla ~1.6–3.2 mm.",
+      "photo_requirements": [
+        "Matched millimeter-scaled pedicel side views, both species"
+      ],
+      "caution": "Neither installed image proves this measurement."
+    },
+    {
+      "title": "Calyx: lobes versus tube",
+      "taxon_ids": [
+        "agalinis-edwardsiana",
+        "agalinis-heterophylla"
+      ],
+      "look_here_first": "Heterophylla calyx lobes are conspicuous, about 3–6 mm in a regional flora; edwardsiana lobes are very short relative to tube.",
+      "photo_requirements": [
+        "Matched calyx tube/lobe side macros, both species"
+      ],
+      "caution": "Absolute edwardsiana lobe measurements require diagnostic review."
+    }
+  ],
+  "genus_diagnostics": {
+    "opposite_nodes": "NODE = point where leaves attach. These Agalinis have narrow, mostly opposite leaf pairs. The installed edwardsiana image visibly shows paired narrow leaves and branching nodes; this is a genus clue, not species proof.",
+    "flower_pedicel": "PEDICEL = the small stalk from flowering branch to CALYX. Measure that stalk, not the whole branch or corolla tube. A. edwardsiana has relatively long pedicels, to ~30 mm; A. heterophylla often 1–3.2 mm. Neither installed photo measures this.",
+    "calyx_lobes": "CALYX = green outer cup around flower base. Its TUBE is the fused lower part and LOBES are the pointed tips. Heterophylla has conspicuous 3–6 mm lobes, often at least as long as tube; edwardsiana has much shorter lobes. Both need matched side-on macros.",
+    "corolla_and_fruit": "COROLLA = fused, five-lobed pink-purple trumpet, with four stamens inside. Flowers arise near narrow bracts; later a many-seeded dry CAPSULE forms. Flower color, plant height, and the photographed habit do not separate these species."
+  },
+  "study_strategy": {
+    "look_here_first": [
+      "Find a narrow opposite leaf pair and follow the flowering branch.",
+      "Locate the flower's actual stalk attachment; measure PEDICEL to green calyx in millimeters.",
+      "Compare pointed CALYX lobes with its fused tube, side-on.",
+      "Inspect lower leaves for occasional three-cleft heterophylla blades; absence is not proof.",
+      "Use pedicel and calyx together; flower color and branch angle overlap."
+    ],
+    "confusable_genera": "Castilleja's showy floral bracts differ from Agalinis's prominent true corolla; Buchnera usually has smaller flowers on a distinct bracted spike. Penstemon may also have tubular flowers, so inspect the whole flowering axis and calyx rather than color."
+  },
+  "visual_comparison": {
+    "title": "Agalinis — start at the node, then inspect flower stalk and calyx",
+    "subtitle": "Two real installed exact-species photos were retrieved and visually inspected. Both teach useful habit/anatomy; neither proves the pedicel or calyx differences.",
+    "items": [
+      {
+        "scientific_name": "Agalinis edwardsiana",
+        "species_id": "agalinis-edwardsiana",
+        "label": "Plateau false foxglove — opposite leaf nodes",
+        "image_url": "content/taxa/Orobanchaceae/Agalinis/agalinis-edwardsiana/images/agalinis-edwardsiana-branch.jpg",
+        "image_role": "opposite leaves and branch nodes",
+        "creator": "Michelle Wong",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Agalinis_edwardsiana_iNat-96395856.2.jpg",
+        "caption": "INSTALLED VERIFIED: paired slender leaves meet at green stem nodes. No open flower, calyx or measurable pedicel appears. Future arrow target: paired leaf bases at a central node; coordinates not yet checked.",
+        "markers": [],
+        "visual_status": "installed_verified; annotation_pending"
+      },
+      {
+        "scientific_name": "Agalinis heterophylla",
+        "species_id": "agalinis-heterophylla",
+        "label": "Prairie false foxglove — flowering habit",
+        "image_url": "content/taxa/Orobanchaceae/Agalinis/agalinis-heterophylla/images/agalinis-heterophylla-habit.jpg",
+        "image_role": "flowering plant and corollas",
+        "creator": "Donna",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Agalinis_heterophylla.jpg",
+        "caption": "INSTALLED VERIFIED: many pink tubular flowers and narrow leaves on a branched herb. Pedicel lengths and calyx lobe measurements cannot be verified at this scale. Future arrow target: one clearly open corolla; coordinates pending.",
+        "markers": [],
+        "visual_status": "installed_verified; annotation_pending"
+      }
+    ],
+    "specialty_photo_targets": [
+      {
+        "priority": 1,
+        "taxa": [
+          "agalinis-edwardsiana",
+          "agalinis-heterophylla"
+        ],
+        "part": "PEDICEL",
+        "need": "Matched side-on whole flower-stalk views, with mm ruler and clear stem-to-calyx attachment.",
+        "status": "needs_photo"
+      },
+      {
+        "priority": 1,
+        "taxa": [
+          "agalinis-edwardsiana",
+          "agalinis-heterophylla"
+        ],
+        "part": "CALYX TUBE and LOBES",
+        "need": "Matched high-resolution side macros at equal scale; verify tube versus individual pointed lobe before arrows.",
+        "status": "needs_photo"
+      },
+      {
+        "priority": 2,
+        "taxa": [
+          "agalinis-heterophylla"
+        ],
+        "part": "LOWER LEAVES",
+        "need": "Document three-cleft lower leaf if present, attached to its node, before senescence.",
+        "status": "needs_photo"
+      },
+      {
+        "priority": 2,
+        "taxa": [
+          "agalinis-edwardsiana",
+          "agalinis-heterophylla"
+        ],
+        "part": "COROLLA and CAPSULE",
+        "need": "Separate flower throat/stamens macro and mature many-seeded capsule; genus anatomy, not species proof.",
+        "status": "needs_photo"
+      }
+    ],
+    "overlay_note": "No arrows installed. Rights and exact species IDs follow the two species galleries; both photographs were physically fetched and pixel-inspected."
+  }
+}

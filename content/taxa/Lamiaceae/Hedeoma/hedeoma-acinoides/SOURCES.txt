@@ -1,0 +1,23 @@
+Hedeoma acinoides Scheele — approved Master Plant Pool row 530, reviewed 2026-10-12. Source-pool approval is independent of target-county certification.
+Taxonomy: POWO accepted Hedeoma acinoides Scheele; https://powo.science.kew.org/results?q=Hedeoma%20acinoides
+Morphology: Illustrated Flora of North Central Texas Hedeoma key and description, pp. 758-761: https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf
+Texas field description: https://www.texaswildbuds.com/hedeoma-acinoides.html
+Calyx lower third saccate, calyx ca. 5-6 mm; corolla pink ca. 9-13 mm, noninflated. Small annual with opposite oval leaves; compare narrow-leaved H. drummondii with closing mature calyx teeth and woody-based H. reverchonii. Project native-range status UNRESOLVED; exclude from confirmed native-only totals.
+Photo: https://commons.wikimedia.org/wiki/File:Hedeoma_acinoides_363963689.jpg | Michelle W. | CC BY 4.0 | iNaturalist photo 363963689, observation 205816117 | exact-species field photograph. Attribution required.
+
+FIRST LICENSED PHOTOGRAPH 2026-10-14
+Turner Brockman; CC BY-SA; https://creativecommons.org/licenses/by-sa/4.0/
+https://www.inaturalist.org/photos/704105521 | https://www.inaturalist.org/observations/384637682
+EXIF removed and JPEG normalized; no anatomy overlays. Preserve attribution and applicable ShareAlike.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T01:58:39.157612+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/364296236
+https://www.inaturalist.org/observations/205994299
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:11:33.136842+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/364296329
+https://www.inaturalist.org/observations/205994299
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

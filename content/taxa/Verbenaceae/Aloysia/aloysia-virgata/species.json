@@ -1,0 +1,103 @@
+{
+  "id": "aloysia-virgata",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Aloysia",
+  "species": "virgata",
+  "scientific_name": "Aloysia virgata",
+  "authority": "(Ruiz & Pav.) Pers.",
+  "common_name": "Sweet almond verbena / sweet almond bush",
+  "synonyms": [
+    "Verbena virgata Ruiz & Pav.",
+    "Lippia virgata (Ruiz & Pav.) Steud."
+  ],
+  "look_here_first": "Find a mature opposite leaf and an intact axillary flowering raceme. Measure 5–10 fully expanded leaves (often 4–9 × 1.5–6 cm) and inspect the long, loose, often flexuose raceme: individual flower bases are visibly separated. Compare against A. gratissima's generally smaller leaves and short, crowded racemes. Do not rely on fragrance or white flower color.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 38,
+    "target_zone_status": "COMPARISON_NON_NATIVE",
+    "learner_role": "NON_NATIVE_COMPARISON",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Kew POWO accepts Aloysia virgata and gives native range Peru through Brazil and northern Argentina, not Texas; cultivated/encounter taxon in approved source pool, not a confirmed Texas target-zone native."
+  },
+  "morphology_keys": {
+    "habit": "Woody aromatic shrub, sometimes large; often branching with long flowering shoots.",
+    "leaves": "Opposite, simple, ovate to elliptic, often acute and toothed; commonly 4–9 cm long × 1.5–6 cm wide; leaf hairiness and tooth depth variable.",
+    "racemes": "Lax, frequently flexuose/zigzag, axillary racemes; flower bases remain individually visible, sometimes several racemes per leaf axil.",
+    "flowers": "Small tubular white flowers; use the raceme's structure rather than color or scent.",
+    "best_field_traits": [
+      "Opposite mature leaves often substantially larger than A. gratissima",
+      "Flowering axes lax and flexuose, with separated flower bases",
+      "Usually toothed leaf margins, but variable; measure several mature leaves"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Aloysia gratissima",
+      "Lantana urticoides",
+      "Verbena halei"
+    ],
+    "key_distinctions": "A. gratissima typically has much smaller leaves and shorter, dense flower racemes; Lantana urticoides has flowers packed into rounded heads rather than extended racemes; Verbena halei is herbaceous with spikes, not a woody shrub.",
+    "cautions": "Leaf size, teeth, and hairiness overlap within Aloysia; never use a single leaf or aroma as proof. Confirm inflorescence architecture, multiple mature leaves and woody habit."
+  },
+  "diagnostic_image_needs": [
+    "Whole shrub with intact flowering branches",
+    "Side-on loose/flexuose raceme showing individually separated flower bases",
+    "Mature leaf with scale and opposite attachment",
+    "Paired side-by-side comparison with Aloysia gratissima dense raceme"
+  ],
+  "images": [
+    {
+      "file": "images/aloysia-virgata-flowering-racemes.jpg",
+      "role": "Flowering racemes and serrated leaves with individually visible flowers",
+      "creator": "cultivar413",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:190908_173_Chicago_Botanic_Gdn_-_Regenstein_Center,_Aloysia_virgata_Sweet_Almond_Verbena_(48861567431).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/library-review010-c7384a18392e1cc.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Flower racemes and surrounding foliage; exact leaf pairs not anatomically measured",
+      "creator": "Patricio Cowper Coles",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6400798774",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675009404/original.jpg",
+      "source_determination": "Aloysia virgata",
+      "source_observation_id": "6400798774",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/aloysia-virgata/gbif-eaa3e92d5ccab3.jpg",
+      "archive_image_sha256": "5102591c29361179d237f258fe045c74ceddb159df46585ff5f7ad8a0d05defa",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_010": "2026-10-16"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-14",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

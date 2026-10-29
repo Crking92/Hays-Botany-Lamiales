@@ -1,0 +1,423 @@
+{
+  "rank": "genus",
+  "family": "Lamiaceae",
+  "name": "Monarda",
+  "authority": "L.",
+  "common_group": "Bee balms / horsemints",
+  "project_scope": {
+    "selection_mode": "B039 canonical anchors + B152 strict-review handoff",
+    "canonical_species_ids": [
+      "monarda-citriodora",
+      "monarda-fistulosa",
+      "monarda-punctata"
+    ],
+    "pending_strict_review": [],
+    "source_concept_count": 3,
+    "note": "All three current Monarda source concepts are installed learner cards. M. citriodora and M. punctata are project-range PASS; M. fistulosa is canonical learner-approved with range UNRESOLVED and remains excluded from confirmed-native metrics."
+  },
+  "source_concept_status": [
+    {
+      "id": "monarda-citriodora",
+      "scientific_name": "Monarda citriodora",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "monarda-fistulosa",
+      "scientific_name": "Monarda fistulosa",
+      "status": "CANONICAL_RANGE_UNRESOLVED",
+      "native_metrics_excluded": true
+    },
+    {
+      "id": "monarda-punctata",
+      "scientific_name": "Monarda punctata",
+      "status": "CANONICAL_PASS"
+    }
+  ],
+  "study_strategy": {
+    "priority": [
+      "inflorescence architecture",
+      "floral-bract tip shape",
+      "calyx teeth and calyx-mouth hair pattern",
+      "corolla spotting as confirmation",
+      "annual versus perennial habit as supporting context"
+    ],
+    "warning": "Do not identify these Monarda from flower color alone. Start with stacked whorls versus a dense rounded terminal head, then bract and calyx structure. M. fistulosa range remains unresolved independently of learner admission."
+  },
+  "quick_key": [
+    {
+      "if": "strongly interrupted/tiered whorls; purplish bracts and calyx teeth drawn into conspicuous long bristle tips",
+      "then": "Monarda citriodora"
+    },
+    {
+      "if": "tiered whorls with pale bracts; cream/yellow corollas heavily purple-spotted; pointed non-bristled bracts; open ciliate calyx mouth",
+      "then": "Monarda punctata"
+    },
+    {
+      "if": "dense rounded terminal head rather than conspicuous stacked whorls; perennial habit; calyx throat densely hairy",
+      "then": "Monarda fistulosa — canonical learner card; range UNRESOLVED"
+    }
+  ],
+  "curation_status": {
+    "version": "1.6-seven-example-photo-led-genus-lesson",
+    "genus_audit": "complete_for_current_three_species_set",
+    "source_concepts_reconciled": true,
+    "last_reviewed": "2026-10-13",
+    "photo_inventory_note": "Six distinct installed exact-species photographs plus one installed botanical illustration (3 citriodora; 3 punctata; 1 fistulosa). Previously installed genus-images remain preserved. No new physical images installed; urgent bract/calyx and fruit macros identified.",
+    "arrow_status": "pending image-specific anatomical target verification",
+    "field_photo_pair_polish": {
+      "date": "2026-10-20",
+      "status": "PHOTO_COMPARISON_PUBLISHED_PENDING_BROWSER_QA",
+      "source_plant_photos": 4,
+      "reused_existing_arrow_targets": 6,
+      "original_panel_count": 7,
+      "new_panel_count": 11,
+      "core_field_key": "Compare big bract tip and small calyx tooth separately, avoid color, check Texas varieties"
+    }
+  },
+  "diagnostic_review_2026_10_06": {
+    "status": "COMPLETE",
+    "look_here_first": [
+      "1. Decide stacked separated whorls versus dense rounded terminal head.",
+      "2. Inspect the floral-bract tip.",
+      "3. Inspect calyx teeth and the calyx-mouth hair pattern.",
+      "4. Use corolla spotting and life history only as confirmation."
+    ],
+    "unreliable_chars": [
+      "flower color alone",
+      "overall height",
+      "aroma intensity",
+      "habitat alone"
+    ],
+    "exact_photo_roles": [
+      "matched whole-inflorescence side views",
+      "matched bract-tip macros",
+      "matched calyx-tooth/calyx-mouth macros",
+      "M. punctata spotted-corolla macro",
+      "M. fistulosa terminal-head and calyx-throat macro"
+    ],
+    "photo_research_note": "Existing canonical packages already have reusable coverage; prioritize missing matched diagnostic macros rather than decorative duplicates."
+  },
+  "visual_comparison": {
+    "title": "Monarda — compare the same plant part: bract → calyx → flower",
+    "subtitle": "Compare A versus B (floral bract tips), then C versus D (calyces). The named specimens are real, licensed exact-species photos; the arrowed parts match recorded original-image targets. Species-level taxonomy and county-range holds are unchanged.",
+    "memory_rule": "Do NOT choose by bract color or stacked tiers. Identify the actual two-lipped flower, then the BIG leaflike floral bract and the SMALL green calyx. A long thin bract awn usually favors lemon beebalm; shorter triangular calyx teeth usually favor spotted horsemint (check variety).",
+    "items": [
+      {
+        "label": "A · LEMON: long bristle-tipped bract",
+        "scientific_name": "Monarda citriodora",
+        "image_role": "actual thin awn at tip of colorful floral bract",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Monarda_citriodora%2C_young_flower_head.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+        "image_fit": "contain",
+        "creator": "Nadiatalent",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_citriodora,_young_flower_head.jpg",
+        "caption": "Yellowish/lavender corollas are actual flowers. Find the pointed pinkish bract UNDER the whorl: its apex is drawn out into a thin, conspicuous bristle. Look at the tip structure—not the bract color. This is LEMON BEEBALM.",
+        "why_it_matters": "Flora of North Central Texas: citriodora bract apex abruptly ends in a bristle about 2–5 mm; punctata broad bracts are usually pointed without a terminal bristle.",
+        "markers": [
+          {
+            "label": "Bract bristle tip",
+            "label_x": 61,
+            "label_y": 69,
+            "target_x": 53.5,
+            "target_y": 56.5
+          }
+        ],
+        "photo_status": "Reuses established species-level photo/arrow; regional key checked; mobile arrow position still needs browser QA."
+      },
+      {
+        "label": "B · SPOTTED: broad pointed floral bract",
+        "scientific_name": "Monarda punctata",
+        "image_role": "pink, pointed bract beneath spotted flower",
+        "image_url": "content/taxa/Lamiaceae/Monarda/monarda-punctata/images/01-reference.jpg",
+        "image_fit": "contain",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_punctata_inflorescence.jpg",
+        "caption": "The broad purplish modified leaf hanging beneath the flower tier is a BRACT, not a petal. Its tip looks simply pointed rather than projecting as a long, thin bristle. This is SPOTTED HORSEMINT.",
+        "why_it_matters": "Compare the same organ: leaflike floral BRACT tip vs lemon beebalm's more obvious extended bristle. Both have pink-purple forms.",
+        "markers": [
+          {
+            "label": "Broad pointed bract",
+            "label_x": 7,
+            "label_y": 43,
+            "target_x": 51,
+            "target_y": 41
+          }
+        ],
+        "photo_status": "Reuses previously visually inspected locally saved punctata photo and supported arrow."
+      },
+      {
+        "label": "C · LEMON: long, finely pointed CALYX teeth",
+        "scientific_name": "Monarda citriodora",
+        "image_role": "isolated ribbed calyx with long teeth and throat hairs",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Monarda_citriodora_71561527.jpg",
+        "image_fit": "contain",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_citriodora_71561527.jpg",
+        "caption": "This is a detached small GREEN CALYX, not the showy floral bract. Inspect a single projecting narrow tooth and the hairs around the calyx mouth. The teeth taper much farther than the triangular tips typical of M. punctata.",
+        "why_it_matters": "The calyx is associated with ONE flower; lemon beebalm has long aristate calyx teeth, typically 2–7 mm in the published Texas key.",
+        "markers": [
+          {
+            "label": "Long CALYX tooth",
+            "label_x": 4,
+            "label_y": 10,
+            "target_x": 37,
+            "target_y": 32
+          },
+          {
+            "label": "Hair fringe",
+            "label_x": 51,
+            "label_y": 75,
+            "target_x": 47,
+            "target_y": 60
+          }
+        ],
+        "photo_status": "Reuses established lemon species calyx photo and arrow, mobile QA pending."
+      },
+      {
+        "label": "D · SPOTTED: green ribbed CALYX below corolla",
+        "scientific_name": "Monarda punctata",
+        "image_role": "side view one spotted corolla and shorter green calyx",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Monarda_punctata_corolla_and_calyx.jpg",
+        "image_fit": "contain",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_punctata_corolla_and_calyx.jpg",
+        "caption": "Trace the curved pale-spotted COROLLA into its small GREEN RIBBED CALYX tube. That tube—not the big pink bract—has five teeth at the opening. The current photo is NOT same-scale with lemon's isolated calyx, so do not calculate tooth ratios by eye.",
+        "why_it_matters": "Typical punctata teeth are shorter triangular/lanceolate, but Texas varieties vary in length. Calyx opening also helps separate Stanfield's beebalm; its white plug needs a rights-cleared macro.",
+        "markers": [
+          {
+            "label": "Spotted COROLLA",
+            "label_x": 70,
+            "label_y": 12,
+            "target_x": 44,
+            "target_y": 23
+          },
+          {
+            "label": "Green CALYX tube",
+            "label_x": 70,
+            "label_y": 82,
+            "target_x": 30,
+            "target_y": 80
+          }
+        ],
+        "photo_status": "Reuses punctata verified photo/arrow; no inference about hidden mouth anatomy."
+      },
+      {
+        "label": "1 · Lemon beebalm: flowering stems",
+        "scientific_name": "Monarda citriodora",
+        "image_role": "whole flowering plant / repeated flower rings",
+        "image_url": "content/taxa/Lamiaceae/Monarda/monarda-citriodora/images/01-reference.jpg",
+        "creator": "Clarence A. Rechenthin / USDA-NRCS",
+        "license": "Public Domain (U.S. federal work)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_citriodora.jpg",
+        "caption": "Look from bottom to top of the stem: flowering rings (VERTICILLASTERS, crowded flower clusters at nodes) appear in distinct vertical tiers. At a distance the plant looks stacked, not like one continuous bloom.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species_photo; arrows_pending"
+      },
+      {
+        "label": "2 · Lemon beebalm: colored floral bracts",
+        "scientific_name": "Monarda citriodora",
+        "image_role": "flower whorls / purple floral bracts",
+        "image_url": "content/taxa/Lamiaceae/Monarda/monarda-citriodora/images/02-reference.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_citriodora_inflorescence_1.jpg",
+        "caption": "Find the purplish LEAFLIKE BRACTS immediately beneath the small tubular flowers. Bracts are modified leaves, not petals or a calyx. Very fine aristate (bristle-tipped) calyx teeth remain a separate macro target.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species_photo; arrows_pending"
+      },
+      {
+        "label": "3 · Lemon beebalm: opposite foliage",
+        "scientific_name": "Monarda citriodora",
+        "image_role": "leaf arrangement / stem node",
+        "image_url": "content/taxa/Lamiaceae/Monarda/monarda-citriodora/images/03-reference.jpg",
+        "creator": "Nadiatalent",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_citriodora,_leaves_and_stem.jpg",
+        "caption": "Find two leaves opposite one another on the four-angled stem; next pairs may rotate ninety degrees (decussate). Use this as a MINT-family entry cue, not as species-only proof.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species_photo; arrows_pending"
+      },
+      {
+        "label": "4 · Spotted horsemint: stacked pale bracts",
+        "scientific_name": "Monarda punctata",
+        "image_role": "cream spotted corollas and pale showy bracts",
+        "image_url": "content/taxa/Lamiaceae/Monarda/monarda-punctata/images/01-reference.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_punctata_inflorescence.jpg",
+        "caption": "Differentiate the pale (sometimes pink or purple-tinged) LEAFLIKE BRACTS from the small yellowish COROLLAS extending above them. A purple spotted corolla is supportive, but unspotted taxa are documented; rely on architecture and calyx too.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species_photo; arrows_pending"
+      },
+      {
+        "label": "5 · Spotted horsemint: individual flowers",
+        "scientific_name": "Monarda punctata",
+        "image_role": "corolla / bract and upper leaf contrast",
+        "image_url": "content/taxa/Lamiaceae/Monarda/monarda-punctata/images/02-reference.jpg",
+        "creator": "Aaron Carlson",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_punctata_(4908479312).jpg",
+        "caption": "Zoom in on a single COROLLA (joined petal tube with an upper and lower lip) above a broad pale BRACT. The strongly arched upper lip and purple spotting distinguish the flower parts from the much larger bracts. Do not interpret the whole colored tier as one bloom.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species_photo; arrows_pending"
+      },
+      {
+        "label": "6 · Spotted horsemint: botanical drawing",
+        "scientific_name": "Monarda punctata",
+        "image_role": "botanical line illustration / inflorescence and flower parts",
+        "image_url": "content/taxa/Lamiaceae/Monarda/monarda-punctata/images/03-botanical-illustration.png",
+        "creator": "N. L. Britton & A. Brown (1913)",
+        "license": "Public Domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_punctata_BB-1913.png",
+        "caption": "This is a historical BOTANICAL ILLUSTRATION, not a photograph. Use its separately drawn leaf, floral, and calyx details for vocabulary. An exact arrow must wait until the detail's position is verified against the rendered illustration.",
+        "markers": [],
+        "visual_status": "installed_verified_but_botanical_illustration; arrows_pending"
+      },
+      {
+        "label": "7 · Wild bergamot: rounded head",
+        "scientific_name": "Monarda fistulosa",
+        "image_role": "rounded terminal inflorescence / many lavender corolla tubes",
+        "image_url": "content/taxa/Lamiaceae/Monarda/monarda-fistulosa/images/monarda-fistulosa-provisional-face.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_fistulosa_142817652.jpg",
+        "caption": "The flowers form a fairly compact ROUNDED terminal head. Each projecting lavender 'tube' is one two-lipped flower, not a single petal. Compare with the more visibly separated tiers of lemon beebalm and spotted horsemint; calyx-throat hairs still need a macro.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species_photo; arrows_pending"
+      }
+    ],
+    "overlay_note": "Both species have stacked flower tiers and can have purple dots. M. citriodora: longer bract awns and aristate calyx teeth; typical M. punctata: broad unawned pointed bracts, shorter triangular calyx teeth. Calyx photos are NOT matched to a common scale; do not claim numeric tooth ratios. Monarda stanfieldii requires a rights-cleared white-silver plugged calyx mouth photo, currently link-only.",
+    "specialty_photo_targets": [
+      {
+        "priority": 1,
+        "species_ids": [
+          "monarda-citriodora",
+          "monarda-punctata"
+        ],
+        "view": "Matched side macros of FLORAL BRACT tips and CALYX TOOTH tips, same scale with ruler",
+        "separates": "Long bristlelike/aristate tips vs shorter pointed tips",
+        "status": "needs_photo"
+      },
+      {
+        "priority": 1,
+        "species_ids": [
+          "monarda-punctata"
+        ],
+        "view": "Single two-lipped corolla beside showy bract with calyx exposed",
+        "separates": "COROLLA vs BRACT vs CALYX terminology, individual purple spotting",
+        "status": "general photo installed; close calyx macro needed"
+      },
+      {
+        "priority": 1,
+        "species_ids": [
+          "monarda-fistulosa"
+        ],
+        "view": "Calyx throat hair closeup and a true stem node",
+        "separates": "Densely hairy calyx throat, two-lipped flower, opposite leaves",
+        "status": "needs_photo"
+      },
+      {
+        "priority": 2,
+        "species_ids": [
+          "monarda-citriodora",
+          "monarda-punctata",
+          "monarda-fistulosa"
+        ],
+        "view": "Mature dry persistent calyx opened to show up to four NUTLETS",
+        "separates": "Lamiaceae family fruit plan",
+        "status": "needs_photo"
+      }
+    ]
+  },
+  "look_here_first": "FIRST compare the arrangement of MANY flowers: a rounded terminal head (M. fistulosa) versus separated vertically stacked flower rings (M. citriodora or M. punctata). SECOND find the SHOWY FLORAL BRACTS (modified leaves below flowers) and a SINGLE TWO-LIPPED COROLLA (the actual flower's joined petals). THIRD inspect the tiny CALYX TEETH and throat: lemon beebalm has markedly bristle-like bract/calyx tips; spotted horsemint usually has shorter nonaristate calyx teeth, usually cream-yellow purple-spotted corollas. Use color only as support.",
+  "shared_traits": [
+    "Mint-family herbs with opposite (often decussate) foliage, square or four-angled stems, aromatic glandular foliage, and flowers in crowded heads or node-like whorls.",
+    "Individual flowers have fused, two-lipped (BILABIATE) corollas inside a persistent tubular CALYX; the conspicuous papery or green leaflike structures beneath flowering rings are BRACTS.",
+    "Monarda characteristically has two fertile stamens; recognize the four-lobed superior ovary yielding nutlets as common mint-family reproductive context, not a proved feature of current distant inflorescence photos.",
+    "The vertical rings are VERTICILLASTERS (clusters of small flowers arranged to resemble whorls); each colored tier is NOT one individual flower."
+  ],
+  "genus_diagnostics": {
+    "inflorescence": "Start with the SHAPE OF THE FLOWER CLUSTER: M. fistulosa usually has a more rounded dense terminal head, whereas M. citriodora and M. punctata more often show separated stacked flowering tiers. Architecture can vary; flowering habit alone is provisional.",
+    "bract": "A BRACT is a leaflike structure subtending flowers. Citriodora bracts are frequently purplish with conspicuous long bristlelike/aristate tips. Punctata bracts are conspicuous, frequently pale pink/white, but tips are usually not the same strongly aristate form. The currently installed photographs teach bract POSITION and COLOR; matched sharp tip macros remain missing.",
+    "calyx": "The CALYX is the ridged tubular cup of SEPALS surrounding the corolla tube, with distinct tooth tips and hair pattern. Compare the long awnlike tooth tips of citriodora with shorter pointed teeth and often open ciliate mouth of punctata; fistulosa has a densely hairy calyx throat. Existing general photos do not yet establish these minute differences.",
+    "corolla": "The COROLLA is the actual tubular two-lipped flower protruding from the calyx. Spotted horsemint usually shows cream-yellow corollas with purple speckles and strongly arched upper lip; lemon beebalm often has pale-to-lavender corollas; wild bergamot forms a head of slender lavender-to-pink corollas. Corolla colors overlap and variability exists.",
+    "leaves": "Look for OPPOSITE pairs of generally toothed lance-shaped leaves attached at mint-family stem nodes. Verify whether a colored part is a FLORAL BRACT rather than a normal stem leaf; color and leaf length are weak species separators.",
+    "stem": "The STEM is often FOUR-ANGLED, bearing opposite leaves. Monarda citriodora is commonly an annual and M. fistulosa a perennial; basal perennial growth is a supporting character, not a substitute for reproductive characters.",
+    "fruit": "Later seek the drying persistent calyx surrounding individual small NUTLETS, usually four from the deeply four-lobed ovary. No current installed three-species genus view verifies mature nutlets at macro scale: photo need remains."
+  },
+  "comparison_cards": [
+    {
+      "id": "monarda-citriodora-vs-punctata",
+      "title": "Lemon beebalm vs spotted horsemint",
+      "taxon_ids": [
+        "monarda-citriodora",
+        "monarda-punctata"
+      ],
+      "look_here_first": "Both can form stacked flower rings. Zoom to a showy bract (modified leaf) and the actual CALYX teeth, not just purple vs white bract color: citriodora often long BRISTLE-TIPPED, punctata shorter pointed. Spotted cream-yellow corollas support punctata; do not make corolla spotting absolutely required.",
+      "photo_requirements": [
+        "matched frontal and side views of a tier",
+        "flower/bract/calyx macro with names",
+        "matched calyx and bract tips at same scale"
+      ],
+      "caution": "Current installed photo set doesn't resolve calyx teeth at same scale; provisional without a macro."
+    },
+    {
+      "id": "monarda-fistulosa-vs-stacked",
+      "title": "Wild bergamot vs stacked horsemints",
+      "taxon_ids": [
+        "monarda-fistulosa",
+        "monarda-citriodora",
+        "monarda-punctata"
+      ],
+      "look_here_first": "Fistulosa often forms one dense, ROUNDED terminal bee-balm head. Citriodora/punctata frequently show vertically spaced whorls with showy bracts. Compare whole flowering stems before a flower closeup.",
+      "photo_requirements": [
+        "matched flowering stems whole inflorescence, full side profiles",
+        "fistulosa leaf node, calyx throat hair macro"
+      ],
+      "caution": "Fistulosa is range UNRESOLVED in the project's 24-county evidence threshold; do not count as confirmed native."
+    },
+    {
+      "id": "monarda-part-vocabulary",
+      "title": "Is it a flower, bract, calyx or a flower whorl?",
+      "taxon_ids": [
+        "monarda-citriodora",
+        "monarda-punctata",
+        "monarda-fistulosa"
+      ],
+      "look_here_first": "A single two-lipped COROLLA is one flower; CALYX (joined sepals) is its little cup; the large papery BRACT is a modified leaf beneath flowers; many actual flowers are grouped into VERTICILLASTERS, commonly stacked in separated rings.",
+      "photo_requirements": [
+        "open blossom with calyx and subtending bract plainly visible",
+        "verified arrows on exact structures when coordinates are checked"
+      ],
+      "caution": "Botanical illustration is labeled as such and any future annotation must be verified."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Native Plant Society of Texas — Monarda punctata",
+      "url": "https://www.npsot.org/posts/native-plant/monarda-punctata/",
+      "supports": "spotted corolla; showy pale bracts; square stems and opposite leaves"
+    },
+    {
+      "source": "Martyn Rix, Curtis's Botanical Magazine, 2024 — Monarda punctata",
+      "url": "https://doi.org/10.1111/curt.12541",
+      "supports": "species floral terms, bract/calyx/corolla, nutlets, biological variation"
+    },
+    {
+      "source": "Go Botany Monarda key",
+      "url": "https://gobotany.nativeplanttrust.org/dkey/monarda/",
+      "supports": "rounded terminal vs stacked verticillasters and strongly arched spotted corolla"
+    },
+    {
+      "source": "Kew Plants of the World Online — Monarda",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21049-1/general-information",
+      "supports": "genus taxonomic concepts and family relationship"
+    },
+    "https://fwbg.org/wp-content/uploads/2025/04/FNCT_0618-1076-Fab-Zygo.pdf",
+    "https://w3.biosci.utexas.edu/prc/K12/pdf/Monarda%20punctata%20intermedia",
+    "https://www.inaturalist.org/posts/7727-stanfield-s-beebalm-monarda-stanfieldii"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "agalinis-edwardsiana",
+  "entry_type": "species",
+  "family": "Orobanchaceae",
+  "genus": "Agalinis",
+  "species": "edwardsiana",
+  "scientific_name": "Agalinis edwardsiana",
+  "authority": "Pennell",
+  "common_name": "Edwards Plateau false foxglove",
+  "look_here_first": "FIRST measure the pedicel from its junction on the flowering branch to the calyx, using multiple flowers. Pedicels can be conspicuously long (reported to about 30 mm). Next compare the calyx lobes, which are very short relative to the tube. Do not decide from purple flower color or right-angle branching.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Approved Master Plant Pool source taxon, documented in scientific-review-agalinis-2026-10-08.md",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Texas native at state scale in completed scientific review; target-zone three-county certification not completed. Do not infer county evidence from photos."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "best_field_traits": [
+      "Green, slender hemiparasitic annual with narrow simple leaves and bilaterally symmetric tubular flowers.",
+      "Flower-bearing pedicels relatively long, to approximately 30 mm in regional treatment; measure several intact flowers, not a single specimen.",
+      "Calyx lobes very short relative to the tube; examine side-on with a hand lens.",
+      null
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Agalinis heterophylla",
+      "Agalinis purpurea",
+      "Agalinis tenuifolia"
+    ],
+    "key_distinctions": "Compared with A. heterophylla, the flowering pedicels are conspicuously longer and the calyx lobes much shorter. Both can have right-angle branching, pink-purple corollas and narrow leaves. Multiple pedicel/calyx measurements are needed. Other Agalinis must be keyed from intact calyx and pedicel measurements; do not use flower color alone."
+  },
+  "images": [
+    {
+      "file": "images/agalinis-edwardsiana-branch.jpg",
+      "role": "Flowering branch",
+      "creator": "Michelle Wong",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Agalinis_edwardsiana_iNat-96395856.2.jpg",
+      "study_use": "yes",
+      "public_reuse": "attribution_required"
+    },
+    {
+      "file": "images/joey-inat-332721137.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/332721137",
+      "observation_url": "https://www.inaturalist.org/observations/189872473",
+      "observation_id": "189872473",
+      "photo_id": "332721137",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/332721137/large.jpeg",
+      "image_dimensions": [
+        577,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-332721164.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/332721164",
+      "observation_url": "https://www.inaturalist.org/observations/189872473",
+      "observation_id": "189872473",
+      "photo_id": "332721164",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/332721164/large.jpeg",
+      "image_dimensions": [
+        577,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_photo_install_pending",
+    "reason": "2 exact-species licensed photograph(s) selected; matched scale pedicel and calyx macro comparison still required."
+  },
+  "diagnostic_image_plan": [
+    "Whole plant and flowering branch with leaves",
+    "Measured pedicel side view showing calyx-to-branch attachment",
+    "Matched calyx side macro with lobes and tube labeled",
+    "Lower-leaf sequence, including any divided leaves"
+  ],
+  "curation_status": {
+    "version": "1.0-approved-fastfill-2026-10-09",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

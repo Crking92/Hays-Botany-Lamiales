@@ -1,0 +1,127 @@
+{
+  "rank": "family",
+  "name": "Martyniaceae",
+  "common_name": "Devil's-claw family",
+  "lineage_context": {
+    "order": "Lamiales",
+    "batch": "Lamiales residual",
+    "close_project_families": [
+      "Bignoniaceae",
+      "Pedaliaceae"
+    ],
+    "teaching_goal": "Teach the sticky glandular herb + bilabiate flower + woody two-horned capsule as a highly memorable Lamiales fruit architecture."
+  },
+  "project_scope": {
+    "selection_mode": "Proboscidea louisianica-centered module",
+    "note": "The sole project species is accepted and native in Texas under current Kew; strict project county-range approval remains species-level."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the sticky glandular herbage, then the large bilateral tubular flower. Confirm a superior 2-carpellate ovary and the extraordinary fruit whose woody endocarp splits into two long curved horns.",
+    "vegetative": "Annual or perennial herbs, often sprawling; leaves commonly opposite and broad; stems and leaves often densely covered with sticky glandular trichomes.",
+    "reproductive": "Flowers bisexual and strongly zygomorphic with a fused 5-lobed corolla; commonly 4 fertile stamens plus a staminode; ovary superior and 2-carpellate.",
+    "fruit": "A fleshy developing capsule whose outer tissues are shed at maturity, leaving a hard woody capsule/endocarp with a long beak splitting into two hooklike horns.",
+    "field_tip": "Sticky glandular plant + big bilabiate flower + devil's-claw two-horned fruit = Martyniaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_015",
+    "teaching_order": "glandular hairs → bilabiate flower → 4 stamens + staminode → developing fruit → two-horned woody capsule",
+    "intro": "Martyniaceae is a fruit-first family. Once you see the mature devil's claw, the rest of the plant becomes much easier to place.",
+    "steps": [
+      {
+        "title": "1 · See the sticky glandular hairs",
+        "photo_role": "stem/leaf trichome macro",
+        "look_for": "Dense glandular hairs coating the leaves and stems with sticky secretions.",
+        "why_it_matters": "This is a strong whole-plant clue before fruit develops.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "2 · Read the bilabiate flower",
+        "photo_role": "flower front and side",
+        "look_for": "Large fused 5-lobed corolla with obvious bilateral symmetry and nectar-guide markings.",
+        "why_it_matters": "Shows the underlying Lamiales flower architecture.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Count 4 fertile stamens + staminode",
+        "photo_role": "flower dissection",
+        "look_for": "Four functional stamens and one reduced sterile staminode.",
+        "why_it_matters": "Connects the flower to several Lamiales relatives while fruit provides the family-level finish.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Follow the fruit into the devil's claw",
+        "photo_role": "green fruit → dry woody endocarp sequence",
+        "look_for": "A long-beaked fruit; as the fleshy outer layer disappears, the hardened beak splits into two curved horns.",
+        "why_it_matters": "This is one of the most unmistakable fruit transformations in the local flora.",
+        "status": "highest_priority_sequence_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Martyniaceae vs Bignoniaceae",
+        "rule": "Both are Lamiales with showy bilateral flowers. Martyniaceae is a sticky glandular herb with a heavy two-horned woody capsule; Bignoniaceae commonly has woody vines/trees and long bivalved capsules with flat winged seeds."
+      },
+      {
+        "title": "Martyniaceae vs Datura",
+        "rule": "Both can be coarse sticky herbs with large tubular flowers and conspicuous capsules, but Datura is Solanaceae with radial/funnel flowers and a prickly capsule rather than a beaked two-horned devil's claw."
+      }
+    ],
+    "caveat": "The sticky hairs are useful but not sufficient by themselves. Confirm the distinctive fruit whenever available."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Proboscidea",
+        "fast_cue": "sticky glandular herb + large bilabiate flower + long-beaked fruit splitting into two horns",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "green fruit to two-horned mature capsule",
+      "annotation_goal": "show fleshy outer layer loss and horn split"
+    },
+    {
+      "priority": 1,
+      "structure": "glandular trichomes",
+      "annotation_goal": "show sticky gland heads"
+    },
+    {
+      "priority": 1,
+      "structure": "4 stamens + staminode",
+      "annotation_goal": "label fertile vs sterile staminal member"
+    },
+    {
+      "priority": 2,
+      "structure": "Martyniaceae-vs-Bignoniaceae fruit",
+      "annotation_goal": "horned woody endocarp vs bivalved winged-seed capsule"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Martyniaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126797-1"
+    },
+    {
+      "source": "Plants of the World Online — Proboscidea",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30064181-2"
+    },
+    {
+      "source": "Plants of the World Online — Proboscidea louisianica",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:210335-2"
+    },
+    {
+      "source": "American Journal of Botany — Martyniaceae fruit morphology",
+      "url": "https://bsapubs.onlinelibrary.wiley.com/doi/10.3732/ajb.1400006"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-015",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "devils_claw_family_door_live_fruit_sequence_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

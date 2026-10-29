@@ -1,0 +1,159 @@
+{
+  "id": "scutellaria-drummondii",
+  "entry_type": "species",
+  "family": "Lamiaceae",
+  "genus": "Scutellaria",
+  "species": "drummondii",
+  "scientific_name": "Scutellaria drummondii",
+  "authority": "Benth.",
+  "common_name": "Drummond's skullcap",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by Kew/POWO. Three accepted infraspecific taxa are preserved in review while the learner remains species-level.",
+  "look_here_first": "First check the plant base and leaf tips. Drummond's skullcap is a small taprooted annual with visibly glandular-hairy stems/calyces; its leaves are acute-tipped, and lower stem leaves may be shallowly crenate. Then confirm the small blue-violet corolla and the visorlike Scutellaria calyx appendage.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "BONAP/NAPA includes Scutellaria drummondii in its county-level Scutellaria atlas. Hays County — UT Plant Resources Center's Purola Preserve natural flora lists S. drummondii among naturally occurring plants. Travis County — UT Plant Resources Center's Travis County Lamiaceae specimen index includes S. drummondii var. drummondii and var. edwardsiana. Williamson County — UT Plant Resources Center publishes a dedicated Williamson County treatment for S. drummondii.",
+    "range_guardrail": "The species includes multiple accepted varieties. The learner stays species-level and does not infer a variety from photographs unless diagnostic evidence supports it."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual, taprooted, usually 15–30 cm tall with one to several stems from the base",
+      "stems four-sided and densely short glandular-hairy",
+      "leaves opposite and decussate, generally ovate, with acute tips",
+      "lower cauline leaves shallowly crenate; upper leaves becoming entire",
+      "leafy raceme with paired opposite axillary flowers",
+      "pedicel very short at anthesis, about 1–1.2 mm",
+      "calyx two-lipped with the diagnostic projecting visorlike scutellum/appendage",
+      "calyx and scutellum visibly glandular short-pilose, often with longer marginal hairs",
+      "corolla about 5.5–10 mm long, blue-violet to blue; lower lip may have a white center with violet/blue spots",
+      "fruit produces four small tuberculate nutlets"
+    ],
+    "comparison_training": "Scutellaria wrightii: S. wrightii is a bushy perennial with several-many stems from a persistent base, rounded/obtuse entire leaves, minute pubescence and a smoother-looking calyx; its corolla is larger (mostly 13–18 mm) and its pedicel longer (3–3.5 mm). S. drummondii is annual, acute-leaved, visibly glandular-hairy and smaller-flowered. Scutellaria ovata: S. ovata is a much taller rhizomatous perennial (about 35–70 cm in the Williamson treatment) with much larger triangular-ovate, crenate leaves and much larger corollas (about 21–25 mm)."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Scutellaria wrightii",
+      "Scutellaria ovata"
+    ],
+    "key_distinctions": "S. wrightii is a bushy perennial with several-many stems from a persistent base, rounded/obtuse entire leaves, minute pubescence and a smoother-looking calyx; its corolla is larger (mostly 13–18 mm) and its pedicel longer (3–3.5 mm). S. drummondii is annual, acute-leaved, visibly glandular-hairy and smaller-flowered. S. ovata is a much taller rhizomatous perennial (about 35–70 cm in the Williamson treatment) with much larger triangular-ovate, crenate leaves and much larger corollas (about 21–25 mm)."
+  },
+  "tags": [
+    "Lamiaceae",
+    "Scutellaria",
+    "Drummond's skullcap",
+    "Central Texas",
+    "Skullcap comparison",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-b020+video-Y7A530PjEbU",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "joey_enhanced": true,
+    "video_study_media_count": 2,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Saved Joey Santore study frames installed locally for private learning. They cover the low limestone-habitat habit plus the small zygomorphic flower and opposite leaves; public-reuse restrictions are preserved. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "01:25",
+      "record_id": "Y7A530PjEbU-06",
+      "role": "Flowering habit in rocky limestone habitat.",
+      "rights": "private study; public reuse not assumed",
+      "source_taxon": "Scutellaria drummondii",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/Y7A530PjEbU/scutellaria-drummondii_habit-source-label_01-25.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "01:56",
+      "record_id": "N4yq5Z1_0Eo-03",
+      "role": "Small zygomorphic blue-purple corolla with opposite leaves.",
+      "source_taxon": "Scutellaria drummondii",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/scutellaria-drummondii_zygomorphic-flower-source-label_01-56.jpg"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/scutellaria-drummondii_habit-source-label_01-25.jpg",
+      "role": "Flowering habit in rocky limestone habitat.",
+      "caption": "Source-labeled Scutellaria drummondii growing low among rocky limestone. Use this for scale and habit rather than fine calyx characters.",
+      "diagnostic_roles": [
+        "whole-plant habit",
+        "limestone habitat context",
+        "source label"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-06",
+      "timestamp": "01:25",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/scutellaria-drummondii_zygomorphic-flower-source-label_01-56.jpg",
+      "role": "Small zygomorphic blue-purple corolla with opposite leaves.",
+      "caption": "Close view of the bilaterally symmetric blue-purple flower and opposite leaves, a useful mint-family and Scutellaria field combination.",
+      "diagnostic_roles": [
+        "zygomorphic corolla",
+        "opposite leaves",
+        "flower close-up"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-03",
+      "timestamp": "01:56",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/joey-inat-99231556.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/99231556",
+      "observation_url": "https://www.inaturalist.org/observations/61972112",
+      "observation_id": "61972112",
+      "photo_id": "99231556",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/99231556/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Closer fruiting calyx/skullcap view and a wider branch view emphasizing opposite leaves."
+  ]
+}

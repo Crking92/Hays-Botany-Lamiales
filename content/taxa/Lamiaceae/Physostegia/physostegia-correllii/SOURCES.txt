@@ -1,0 +1,14 @@
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Physostegia correllii
+Creator: Reid Hardin; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/4925954387
+Stored archive: hays-photo-library-seed-gbif-20261015 :: staged_images/physostegia-correllii/gbif-0c25061bb08ded.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Physostegia correllii
+Creator: Reid Hardin; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/4925954387
+Stored archive: hays-photo-library-seed-gbif-20261015 :: staged_images/physostegia-correllii/gbif-04ac2433605fd8.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

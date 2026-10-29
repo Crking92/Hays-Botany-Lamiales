@@ -1,0 +1,175 @@
+{
+  "id": "verbena-canescens",
+  "entry_type": "species",
+  "family": "Verbenaceae",
+  "genus": "Verbena",
+  "species": "canescens",
+  "scientific_name": "Verbena canescens",
+  "authority": "",
+  "common_name": "Gray vervain / Woolly vervain",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Look for the gray cast before anything else: this is the short, low vervain whose stems and leaves are densely covered in stiff whitish hairs, giving the entire plant a canescent or dusty-gray appearance.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Kew/POWO accepts Verbena canescens and lists Texas within its native range. Hays County — the project Hays County native-source list includes Verbena canescens. Travis County — the UT Plant Resources Center Travis County Verbenaceae index includes a Verbena canescens specimen. Kerr County — the Kerr WMA vascular flora documents Verbena canescens repeatedly without an introduced marker.",
+    "range_guardrail": "Regional Edwards Plateau distribution alone is not used as a county substitute; the three listed counties have explicit local records."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "low perennial, commonly under about 30 cm in the Williamson County treatment",
+      "stems and leaves densely hirsute/canescent, producing a gray-green appearance",
+      "opposite sessile to subsessile leaves, elliptic to oblong or nearly linear",
+      "leaf margins with only a few teeth or short lobes rather than deep major divisions",
+      "terminal many-flowered slender spikes",
+      "calyx and rachis conspicuously hairy, including pustulate-based hairs",
+      "four one-seeded mericarps with strongly pitted outer faces"
+    ],
+    "verbena_training": "Separate these by leaf architecture + hair texture + spike/branching architecture before using flower color."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Verbena halei",
+      "Verbena xutha",
+      "Verbena scabra"
+    ],
+    "key_distinctions": "Verbena halei: V. halei is greener and much less densely hairy, with lower leaves often deeply pinnatifid; V. canescens is uniformly gray/canescent and low. Verbena xutha: V. xutha is taller/coarser, usually with obvious 3-lobed leaves and stronger pustulate/glandular hairiness. Verbena scabra: V. scabra is far larger, with broad sandpaper-textured leaves and long panicles of spikes."
+  },
+  "tags": [
+    "Verbenaceae",
+    "Verbena",
+    "Gray vervain / Woolly vervain",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-009",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "diagnostic_photo_pass": "2026-10-12",
+    "photo_metadata_count": 5,
+    "diagnostic_photo_overlay": "genus-lesson licensed real photo: arrow directed to verified hairs on calyx and inflorescence rachis",
+    "leaf_diagnostic_photo_found": "2026-10-12",
+    "photo_files_present": 2
+  },
+  "photo_note": "Diagnostic role list is preserved in research draft; exact final photo set can be polished later. Joey Santore photo additions are rights-limited CC BY-NC and botanical ID provisional.",
+  "images": [
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/17248348/large.jpeg",
+      "role": "Flowering habit / woolly vervain field reference",
+      "creator": "Nicholas Cowey",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/guides/14344",
+      "inaturalist_photo_id": 17248348,
+      "source_type": "iNaturalist open data via Wildlife and Wildflowers of Texas guide",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "note": "Guide photo credit 43 identifies Nicholas Cowey and CC BY-NC; observation ID was not exposed by the guide retrieval path."
+    },
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Verbena_canescens.jpg/960px-Verbena_canescens.jpg",
+      "role": "Flowering spike macro — short stiff pubescence on rachis and calyx",
+      "caption": "Austin-area Verbena canescens; short stiff hairs on the inflorescence axis and calyces are visible. Compare at same magnification with Texas vervain; leaf hair close-up still needed.",
+      "creator": "Alison Northup",
+      "license": "CC BY 4.0",
+      "platform": "Wikimedia Commons / iNaturalist",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_canescens.jpg",
+      "observation_id": "8354564",
+      "photo_id": "11102554",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "remote_only": true,
+      "local_file_present": false,
+      "source_record_id": "Wikimedia Commons File:Verbena canescens.jpg",
+      "diagnostic_roles": [
+        "spike rachis stiff hairs",
+        "calyx hairs",
+        "flowering spike"
+      ],
+      "image_provenance_status": "photographer and license verified; image visually inspected for inflorescence hairs"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Verbena_canescens_form.jpg",
+      "role": "Habit and leaves: narrow toothed/lobed foliage",
+      "caption": "Fine leaf hairs NOT resolvable at this scale; preserve UT original-site-only hair macro as pending target.",
+      "creator": "Gaiacoyote",
+      "license": "CC BY-SA 4.0",
+      "platform": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_canescens_form.jpg",
+      "source_record_id": "File:Verbena_canescens_form.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa",
+      "remote_only": true,
+      "local_file_present": false,
+      "exact_species": true,
+      "visible_diagnostic_structure_verified": true
+    },
+    {
+      "file": "images/joey-review019-9a45f0c24409cc46.jpg",
+      "role": "Small lavender corolla and densely bracted flowering spike plus basal toothed leaves and rocky-site habit (source determination provisional; no verified anatomy arrows)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/221119425",
+      "source_observation": "https://www.inaturalist.org/observations/130058699",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/221119425/large.jpeg",
+      "source_determination": "Verbena canescens",
+      "photo_id": "221119425",
+      "observation_id": "130058699",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review019-378005be3cef26ad.jpg",
+      "role": "Small lavender corolla and densely bracted flowering spike plus basal toothed leaves and rocky-site habit (source determination provisional; no verified anatomy arrows)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/239976640",
+      "source_observation": "https://www.inaturalist.org/observations/140212164",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239976640/large.jpeg",
+      "source_determination": "Verbena canescens",
+      "photo_id": "239976640",
+      "observation_id": "140212164",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "diagnostic_photographic_improvement",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Added rights-cleared Commons macro illustrating short stiff hairs on spike/calyx. Still missing exact licensed same-scale leaf and stem hair close-up paired to V. halei.",
+    "physically_installed_image_count": 0,
+    "remote_image_count": 2,
+    "leaf_visual_backfill": "2026-10-12",
+    "leaf_macro_polish_status": "additional matched close-ups/hair macro still pending"
+  },
+  "diagnostic_image_plan": [
+    "Matched mature leaves, with hair macro: V. canescens densely short-pubescent versus V. halei less densely hairy",
+    "Close-up of leaf margin and basal section showing variability; do not use leaf lobing alone",
+    "Flower spike showing spreading bracts and short stiff hairs with scale",
+    "Whole plant showing low compact habit"
+  ]
+}

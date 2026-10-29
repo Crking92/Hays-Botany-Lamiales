@@ -1,0 +1,339 @@
+{
+  "rank": "genus",
+  "family": "Oleaceae",
+  "name": "Forestiera",
+  "common_group": "Elbowbushes / swamp-privets",
+  "project_scope": {
+    "selection_mode": "B037 same-genus comparison",
+    "species_ids": [
+      "forestiera-pubescens",
+      "forestiera-angustifolia"
+    ],
+    "species_count": 2
+  },
+  "study_strategy": {
+    "priority": [
+      "leaf width/shape",
+      "seasonal leaf retention",
+      "90-degree branching architecture",
+      "twig pubescence",
+      "flower timing",
+      "fruit"
+    ],
+    "warning": "F. angustifolia and F. pubescens both have elbow-like branches and drupes. Drought, pruning and leaf age can obscure differences. Existing F. angustifolia image metadata points to a Guaiacum source and is not cleared as a teaching anchor.",
+    "teaching_order": [
+      "Locate a mid-stem node and compare leaf attachment (phyllotaxy).",
+      "Measure several mature leaf blades at equivalent positions, upper and lower faces.",
+      "Photograph a leaf edge side-on to verify revolute versus flatter margin; check for hairs without assuming their absence.",
+      "Confirm tiny apetalous flowers or drupes when present; do not use branching angles or season alone."
+    ]
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "F. pubescens — broader elliptic/ovate leaves, some pubescence, winter-deciduous.",
+      "F. angustifolia — tiny narrow linear leathery leaves, densely twiggy, evergreen/semi-evergreen or drought-deciduous."
+    ]
+  },
+  "curation_status": {
+    "version": "2.1-photo-led-2026-10-14",
+    "last_reviewed": "2026-10-14",
+    "visual_status": "three F. pubescens installed images visually inspected; F. angustifolia image identity hold; matched diagnostic pair pending"
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Inspect a leafy mid-stem twig: paired/subopposite leaves on rigid, often elbow-like side branches. Then check the small apetalous flowers or dark one-seeded drupes. Do not identify by right-angle branching alone.",
+    "shared_traits": [
+      "Woody shrubs with stiff, often paired angled branchlets",
+      "Small, simple, usually opposite to subopposite leaves",
+      "Small, inconspicuous flowers without showy petals, often appearing before new leaves",
+      "Small dark one-seeded drupes"
+    ],
+    "caution": "Leaflessness, drought and pruning obscure habit; use comparable mature leaves from the same stem position."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "mature mid-stem blade shape",
+      "Forestiera angustifolia": "Very narrow, linear, leathery; blade margins often rolled under (revolute)",
+      "Forestiera pubescens": "Much broader elliptic, ovate, obovate to broadly lanceolate",
+      "weight": "LOOK HERE FIRST"
+    },
+    {
+      "character": "leaf surface / margin",
+      "Forestiera angustifolia": "Firm, narrow blades, often revolute; pubescence not the principal clue",
+      "Forestiera pubescens": "Often scattered short hairs; broad blades with flatter margins",
+      "weight": "confirmation"
+    },
+    {
+      "character": "winter leaf retention",
+      "Forestiera angustifolia": "Evergreen to semievergreen in favorable conditions, drought-deciduous when stressed",
+      "Forestiera pubescens": "Normally winter deciduous",
+      "weight": "supporting, climate-dependent"
+    },
+    {
+      "character": "branching",
+      "Forestiera angustifolia": "Very dense intricate twiggy habit with stiff near-right-angle branches",
+      "Forestiera pubescens": "Paired rigid lateral branches also make elbow-like angles",
+      "weight": "shared, NOT diagnostic alone"
+    },
+    {
+      "character": "reproductive confirmation",
+      "Forestiera angustifolia": "Small apetalous flowers before leaf flush; dark one-seeded drupes",
+      "Forestiera pubescens": "Small apetalous flowers before leaf flush; dark purple drupes",
+      "weight": "confirms genus, not a strong split"
+    }
+  ],
+  "species_key": [
+    {
+      "step": 1,
+      "look": "mid-stem mature leaves in focus, with ruler",
+      "if": "linear, leathery, very narrow leaves, often rolled at margin",
+      "then": "Forestiera angustifolia"
+    },
+    {
+      "step": 1,
+      "look": "mid-stem mature leaves in focus, with ruler",
+      "if": "broad elliptic/ovate/obovate leaves, sometimes visibly hairy",
+      "then": "Forestiera pubescens"
+    },
+    {
+      "step": 2,
+      "look": "repeat on several shoots and check phenology",
+      "if": "leaf shape conflicts or shrub is defoliated",
+      "then": "Do not force species ID; photograph fruit/flowers, winter shoots, and revisit at leaf-out."
+    }
+  ],
+  "overlap_and_cautions": [
+    "Both species make elbow-like paired branchlets; branch angles are not a species separator.",
+    "Drought can defoliate F. angustifolia; deciduous versus evergreen is seasonal support, not an absolute rule.",
+    "Young shoots and shade leaves can differ in width; compare mature leaves from matching mid-stem positions.",
+    "The dark drupe and apetalous flowers support genus recognition but alone do not separate these two species.",
+    "Avoid claiming an exact blade-width cutoff without independently verified measurements.",
+    "IMAGE SAFETY: Existing F. angustifolia provisional photo is installed but attributed to Guaiacum angustifolium; it is not an approved Forestiera visual example pending source/taxon verification.",
+    "RIGHTS: F. pubescens installed CC BY-NC / CC BY-NC-SA images are suitable only under their actual noncommercial terms; public_reuse=yes in species metadata is not unrestricted permission."
+  ],
+  "local_lookalike_routing": [
+    {
+      "group": "Ligustrum (privets)",
+      "separate": "Compare larger paired leaves and flower/fruit clusters; Forestiera typically has tiny apetalous flowers and a small drupe."
+    },
+    {
+      "group": "Sideroxylon / other thorny shrubs",
+      "separate": "Check leaf arrangement and twig armature; do not rely on a skeletal shrub silhouette alone."
+    },
+    {
+      "group": "Other Oleaceae (Fraxinus)",
+      "separate": "Ash has compound leaves and samaras; Forestiera has simple leaves and drupes."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "matched mid-stem leaf pair",
+      "target": "both species",
+      "labels": [
+        "leaf outline",
+        "blade width",
+        "petiole",
+        "rolled vs flat margin"
+      ],
+      "priority": "critical"
+    },
+    {
+      "role": "leaf edge macro in profile",
+      "target": "F. angustifolia",
+      "labels": [
+        "revolute margin",
+        "leathery blade"
+      ],
+      "priority": "critical"
+    },
+    {
+      "role": "leaf-surface macro",
+      "target": "F. pubescens",
+      "labels": [
+        "short hairs",
+        "upper/lower surfaces"
+      ],
+      "priority": "high"
+    },
+    {
+      "role": "twig-node comparison",
+      "target": "both species",
+      "labels": [
+        "opposite/subopposite leaves",
+        "paired angled lateral branches"
+      ],
+      "priority": "high"
+    },
+    {
+      "role": "flower and fruit macro",
+      "target": "both species",
+      "labels": [
+        "apetalous flowers",
+        "one-seeded drupe"
+      ],
+      "priority": "medium"
+    },
+    {
+      "role": "seasonal whole shrub",
+      "target": "both species",
+      "labels": [
+        "winter leaf retention",
+        "drought stress caveat"
+      ],
+      "priority": "supporting"
+    }
+  ],
+  "targeted_handoff": {
+    "lane": "Taxonomy + Diagnostic Review",
+    "question": "Find an authoritative regional key with comparable measured mature leaf blade widths and confirm whether pubescence/revolute margins hold across local populations before adding numerical cutoffs."
+  },
+  "look_here_first": "At a leafy node, confirm SIMPLE opposite/subopposite leaves on a woody twig. Next compare fully grown leaves at the SAME stem position: narrow, leathery, often rolled-edge leaves favor F. angustifolia; broad elliptic/ovate blades favor F. pubescens. Then look for tiny PETAL-LESS flowers before leaf-out or small dark DRUPES. Elbow-like branching confirms neither species by itself.",
+  "genus_diagnostics": {
+    "look_here_first": "At a leafy node, confirm SIMPLE opposite/subopposite leaves on a woody twig. Next compare fully grown leaves at the SAME stem position: narrow, leathery, often rolled-edge leaves favor F. angustifolia; broad elliptic/ovate blades favor F. pubescens. Then look for tiny PETAL-LESS flowers before leaf-out or small dark DRUPES. Elbow-like branching confirms neither species by itself.",
+    "shared_structure_examples": [
+      {
+        "term": "opposite/subopposite leaf node (phyllotaxy)",
+        "plain": "Look at the same spot on the twig: leaves occur as pairs or nearly paired, rather than singly alternating.",
+        "photo_role": "sharp twig node with intact petiole attachments on both species",
+        "why": "A useful entry point to Forestiera, but not a species split; compare Oleaceae privets and other opposite-leaved shrubs."
+      },
+      {
+        "term": "simple blade and revolute margin",
+        "plain": "A simple leaf has one blade. 'Revolute' means the edge curls underneath, best seen from the side.",
+        "photo_role": "matched fully expanded leaves on millimeter grid plus edge-profile macro of F. angustifolia",
+        "why": "Very narrow, leathery, often rolled leaves favor F. angustifolia; broader, flatter leaves favor F. pubescens."
+      },
+      {
+        "term": "apetalous flower and exposed stamens",
+        "plain": "Tiny flowers may lack petals; pollen-bearing stamens can be visible on leafless spring twigs.",
+        "photo_role": "close flower macro showing twig attachment and stamens, with an intact whole branch for context",
+        "why": "Helps separate Forestiera from Ligustrum, whose small flowers have a conspicuous four-lobed fused corolla. Flowers alone do not split these Forestiera species."
+      },
+      {
+        "term": "drupe (fleshy, one-seeded fruit)",
+        "plain": "A small dark fruit with a fleshy outer layer around a hard seed.",
+        "photo_role": "mature attached fruit cluster with fruit stalk and nearby leaves",
+        "why": "Confirms the genus and separates it from Fraxinus, which makes winged samaras; fruit color alone does not separate the two Forestiera species."
+      }
+    ],
+    "confusable_genera": [
+      {
+        "genus": "Ligustrum",
+        "distinction": "Opposite simple leaves and dark fruits can resemble Forestiera, but Ligustrum flowers have a four-lobed fused corolla; Forestiera flowers are tiny and generally apetalous."
+      },
+      {
+        "genus": "Fraxinus",
+        "distinction": "Ashes have pinnately compound leaves and one-winged samaras; Forestiera has simple leaves and fleshy drupes."
+      },
+      {
+        "genus": "Sideroxylon",
+        "distinction": "Check alternate versus opposite leaf attachment and inspect twig armature; thorny silhouettes alone are not decisive."
+      }
+    ]
+  },
+  "comparison_cards": [
+    {
+      "id": "forestiera-narrow-versus-broad-leaves",
+      "title": "Narrowleaf versus downy Forestiera: measure the leaves",
+      "taxon_ids": [
+        "forestiera-angustifolia",
+        "forestiera-pubescens"
+      ],
+      "look_here_first": "Compare several fully grown leaves from similar mid-stem positions at the same magnification. F. angustifolia has very narrow, often rolled-edge leathery blades; F. pubescens has much broader elliptic, ovate or obovate blades.",
+      "difference": "Leaf shape/relative width and margin profile are stronger than shared elbow branching; do not invent a numerical width threshold without a regional key.",
+      "photo_requirements": [
+        "matched upper and lower leaf faces with millimeter scale",
+        "side-on F. angustifolia leaf margin showing recurved edge",
+        "F. pubescens leaf-surface hair macro"
+      ],
+      "caution": "Drought-stressed and juvenile foliage changes leaf size. F. angustifolia's existing provisional image may depict Guaiacum, not Forestiera; do not use it as proof."
+    },
+    {
+      "id": "forestiera-versus-privet-flowers-fruit",
+      "title": "Forestiera or privet? Inspect the actual flower",
+      "taxon_ids": [
+        "forestiera-angustifolia",
+        "forestiera-pubescens"
+      ],
+      "look_here_first": "On flowering twigs look for inconspicuous apetalous Forestiera flowers versus the four-lobed tubular corolla of Ligustrum. On fruiting twigs confirm attached drupes, but remember both genera can have dark fruit.",
+      "difference": "Apetalous flowers on short spring twig clusters versus corollate privet panicles; leaf arrangement alone is shared.",
+      "photo_requirements": [
+        "F. pubescens flower macro with visible stamens and twig insertion",
+        "F. angustifolia confirmed exact-species flower macro",
+        "Ligustrum four-lobed corolla macro at matched scale",
+        "fruit close-up with attached pedicel and foliage"
+      ],
+      "caution": "Flowering stage and sex of plant can change visible floral structures; do not imply one photograph shows every reproductive character."
+    }
+  ],
+  "visual_comparison": {
+    "status": "three F. pubescens exact-project media files fetched and visually inspected; F. angustifolia installed file is taxonomically suspect; matched diagnostic pair incomplete",
+    "teaching_order": "twig node → matched mature leaves and rolled margin → tiny apetalous flowers → attached drupes",
+    "items": [
+      {
+        "species_id": "forestiera-pubescens",
+        "scientific_name": "Forestiera pubescens",
+        "image_url": "content/taxa/Oleaceae/Forestiera/forestiera-pubescens/images/01-shrub-habit-opposite-leaves.jpg",
+        "image_role": "woody twig, leaf arrangement and broad leaf blades",
+        "creator": "Mary PK Burns",
+        "license": "CC BY-NC",
+        "public_reuse": "noncommercial_license_only; existing species metadata says yes and needs rights review",
+        "source_page": "https://www.inaturalist.org/guide_taxa/441882",
+        "observed_anatomy": "Woody gray twigs with many simple green leaves and multiple leaf attachments; leaf dimensions and exact node arrangement not measurable at this scale.",
+        "caption": "See the broader leafy branches of downy Forestiera; zoom to several nodes, then compare a mature leaf at scale.",
+        "visual_status": "installed_verified; annotation_pending",
+        "markers": []
+      },
+      {
+        "species_id": "forestiera-pubescens",
+        "scientific_name": "Forestiera pubescens",
+        "image_url": "content/taxa/Oleaceae/Forestiera/forestiera-pubescens/images/02-yellow-flowers-bare-twigs.jpg",
+        "image_role": "apetalous flowers and stamens on woody twig",
+        "creator": "Jerry Oldenettel",
+        "license": "CC BY-NC-SA",
+        "public_reuse": "noncommercial_sharealike_license_only; existing species metadata says yes and needs rights review",
+        "source_page": "https://www.inaturalist.org/guide_taxa/441882",
+        "observed_anatomy": "Several small yellowish flower clusters on bare gray-brown twigs; slender projecting stamens with yellow anthers are visible. No scale.",
+        "caption": "Apetalous spring flowers: look for the exposed pollen-bearing stamens rather than large petals.",
+        "visual_status": "installed_verified; annotation_pending",
+        "markers": []
+      },
+      {
+        "species_id": "forestiera-pubescens",
+        "scientific_name": "Forestiera pubescens",
+        "image_url": "content/taxa/Oleaceae/Forestiera/forestiera-pubescens/images/03-blue-black-fruit.jpg",
+        "image_role": "mature drupes and leaves",
+        "creator": "Jerry Oldenettel",
+        "license": "CC BY-NC-SA",
+        "public_reuse": "noncommercial_sharealike_license_only; existing species metadata says yes and needs rights review",
+        "source_page": "https://www.inaturalist.org/guide_taxa/441882",
+        "observed_anatomy": "Numerous blue-purple oval fruits clustered along woody branches among broad greenish leaves. Fruit anatomy and seed count not visible without dissection.",
+        "caption": "Mature dark drupes confirm a fleshy-fruited shrub; this photo alone does not separate the two Forestiera species.",
+        "visual_status": "installed_verified; annotation_pending",
+        "markers": []
+      },
+      {
+        "species_id": "forestiera-angustifolia",
+        "scientific_name": "Forestiera angustifolia",
+        "image_url": "content/taxa/Oleaceae/Forestiera/forestiera-angustifolia/images/forestiera-angustifolia-provisional-face.jpg",
+        "image_role": "quarantined provisional narrow-leaf image; DO NOT use for Forestiera anatomy",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "public_reuse": "not cleared for this taxon until identity resolved",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Guaiacum_angustifolium_1.jpg",
+        "observed_anatomy": "Installed image file exists and shows small glossy narrow leaflike structures; source-page filename identifies Guaiacum angustifolium, not Forestiera angustifolia. Species identity is contradicted by attribution.",
+        "caption": "PHOTO IDENTITY HOLD: installed source appears to be Guaiacum. Do not teach Forestiera anatomy from this image or draw arrows on it.",
+        "visual_status": "needs_photo; installed_file_taxon_mismatch_suspected; annotation_pending",
+        "markers": []
+      }
+    ],
+    "photo_gaps": [
+      "URGENT: replace/verify F. angustifolia provisional image; its metadata cites Guaiacum angustifolium. Do not use the suspect image as a Forestiera teaching anchor.",
+      "Matched mature mid-stem leaves for both species at the same scale, including both surfaces and leaf-edge profile.",
+      "F. angustifolia true exact-species revolute margin and leaf attachment macros.",
+      "F. pubescens hair macro on lower blade, petiole and young twig.",
+      "F. angustifolia and F. pubescens flower close-ups matched to demonstrate petal absence and stamens.",
+      "Ligustrum flower with visible four-lobed corolla for genus-level look-alike comparison."
+    ],
+    "handoff": "Diagnostic Photo Polish: prioritize verified F. angustifolia replacement and same-scale leaf/edge macros; preserve license, creator and source IDs. Taxonomy + Diagnostic Review: verify Guaiacum image misattribution and leaf-width measurements before final arrows or numerical thresholds. Species/gallery edits belong to species/photo lanes; this genus lesson flags the issue only."
+  }
+}

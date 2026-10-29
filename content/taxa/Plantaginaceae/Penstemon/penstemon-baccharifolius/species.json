@@ -1,0 +1,129 @@
+{
+  "id": "penstemon-baccharifolius",
+  "entry_type": "species",
+  "family": "Plantaginaceae",
+  "genus": "Penstemon",
+  "species": "baccharifolius",
+  "scientific_name": "Penstemon baccharifolius",
+  "authority": "Hook.",
+  "common_name": "Rock penstemon",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO. A distinctive Texas-to-Mexico woody-based Penstemon specialized on dry limestone cliffs and crevices.",
+  "look_here_first": "Start with the woody base and leaf texture. Rock penstemon is a low densely branched subshrub with thick dark-green leathery leaves that have coarse mucronate teeth. It grows from limestone cracks and carries red tubular flowers on short stalks.",
+  "county_occurrences_target_zone": [
+    "Val Verde",
+    "Edwards",
+    "Bandera"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Val Verde County — Devils River/Amistad regional vegetation studies document Penstemon baccharifolius on limestone cliff and canyon-wall fissures. Edwards County — University of Colorado herbarium specimen 01667633 was collected about 18 miles north of Carta Valley on Hwy 377 toward Rocksprings. Bandera County — NPSOT Hill Country field account documents P. baccharifolius blooming on a limestone canyon wall in Bandera County and describes its range from Bandera/Medina westward.",
+    "range_guardrail": "Nursery-grown rock penstemon is common in xeric landscapes; county decisions rely on wild field/herbarium evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial subshrub, commonly 15–60 cm tall",
+      "densely branched with lower stems becoming woody",
+      "leaves small, thick, leathery and dark green",
+      "leaf margins coarsely serrate, teeth often mucronate",
+      "inflorescence pubescent and relatively open",
+      "corolla red to rosy red, roughly 25–30 mm, tubular/bilabiate",
+      "white inner throat heavily marked with dark guide lines",
+      "specialized for dry limestone crevices, bluffs and canyon walls"
+    ],
+    "comparison_training": "Penstemon triflorus: P. triflorus is herbaceous rather than woody-based and has thinner, larger opposite leaves. Penstemon cobaea: P. cobaea is a broad-leaved herb with enormous pale flowers, not a woody cliff subshrub. Penstemon tenuis: P. tenuis is a slender wet-site herb with tiny lavender flowers and soft thin leaves."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Penstemon triflorus",
+      "Penstemon cobaea",
+      "Penstemon tenuis"
+    ],
+    "key_distinctions": "P. triflorus is herbaceous rather than woody-based and has thinner, larger opposite leaves. P. cobaea is a broad-leaved herb with enormous pale flowers, not a woody cliff subshrub. P. tenuis is a slender wet-site herb with tiny lavender flowers and soft thin leaves."
+  },
+  "tags": [
+    "Plantaginaceae",
+    "Penstemon",
+    "Rock penstemon",
+    "Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b022",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/penstemon-baccharifolius-provisional-face.jpg",
+      "role": "Flowering habit / recognizable face",
+      "creator": "USDA NRCS Texas State Office",
+      "license": "Public domain (U.S. federal government)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Penstemon_baccharifolius.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-444096933.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/444096933",
+      "observation_url": "https://www.inaturalist.org/observations/248533672",
+      "observation_id": "248533672",
+      "photo_id": "444096933",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/444096933/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-49457780.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/49457780",
+      "observation_url": "https://www.inaturalist.org/observations/31591289",
+      "observation_id": "31591289",
+      "photo_id": "49457780",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/49457780/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

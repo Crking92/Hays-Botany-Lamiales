@@ -1,0 +1,53 @@
+{
+  "id": "linaria-texana",
+  "family": "Plantaginaceae",
+  "genus": "Linaria",
+  "species": "texana",
+  "scientific_name": "Linaria texana",
+  "common_name": "Texas toadflax",
+  "look_here_first": "Small upright herb with narrow leaves and spurred two-lipped flowers; inspect spur and calyx.",
+  "curation_status": {
+    "visual_reviewed": false,
+    "taxonomy_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/joey-357336521.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/357336521",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-357336539.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/357336539",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-357336563.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/357336563",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

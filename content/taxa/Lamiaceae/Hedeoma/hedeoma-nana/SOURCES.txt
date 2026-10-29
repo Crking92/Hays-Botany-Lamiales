@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Hedeoma%20nana
+Source research-grade observation: https://www.inaturalist.org/observations/74456247
+Photo: https://www.inaturalist.org/photos/121672882
+Attribution: (c) juanloredo, some rights reserved (CC BY-NC-SA)
+License: CC BY-NC-SA; Attribution; noncommercial and ShareAlike requirements
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

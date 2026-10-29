@@ -1,0 +1,14 @@
+Scientific review: research-drafts/scientific-review-agalinis-2026-10-08.md
+Taxonomy accepted per Kew POWO; aliases Gerardia heterophylla and historical infraspecific names are not separate cards.
+Regional pedicel/calyx diagnostic evidence: Flora of North Central Texas https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf
+UT Austin PlantPics: https://web.biosci.utexas.edu/bio406d/images/pics/oro/agalinis_heterophylla.htm
+POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names/6178-2
+Range: state-scale Texas native per review; target-zone county status UNRESOLVED.
+Photos: https://commons.wikimedia.org/wiki/File:Agalinis_heterophylla.jpg | Donna (iNaturalist campon123) | CC0 1.0 | iNaturalist photo 4916845; observation 4132104
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 571576229 https://www.inaturalist.org/photos/571576229 | 316363074 | images/glass-root-garden-571576229-pink-flower-and-branch.jpg
+- 573573750 https://www.inaturalist.org/photos/573573750 | 317421442 | images/glass-root-garden-573573750-flower-buds-and-linear-foliage.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

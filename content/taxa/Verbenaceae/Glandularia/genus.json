@@ -1,0 +1,389 @@
+{
+  "rank": "genus",
+  "family": "Verbenaceae",
+  "name": "Glandularia",
+  "common_group": "Mock vervains / prairie verbenas",
+  "project_scope": {
+    "selection_mode": "B032 science + B156 source-concept reconciliation",
+    "canonical_species_ids": [
+      "glandularia-bipinnatifida",
+      "glandularia-pumila"
+    ],
+    "canonical_species_count": 2,
+    "represented_infraspecific": [
+      "glandularia-bipinnatifida-var-bipinnatifida"
+    ],
+    "source_concept_count": 3,
+    "note": "The accepted autonym Glandularia bipinnatifida var. bipinnatifida is taught inside canonical G. bipinnatifida rather than duplicated."
+  },
+  "study_strategy": {
+    "priority": [
+      "mature LEAF dissection (featherlike secondary lobes vs fan-shaped primary lobes)",
+      "fruiting spike elongation (strong in bipinnatifida vs weak in pumila)",
+      "relative corolla size (supporting with overlap)",
+      "flower head/leaf attachment vs Verbena genus",
+      "stem/calix glandular hairs (polish pass)"
+    ],
+    "warning": "Do not confuse the Glandularia bipinnatifida var. bipinnatifida autonym with a third species. Do not split Glandularia from Verbena based only on color or leaf lobing: both genera can have lobed leaves and clustered flowers."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "G. bipinnatifida — larger/coarser plant with strongly and often twice-pinnately dissected, feathery leaves.",
+      "G. pumila — lower, compact plant with smaller broad leaves cut into fewer broader lobes and a short dense spike."
+    ],
+    "caveat": "Older regional treatments may show G. bipinnatifida var. bipinnatifida; this project does not count that autonym as a second canonical species."
+  },
+  "curation_status": {
+    "version": "1.3-low-vervain-first-licensed-face",
+    "last_reviewed": "2026-10-20",
+    "genus_audit": "prior science preserved, visual gap explicit",
+    "source_concepts_reconciled": true,
+    "cross_genus_comparison_built": true,
+    "comparison_cards_count": 2,
+    "diagnostic_real_photo_count": 3,
+    "visual_status": "local public-source real photos cover both species; actual fruit macro comparisons missing"
+  },
+  "source_concept_status": [
+    {
+      "id": "glandularia-bipinnatifida",
+      "scientific_name": "Glandularia bipinnatifida",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "glandularia-bipinnatifida-var-bipinnatifida",
+      "scientific_name": "Glandularia bipinnatifida var. bipinnatifida",
+      "status": "REPRESENTED_IN_PARENT"
+    },
+    {
+      "id": "glandularia-pumila",
+      "scientific_name": "Glandularia pumila",
+      "status": "CANONICAL_PASS"
+    }
+  ],
+  "look_here_first": "Glandularia: low spreading vervain relatives with OPPOSITE deeply lobed leaves and rounded, crowded flower clusters on short terminal spikes. For these two local species, start with one mature leaf: FEATHERY twice-cut = often G. bipinnatifida; small BROAD fan-lobed = often G. pumila. Then verify whether the old fruiting spike grows longer.",
+  "diagnostic_photo_checklist": [
+    "matched leaves showing dissection",
+    "matched mature flowering and fruiting spikes",
+    "stem and calyx hair macros",
+    "calyx/bract proportions at same scale"
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "First glance at mature leaf",
+      "bipinnatifida": "Large, fernlike, 1–2-pinnately divided with numerous narrow ultimate segments",
+      "pumila": "Small, broad ovate/triangular outline; 3–6 paired wider fan-like primary lobes and sublobes",
+      "strength": "strongest vegetative cue with overlap"
+    },
+    {
+      "character": "Flower-head at anthesis",
+      "bipinnatifida": "Dense, frequently flat-to-rounded top; corolla limb ca. 8–12 mm wide (UT Williamson)",
+      "pumila": "Small densely clustered pink/purple flowers; corolla limb ca. 7–8 mm across",
+      "strength": "supporting; overlap around 8 mm"
+    },
+    {
+      "character": "Fruit-development spike",
+      "bipinnatifida": "Rachis often lengthens; persistent flowers/calyces separate visibly",
+      "pumila": "Rachis scarcely lengthens; head remains compact",
+      "strength": "excellent when mature fruit present"
+    },
+    {
+      "character": "Habit",
+      "bipinnatifida": "Usually more spreading/coarse; 10–40 cm tall in Williamson study",
+      "pumila": "Often low delicate annual; up to ~19 cm in Williamson study",
+      "strength": "supporting only"
+    },
+    {
+      "character": "Calyx/bract + hairs",
+      "bipinnatifida": "Longer calyx ~6.5–8 mm; bract about equaling or slightly exceeding calyx (UT Williamson)",
+      "pumila": "Shorter calyx ~6–6.5 mm; bract slightly shorter than calyx ~5–6 mm; stalked glands",
+      "strength": "magnified confirmation; overlap"
+    }
+  ],
+  "overlap_cautions": [
+    "Flower color and height overlap; inspect mature leaves and fruiting spikes.",
+    "Existing G. bipinnatifida autonym is represented in its parent canonical card, not a separate species."
+  ],
+  "review_handoff": "Confirm calyx/bract dimensions and indumentum as quantitative separators before adding numeric key thresholds.",
+  "shared_genus_traits": [
+    "Herbaceous annuals/short-lived perennials in the local two-species set; low spreading, sometimes rooting at nodes.",
+    "Opposite/decussate simple leaves that are usually incised or divided into lobes; never confuse deeply lobed leaves with compound leaves.",
+    "Often hairy 4-sided stems and glandular calyx/bract structures.",
+    "Dense terminal spikes often look like round flower heads in full bloom; individual flowers have a slender corolla tube and usually five short spreading lobes.",
+    "Flowers form four dry single-seeded nutlets (mericarps); persistence and elongation of fruiting axis is a useful species character."
+  ],
+  "lookalikes": [
+    "Verbena spp.: inspect leaves, mature spikes, and calyx.",
+    "G. bipinnatifida var. bipinnatifida: already included within parent species."
+  ],
+  "shared_traits": [
+    "Herbaceous annuals/short-lived perennials in the local two-species set; low spreading, sometimes rooting at nodes.",
+    "Opposite/decussate simple leaves that are usually incised or divided into lobes; never confuse deeply lobed leaves with compound leaves.",
+    "Often hairy 4-sided stems and glandular calyx/bract structures.",
+    "Dense terminal spikes often look like round flower heads in full bloom; individual flowers have a slender corolla tube and usually five short spreading lobes.",
+    "Flowers form four dry single-seeded nutlets (mericarps); persistence and elongation of fruiting axis is a useful species character."
+  ],
+  "quick_key": [
+    {
+      "if": "Mature leaves comparatively large, feathery, once to TWICE pinnately cut with many narrow segment tips; fruiting spike elongates and becomes spaced",
+      "then": "Glandularia bipinnatifida — prairie verbena"
+    },
+    {
+      "if": "Mature leaves usually small, broadly ovate/triangular with 3–6 pairs of wide, fan-like primary lobes; fruiting spike stays SHORT and compact",
+      "then": "Glandularia pumila — low/pink mock vervain"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "id": "glandularia-bipinnatifida-vs-pumila",
+      "title": "Prairie verbena vs low verbena — compare the leaf FIRST",
+      "taxon_ids": [
+        "glandularia-bipinnatifida",
+        "glandularia-pumila"
+      ],
+      "look_here_first": "Take a photo of one mature leaf on each plant, then look for SECONDARY cuts. Prairie verbena is finely dissected and feathery; low verbena is smaller, with broad fan-like lobes. Then compare old fruiting spikes: elongated versus still short.",
+      "field_matrix": [
+        {
+          "character": "Leaf dissection",
+          "bipinnatifida": "Deeply 1–2-pinnately cut into slender ultimate segments",
+          "pumila": "Small broad blade with 3–6 paired fan-shaped major lobes and sublobes"
+        },
+        {
+          "character": "Fruiting spike",
+          "bipinnatifida": "Elongates; persistent calyces become spaced",
+          "pumila": "Remains relatively compact; little elongation"
+        },
+        {
+          "character": "Flower diameter",
+          "bipinnatifida": "Mostly 8–12 mm",
+          "pumila": "Mostly 7–8 mm",
+          "strength": "secondary only"
+        },
+        {
+          "character": "Plant size",
+          "bipinnatifida": "Often spreading 10–40 cm high",
+          "pumila": "Often small, to ~19 cm locally",
+          "strength": "unreliable alone"
+        }
+      ],
+      "caution": "Both plants have locally stored source-licensed species photos, but old fruiting spikes remain missing; do not infer mature spike elongation from photographs of flower buds.",
+      "photo_pair_targets": [
+        {
+          "role": "mature leaf same scale",
+          "arrow": "central blade axis, narrow 2nd-level lobes vs broad fan-like primary lobes",
+          "status": "Both species physically photo-covered; true equal-scale matched mature leaf photo pending."
+        },
+        {
+          "role": "old fruiting spike",
+          "arrow": "spaced persistent calyces vs compact fruiting head",
+          "status": "Both genuinely ripe fruiting spikes need side-by-side diagnostic photographs."
+        },
+        {
+          "role": "flower closeup + calyx",
+          "arrow": "corolla limb diameter, bract/calyx proportions",
+          "status": "final micro-pass"
+        }
+      ],
+      "references": [
+        "https://w3.biosci.utexas.edu/prc/K12/pages/Glandularia%20bipinnatifida.html",
+        "https://w3.biosci.utexas.edu/prc/K12/pdf/Glandularia%20pumila",
+        "https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf"
+      ],
+      "reviewed_at": "2026-10-20"
+    },
+    {
+      "id": "glandularia-vs-verbena",
+      "title": "Prairie verbena or a true Verbena?",
+      "taxon_ids": [
+        "glandularia-bipinnatifida",
+        "glandularia-pumila",
+        "verbena-halei",
+        "verbena-xutha",
+        "verbena-canescens"
+      ],
+      "look_here_first": "A short, crowded head at flower time plus highly divided leaves suggests these local Glandularia species. More elongated, often sparse spikes and broader variation in leaf/hair architecture suggest Verbena. BUT Glandularia fruiting spikes lengthen and certain Verbena have compact tips; check species traits, not just genus silhouette.",
+      "field_matrix": [
+        {
+          "character": "Flowering structure",
+          "glandularia": "Usually dense rounded terminal spike in local examples",
+          "verbena": "Frequently elongated flowering spikes with flowers spaced along an axis; exception: some compact-spiked species"
+        },
+        {
+          "character": "Leaves",
+          "glandularia": "Often noticeably cut and lobed; our two local cards sharply differ in lobe width",
+          "verbena": "Range from deeply divided (V. halei) to 3-lobed (V. xutha) to simple coarse (V. scabra)"
+        },
+        {
+          "character": "Lookalike",
+          "glandularia": "G. bipinnatifida's fernlike leaves and tight heads can resemble V. halei at first glance",
+          "verbena": "V. halei has often open slender spikes and upper narrow/simple leaves"
+        },
+        {
+          "character": "Fruit structure",
+          "glandularia": "Four nutlets; G. bipinnatifida's spike often elongates in fruit",
+          "verbena": "Four nutlets as well; NOT a stand-alone genus key"
+        }
+      ],
+      "caution": "This is an educational initial split, not a formal all-species determination key. Common names 'prairie verbena' and 'vervain' do not establish genus.",
+      "photo_pair_targets": [
+        {
+          "role": "flowering head vs spike",
+          "arrow": "round crowded Glandularia head vs slender Verbena halei spike",
+          "status": "both copyright-cleared photo examples available"
+        },
+        {
+          "role": "mature leaves",
+          "arrow": "twice-cut Glandularia segments vs variable Verbena halei leaves",
+          "status": "one Glandularia source verified; Verbena side has existing USGS source"
+        }
+      ],
+      "reviewed_at": "2026-10-12"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Glandularia: prairie versus low verbena — actual species photos",
+    "subtitle": "Both exact species now have licensed locally stored real botanical photos; compare mature leaf lobes, but actual same-scale old fruiting spike comparison is still needed.",
+    "memory_rule": "FEATHERY leaf + elongating fruit spike → G. bipinnatifida. Small FAN-shaped leaf + compact old fruit spike → G. pumila.",
+    "items": [
+      {
+        "label": "Low verbena · broad lobed leaves",
+        "scientific_name": "Glandularia pumila",
+        "image_role": "Flowering leafy shoot, fan-lobed leaves and a compact lavender-pink cluster",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-pumila/images/plantnet-angela-pumila-face.jpg",
+        "source_page": "https://identify.plantnet.org/el/namerica/species/Glandularia%20pumila%20(Rydb.)%20Umber/data",
+        "creator": "Angela (Pl@ntNet contributor)",
+        "license": "CC BY-SA 3.0",
+        "image_fit": "contain",
+        "caption": "G. pumila Angela/Pl@ntNet CC BY-SA 3.0 real photo saved to this learner. Broad lobed leaf and small five-lobed flowers; flowers are not proven ripe fruits.",
+        "markers": [
+          {
+            "label": "Broad lobed leaf",
+            "label_x": 7,
+            "label_y": 16,
+            "target_x": 57,
+            "target_y": 27
+          },
+          {
+            "label": "Small flower",
+            "label_x": 63,
+            "label_y": 74,
+            "target_x": 79,
+            "target_y": 63
+          }
+        ],
+        "visual_status": "verified real photograph + image URL + Pl@ntNet on-page creator/license; annotation learner-added, source not edited"
+      },
+      {
+        "label": "Prairie verbena · mature divided leaf",
+        "scientific_name": "Glandularia bipinnatifida",
+        "image_role": "deeply incised foliage under flowering head",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-prairie-verbena-527.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_000000000527.jpg",
+        "creator": "Juan Carlos Fonseca Mata",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "caption": "LOOK HERE: bottom-right foliage includes narrow lobed and divided blades. This real photograph is of prairie verbena, NOT low verbena.",
+        "markers": [
+          {
+            "label": "deeply dissected foliage",
+            "label_x": 64,
+            "label_y": 86,
+            "target_x": 81,
+            "target_y": 74
+          }
+        ],
+        "visual_status": "photographed foliage visually checked; learner arrow added, source unchanged"
+      },
+      {
+        "label": "Prairie verbena · flower cluster, bracts and developing spike",
+        "scientific_name": "Glandularia bipinnatifida",
+        "image_role": "5-lobed blossoms and short crowded flowering spike",
+        "image_url": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-masonbrock-texas-prairie-verbena.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida.jpg",
+        "creator": "Mason Brock",
+        "license": "Public domain",
+        "image_fit": "contain",
+        "caption": "Five-lobed lilac flowers cluster at the top of a short, still-flowering spike. The green narrow structures below the flowers are calyces/bracts. Fruit-lengthening cannot be proved from this young flower head alone.",
+        "markers": [
+          {
+            "label": "dense floral spike",
+            "label_x": 57,
+            "label_y": 22,
+            "target_x": 36,
+            "target_y": 23
+          }
+        ],
+        "visual_status": "Ellis County, Texas exact-species photo; licensed public domain and visually checked"
+      }
+    ],
+    "overlay_note": "© Angela (Pl@ntNet) CC BY-SA 3.0; © Juan Carlos Fonseca Mata CC BY-SA 4.0; Mason Brock public domain. These arrows are learner annotations and original photographers did not supply them.",
+    "study_only_intro": "Two authentic species are physically photographed; known private/CC BY-NC records retain restrictions. Old-fruit, individual bract/calyx and leaf-pair macro work remains open.",
+    "study_only_photo_links": [
+      {
+        "label": "Glandularia pumila · San Antonio Water System, habit and flowers",
+        "url": "https://www.gardenstylesanantonio.com/plants/dwarf-vervain/",
+        "look_for": "Small broad lobed leaf and low compact flowering heads, multiple authentic views.",
+        "reuse": "original-site link only; image rights not granted"
+      },
+      {
+        "label": "Glandularia pumila · Lady Bird Johnson Wildflower Center gallery",
+        "url": "https://www.wildflower.org/plants/result.php?id_plant=GLPU4",
+        "look_for": "Exact species photographs; select individual CC-cleared photo in subsequent pass.",
+        "reuse": "original-site link only"
+      },
+      {
+        "label": "Glandularia pumila · copyrighted glandular-hair and fan-lobe examples",
+        "url": "https://www.npsnm.org/wildflowersnm/Glandularia_pumila.html",
+        "look_for": "Clear labeled leaf and glandular hair photos; scientific teaching reference only.",
+        "reuse": "copyright explicitly prohibits reuse without permission"
+      },
+      {
+        "label": "Verbena halei · USGS original source",
+        "url": "https://warcapps.usgs.gov/PlantID/Species/Details/1254",
+        "look_for": "Deeply divided lower leaves and slender flower spikes vs Glandularia.",
+        "reuse": "USGS public-domain US government photo; compare in Verbena genus"
+      }
+    ],
+    "photographed_species": [
+      "glandularia-bipinnatifida",
+      "glandularia-pumila"
+    ],
+    "unphotographed_species": []
+  },
+  "final_photo_polish_queue": [
+    {
+      "priority": 1,
+      "taxon": "glandularia-pumila",
+      "role": "first real face",
+      "status": "PROVISIONAL_COMPLETE_REMOTE_LICENSED",
+      "source_leads": [
+        "LBJ 68 exact species gallery",
+        "San Antonio Water System 3 views",
+        "PlantNet 19 example images"
+      ],
+      "task": "Exact Pl@ntNet Angela CC BY-SA 3 first face now linked. Still need physical install, isolated leaf close-up, whole habit and compact mature-fruit image."
+    },
+    {
+      "priority": 2,
+      "taxa": [
+        "glandularia-bipinnatifida",
+        "glandularia-pumila"
+      ],
+      "role": "mature leaf matched pair",
+      "task": "Same-scale leaf closeups with unmistakable secondary lobes vs fan-like primaries and arrows."
+    },
+    {
+      "priority": 3,
+      "taxa": [
+        "glandularia-bipinnatifida",
+        "glandularia-pumila"
+      ],
+      "role": "fruiting head matched pair",
+      "task": "Elongating old fruit spike versus persistent compact axis; annotate visible persistent calyces."
+    }
+  ],
+  "source_notes": [
+    "UT Williamson County: Glandularia bipinnatifida and G. pumila detailed Gibson morphologies",
+    "Flora of North Central Texas Glandularia key: mature leaves, corolla/calices and nutlet size",
+    "Kew POWO accepted concepts; synonym Verbena pumila mapped to G. pumila"
+  ]
+}

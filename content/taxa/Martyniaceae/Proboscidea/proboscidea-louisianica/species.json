@@ -1,0 +1,37 @@
+{
+  "id": "proboscidea-louisianica",
+  "family": "Martyniaceae",
+  "genus": "Proboscidea",
+  "species": "louisianica",
+  "scientific_name": "Proboscidea louisianica",
+  "common_name": "Common devil's claw",
+  "look_here_first": "Find a coarse glandular-hairy plant with broadly rounded leaves and large pale tubular flowers; confirm the very long curved paired claws on mature dry capsules.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Proboscidea%20louisianica",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photo source credits a Mississippi observation; county-native range not assessed by this batch.",
+  "images": [
+    {
+      "file": "images/commons-proboscidea-louisianica-bryson.jpg",
+      "role": "Provisional recognition of plant and reproductive structures; fruit claw and sticky gland hairs need later targeted macro review.",
+      "creator": "Charles T. Bryson / USDA Agricultural Research Service / Bugwood.org",
+      "license": "CC BY 3.0 US",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Proboscidea_louisianica_4.jpg",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Attribution and CC license required"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

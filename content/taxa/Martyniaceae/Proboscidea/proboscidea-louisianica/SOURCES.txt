@@ -1,0 +1,9 @@
+Master Plant Pool preflight source rows: 931.
+Name source: https://powo.science.kew.org/results?q=Proboscidea%20louisianica
+Individual photo from Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Proboscidea_louisianica_4.jpg
+Image direct download: https://commons.wikimedia.org/wiki/Special:Redirect/file/Proboscidea%20louisianica%204.jpg
+Creator: Charles T. Bryson / USDA Agricultural Research Service / Bugwood.org
+License: CC BY 3.0 US
+Role: Provisional recognition of plant and reproductive structures; fruit claw and sticky gland hairs need later targeted macro review.
+Explicit caution: Photo source credits a Mississippi observation; county-native range not assessed by this batch.
+No BONAP county nativity decision. Provisional visual species identity; exact diagnostic organ verification pending.

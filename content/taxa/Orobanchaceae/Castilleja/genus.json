@@ -1,0 +1,231 @@
+{
+  "rank": "genus",
+  "family": "Orobanchaceae",
+  "name": "Castilleja",
+  "common_group": "Indian paintbrushes",
+  "project_scope": {
+    "selection_mode": "B054 same-genus comparison",
+    "species_ids": [
+      "castilleja-indivisa",
+      "castilleja-purpurea",
+      "castilleja-lindheimeri"
+    ],
+    "species_count": 3
+  },
+  "study_strategy": {
+    "priority": [
+      "annual vs perennial habit",
+      "colored bracts and calyx tips versus the true corolla",
+      "predominant bract/calyx color in the two perennial species",
+      "upper-leaf and bract lobing as supporting characters",
+      "pubescence and inflorescence texture",
+      "habitat/range context",
+      "hybrid/intergrade warning"
+    ],
+    "warning": "Do not key these by bract color or leaf lobing alone. Castilleja indivisa is the strongest first split because it is annual; C. purpurea and C. lindheimeri are perennial members of the C. purpurea complex and may intergrade where they meet. Current Kew/POWO treats C. lindheimeri as an accepted species rather than merely C. purpurea var. lindheimeri."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "C. indivisa — annual Texas paintbrush, usually compact with vivid scarlet-orange bracts.",
+      "C. purpurea — perennial prairie paintbrush with variable bract color; rocky calcareous prairie.",
+      "C. lindheimeri — perennial Edwards Plateau endemic; upper leaves commonly 2–3-lobed, orange-red bracts, glandular inflorescence."
+    ]
+  },
+  "curation_status": {
+    "version": "2.0-photo-first-paintbrush-comparison",
+    "last_reviewed": "2026-10-14",
+    "status": "genus lesson expanded and tied to seven installed project images; lindheimeri diagnostic close-up still pending",
+    "installed_photo_examples": 7,
+    "rights_recorded_public_or_nc_examples": 6,
+    "private_study_examples": 1,
+    "photo_binary_added_this_pass": false,
+    "range_decisions_changed": false,
+    "taxonomy_concept_changed": false,
+    "specialist_photo_gap": "rights-safe Castilleja lindheimeri bract/calyx/corolla close-up",
+    "annotation_status": "verified structure arrows remain final-polish work"
+  },
+  "shared_genus_pattern": {
+    "what_they_share": "Green photosynthetic root hemiparasites with alternate leaves, a terminal bracted flowering spike, strongly bilateral tubular flowers, and a dry many-seeded capsule. Much of the bright paintbrush display is produced by colored floral bracts and calyx tissue rather than broad petals.",
+    "look_here_first": "Photograph the WHOLE plant first so annual versus perennial habit is not lost. Then take a side-on close-up of one flowering spike. In that close-up identify the colored BRACT below each flower, the colored CALYX around the flower base, and the narrower projecting COROLLA. Only after those parts are separated should color, lobing, hairs, and proportions be used for species comparison.",
+    "memory_rule": "INDIVISA = annual Texas paintbrush. PURPUREA and LINDHEIMERI = perennial prairie-paintbrush complex; purple/pink-purple is typical purpurea and red/orange is typical lindheimeri, but intermediates and hybrids mean color is a guide rather than a guarantee."
+  },
+  "comparison_matrix": [
+    {
+      "character": "life cycle / plant base",
+      "Castilleja indivisa": "Annual. Usually a compact spring paintbrush without the persistent perennial base of the prairie-paintbrush complex.",
+      "Castilleja purpurea": "Perennial, often several-stemmed from the base.",
+      "Castilleja lindheimeri": "Perennial, often several-stemmed from the base.",
+      "weight": "BEST FIRST SPLIT"
+    },
+    {
+      "character": "typical colored bract + calyx expression",
+      "Castilleja indivisa": "Usually vivid scarlet to orange-red; color alone is not diagnostic.",
+      "Castilleja purpurea": "Typical plants are purple to pink-purple, but red, orange, peach, yellow, cream, and rarely white expressions occur.",
+      "Castilleja lindheimeri": "Typical plants are red, reddish-orange, or orange.",
+      "weight": "USEFUL WITH CAUTION"
+    },
+    {
+      "character": "upper leaves / bracts",
+      "Castilleja indivisa": "Upper foliage and bracts form the compact colored spike; use shape only with the annual habit and flower details.",
+      "Castilleja purpurea": "Upper leaves may become lobed; lobing is supporting rather than decisive.",
+      "Castilleja lindheimeri": "Upper leaves commonly divide into 2–3 narrow lobes and bracts are commonly 3-lobed; proximal leaves may remain entire.",
+      "weight": "SUPPORTING"
+    },
+    {
+      "character": "habitat context",
+      "Castilleja indivisa": "Common spring paintbrush of Texas prairies, roadsides, and open ground.",
+      "Castilleja purpurea": "Rocky/calcareous prairie, limestone roadbanks, hills, ledges, and related open habitats.",
+      "Castilleja lindheimeri": "Edwards Plateau and nearby rocky limestone grassland, roadbank, slope, ridge, and open juniper/oak settings.",
+      "weight": "CONTEXT ONLY"
+    },
+    {
+      "character": "hybrid / intergrade caution",
+      "Castilleja indivisa": "Can hybridize with members of the C. purpurea complex, including documented C. indivisa × C. lindheimeri material in Hays County.",
+      "Castilleja purpurea": "May intergrade/hybridize with C. lindheimeri near contact zones and with C. indivisa in some areas.",
+      "Castilleja lindheimeri": "May intergrade/hybridize with C. purpurea near contact zones and with C. indivisa in Hays County.",
+      "weight": "DO NOT FORCE AN ID"
+    }
+  ],
+  "field_key": [
+    "1. Plant annual → start with Castilleja indivisa. Confirm with the compact Texas-paintbrush habit and spike structure; do not rely on red color by itself.",
+    "2. Plant perennial → C. purpurea complex. Photograph the whole plant base plus a side-on flowering spike.",
+    "3. Perennial with predominantly purple or pink-purple bract/calyx apices → typical C. purpurea, after checking the rest of the character set.",
+    "4. Perennial with predominantly red to reddish-orange/orange bract/calyx apices → typical C. lindheimeri, after checking upper-leaf/bract lobing and regional context.",
+    "5. Mixed, intermediate, or contradictory characters → leave as Castilleja purpurea-complex / possible intergrade until a specimen-level review. Do not force a color-only species call."
+  ],
+  "overlap_and_cautions": [
+    "The showy colored structures are mostly floral bracts and calyx tissue; the true corolla is the narrower tubular flower projecting from them.",
+    "Bract color is useful in the C. purpurea complex but not absolute. C. purpurea can occur in colors other than purple, and hybrid/intergrade plants exist.",
+    "Leaf lobing is supporting evidence only. C. lindheimeri can have entire lower/proximal leaves, and lobing varies with position on the stem.",
+    "Do not uproot a paintbrush to prove hemiparasitism. Root haustoria are a biological family trait, not a field character worth damaging the plant to see.",
+    "A single nearby grass or forb in a photograph does not prove that exact individual is the host plant.",
+    "Older records labeled C. purpurea var. lindheimeri belong to the current C. lindheimeri learner concept only after explicit synonym reconciliation."
+  ],
+  "visual_comparison": {
+    "title": "Castilleja: separate the BRUSH from the actual FLOWER",
+    "subtitle": "Seven physical project images currently exist: three C. indivisa, three C. purpurea, and one private-study C. lindheimeri habitat frame. The first two species have useful bract/flower views; C. lindheimeri still lacks a rights-cleared diagnostic close-up.",
+    "teaching_order": "whole plant → annual/perennial → flowering-spike side view → bract/calyx/corolla → color + lobing → habitat → leave intermediates unresolved",
+    "installed_examples": [
+      {
+        "taxon_id": "castilleja-indivisa",
+        "scientific_name": "Castilleja indivisa",
+        "role": "whole annual flowering habit",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-indivisa/images/01-flowering-stems-habit.jpg",
+        "creator": "CameliaTWU",
+        "license": "CC BY-NC-SA",
+        "source_page": "https://www.inaturalist.org/photos/82571",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-indivisa",
+        "scientific_name": "Castilleja indivisa",
+        "role": "flowering spike showing colored bracts and projecting pale corolla",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-indivisa/images/02-flowering-spike-bracts-corolla.jpg",
+        "creator": "Judith Ellen Lopez",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/314503",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-indivisa",
+        "scientific_name": "Castilleja indivisa",
+        "role": "bract and flower close-up",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-indivisa/images/03-bract-flower-closeup.jpg",
+        "creator": "Roberto R. Calderón",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/2999074",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-purpurea",
+        "scientific_name": "Castilleja purpurea",
+        "role": "whole flowering plant with purple-pink expression",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-purpurea/images/01-purple-pink-flowering-habit.jpg",
+        "creator": "Clinton & Charles Robertson",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Castilleja_purpurea.jpg",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-purpurea",
+        "scientific_name": "Castilleja purpurea",
+        "role": "flowering-spike architecture",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-purpurea/images/02-flowering-spike-habit.jpg",
+        "creator": "Dr. Thomas G. Barnes / U.S. Fish and Wildlife Service",
+        "license": "Public Domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Prairie_paintbrush_plant_flowering_castilleja_purpurea.jpg",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-purpurea",
+        "scientific_name": "Castilleja purpurea",
+        "role": "close flowering spike with pink bracts and corolla context",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-purpurea/images/03-pink-bracts-corolla-closeup.jpg",
+        "creator": "mountainamoeba",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Pink_Paintbrush_(2823585709).jpg",
+        "status": "physically_installed_rights_recorded"
+      },
+      {
+        "taxon_id": "castilleja-lindheimeri",
+        "scientific_name": "Castilleja lindheimeri",
+        "role": "rocky Edwards Plateau habitat and whole-plant context only",
+        "path": "content/taxa/Orobanchaceae/Castilleja/castilleja-lindheimeri/images/castilleja-lindheimeri_habitat-source-label_00-35.jpg",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+        "status": "physically_installed_private_study_only_not_diagnostic_closeup"
+      }
+    ],
+    "unresolved_photo_gap": "Castilleja lindheimeri still needs a physically installed, rights-safe side-on flowering-spike close-up that clearly shows colored bract, calyx, projecting corolla, upper-leaf/bract lobing, and visible pubescence if present. Do not substitute an unverified web photo just to fill the slot."
+  },
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "Castilleja lindheimeri diagnostic spike close-up",
+      "purpose": "Rights-safe side view showing one colored bract, calyx, projecting corolla, upper leaf/bract lobing, and hairs where visible. This is the largest current visual gap."
+    },
+    {
+      "priority": 1,
+      "role": "matched three-species flowering-spike panel",
+      "purpose": "Same-angle, similar-scale side views for indivisa, purpurea, and lindheimeri so color is taught together with actual structure rather than as a standalone cue."
+    },
+    {
+      "priority": 2,
+      "role": "whole-plant base / life-cycle panel",
+      "purpose": "Teach annual indivisa versus perennial purpurea/lindheimeri without uprooting plants."
+    },
+    {
+      "priority": 2,
+      "role": "leaf series from lower to upper stem",
+      "purpose": "Show that lobing changes with stem position and prevent the false rule that every C. lindheimeri leaf must be lobed."
+    },
+    {
+      "priority": 2,
+      "role": "true flower anatomy macro",
+      "purpose": "Arrow the bract, calyx, corolla tube/beak, and stigma so learners stop calling every colored part a petal."
+    },
+    {
+      "priority": 3,
+      "role": "mature capsule and seeds",
+      "purpose": "Connect Castilleja back to the Orobanchaceae many-seeded capsule family character."
+    },
+    {
+      "priority": 3,
+      "role": "intergrade caution example",
+      "purpose": "When a rights-safe, confidently identified specimen is available, show why intermediate color/lobing should be left unresolved rather than forced."
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Castilleja lindheimeri",
+      "url": "https://powo.science.kew.org/results?q=Castilleja%20lindheimeri",
+      "use": "accepted-name status and synonym reconciliation for C. purpurea var. lindheimeri"
+    },
+    {
+      "source": "Nesom & Egger 2014 — Review of the Castilleja purpurea complex",
+      "url": "https://www.phytoneuron.net/2014Phytoneuron/15PhytoN-Castillejapurpurea.pdf",
+      "use": "species-level treatment of the C. purpurea complex, color patterns, habitat, and hybrid/intergrade cautions"
+    }
+  ]
+}
