@@ -1,0 +1,84 @@
+name: Transfer all existing assigned family source data and photos (private staging only)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/transfer_assigned_source.py'
+      - '.github/workflows/transfer-all-existing-source.yml'
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency:
+  group: full-original-source-private-transfer
+  cancel-in-progress: false
+jobs:
+  transfer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout transfer script on current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: code
+          persist-credentials: false
+      - name: Checkout family repository for private staging branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: staging
+          persist-credentials: true
+      - name: Clone authoritative hub and exact assigned family directories
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m py_compile code/scripts/transfer_assigned_source.py
+          mapfile -t family_paths < <(python3 - <<'PY'
+          import json
+          d=json.load(open('staging/config/collection.json'))
+          for f in d['family_assignments']:
+              print('content/taxa/'+f)
+          PY
+          )
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          git -C "$RUNNER_TEMP/hays-source" sparse-checkout set "${family_paths[@]}"
+          git -C "$RUNNER_TEMP/hays-source" checkout HEAD
+      - name: Create private staging branch without changing authoritative main
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          if git ls-remote --exit-code --heads origin staging/original-source-transfer >/dev/null 2>&1; then
+            git fetch origin staging/original-source-transfer
+            git switch -c staging/original-source-transfer --track origin/staging/original-source-transfer
+          else
+            git switch -c staging/original-source-transfer
+          fi
+      - name: Physically copy all existing species/card/credit text and quarantine original source photos
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 code/scripts/transfer_assigned_source.py "$RUNNER_TEMP/hays-source" staging
+          python3 staging/scripts/validate_collection.py
+      - name: Save exact source files and hashes on private staging branch; do not enable Pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa data/collection-index.json migration/original-source-transfer-manifest.json migration/original-source-transfer-summary.json migration/private-original-photo-holds
+          git diff --cached --check -- data/collection-index.json migration/original-source-transfer-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Preserve every assigned-family original source file in private migration staging"
+            git push origin HEAD:refs/heads/staging/original-source-transfer
+          fi
+      - name: Upload only source summary (no restricted images)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: original-source-file-transfer-verification
+          path: staging/migration/original-source-transfer-summary.json
+          retention-days: 30
+          if-no-files-found: warn
