@@ -1,9 +1,10 @@
-name: Publish existing Lamiales field-ID text learner (NO original photos, no new harvesting)
+name: Publish Lamiales existing lessons and source-approved photo galleries
 on:
   push:
     branches: [main]
     paths:
       - 'scripts/build_public_text_learner_from_verified_staging.py'
+      - 'site/data/reviewed-external-photo-manifest.json'
       - '.github/workflows/publish-rights-filtered-existing-text-learner.yml'
   workflow_dispatch:
 permissions:
@@ -33,7 +34,7 @@ jobs:
           set -euo pipefail
           PYTHONPYCACHEPREFIX="$RUNNER_TEMP/pycache" python3 -m py_compile website/scripts/build_public_text_learner_from_verified_staging.py
           python3 source/scripts/validate_collection.py
-      - name: Convert only the original 102 existing species' educational text
+      - name: Rebuild existing lessons, verify allowed gallery photos and preserve captions
         shell: bash
         run: |
           set -euo pipefail
@@ -57,7 +58,7 @@ jobs:
               x=json.loads(p.read_text())
               assert x["verified_photos"]==[] and x["photo_status"]=="NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW"
           assert len(json.loads((w/"site/data/collection-index.json").read_text())["entries"])==102
-          print("PASS 102 scientific teaching cards with ZERO source photo assets embedded")
+          print("PASS 102 existing teaching cards; public photo gallery is separately license-filtered and blob verified")
           PY
       - name: Commit existing-source cards in batches of 50 or fewer
         shell: bash
@@ -78,7 +79,7 @@ jobs:
           git add site/data/collection-index.json site/data/collection-meta.json site/PHOTO_PUBLICATION_SCOPE.md site/index.html index.html site-build-text-only-report.json
           git diff --cached --check
           if ! git diff --cached --quiet; then
-            git commit -m "Enable public Lamiales learner entrypoint and validated 102-plant searchable index, photos excluded"
+            git commit -m "Refresh Lamiales site lesson index and source-licensed photo manifest report"
           fi
           git fetch origin main
           git rebase origin/main
@@ -87,7 +88,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: lamiales-source-existing-text-102-readonly-photo-safe-publication
+          name: lamiales-existing-lessons-approved-photo-gallery-publication
           path: website/site-build-text-only-report.json
           retention-days: 30
           if-no-files-found: warn
