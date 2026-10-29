@@ -1,0 +1,800 @@
+{
+  "status": "PASS_RESTORED_ONLY_EXISTING_SOURCE_PHOTOS",
+  "source_photo_records": 260,
+  "new_verified_source_copies": 61,
+  "already_released_source_records": 41,
+  "all_approved_gallery_references": 102,
+  "all_approved_github_hosted_images": 100,
+  "all_photographed_species": 55,
+  "held_source_records": 158,
+  "held_by_reason": {
+    "license_not_strict_public_or_version_undocumented": 123,
+    "remote_or_missing_local_image_path": 23,
+    "photo_specific_public_source_unverified": 7,
+    "publication_permission_unverified": 5
+  },
+  "held_by_species": {
+    "dicliptera-brachiata": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "dyschoriste-linearis": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "hygrophila-costata": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "ruellia-ciliatiflora": [
+      {
+        "index": 0,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "ruellia-drummondiana": [
+      {
+        "index": 1,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "ruellia-metziae": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "bignonia-capreolata": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "catalpa-bignonioides": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "tecoma-stans-var-angustata": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "callicarpa-americana": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "hedeoma-acinoides": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "hedeoma-drummondii": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "hedeoma-nana": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "hedeoma-reverchonii": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "hedeoma-serpyllifolia": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "marrubium-vulgare": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "monarda-fistulosa": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "perilla-frutescens": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "publication_permission_unverified"
+      }
+    ],
+    "physostegia-angustifolia": [
+      {
+        "index": 1,
+        "reason": "publication_permission_unverified"
+      }
+    ],
+    "physostegia-correllii": [
+      {
+        "index": 0,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "physostegia-virginiana": [
+      {
+        "index": 1,
+        "reason": "publication_permission_unverified"
+      }
+    ],
+    "salvia-azurea": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "salvia-ballotiflora": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "salvia-engelmannii": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "salvia-pentstemonoides": [
+      {
+        "index": 0,
+        "reason": "photo_specific_public_source_unverified"
+      },
+      {
+        "index": 1,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "salvia-texana": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "scutellaria-drummondii": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "scutellaria-ovata": [
+      {
+        "index": 1,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "scutellaria-wrightii": [
+      {
+        "index": 0,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 4,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 5,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "stachys-agraria": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "vitex-agnus-castus": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "warnockia-scutellarioides": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "forestiera-angustifolia": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "forestiera-pubescens": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "fraxinus-albicans": [
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 4,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "fraxinus-berlandieriana": [
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "fraxinus-greggii": [
+      {
+        "index": 0,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "fraxinus-pennsylvanica": [
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "remote_or_missing_local_image_path"
+      }
+    ],
+    "ligustrum-quihoui": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "ligustrum-sinense": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "menodora-heterophylla": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "menodora-longiflora": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "agalinis-edwardsiana": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "buchnera-americana": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "castilleja-indivisa": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "castilleja-lindheimeri": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "seymeria-bipinnatisecta": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "paulownia-tomentosa": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "bacopa-monnieri": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "leucospora-multifida": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "linaria-texana": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "maurandella-antirrhiniflora": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "publication_permission_unverified"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "mecardonia-procumbens": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "penstemon-baccharifolius": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "penstemon-cobaea": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "penstemon-tenuis": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "penstemon-triflorus": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "plantago-helleri": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "plantago-rhodosperma": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "veronica-anagallis-aquatica": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "buddleja-racemosa": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "aloysia-gratissima": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "aloysia-virgata": [
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "glandularia-bipinnatifida": [
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 4,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 5,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 6,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 7,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 8,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 9,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "glandularia-pumila": [
+      {
+        "index": 0,
+        "reason": "photo_specific_public_source_unverified"
+      },
+      {
+        "index": 1,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "lantana-urticoides": [
+      {
+        "index": 0,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "lantana-x-strigocamara": [
+      {
+        "index": 0,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "phyla-nodiflora": [
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "verbena-brasiliensis": [
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "verbena-canescens": [
+      {
+        "index": 0,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 4,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "verbena-halei": [
+      {
+        "index": 0,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 4,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 5,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "verbena-scabra": [
+      {
+        "index": 0,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 3,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      }
+    ],
+    "verbena-xutha": [
+      {
+        "index": 1,
+        "reason": "remote_or_missing_local_image_path"
+      },
+      {
+        "index": 2,
+        "reason": "license_not_strict_public_or_version_undocumented"
+      },
+      {
+        "index": 3,
+        "reason": "publication_permission_unverified"
+      }
+    ]
+  },
+  "new_photos_collected": 0,
+  "source_branch_modified": false,
+  "original_hub_modified": false,
+  "source_image_bytes_copied": 14560818
+}

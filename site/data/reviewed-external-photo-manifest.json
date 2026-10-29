@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "status": "EXISTING_RIGHTS_CLEARED_GITHUB_MEDIA_RESTORATION_IN_PROGRESS",
-  "note": "Strict site media allowlist; only photo-specific public/author-granted rights are used. Source SHA-verified files stay in the family site's own media folders; historical rights-held assets remain excluded.",
+  "status": "EXISTING_SOURCE_CC_GALLERY_RESTORATION_PASS",
+  "note": "All entries are pre-existing license-screened source photographs. Originals are preserved; source-specific held records remain in the transfer report.",
   "species": {
     "anisacanthus-quadrifidus-var-wrightii": [
       {
@@ -235,6 +235,21 @@
         "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
         "rights_note": "",
         "original_source_record": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/image-sources.csv"
+      },
+      {
+        "src": "media/phyla-nodiflora/source-1c36d34cffdf.jpg",
+        "creator": "Dinesh Valke",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Phyla_nodiflora_(L.)_Greene_(48918376436).jpg",
+        "role": "Whole plant / mat-forming habit",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "1c36d34cffdfecbb5cc33d55168e46af42802640",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/species.json"
       }
     ],
     "campsis-radicans": [
@@ -647,6 +662,984 @@
         "rights_note": "",
         "source_blob_sha": "ddaa0ff7757a52aa7d37bc67fadd66b6d46a2af6",
         "original_source_record": "content/taxa/Lamiaceae/Salvia/salvia-ballotiflora/image-sources.csv"
+      }
+    ],
+    "justicia-americana": [
+      {
+        "src": "media/justicia-americana/source-716eee975127.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Justicia_americana_647228027.jpg",
+        "role": "American water willow shoots; modern project accepted Dianthera americana = pictured Justicia americana synonym, iNaturalist photo 647228027.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "716eee975127713db0dd7d659b9e141a21919546",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Acanthaceae/Dianthera/justicia-americana/species.json"
+      },
+      {
+        "src": "media/justicia-americana/source-5842d0e6daaf.jpg",
+        "creator": "Judy Gallagher",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Water_Willow_-_Justicia_americana,_Leesylvania_State_Park,_Woodbridge,_Virginia.jpg",
+        "role": "flower macro",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "5842d0e6daaf59b271ff9c07e74366e2ea903fa6",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Acanthaceae/Dianthera/justicia-americana/species.json"
+      }
+    ],
+    "dicliptera-brachiata": [
+      {
+        "src": "media/dicliptera-brachiata/source-0c4902179db2.jpg",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Dicliptera_brachiata.jpg",
+        "role": "Branched foldwing habit and flowers, useful recognisable face; leaf node/bract macros still needed.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "0c4902179db21a2336d3ec496814bc2385a43366",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Acanthaceae/Dicliptera/dicliptera-brachiata/species.json"
+      }
+    ],
+    "justicia-pilosella": [
+      {
+        "src": "media/justicia-pilosella/source-f2b075006fc4.jpg",
+        "creator": "Casey Cowan, iNaturalist user seekingtrees",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Justicia_pilosella.jpg",
+        "role": "Gregg's tube-tongue habit and flower from Bexar County, Texas; node and fruit macros remain later polish.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "f2b075006fc4cc89e3c018cd3610dcbb02ccb9d8",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Acanthaceae/Justicia/justicia-pilosella/species.json"
+      },
+      {
+        "src": "media/justicia-pilosella/source-2e7ab4355f34.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/491856212",
+        "role": "Small lilac tube-tongue flower with opposite leaves and low branched habit; corolla shape observable, internal reproductive details not resolved",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "2e7ab4355f3417d64c0b6a6c7b16bc8d67f33a62",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Acanthaceae/Justicia/justicia-pilosella/species.json"
+      },
+      {
+        "src": "media/justicia-pilosella/source-67ea5ccf7062.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/647336904",
+        "role": "Side view of pale-lilac flower with adjacent oval leaves and branching habit; useful for flower versus leaf comparisons",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "67ea5ccf706216468cc29f79274f5f6f8a661ebf",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Acanthaceae/Justicia/justicia-pilosella/species.json"
+      }
+    ],
+    "bignonia-capreolata": [
+      {
+        "src": "media/bignonia-capreolata/source-c3010f010805.jpg",
+        "creator": "Susan Adams",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bignonia_capreolata.jpg",
+        "role": "Climbing flowering habit recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "c3010f0108054cf5984ee522b93910868bb07bef",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Bignoniaceae/Bignonia/bignonia-capreolata/species.json"
+      }
+    ],
+    "catalpa-speciosa": [
+      {
+        "src": "media/catalpa-speciosa/source-68cac981da9a.jpg",
+        "creator": "Line1 (Liné1)",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Catalpa_speciosa_02_by_Line1.jpg",
+        "role": "flowers and cordate leaves",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "68cac981da9a42c3958039304f648e9177e1707b",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Bignoniaceae/Catalpa/catalpa-speciosa/species.json"
+      }
+    ],
+    "chilopsis-linearis": [
+      {
+        "src": "media/chilopsis-linearis/source-b39a45b3aef8.jpg",
+        "creator": "Almapayokels (Pam Kelso)",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Chilopsis_Linearis.jpg",
+        "role": "Small-tree / shrub habit",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "b39a45b3aef8e4b514803a6fca2fb8a2b529fb73",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Bignoniaceae/Chilopsis/chilopsis-linearis/species.json"
+      },
+      {
+        "src": "media/chilopsis-linearis/source-ea7782534ed2.jpg",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Chilopsis_linearis.jpg",
+        "role": "Trumpet flowers and flowering branch architecture",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "ea7782534ed22cbd9167ade4bad1c176ab2d85ae",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Bignoniaceae/Chilopsis/chilopsis-linearis/species.json"
+      },
+      {
+        "src": "media/chilopsis-linearis/source-42cf9f55de06.jpg",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Chilopsis_linearis_foliage.jpg",
+        "role": "Narrow linear-lanceolate foliage",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "42cf9f55de063c147de26e326d5e3064c277db45",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Bignoniaceae/Chilopsis/chilopsis-linearis/species.json"
+      }
+    ],
+    "tecoma-stans": [
+      {
+        "src": "media/tecoma-stans/source-a4b5390ae406.jpg",
+        "creator": "Incolam",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Tecoma_stans.jpg",
+        "role": "Provisional flowering yellowbells recognition; pod structure and compound leaflets require closer views.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "a4b5390ae4066f396854503326e3b9000b15e743",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Bignoniaceae/Tecoma/tecoma-stans/species.json"
+      }
+    ],
+    "lamium-amplexicaule": [
+      {
+        "src": "media/lamium-amplexicaule/source-1c8b4ffae9c5.jpg",
+        "creator": "Harry Rose",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_plant5_(14648225140).jpg",
+        "role": "Habit with upper flowering nodes and lower stalked leaves",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "1c8b4ffae9c5e3a9d693df841986755a78766b4d",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Lamium/lamium-amplexicaule/species.json"
+      },
+      {
+        "src": "media/lamium-amplexicaule/source-980782c212b7.jpg",
+        "creator": "Harry Rose",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_flower7_(14648472529).jpg",
+        "role": "Pink tubular bilabiate corollas in a flower whorl",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "980782c212b7352f72fa88792b22e6558966e98f",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Lamium/lamium-amplexicaule/species.json"
+      }
+    ],
+    "lamium-purpureum": [
+      {
+        "src": "media/lamium-purpureum/source-d0d9389cae6c.jpg",
+        "creator": "Arthur Badel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_plant.jpg",
+        "role": "Flowering purple deadnettle: pointed purplish crowded top leaves, greener lower foliage and lilac flowers; source in France; petiole close-up not resolved.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "d0d9389cae6cba29b033dc35e5d554ff9c4f2b5d",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Lamium/lamium-purpureum/species.json"
+      },
+      {
+        "src": "media/lamium-purpureum/source-738eddeaee61.jpg",
+        "creator": "Sarah Stierch",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_-_March_2025_-_Sarah_Stierch.jpg",
+        "role": "Independently sourced exact purple deadnettle plant from Sonoma, California; supplemental field habit, no Texas provenance.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "738eddeaee615e5ecd722ecc21cf25b10f4182e0",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Lamium/lamium-purpureum/species.json"
+      },
+      {
+        "src": "media/lamium-purpureum/source-153d62c78ce3.jpg",
+        "creator": "Alexander Abair",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_377747368.jpg",
+        "role": "Flowering L. purpureum original France source; image depicts purple corolla with calyx, site-verified taxon source.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "153d62c78ce389270502f7151142ec45777baf9f",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Lamium/lamium-purpureum/species.json"
+      },
+      {
+        "src": "media/lamium-purpureum/source-0bdbff4d1d5d.jpg",
+        "creator": "MurielBendel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_flowers.jpg",
+        "role": "Additional flower/branch macro of L. purpureum from Switzerland, distinct source; flower parts pending arrow review.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "0bdbff4d1d5d38912de5deec2183f964794c4fcb",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Lamium/lamium-purpureum/species.json"
+      }
+    ],
+    "physostegia-angustifolia": [
+      {
+        "src": "media/physostegia-angustifolia/source-f2b987826a8e.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Physostegia_angustifolia_142804673.jpg",
+        "role": "Close side view of a flower, show bilabiate white corolla and calyx/flower arrangement; habit and leaf/stem comparisons still require later enrichment.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "f2b987826a8ea19178251a83973b85558107ba78",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Physostegia/physostegia-angustifolia/species.json"
+      }
+    ],
+    "physostegia-virginiana": [
+      {
+        "src": "media/physostegia-virginiana/source-bcdaecf11ecc.jpg",
+        "creator": "Biotaman",
+        "license": "Public Domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Physostegia_virginiana.jpg",
+        "role": "Flowering habit / recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "bcdaecf11ecc2db934a1e6225247704bd60457f1",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Physostegia/physostegia-virginiana/species.json"
+      }
+    ],
+    "salvia-engelmannii": [
+      {
+        "src": "media/salvia-engelmannii/source-a8197f195713.jpg",
+        "creator": "Craig Hensley",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_engelmannii_iNat-43145045.jpg",
+        "role": "Exact wild sage with flowers and narrow leaves",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "a8197f195713e9b97384e90af04982ae0d65658e",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Salvia/salvia-engelmannii/species.json"
+      },
+      {
+        "src": "media/salvia-engelmannii/source-5752c76b34f8.jpg",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_engelmannii.jpg",
+        "role": "Wild regional flowering plant and stem leaf context, not microscopic glands",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "5752c76b34f87ec9ac7c5cb321b01927bff57156",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Salvia/salvia-engelmannii/species.json"
+      }
+    ],
+    "scutellaria-ovata": [
+      {
+        "src": "media/scutellaria-ovata/source-b8ea4a12409b.jpg",
+        "creator": "Mason Brock (Masebrock)",
+        "license": "Public Domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Scutellaria_ovata.jpg",
+        "role": "Flowering plant / recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "b8ea4a12409baa810b34e9c9a845fe0f5fc48544",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Scutellaria/scutellaria-ovata/species.json"
+      }
+    ],
+    "teucrium-canadense": [
+      {
+        "src": "media/teucrium-canadense/source-f44ed5852b01.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Teucrium_canadense_inflorescence.jpg",
+        "role": "Provisional terminal floral cluster; stem edges and full corolla lobes await additional photos.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "f44ed5852b01874ee93dc0e3675cae9f4a99c5e9",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Teucrium/teucrium-canadense/species.json"
+      }
+    ],
+    "teucrium-cubense": [
+      {
+        "src": "media/teucrium-cubense/source-9cd4c7ff50e6.jpg",
+        "creator": "Andrés González",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Teucrium_cubense-_Colonia%2C_Nueva_Helvecia%2C_Campo_graminoso_entre_el_R%C3%ADo_Rosario_y_camino_vecinal_2.jpg",
+        "role": "Provisional species recognition for flowers and habit; source identified subspecies cubense, Central Texas concept needs review",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "9cd4c7ff50e687a5a5c1aade6dd0fe1316bc87ce",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lamiaceae/Teucrium/teucrium-cubense/species.json"
+      }
+    ],
+    "utricularia-gibba": [
+      {
+        "src": "media/utricularia-gibba/source-32cda936778b.jpg",
+        "creator": "Alex Popovkin",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Utricularia_gibba_flower_01_(3x4).jpg",
+        "role": "Provisional yellow flower macro; underwater carnivorous bladder traps not shown.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "32cda936778bdb6c25d40bc0445cae262c319327",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Lentibulariaceae/Utricularia/utricularia-gibba/species.json"
+      }
+    ],
+    "proboscidea-louisianica": [
+      {
+        "src": "media/proboscidea-louisianica/source-efaaf4a86085.jpg",
+        "creator": "Charles T. Bryson / USDA Agricultural Research Service / Bugwood.org",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Proboscidea_louisianica_4.jpg",
+        "role": "Provisional recognition of plant and reproductive structures; fruit claw and sticky gland hairs need later targeted macro review.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "efaaf4a8608597959eb8a4514f9ab52984fcee8a",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Martyniaceae/Proboscidea/proboscidea-louisianica/species.json"
+      }
+    ],
+    "forestiera-angustifolia": [
+      {
+        "src": "media/forestiera-angustifolia/source-d078a05d4405.jpg",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Guaiacum_angustifolium_1.jpg",
+        "role": "Shrub foliage / narrow-leaved habit recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "d078a05d4405493d9cbb5cce4e45c4ed0365ff49",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Oleaceae/Forestiera/forestiera-angustifolia/species.json"
+      }
+    ],
+    "fraxinus-albicans": [
+      {
+        "src": "media/fraxinus-albicans/source-9e77d4fb8afe.jpg",
+        "creator": "Mason Brock",
+        "license": "Public Domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fraxinus_albicans.jpg",
+        "role": "Whole tree / foliage habit recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "9e77d4fb8afebd7bea7ca6869cd49f999dc6a1bb",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Oleaceae/Fraxinus/fraxinus-albicans/species.json"
+      }
+    ],
+    "fraxinus-berlandieriana": [
+      {
+        "src": "media/fraxinus-berlandieriana/source-1877a3c03d3f.jpg",
+        "creator": "Pere López Brosa (pere prlpz)",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Freixe_americ%C3%A0_de_la_pla%C3%A7a_Gal%C2%B7la_Plac%C3%ADdia_P1510486.jpg",
+        "role": "Entire living Fraxinus berlandieriana tree at Barcelona; species identification follows Commons record, later diagnostic leaf/bud images necessary.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "1877a3c03d3ff101da8ffdd7c04262093ca8aa57",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Oleaceae/Fraxinus/fraxinus-berlandieriana/species.json"
+      }
+    ],
+    "fraxinus-pennsylvanica": [
+      {
+        "src": "media/fraxinus-pennsylvanica/source-acf3e30a05ef.jpg",
+        "creator": "Steven Katovich, USDA Forest Service",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fraxinus_pennsylvanica_tree.jpg",
+        "role": "Whole tree / recognizable habit",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "acf3e30a05efca65db83ffba17a66c3a213fa5ea",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Oleaceae/Fraxinus/fraxinus-pennsylvanica/species.json"
+      }
+    ],
+    "ligustrum-lucidum": [
+      {
+        "src": "media/ligustrum-lucidum/source-2dd81067786e.jpg",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_020719-0032_Ligustrum_lucidum.jpg",
+        "role": "Pressed exact-species leaves and fruit for recognition; provisional nonlocal specimen",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "2dd81067786ee7aa25191884d859e6fde27d7bb4",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Oleaceae/Ligustrum/ligustrum-lucidum/species.json"
+      },
+      {
+        "src": "media/ligustrum-lucidum/source-e17704803079.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/566051502",
+        "role": "NON-NATIVE glossy privet: branched clusters of small pale flowers, glossy opposite foliage",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "e1770480307906a29b0a2cbeb8cd117d3a1bad49",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Oleaceae/Ligustrum/ligustrum-lucidum/species.json"
+      },
+      {
+        "src": "media/ligustrum-lucidum/source-9b7f9bf9abaf.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/646772667",
+        "role": "NON-NATIVE glossy privet: dense evergreen branches with opposite glossy simple leaves; use for native look-alike comparison",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "9b7f9bf9abaf114759050ad9472b3bb0ec9e9020",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Oleaceae/Ligustrum/ligustrum-lucidum/species.json"
+      }
+    ],
+    "ligustrum-quihoui": [
+      {
+        "src": "media/ligustrum-quihoui/source-57c739e3b767.jpg",
+        "creator": "Daderot",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ligustrum_quihoui_-_Quarryhill_Botanical_Garden_-_DSC03364.JPG",
+        "role": "habit",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "57c739e3b76794fcda72dc4d70157d0368f6df5a",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Oleaceae/Ligustrum/ligustrum-quihoui/species.json"
+      }
+    ],
+    "agalinis-edwardsiana": [
+      {
+        "src": "media/agalinis-edwardsiana/source-fe67b604c523.jpg",
+        "creator": "Michelle Wong",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Agalinis_edwardsiana_iNat-96395856.2.jpg",
+        "role": "Flowering branch",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "fe67b604c523486ae46f7acfedf60133d0f5e077",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Orobanchaceae/Agalinis/agalinis-edwardsiana/species.json"
+      }
+    ],
+    "agalinis-heterophylla": [
+      {
+        "src": "media/agalinis-heterophylla/source-2fc34fee58aa.jpg",
+        "creator": "Donna",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Agalinis_heterophylla.jpg",
+        "role": "Flowering habit",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "2fc34fee58aa5a51d370289c7dabc2d8c4b41f79",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Orobanchaceae/Agalinis/agalinis-heterophylla/species.json"
+      },
+      {
+        "src": "media/agalinis-heterophylla/source-46f0f1d3b43b.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/571576229",
+        "role": "Agalinis heterophylla: several pink tubular flowers on branching slender stems, with grassland habitat context; stamens not resolved",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "46f0f1d3b43b863713f61b7ae75efed2ed73bea7",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Orobanchaceae/Agalinis/agalinis-heterophylla/species.json"
+      },
+      {
+        "src": "media/agalinis-heterophylla/source-a36066c5b93e.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/573573750",
+        "role": "Agalinis heterophylla: upright fine branching stems with numerous pink buds and narrow linear leaves in tall-grass habitat",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "a36066c5b93ea6501d82970237e4cd5a20e7b850",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Orobanchaceae/Agalinis/agalinis-heterophylla/species.json"
+      }
+    ],
+    "castilleja-purpurea": [
+      {
+        "src": "media/castilleja-purpurea/source-4305bb330641.jpg",
+        "creator": "Clinton & Charles Robertson",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Castilleja_purpurea.jpg",
+        "role": "Whole flowering plant and purple-pink bract expression",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "4305bb33064159b99bf8e2645e0b2d9144f3f472",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Orobanchaceae/Castilleja/castilleja-purpurea/species.json"
+      },
+      {
+        "src": "media/castilleja-purpurea/source-e708089d2960.jpg",
+        "creator": "Dr. Thomas G. Barnes / U.S. Fish and Wildlife Service",
+        "license": "Public Domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Prairie_paintbrush_plant_flowering_castilleja_purpurea.jpg",
+        "role": "Flowering habit and bract-spike architecture",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "e708089d2960d02b8eb215eecbedf4e8de895085",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Orobanchaceae/Castilleja/castilleja-purpurea/species.json"
+      },
+      {
+        "src": "media/castilleja-purpurea/source-02f992ce64f5.jpg",
+        "creator": "mountainamoeba",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Pink_Paintbrush_(2823585709).jpg",
+        "role": "Close flowering spike showing pink bracts and corolla context",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "02f992ce64f59e7676a7e5d7fbe06a9e3dddf9a2",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Orobanchaceae/Castilleja/castilleja-purpurea/species.json"
+      }
+    ],
+    "penstemon-tenuis": [
+      {
+        "src": "media/penstemon-tenuis/source-a07846920276.jpg",
+        "creator": "Laura Clark",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Penstemon_tenuis_-_Laura_Clark_01.jpg",
+        "role": "Purple tubular bilabiate flowers on stalks with calyx details; cropped by Commons uploader.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "a07846920276fd81c15e0bb9940213525a7edcb4",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Plantaginaceae/Penstemon/penstemon-tenuis/species.json"
+      }
+    ],
+    "penstemon-triflorus": [
+      {
+        "src": "media/penstemon-triflorus/source-0e8b564bdd95.jpg",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Penstemon_triflorus_flowers.jpg",
+        "role": "Flowers / recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "0e8b564bdd95d3ff860fc9e8a74441ac31c72948",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Plantaginaceae/Penstemon/penstemon-triflorus/species.json"
+      }
+    ],
+    "veronica-persica": [
+      {
+        "src": "media/veronica-persica/source-25bc8c18f758.jpg",
+        "creator": "Trachemys",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Veronica_persica_(01).jpg",
+        "role": "Provisional small four-lobed blue speedwell flower and leaves recognition",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "25bc8c18f7583ddb20b4c485e0e09a5435b5c6d4",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Plantaginaceae/Veronica/veronica-persica/species.json"
+      }
+    ],
+    "veronica-polita": [
+      {
+        "src": "media/veronica-polita/source-0ae56e7fc874.jpg",
+        "creator": "Krzysztof Ziarnek (Kenraiz)",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Veronica_polita_kz10.jpg",
+        "role": "Provisional close flowering plant view; mature capsule and hairs still need close-ups",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "0ae56e7fc874687290d96047d737b6652f7d55ab",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Plantaginaceae/Veronica/veronica-polita/species.json"
+      }
+    ],
+    "leucophyllum-frutescens": [
+      {
+        "src": "media/leucophyllum-frutescens/source-ca5a00e07993.jpg",
+        "creator": "cricketsblog (Melissa McMasters)",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cenizo.jpg",
+        "role": "Texas field location: flowering branch with gray leaves and solitary axillary pink flowers; near branch sharper than distant top background",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "ca5a00e079936dcad881f617624a9aed28b699f7",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Scrophulariaceae/Leucophyllum/leucophyllum-frutescens/species.json"
+      },
+      {
+        "src": "media/leucophyllum-frutescens/source-185fa5a183c2.jpg",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_071227-0920_Leucophyllum_frutescens.jpg",
+        "role": "Key leaf recognition: small gray densely hairy obovate/elliptic leaves clustered on woody twig",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "185fa5a183c210c47ae86cd2d2ed87e0715cc9ac",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Scrophulariaceae/Leucophyllum/leucophyllum-frutescens/species.json"
+      },
+      {
+        "src": "media/leucophyllum-frutescens/source-350082261a4c.jpg",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr-090806-3883-Leucophyllum_frutescens-flowers_and_leaves-Wailuku-Maui_(24340932104).jpg",
+        "role": "Flowering shrub overview showing multiple pink flowers and gray foliage, not an individual flower macro",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "350082261a4c16675ef200b39a5e10004c09f53f",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Scrophulariaceae/Leucophyllum/leucophyllum-frutescens/species.json"
+      },
+      {
+        "src": "media/leucophyllum-frutescens/source-af875a5b0b0c.jpg",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr-090806-3882-Leucophyllum_frutescens-flowering_habit-Wailuku-Maui_(24878196321).jpg",
+        "role": "Whole shrub branch and flowering habit, visual recognition only, likely cultivated",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "af875a5b0b0c3bff325e70d1548ee250802e2f9f",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Scrophulariaceae/Leucophyllum/leucophyllum-frutescens/species.json"
+      },
+      {
+        "src": "media/leucophyllum-frutescens/source-144da96ca334.jpg",
+        "creator": "Forest and Kim Starr",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_041028-0233_Leucophyllum_frutescens.jpg",
+        "role": "flower and fruit, closeup",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "144da96ca3345e8f1957781ebc4e8fcd94d4f430",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Scrophulariaceae/Leucophyllum/leucophyllum-frutescens/species.json"
+      }
+    ],
+    "verbascum-thapsus": [
+      {
+        "src": "media/verbascum-thapsus/source-0598bc64e9fd.jpg",
+        "creator": "Wisi_eu",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbascumthapsus.jpg",
+        "role": "Provisional flower-spike close-up; fuzzy basal rosette/leaf feel needs other views.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "0598bc64e9fd1b9a9299000fe15c9a81c961729d",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Scrophulariaceae/Verbascum/verbascum-thapsus/species.json"
+      }
+    ],
+    "aloysia-gratissima": [
+      {
+        "src": "media/aloysia-gratissima/source-441a7ca8047b.jpg",
+        "creator": "Dick Culbert",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Aloysia_gratissima_(8730120650).jpg",
+        "role": "Dense flowering raceme",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "441a7ca8047b9b2f920aa13f390045e572157753",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Verbenaceae/Aloysia/aloysia-gratissima/species.json"
+      }
+    ],
+    "aloysia-virgata": [
+      {
+        "src": "media/aloysia-virgata/source-f0d634b20982.jpg",
+        "creator": "cultivar413",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:190908_173_Chicago_Botanic_Gdn_-_Regenstein_Center,_Aloysia_virgata_Sweet_Almond_Verbena_(48861567431).jpg",
+        "role": "Flowering racemes and serrated leaves with individually visible flowers",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "f0d634b209820b4f163e0a5fdb997b6144665065",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Verbenaceae/Aloysia/aloysia-virgata/species.json"
+      }
+    ],
+    "glandularia-bipinnatifida": [
+      {
+        "src": "media/glandularia-bipinnatifida/source-1b5b5c8c56fc.jpg",
+        "creator": "Mason Brock",
+        "license": "Public Domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida.jpg",
+        "role": "Recognize it — Texas wild plant photographed in dry rocky Ellis County prairie; show general clustered purple flowers and coarse habitat context. Only label structures actually visible.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "1b5b5c8c56fca2046fbdd7e474615e4cc128cd37",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/species.json"
+      }
+    ],
+    "lantana-camara": [
+      {
+        "src": "media/lantana-camara/source-965b8d3893fa.jpg",
+        "creator": "Dinkum",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lantana_camara.JPG",
+        "role": "Provisional visible flower clusters and foliage; flower color is not sufficient to diagnose the broad Lantana camara complex.",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "965b8d3893fa2e928f5793f9c7a40ab6758f9b6e",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Verbenaceae/Lantana/lantana-camara/species.json"
+      }
+    ],
+    "lantana-urticoides": [
+      {
+        "src": "media/lantana-urticoides/source-a602d0873691.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/491846814",
+        "role": "Multiple rounded yellow-orange-to-red flower clusters on a branching lantana in habitat",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "a602d08736915c2d86b1a9f1faf0eee9b8dd409b",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Verbenaceae/Lantana/lantana-urticoides/species.json"
+      },
+      {
+        "src": "media/lantana-urticoides/source-83e79c675380.jpg",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/597186424",
+        "role": "Compact flowering stem with opposite serrated leaves and mixed-color flower clusters",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "83e79c675380d7ce6112f804bef6fcd7df0755ce",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Verbenaceae/Lantana/lantana-urticoides/species.json"
+      }
+    ],
+    "verbena-brasiliensis": [
+      {
+        "src": "media/verbena-brasiliensis/source-c57e3bc7d394.jpg",
+        "creator": "NOZO",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_brasiliensis.jpg",
+        "role": "Flowering habit / inflorescence recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "c57e3bc7d3942c315157730ce476adf8cbacb16c",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Verbenaceae/Verbena/verbena-brasiliensis/species.json"
+      }
+    ],
+    "verbena-xutha": [
+      {
+        "src": "media/verbena-xutha/source-96af42b55dfd.jpg",
+        "creator": "Wendy McCrady",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbena_xutha.jpg",
+        "role": "Flowering habit / recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "96af42b55dfd17a9b4f3c74bf6a6a75860084b83",
+        "modified": "Exact original source bytes, not altered",
+        "rights_note": "Existing historically sourced public-license photograph",
+        "original_source_record": "content/taxa/Verbenaceae/Verbena/verbena-xutha/species.json"
       }
     ]
   }
