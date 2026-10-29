@@ -1,0 +1,38 @@
+{
+  "id": "ligustrum-quihoui",
+  "family": "Oleaceae",
+  "genus": "Ligustrum",
+  "scientific_name": "Ligustrum quihoui",
+  "common_name": "Quihoui privet",
+  "look_here_first": "Find opposite, narrow elliptic to oblanceolate leaves on nearly horizontal, spreading branchlets. Check that blades taper strongly toward very short petioles (often 2.5 mm or less), with mostly hairless leaf blades. Flowers and fruits are nearly stalkless (sessile to subsessile), unlike the distinctly pedicelled clusters of Chinese privet.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Many-stemmed semi-evergreen to winter-deciduous shrub, locally about 3.5 m tall; branchlets spread almost horizontally, giving two-ranked foliage."
+    },
+    {
+      "label": "Stems",
+      "text": "Young stems often somewhat four-angled, becoming round; densely short-hairy/tomentose on young axes."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite to subopposite, simple, entire; blade elliptic, lanceolate or oblanceolate, about 10–36 × 4–11 mm, narrow and strongly tapering at base, apex blunt to rounded, blade essentially glabrous; short channelled petiole to about 2.5 mm."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small white four-lobed corollas with two stamens in slender clusters; inspect attachment of individual flowers (sessile to subsessile) rather than relying on flower color."
+    },
+    {
+      "label": "Fruit",
+      "text": "Deep-purple obovoid drupes about 5.5–7.4 × 3.2–5.3 mm, often very shortly stalked; inspect mature fruit attachment and fruit shape."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d07524d83128407922123290bd8fc93b7fb225bf03f4c23260540e02e34fc9b7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

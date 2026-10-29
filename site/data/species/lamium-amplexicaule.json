@@ -1,0 +1,58 @@
+{
+  "id": "lamium-amplexicaule",
+  "family": "Lamiaceae",
+  "genus": "Lamium",
+  "scientific_name": "Lamium amplexicaule",
+  "common_name": "Henbit",
+  "look_here_first": "LOOK HERE FIRST — HENBIT: a cool-season ANNUAL mint with squarish/4-angled stems and OPPOSITE leaf pairs. The LOWER leaves have stalks (petioles). HIGHER flowering leaves are ROUND/KIDNEY- to FAN-SHAPED, COARSELY SCALLOPED and SESSILE, forming a CLASPING COLLAR around the stem. PINK-PURPLE LONG TUBES with a HOODED UPPER LIP rise in clustered WHORLS at upper leaf nodes. This leaf stalk transition is the best split from L. purpureum (purple deadnettle), whose upper leaves remain stalked and tend to be more triangular/pointed and often purplish. Glechoma hederacea (ground ivy) is a perennial creeping stolon-former with stalked round leaves; it is NOT henbit.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Winter annual in Central Texas, typically low/sprawling and 10–40 cm tall; bases can branch or root where stems touch moist soil. Flowers mainly in cooler weather and spring. Not a perennial spreader."
+    },
+    {
+      "label": "Root",
+      "text": "Shallow branching/fibrous or short-taproot system; roots and node-rooting not visible in current two installed photos."
+    },
+    {
+      "label": "Stem",
+      "text": "Square/four-angled stem, often green to reddish purple, sparingly hairy; inspect the CROSS SECTION with fingertips or angled macro, not proven by a frontal photo."
+    },
+    {
+      "label": "Leaves arrangement",
+      "text": "Opposite at each node; lower pairs with petioles and upper pairs sessile/clasping. IMPORTANT: upper whorls can look like one continuous green collar when seen from above."
+    },
+    {
+      "label": "Upper leaf",
+      "text": "Upper leafy bracts 5–18 mm, round to kidney/fan-shaped, crenate/coarsely lobed, lack a distinct petiole and partly surround the flowering stem (amplexicaul = stem embracing)."
+    },
+    {
+      "label": "Lower leaf",
+      "text": "Lower leaves rounded/heart-shaped with a PETIOLE (small leaf stalk). Scalloped blunt lobes, prominent palmately spreading veins."
+    },
+    {
+      "label": "Flowers",
+      "text": "Axillary verticillasters (false whorls) among opposite upper leaves; pink-to-purple bilabiate corolla about 10–20 mm, noticeably elongated slender tube and hairy arched upper lip; lower lip with spots and lobes."
+    },
+    {
+      "label": "Calyx",
+      "text": "Five-toothed tubular green calyx persists after the corolla falls. Individual calyx teeth are not scored in currently installed pictures."
+    },
+    {
+      "label": "Fruits",
+      "text": "Schizocarp splitting into FOUR small nutlets, initially enclosed by the persistent calyx. Need genuine mature nutlet/dissected calyx macro with mm rule."
+    },
+    {
+      "label": "Seasonal",
+      "text": "In Hays County, often germinates in fall and flowers in winter/spring when moisture is available; can appear elsewhere in cooler damp seasons. Timing is supportive, not species-proof."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2d8a7437722e3b7d92212b98700cf9c532196b990d782e337da63dd88b9577f6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

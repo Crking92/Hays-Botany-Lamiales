@@ -1,0 +1,17 @@
+{
+  "id": "lantana-camara",
+  "family": "Verbenaceae",
+  "genus": "Lantana",
+  "scientific_name": "Lantana camara",
+  "common_name": "Common lantana (introduced)",
+  "look_here_first": "Recognize opposite rough, toothed leaves and dense clusters of small tubular flowers whose colors may change; check black fleshy drupes and branching prickles.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3daa1f65aabbbffef3cb5dab53c8bfb239f5fae6bd1291f5185bc76cfe9f00d8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

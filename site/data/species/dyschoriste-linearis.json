@@ -1,0 +1,42 @@
+{
+  "id": "dyschoriste-linearis",
+  "family": "Acanthaceae",
+  "genus": "Dyschoriste",
+  "scientific_name": "Dyschoriste linearis",
+  "common_name": "Narrow-leaf snakeherb",
+  "look_here_first": "Start with the tiny low habit and very narrow opposite leaves. Then confirm solitary short-axillary lavender flowers rather than the paired bracted cymes of Dicliptera.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low rhizomatous perennial, often roughly 10–20 cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "4-sided stems aging more strongly ridged"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite sessile to subsessile very narrow leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "solitary short-axillary flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "purple bilabiate corolla with darker throat markings"
+    },
+    {
+      "label": "Identification",
+      "text": "capsule largely enclosed by persistent calyx"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Much lower and narrower-leaved than Dicliptera brachiata, with solitary axillary flowers instead of paired condensed cymes with conspicuous bracts."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dc2c9f3ee501b7862c37a3648e959fef084b16f4fc6b0dbdc158879fd7a437d8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

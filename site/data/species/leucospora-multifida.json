@@ -1,0 +1,17 @@
+{
+  "id": "leucospora-multifida",
+  "family": "Plantaginaceae",
+  "genus": "Leucospora",
+  "scientific_name": "Leucospora multifida",
+  "common_name": "Narrowleaf paleseed",
+  "look_here_first": "Begin with opposite, deeply dissected leaves and tiny axillary flowers; check the hairy stems and seed capsules.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0a0070ae05207b220033be939ff3f67d3b4af87d3e74226e58b33af2bfd9c8e4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

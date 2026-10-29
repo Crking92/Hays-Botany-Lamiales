@@ -1,0 +1,46 @@
+{
+  "id": "aloysia-virgata",
+  "family": "Verbenaceae",
+  "genus": "Aloysia",
+  "scientific_name": "Aloysia virgata",
+  "common_name": "Sweet almond verbena / sweet almond bush",
+  "look_here_first": "Find a mature opposite leaf and an intact axillary flowering raceme. Measure 5–10 fully expanded leaves (often 4–9 × 1.5–6 cm) and inspect the long, loose, often flexuose raceme: individual flower bases are visibly separated. Compare against A. gratissima's generally smaller leaves and short, crowded racemes. Do not rely on fragrance or white flower color.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Woody aromatic shrub, sometimes large; often branching with long flowering shoots."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, simple, ovate to elliptic, often acute and toothed; commonly 4–9 cm long × 1.5–6 cm wide; leaf hairiness and tooth depth variable."
+    },
+    {
+      "label": "Racemes",
+      "text": "Lax, frequently flexuose/zigzag, axillary racemes; flower bases remain individually visible, sometimes several racemes per leaf axil."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small tubular white flowers; use the raceme's structure rather than color or scent."
+    },
+    {
+      "label": "Identification",
+      "text": "Opposite mature leaves often substantially larger than A. gratissima"
+    },
+    {
+      "label": "Identification",
+      "text": "Flowering axes lax and flexuose, with separated flower bases"
+    },
+    {
+      "label": "Identification",
+      "text": "Usually toothed leaf margins, but variable; measure several mature leaves"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e7a38a4fae0d61ff58d6089bac21eb593ae7969f895940c0241448f6eb441324",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

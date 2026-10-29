@@ -1,0 +1,38 @@
+{
+  "id": "ligustrum-lucidum",
+  "family": "Oleaceae",
+  "genus": "Ligustrum",
+  "scientific_name": "Ligustrum lucidum",
+  "common_name": "Glossy privet",
+  "look_here_first": "Inspect opposite, thick, glossy leaves 3–6 inches long: look for a distinct opaque 1–2 mm rim at the blade edge and 6–8 pairs of lateral veins. Confirm large terminal flower/fruit panicles and woody tree-like habit.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Broadleaf evergreen shrub or small tree; can reach a large tree-like crown."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, simple, entire, thick and glossy, usually 3–6 inches long; conspicuous opaque margin rim, 6–8 pairs of lateral veins; veins sunken beneath."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small white four-lobed flowers borne in large terminal panicles, roughly 5–8 inches long."
+    },
+    {
+      "label": "Fruit",
+      "text": "Numerous blue-black drupes in persistent terminal panicles."
+    },
+    {
+      "label": "Stems",
+      "text": "Tan twigs with lenticels; leaves largely glabrous."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "994eabd190dda7fc1a44aa3152b2b74cc4089ff94ce32b6dc3eadda9f1a7c493",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

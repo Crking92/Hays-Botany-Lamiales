@@ -1,0 +1,30 @@
+{
+  "id": "agalinis-heterophylla",
+  "family": "Orobanchaceae",
+  "genus": "Agalinis",
+  "scientific_name": "Agalinis heterophylla",
+  "common_name": "Prairie false foxglove",
+  "look_here_first": "FIRST measure the flower pedicel from its base to the calyx on several blooms: typically very short, about 1.6–3.2 mm in regional accounts. Inspect the calyx side-on for conspicuous lobes, and check lower leaves for occasional three-parted blades. Do not identify by purple flowers or branch angle.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Green hemiparasitic herb with narrow simple leaves and tubular bilaterally symmetric flowers."
+    },
+    {
+      "label": "Identification",
+      "text": "Flower pedicels very short in regional descriptions (about 1.6–3.2 mm); verify at several flowers."
+    },
+    {
+      "label": "Identification",
+      "text": "Calyx lobes conspicuous relative to those of A. edwardsiana."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fd2ec7ee87fa5c02a6f5cc07881dca53a76268b513074341c469c561f90073f7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

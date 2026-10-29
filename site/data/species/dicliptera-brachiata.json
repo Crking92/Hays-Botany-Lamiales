@@ -1,0 +1,50 @@
+{
+  "id": "dicliptera-brachiata",
+  "family": "Acanthaceae",
+  "genus": "Dicliptera",
+  "scientific_name": "Dicliptera brachiata",
+  "common_name": "Branched foldwing",
+  "look_here_first": "Start at the nodes and inflorescence: a taller plant with conspicuously ridged stems, broader opposite leaves, and paired axillary condensed cymes subtended by broad obovate bracts.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb, often much taller than Dyschoriste linearis"
+    },
+    {
+      "label": "Identification",
+      "text": "conspicuously ridged stems"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite narrowly ovate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "paired axillary condensed cymes"
+    },
+    {
+      "label": "Identification",
+      "text": "broad obovate bracts"
+    },
+    {
+      "label": "Identification",
+      "text": "purple-and-white bilabiate flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "two stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "later-season cleistogamous flowers may occur"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Taller and broader-leaved than Dyschoriste linearis, with paired bracted cymes instead of solitary axillary flowers."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c763fd39b16037ce28077c49316fadedb51433ab155870f808cd1d2041c47f8f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

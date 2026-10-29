@@ -1,0 +1,66 @@
+{
+  "id": "bacopa-monnieri",
+  "family": "Plantaginaceae",
+  "genus": "Bacopa",
+  "scientific_name": "Bacopa monnieri",
+  "common_name": "Herb-of-grace / water hyssop",
+  "look_here_first": "Look for a low creeping wetland mat with fleshy, small, sessile oblong-to-obovate leaves and solitary pale blue-white flowers arising from the leaf axils.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "creeping/prostrate somewhat succulent wetland herb"
+    },
+    {
+      "label": "Identification",
+      "text": "stems root at nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "small sessile fleshy oblong to obovate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "solitary axillary flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla white to bluish/pinkish and weakly 2-lipped"
+    },
+    {
+      "label": "Identification",
+      "text": "5 deeply divided calyx lobes with unequal outer/inner lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "small ovoid capsule retained within persistent calyx"
+    },
+    {
+      "label": "Habit",
+      "text": "Low mat-forming aquatic to semiaquatic herb; stems creep and root at nodes."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Small fleshy sessile oblong, obovate or spatulate leaves with rounded tips."
+    },
+    {
+      "label": "Flower",
+      "text": "Solitary axillary flowers, pale blue/white/pinkish, with a short fused corolla and four stamens."
+    },
+    {
+      "label": "Fruit",
+      "text": "Small ovoid capsule within the persistent calyx."
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's San Marcos River frames pair the creeping succulent habit with a close flower view, making the axillary flower plus fleshy-leaf combination easy to memorize."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4d125025ad9c06b3e84924c6aba48d75c4667ae6929e600c3089891169283163",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

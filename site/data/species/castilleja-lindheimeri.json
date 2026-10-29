@@ -1,0 +1,58 @@
+{
+  "id": "castilleja-lindheimeri",
+  "family": "Orobanchaceae",
+  "genus": "Castilleja",
+  "scientific_name": "Castilleja lindheimeri",
+  "common_name": "Lindheimer's paintbrush",
+  "look_here_first": "Look at the colored bracts, not just the flowers. Lindheimer's paintbrush is a perennial hemiparasite with narrow leaves, upper leaves often lobed, and a terminal spike whose three-lobed bracts turn orange-red to scarlet around the much less conspicuous tubular flowers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial hemiparasitic herb, several-stemmed from the base"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves alternate, narrow linear to lanceolate"
+    },
+    {
+      "label": "Identification",
+      "text": "upper cauline leaves often divided into 2–3 narrow lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal spike with conspicuous 3-lobed bracts"
+    },
+    {
+      "label": "Identification",
+      "text": "bract lobes orange-red to light scarlet"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx 2-lipped and 4-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla strongly bilateral with beak-like upper lip"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit a many-seeded capsule"
+    },
+    {
+      "label": "Hemiparasite training",
+      "text": "Green photosynthetic plant that also forms root connections to neighboring hosts; do not interpret a single nearby grass in a still frame as proof of the exact host individual."
+    },
+    {
+      "label": "Video training",
+      "text": "Joey labels the plant in thin Edwards Plateau limestone habitat and discusses hemiparasitic behavior."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "10cd66edfce8bd36d2e896df5ef7c0c4ac40a61903369853d591d84542a8254a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

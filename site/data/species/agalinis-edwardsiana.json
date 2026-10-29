@@ -1,0 +1,30 @@
+{
+  "id": "agalinis-edwardsiana",
+  "family": "Orobanchaceae",
+  "genus": "Agalinis",
+  "scientific_name": "Agalinis edwardsiana",
+  "common_name": "Edwards Plateau false foxglove",
+  "look_here_first": "FIRST measure the pedicel from its junction on the flowering branch to the calyx, using multiple flowers. Pedicels can be conspicuously long (reported to about 30 mm). Next compare the calyx lobes, which are very short relative to the tube. Do not decide from purple flower color or right-angle branching.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Green, slender hemiparasitic annual with narrow simple leaves and bilaterally symmetric tubular flowers."
+    },
+    {
+      "label": "Identification",
+      "text": "Flower-bearing pedicels relatively long, to approximately 30 mm in regional treatment; measure several intact flowers, not a single specimen."
+    },
+    {
+      "label": "Identification",
+      "text": "Calyx lobes very short relative to the tube; examine side-on with a hand lens."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "adc98b77eea80ea9591ce989ecf3fc31e0029bf4f6066402dcf14a3acf9caf19",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

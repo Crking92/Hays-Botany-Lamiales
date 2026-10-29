@@ -1,0 +1,42 @@
+{
+  "id": "forestiera-pubescens",
+  "family": "Oleaceae",
+  "genus": "Forestiera",
+  "scientific_name": "Forestiera pubescens",
+  "common_name": "Elbowbush / Desert Olive / Downy Forestiera",
+  "look_here_first": "Start with the leaves. Forestiera pubescens has noticeably broader elliptic to ovate leaves with some pubescence, and it is winter-deciduous. The rigid paired side branches still make the classic 'elbow' architecture.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "winter-deciduous shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "subopposite to opposite branch pattern with rigid paired lateral branches"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves elliptic to broadly lanceolate/ovate or obovate, much broader than F. angustifolia"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf surfaces often with scattered short hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers appear before leaves and lack a corolla"
+    },
+    {
+      "label": "Identification",
+      "text": "small dark purple drupes"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "F. angustifolia has very narrow linear leathery leaves, often clustered on twigs, and is evergreen to semi-evergreen/drought-deciduous rather than winter-deciduous."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d0d77705d124ebcd890b3692ebece5fe92ec12ad7ae0753162958ce7980d55bd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

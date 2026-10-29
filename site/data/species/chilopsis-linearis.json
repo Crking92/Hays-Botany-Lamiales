@@ -1,0 +1,42 @@
+{
+  "id": "chilopsis-linearis",
+  "family": "Bignoniaceae",
+  "genus": "Chilopsis",
+  "scientific_name": "Chilopsis linearis",
+  "common_name": "Desert willow",
+  "look_here_first": "Small willow-looking tree with extremely narrow simple leaves, showy trumpet flowers, and very long slender capsules.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous shrub or small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "simple narrow linear-lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "pink-lavender trumpet flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "five ruffled corolla lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "long slender capsules"
+    },
+    {
+      "label": "Identification",
+      "text": "dry washes and gravelly streambeds"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "675e750ca1ed0b00abfe3a861b3a6346ca8df42e10c712718b67bf8b9a705236",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

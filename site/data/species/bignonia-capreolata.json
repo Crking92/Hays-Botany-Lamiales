@@ -1,0 +1,46 @@
+{
+  "id": "bignonia-capreolata",
+  "family": "Bignoniaceae",
+  "genus": "Bignonia",
+  "scientific_name": "Bignonia capreolata",
+  "common_name": "Crossvine",
+  "look_here_first": "Look at the leaf and climbing organ together: crossvine usually has two broad leaflets, with the third leaflet position modified into a branched tendril ending in adhesive pads.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen to semi-evergreen woody climbing vine"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves opposite and typically bifoliolate"
+    },
+    {
+      "label": "Identification",
+      "text": "third leaflet position modified into a branched tendril"
+    },
+    {
+      "label": "Identification",
+      "text": "tendril branches end in adhesive discs/pads"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets broad, glossy and mostly entire"
+    },
+    {
+      "label": "Identification",
+      "text": "showy orange-red to reddish/yellow trumpet-shaped flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "long flattened 2-valved capsule with winged seeds"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The two-leaflet-plus-tendril architecture is the fastest way to separate crossvine from trumpet creeper."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "49144dd0fb23102bd1c656842a322d78860d6b88476091e348fc9de6785827cd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

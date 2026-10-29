@@ -1,0 +1,54 @@
+{
+  "id": "lantana-urticoides",
+  "family": "Verbenaceae",
+  "genus": "Lantana",
+  "scientific_name": "Lantana urticoides",
+  "common_name": "Texas lantana",
+  "look_here_first": "Ignore flower color at first. Check the woody shrub habit, opposite rough leaves, and stems: Texas lantana is a winter-deciduous, non-spinescent shrub with stiff-hairy/scabrous 4-sided young stems and coarse serrate leaves. Then inspect the flower-head bracts and confirm the axillary pedunculate head.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "winter-deciduous aromatic shrub, commonly around 0.5–1 m in regional treatments"
+    },
+    {
+      "label": "Identification",
+      "text": "young stems four-sided, stiff-hairy/scabrous, aging woody"
+    },
+    {
+      "label": "Identification",
+      "text": "stems normally not spinescent"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves opposite and decussate, broadly ovate to ovate, short-petiolate"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades rough/cobblestone-textured above with stiff hairs and strongly raised veins below"
+    },
+    {
+      "label": "Identification",
+      "text": "margins coarsely serrate to serrate-crenate"
+    },
+    {
+      "label": "Identification",
+      "text": "dense axillary flower heads borne on distinct peduncles"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers commonly open yellow and age through orange to red, but color is secondary to vegetative/bract characters"
+    },
+    {
+      "label": "Identification",
+      "text": "fleshy drupes mature dark purple-black"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Lantana camara: A common non-native/invasive landscape escape. L. camara often has small prickles on the square stems and commonly larger leaves. Use inflorescence-bract structure and stem armature rather than flower color alone; absence of prickles by itself is not enough for a final ID. Lantana achyranthifolia: Native desert lantana has much more slender branches, narrower hairy leaves, and typically white-to-pink flowers with yellow centers rather than the robust broad-leaved Texas-lantana look. Lantana montevidensis: A common cultivated trailing lantana; habit is low/trailing rather than an upright woody Texas-lantana shrub, and flowers are usually lavender-purple."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "65b98b79734e20e62e2f3ecbb3c0a101c91f38aa23d080f79bd1afeab6556a29",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

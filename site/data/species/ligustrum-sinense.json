@@ -1,0 +1,38 @@
+{
+  "id": "ligustrum-sinense",
+  "family": "Oleaceae",
+  "genus": "Ligustrum",
+  "scientific_name": "Ligustrum sinense",
+  "common_name": "Chinese privet",
+  "look_here_first": "Inspect an opposite leaf pair on an unpruned shoot: blades are thin, usually 1–3 inches long, often hairy beneath along the midvein, with hairy petioles and young stems. Confirm short terminal and upper-axillary white flower panicles.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Evergreen to semi-evergreen, many-stemmed shrub often forming dense thickets by suckering."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, simple, entire, elliptic to oblong, usually 1–3 inches long, thinner than L. lucidum; hairs along underside midvein and on petioles."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small white four-lobed flowers in shorter terminal or upper-axillary panicles, usually about 2–3 inches long."
+    },
+    {
+      "label": "Fruit",
+      "text": "Clusters of purple-black to black drupes."
+    },
+    {
+      "label": "Stems",
+      "text": "Young twigs often hairy, with lenticels; can form suckering thickets."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "522aa297dc7f6a9c496d67a3a16d185f398f0c9691096eacd8eec765b6a54499",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

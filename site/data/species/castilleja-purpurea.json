@@ -1,0 +1,46 @@
+{
+  "id": "castilleja-purpurea",
+  "family": "Orobanchaceae",
+  "genus": "Castilleja",
+  "scientific_name": "Castilleja purpurea",
+  "common_name": "Prairie / Purple Paintbrush",
+  "look_here_first": "Start with perennial habit plus bract color and leaf/bract shape. Prairie paintbrush is a perennial of rocky calcareous prairies; bracts can be purple-pink, yellowish, or orange-red depending on form, so color alone is not enough.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial hemiparasitic herb"
+    },
+    {
+      "label": "Identification",
+      "text": "several stems may arise from base"
+    },
+    {
+      "label": "Identification",
+      "text": "cauline leaves narrow and often lobed upward on plant"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal paintbrush spike"
+    },
+    {
+      "label": "Identification",
+      "text": "showy bracts variable in color"
+    },
+    {
+      "label": "Identification",
+      "text": "rocky calcareous prairie association"
+    },
+    {
+      "label": "Identification",
+      "text": "spring flowering"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "C. indivisa is annual. Current Kew treats the old Lindheimer variety separately as C. lindheimeri, so local orange-red Edwards Plateau plants with the Lindheimer character set should be checked against C. lindheimeri rather than folded automatically into C. purpurea."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2ffabb3a027955a3248aca53285260406d2843039c5745c68dd0f5b9a7005af1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

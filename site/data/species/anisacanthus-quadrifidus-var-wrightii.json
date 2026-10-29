@@ -1,0 +1,42 @@
+{
+  "id": "anisacanthus-quadrifidus-var-wrightii",
+  "family": "Acanthaceae",
+  "genus": "Anisacanthus",
+  "scientific_name": "Anisacanthus quadrifidus var. wrightii",
+  "common_name": "Flame acanthus / Wright's desert honeysuckle / Texas firecracker",
+  "look_here_first": "Start with the woody shrub habit and long red-orange tubular flowers. Flame acanthus is a many-stemmed deciduous shrub with opposite narrow leaves and terminal clusters of narrow two-lipped hummingbird flowers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "multi-stemmed deciduous woody shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite narrow lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "orange-red to scarlet tubular bilabiate flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal spike-like clusters or condensed cymes"
+    },
+    {
+      "label": "Identification",
+      "text": "blooms repeatedly after summer rains"
+    },
+    {
+      "label": "Identification",
+      "text": "dry rocky streambanks, shrublands, and grasslands"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Within this batch, the bare species name and the malformed 'A. quadrifidus wrightii' source row are not separate learner taxa. Central Texas flame acanthus should be learned as A. quadrifidus var. wrightii."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "91aaae98ce9046427ba0fda444b2cd73f6d71729b149a7c68b416a3cdc02cff7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

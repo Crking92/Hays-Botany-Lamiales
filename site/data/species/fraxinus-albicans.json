@@ -1,0 +1,58 @@
+{
+  "id": "fraxinus-albicans",
+  "family": "Oleaceae",
+  "genus": "Fraxinus",
+  "scientific_name": "Fraxinus albicans",
+  "common_name": "Texas ash",
+  "look_here_first": "Once you know it is an ash, go to the lower leaflet surface and the samara: Texas ash usually has a glaucous white-reticulate waxy underside, a relatively small seed body, and a wing that is terminal or only slightly decurrent.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "opposite branches and odd-pinnate leaves, usually 5–7 leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaflet surface characteristically glaucous with white-reticulate wax"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf scar depressed-obovate with shallowly concave/notched upper margin"
+    },
+    {
+      "label": "Identification",
+      "text": "samara body small, with wing terminal or only slightly decurrent"
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite branching; odd-pinnately compound leaves."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Usually 5–7 relatively short/broad leaflets; margins entire to distally crenulate/serrate."
+    },
+    {
+      "label": "Abaxial surface",
+      "text": "Glaucous, often with dense white-reticulate wax overlay."
+    },
+    {
+      "label": "Leaf scar",
+      "text": "Depressed-obovate, shallowly concave/notched above, sides somewhat flaring."
+    },
+    {
+      "label": "Fruit",
+      "text": "Samara body about 1 cm; wing terminal or only slightly down distal quarter."
+    },
+    {
+      "label": "Bark",
+      "text": "Gray, becoming furrowed with interlocking flattened ridges."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "745b2e4776a1b8357cad919c23215c69f102e038db51f0f7b2dd648b8442cce0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

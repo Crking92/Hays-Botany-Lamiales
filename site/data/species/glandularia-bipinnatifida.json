@@ -1,0 +1,74 @@
+{
+  "id": "glandularia-bipinnatifida",
+  "family": "Verbenaceae",
+  "genus": "Glandularia",
+  "scientific_name": "Glandularia bipinnatifida",
+  "common_name": "Prairie Verbena / Dakota Mock Vervain",
+  "look_here_first": "LOOK AT THE MATURE LEAVES BEFORE THE FLOWERS. They occur in OPPOSITE pairs on a slightly 4-angled, hairy stem, and the larger leaves are deeply cut twice into many fernlike narrow lobes. Then inspect the tight terminal cluster: five-lobed, two-lipped tubular lilac-to-purple flowers with a bract beneath EACH flower. From the side look for the narrow pointed flower bract near/slightly longer than its hairy 5-toothed calyx, and later for a fruiting spike that stretches out so the persistent calyces become more separated. Compare with Glandularia pumila (smaller, broadly divided leaves and shorter compact fruiting spike) before confirming. Purple flowers alone never prove this ID.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "OPPOSITE leaves at hairy, often four-angled stem nodes; follow a stem and check pairs."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature leaf often deeply twice-pinnately cut, with many secondary narrow lobes, fern-like at a glance."
+    },
+    {
+      "label": "Identification",
+      "text": "Low mat-forming to ascending habit on sunny, open Central Texas prairie/limestone edges."
+    },
+    {
+      "label": "Identification",
+      "text": "Rounded terminal cluster is a SHORT DENSE SPIKE, not a true single composite flower."
+    },
+    {
+      "label": "Identification",
+      "text": "Each corolla is a fused tube ending in five unequal lobes (two upper/three lower)."
+    },
+    {
+      "label": "Identification",
+      "text": "Hairy persistent five-toothed calyx; a separate narrow bract subtends each flower, often slightly longer."
+    },
+    {
+      "label": "Identification",
+      "text": "After bloom, the spike axis lengthens so calyces become spaced; compare with G. pumila."
+    },
+    {
+      "label": "Identification",
+      "text": "Size, color and lobe count vary: combine mature leaf, bract/calyx and spike, never purple flowers alone."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite and decussate on 4-angled stems; petiolate, larger leaves often broad triangular in overall outline."
+    },
+    {
+      "label": "Leaf dissected",
+      "text": "Larger mature leaves opposite, petiolate, often broadly triangular/ovate in overall outline and deeply once- or twice-pinnately divided: each primary lobe often has secondary sublobes, creating a fernlike effect. Smaller apical/young leaves may be less divided. Examine mature mid-stem leaves and photograph both sides."
+    },
+    {
+      "label": "Flowering structure",
+      "text": "Dense terminal spike, flat-to-rounded in flower; spike rachis extends conspicuously as fruits mature, and individual flowers/bracts can become spaced."
+    },
+    {
+      "label": "Fruit",
+      "text": "Flowering spike axis elongates as seeds develop, separating the hairy persistent calyces; inside each mature calyx the schizocarp yields four one-seeded mericarps (nutlets). A dense *flowering* head and elongated *fruiting* spike can occur on the same plant."
+    },
+    {
+      "label": "Habitat habit",
+      "text": "Low spreading or ascending, short-lived perennial or annual herb on open limestone, clay/caliche or grassy prairie margins; several stems from base; lower stems may root where they touch soil. Not a cultivar identity."
+    },
+    {
+      "label": "Stem nodes",
+      "text": "Stem hairy, roughly 4-angled/square in cross-section; leaf pairs opposite/decussate. Angles can be reddish. Supporting family trait; NOT species-specific."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "G. pumila is lower and more compact, with smaller broadly ovate leaves divided into fewer broader lobes and a very short dense spike that does not elongate much in fruit. G. bipinnatifida looks more finely cut and feathery."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a50e17650398c6a08bcdda7a9f655b1f7814252d2e28f8fbd385c8aa1d235d11",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

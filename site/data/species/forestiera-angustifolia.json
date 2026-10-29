@@ -1,0 +1,46 @@
+{
+  "id": "forestiera-angustifolia",
+  "family": "Oleaceae",
+  "genus": "Forestiera",
+  "scientific_name": "Forestiera angustifolia",
+  "common_name": "Narrowleaf Elbowbush / Texas Swamp-privet",
+  "look_here_first": "Start with the tiny linear leaves. Narrowleaf elbowbush is densely twiggy with stiff 90-degree branching and very narrow leathery, often slightly rolled leaves. That skeletal, almost olive-like foliage separates it quickly from the broader-leaved F. pubescens.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen to semi-evergreen shrub, drought-deciduous in severe dryness"
+    },
+    {
+      "label": "Identification",
+      "text": "dense intricate branching with stiff near-right-angle branchlets"
+    },
+    {
+      "label": "Identification",
+      "text": "tiny linear leathery leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins entire and often revolute"
+    },
+    {
+      "label": "Identification",
+      "text": "young twigs dark; older bark smooth gray"
+    },
+    {
+      "label": "Identification",
+      "text": "inconspicuous green-yellow apetalous flowers before new leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "small black single-seeded drupe"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "F. pubescens has much broader elliptic/ovate leaves with more visible pubescence and a winter-deciduous habit; F. angustifolia is the narrow, skeletal-leaved shrub."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5e999fc4468bc80850d57666aa89daaa59163bb1a51f37b1cae6b44b374d384e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

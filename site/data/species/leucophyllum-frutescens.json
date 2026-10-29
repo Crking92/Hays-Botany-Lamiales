@@ -1,0 +1,42 @@
+{
+  "id": "leucophyllum-frutescens",
+  "family": "Scrophulariaceae",
+  "genus": "Leucophyllum",
+  "scientific_name": "Leucophyllum frutescens",
+  "common_name": "Cenizo / Texas silverleaf / Texas sage",
+  "look_here_first": "Start with WOODY SHRUB + small silver/ash-gray fuzzy leaves (densely matted fine hairs) packed along the branches. Then locate ONE tubular, two-lipped, five-lobed lavender to purple flower emerging from a LEAF AXIL. Count four stamens in two length pairs when flower is accessible. The common name 'Texas sage' is NOT Salvia texana.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Much-branched evergreen or seasonally semi-evergreen woody shrub to about 2.5 m; gray older bark, no spines; natural shrubs often irregular rather than sheared balls."
+    },
+    {
+      "label": "Leaves",
+      "text": "Small simple entire-margined elliptic to obovate blades, mostly under about 2.5 cm, pale gray from dense soft matted trichomes; foliage often crowded on short shoots and sometimes appears paired though generally described as alternate/clustered; distinguish leaf arrangement on several nodes rather than one tight tuft."
+    },
+    {
+      "label": "Leaf hairs",
+      "text": "Dense fine soft woolly hairs (tomentum) give ashy silver color; a hand lens and good macro help distinguish hair surface from waxy/glaucous coating."
+    },
+    {
+      "label": "Flowers",
+      "text": "Usually solitary in upper leaf axils; pink-lavender to violet, occasionally white; funnel/bell-shaped tubular corolla, five unequal lobes arranged in two lips, throat may have darker spotting and hairs."
+    },
+    {
+      "label": "Reproductive",
+      "text": "Usually four fertile stamens (two longer, two shorter, didynamous); superior two-carpellate ovary, mature fruit a dry many-seeded capsule splitting by two valves. Clear stamen/calyx/fruit views needed in final photo polish."
+    },
+    {
+      "label": "Habitat",
+      "text": "Limestone/caliche hillsides and dry brushlands, widespread in South Texas and used ornamentally well outside indigenous stands."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b428e844fad432fd59fba177514dff0ba96c94a4235892ed3e7a29cde787f3ba",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

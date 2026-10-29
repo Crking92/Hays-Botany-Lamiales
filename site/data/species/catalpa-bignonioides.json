@@ -1,0 +1,17 @@
+{
+  "id": "catalpa-bignonioides",
+  "family": "Bignoniaceae",
+  "genus": "Catalpa",
+  "scientific_name": "Catalpa bignonioides",
+  "common_name": "Southern catalpa",
+  "look_here_first": "Large opposite or whorled heart-shaped leaves, branched clusters of tubular trumpet flowers, and very long slender pod-like capsules.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b0c88eafca7db916a8062395fc13784d022f5029eb452194efaa253bf4e653da",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

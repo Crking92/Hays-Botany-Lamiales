@@ -1,0 +1,42 @@
+{
+  "id": "justicia-americana",
+  "family": "Acanthaceae",
+  "genus": "Dianthera",
+  "scientific_name": "Dianthera americana",
+  "common_name": "American water-willow",
+  "look_here_first": "Aquatic or riparian colony-former with long narrow opposite leaves and long-peduncled axillary flower spikes; white flowers carry purple spotting on the lower lip.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "aquatic rhizomatous clonal perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "erect shoots from shoreline or shallow water"
+    },
+    {
+      "label": "Identification",
+      "text": "glabrous tough ridged stems"
+    },
+    {
+      "label": "Identification",
+      "text": "long narrow opposite leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "long-peduncled axillary condensed spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "white flowers with purple spotting on lower lip"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Distinct from Justicia pilosella by tall glabrous water-edge habit and much longer narrow leaves."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "badaed0c3aa6eb7c7f1f53231078553e190596cbe0ed3fbc2f4be953a67315d3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

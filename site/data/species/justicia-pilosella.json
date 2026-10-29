@@ -1,0 +1,42 @@
+{
+  "id": "justicia-pilosella",
+  "family": "Acanthaceae",
+  "genus": "Justicia",
+  "scientific_name": "Justicia pilosella",
+  "common_name": "Hairy tube-tongue",
+  "look_here_first": "Start with scale and hairs: a very low suffrutescent mound with conspicuously ciliate opposite leaves and paired axillary pale pink-purple tubular flowers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low suffrutescent perennial mound"
+    },
+    {
+      "label": "Identification",
+      "text": "many branched stems from base"
+    },
+    {
+      "label": "Identification",
+      "text": "conspicuous white hirsute/ciliate hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "small opposite elliptic leaves with rounded tips"
+    },
+    {
+      "label": "Identification",
+      "text": "paired axillary tubular flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "club-shaped capsule with up to four seeds"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Tiny, dry-site and hairy versus the tall glabrous aquatic Dianthera americana."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a8e1fadc94341ef7e31bed4096e8884df47047747a83adc201515e83bbe9551c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

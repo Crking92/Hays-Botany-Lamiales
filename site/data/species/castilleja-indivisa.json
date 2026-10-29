@@ -1,0 +1,46 @@
+{
+  "id": "castilleja-indivisa",
+  "family": "Orobanchaceae",
+  "genus": "Castilleja",
+  "scientific_name": "Castilleja indivisa",
+  "common_name": "Texas Paintbrush",
+  "look_here_first": "Start with life cycle and the bracts. Texas paintbrush is an annual, usually with bright red to orange-red showy bracts and a more compact spring-flowering habit than the perennial prairie paintbrushes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual hemiparasitic herb"
+    },
+    {
+      "label": "Identification",
+      "text": "usually unbranched to few-branched"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate narrow leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaves/bracts brightly red to orange-red"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal dense flower spike"
+    },
+    {
+      "label": "Identification",
+      "text": "showy color comes mainly from bracts rather than petals"
+    },
+    {
+      "label": "Identification",
+      "text": "spring-flowering"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "C. purpurea and C. lindheimeri are perennial. C. indivisa is the annual Texas paintbrush and usually looks more compact and uniformly scarlet-red."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2a960a4c94ad2c03c4e5974f19ee308fd494ec442a5ac1d0b5d6e9c2a5c6ba6f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

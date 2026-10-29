@@ -1,0 +1,46 @@
+{
+  "id": "callicarpa-americana",
+  "family": "Lamiaceae",
+  "genus": "Callicarpa",
+  "scientific_name": "Callicarpa americana",
+  "common_name": "American Beautyberry",
+  "look_here_first": "Start with the fruit arrangement and opposite leaves. American beautyberry has tight rings/clusters of vivid purple-magenta berries hugging the stem at the leaf axils, plus opposite serrate leaves on a softly hairy shrub.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite simple leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "coarsely serrate leaf margins"
+    },
+    {
+      "label": "Identification",
+      "text": "young stems/leaves often softly hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "small pale pinkish flowers in axillary cymes"
+    },
+    {
+      "label": "Identification",
+      "text": "dense beadlike purple-magenta fruit clusters encircling the stem at nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit persists into fall"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Opposite serrate leaves + dense purple berry rings directly at the nodes are the fastest confirmation."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "539b5f97c7d7e7e0d87179c0b99dfb19a536c27a9cfde1299e7a4b325ac46b53",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

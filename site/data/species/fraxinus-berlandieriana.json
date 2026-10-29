@@ -1,0 +1,46 @@
+{
+  "id": "fraxinus-berlandieriana",
+  "family": "Oleaceae",
+  "genus": "Fraxinus",
+  "scientific_name": "Fraxinus berlandieriana",
+  "common_name": "Mexican ash",
+  "look_here_first": "Count the leaflets and inspect a samara. Mexican ash usually has 3–5 leaflets with coarse sharp serration toward the tips; samara wings expand gradually from near the base, and occasional 3-winged fruits can occur.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "medium riparian or bottomland ash"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 3–5 leaflets, sometimes more"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflet margins coarsely and sharply serrate on distal half to two-thirds"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaflet surface glabrous in the Central Texas comparison treatment"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf scar shallowly hemispheric with shallowly concave apex"
+    },
+    {
+      "label": "Identification",
+      "text": "samaras usually 2-winged but occasional 3-winged fruits may occur"
+    },
+    {
+      "label": "Identification",
+      "text": "samara wings gradually expand from near the base and narrowly flange the fruit body"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Green ash generally carries more leaflets and has a broader shield-shaped scar with differently broadened samaras; Texas ash tends to have 5–7 leaflets, a glaucous lower surface, and smaller mostly terminal-winged samaras."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5e2fba27c623c2c2b275d64a5a0afe9c342406ee70ed37a88a05a04ba9af5f3d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

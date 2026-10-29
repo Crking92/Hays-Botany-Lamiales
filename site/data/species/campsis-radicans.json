@@ -1,0 +1,46 @@
+{
+  "id": "campsis-radicans",
+  "family": "Bignoniaceae",
+  "genus": "Campsis",
+  "scientific_name": "Campsis radicans",
+  "common_name": "Trumpet creeper / trumpet vine",
+  "look_here_first": "Look at the climbing organ first: trumpet creeper clings with short aerial rootlets, then confirm the large opposite odd-pinnate leaves with 7–11 sharply serrated leaflets.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "vigorous deciduous woody liana"
+    },
+    {
+      "label": "Identification",
+      "text": "climbs by short aerial rootlets rather than tendrils"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves opposite and odd-pinnately compound"
+    },
+    {
+      "label": "Identification",
+      "text": "commonly 7–11 ovate to lanceolate sharply serrated leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "large orange to reddish-orange tubular/funnelform flowers in terminal clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "four fertile didynamous stamens plus a staminode"
+    },
+    {
+      "label": "Identification",
+      "text": "long narrow 2-valved capsule with many flattened winged seeds"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The climbing organ is the fastest split from crossvine: rootlets in Campsis versus branched adhesive tendrils in Bignonia."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d1fab65351f00187f5a2e596c7ad08ed4970307b290162f89522c2b94008572a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "buchnera-americana",
+  "family": "Orobanchaceae",
+  "genus": "Buchnera",
+  "scientific_name": "Buchnera americana",
+  "common_name": "American bluehearts",
+  "look_here_first": "Slender herb with opposite narrow leaves and an elongated spike of violet-blue tubular flowers; inspect four-lobed corollas and bracts.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9edbb5e6c50966b0265c9b3f42c999e4fb93c02437cc0af2dd1a28208200ac1d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

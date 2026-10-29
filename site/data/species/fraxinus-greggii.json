@@ -1,0 +1,42 @@
+{
+  "id": "fraxinus-greggii",
+  "family": "Oleaceae",
+  "genus": "Fraxinus",
+  "scientific_name": "Fraxinus greggii",
+  "common_name": "Gregg's ash",
+  "look_here_first": "Start with habit and leaflet size: a xeric shrub or small tree with tiny leathery, often nearly evergreen leaflets—commonly only three per leaf.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "xeric shrub or small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite pinnately compound leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "commonly 3 small leathery glossy leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "evergreen or semi-evergreen tendency"
+    },
+    {
+      "label": "Identification",
+      "text": "rocky limestone slopes and dry washes"
+    },
+    {
+      "label": "Identification",
+      "text": "winged samaras"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Much smaller and more xeric than Texas or Mexican ash; tiny coriaceous leaflets are the fastest field cue."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1b4584447838c4dadc99d631adc94acfa4381456c7766758ebfab0c18833b455",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

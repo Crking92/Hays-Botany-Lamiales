@@ -1,0 +1,42 @@
+{
+  "id": "hedeoma-acinoides",
+  "family": "Lamiaceae",
+  "genus": "Hedeoma",
+  "scientific_name": "Hedeoma acinoides",
+  "common_name": "Slender false pennyroyal",
+  "look_here_first": "Start at the small annual taproot and opposite oval to elliptic leaves; then inspect the lower third of the 5-6 mm calyx tube for its distinctive swollen (saccate) side. Flowers have a 9-13 mm, noninflated pink corolla. Do not rely on color alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Delicate annual, often 5-30 cm, slender taproot; dry rocky limestone habitat."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, broadly elliptic or ovate, usually not over three times as long as wide, shortly petiolate, often slightly toothed and relatively glabrous; basal leaves sometimes purplish."
+    },
+    {
+      "label": "Flowers",
+      "text": "Calyx about 5-6 mm, lower third of tube saccate; corolla pink 9-13 mm, not inflated."
+    },
+    {
+      "label": "Identification",
+      "text": "Annual root rather than persistent woody crown"
+    },
+    {
+      "label": "Identification",
+      "text": "Broadish opposite leaves on a slender plant"
+    },
+    {
+      "label": "Identification",
+      "text": "Saccate lower calyx tube; noninflated corolla"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0ac49876d231ceeb98f2c2b0cc9c89178350ebbf55725155347302d5c005b87c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

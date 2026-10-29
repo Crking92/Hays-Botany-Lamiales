@@ -1,0 +1,17 @@
+{
+  "id": "linaria-texana",
+  "family": "Plantaginaceae",
+  "genus": "Linaria",
+  "scientific_name": "Linaria texana",
+  "common_name": "Texas toadflax",
+  "look_here_first": "Small upright herb with narrow leaves and spurred two-lipped flowers; inspect spur and calyx.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7f8961f5e3a89eb93f3a64c54b1c54661b24cc05f904cfe0b20facad6744753e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

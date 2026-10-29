@@ -1,0 +1,54 @@
+{
+  "id": "fraxinus-pennsylvanica",
+  "family": "Oleaceae",
+  "genus": "Fraxinus",
+  "scientific_name": "Fraxinus pennsylvanica",
+  "common_name": "Green ash",
+  "look_here_first": "Look at the samara first: green ash has a larger seed body with the wing decurrent well down the body before broadening; then confirm a broad shield-shaped leaf scar and usually non-glaucous lower leaflet surface.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "opposite branches and odd-pinnate leaves, usually 5–7(9) leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaf surface generally non-glaucous"
+    },
+    {
+      "label": "Identification",
+      "text": "broad shield-shaped to oblong-ovate leaf scar"
+    },
+    {
+      "label": "Identification",
+      "text": "samara body >1.5 cm with wing extending well down the seed body"
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite branching; odd-pinnately compound leaves."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Usually 5–7(9) leaflets; margins subentire to inconspicuously dentate-serrulate."
+    },
+    {
+      "label": "Abaxial surface",
+      "text": "Generally glabrous/non-glaucous compared with Texas ash."
+    },
+    {
+      "label": "Leaf scar",
+      "text": "Shield-shaped to broadly oblong-ovate; upper edge truncate to shallowly concave."
+    },
+    {
+      "label": "Fruit",
+      "text": "Consistently 2-winged samara in the Central Texas comparison; wing runs down proximal body then broadens distally."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "04106697a2b6131df46c5af7bf221f99a891b188a91385b97cfa4eede5ef1c86",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "lamium-purpureum",
+  "family": "Lamiaceae",
+  "genus": "Lamium",
+  "scientific_name": "Lamium purpureum",
+  "common_name": "Purple deadnettle",
+  "look_here_first": "LOOK HERE FIRST: a cool-season winter ANNUAL with opposite heart/triangular SCALLOPED leaves, the upper ones CROWDED into a reddish-purple pointed top. Follow an UPPER leaf all the way to the stem: it retains a SHORT PETIOLE and DOES NOT form a stalkless collar. Henbit L. amplexicaule instead has rounded/lobed SESSILE upper leaves encircling the stem; both make pink-purple two-lipped flowers on square stems. Purple color varies with light/stage and is NOT diagnostic by itself.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Cool-season herbaceous winter annual with shallow roots and square stems often rooting at low nodes."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite at stem nodes, prominently crenate/scalloped; lower foliage broadly ovate/heart shaped and petiolate."
+    },
+    {
+      "label": "Upper leaf",
+      "text": "Upper leaves short-stalked (PETIOLATE), crowded, more triangular/pointed, often distinctly purplish. Unlike henbit the bases don't form complete green stem-clasping collars; examine from below when top leaves overlap."
+    },
+    {
+      "label": "Flowers",
+      "text": "Clusters (verticillasters) at upper nodes; pink-purple tubular two-lipped flowers, upper hood and patterned lower lip with pollen-bearing stamens."
+    },
+    {
+      "label": "Stem",
+      "text": "Four-angled, often purplish near nodes; hairs can be sparse; cross-section is a mint FAMILY clue, not species-only proof."
+    },
+    {
+      "label": "Fruits",
+      "text": "Four little nutlets develop within persistent calyx; mature nutlet/fruit macro not yet available."
+    },
+    {
+      "label": "Habitat",
+      "text": "Disturbed winter-spring open ground, turf margins, beds, fields and paths; it is introduced and can provide nectar without constituting native host-plant support."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3c49cc0825a401c7bcdb3fae8c4ecec32b9e24e6bb7a790430ad6ed212ba2596",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

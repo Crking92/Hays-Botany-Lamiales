@@ -1,0 +1,74 @@
+{
+  "id": "glandularia-pumila",
+  "family": "Verbenaceae",
+  "genus": "Glandularia",
+  "scientific_name": "Glandularia pumila",
+  "common_name": "Low Verbena / Pink Mock Vervain",
+  "look_here_first": "START WITH A MATURE LEAF, not flower color. On a LOW, hairy, spreading Glandularia look for opposite leaves with SMALL BROAD, often fan-shaped major lobes (usually 3–6 pairs), sometimes subdivided, but less finely fernlike than G. bipinnatifida. Next compare the crowded terminal flowering spike and examine an OLD spike: in G. pumila its axis stays comparatively SHORT and COMPACT in fruit. Flowers are small, pale pink-purple to violet, each a single fused tube opening into five lobes. A 10× lens helps find the narrow bract below each hairy ribbed calyx. Check these characters together; either leaf size or purple flowers alone is insufficient.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Low short-lived ANNUAL, often spreading/prostrate or ascending to ~19 cm tall in Williamson County records; heights overlap other species."
+    },
+    {
+      "label": "Identification",
+      "text": "Opposite decussate leaves on slender sometimes four-angled, densely hairy stems."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature SIMPLE leaf blade often 12–27 mm overall, broadly ovate to triangular, with 3–6 pairs of broader fanlike primary lobes and some second-order cuts."
+    },
+    {
+      "label": "Identification",
+      "text": "Both ordinary stiff hairs and tiny STALKED GLANDULAR hairs, sometimes reddish-tipped, especially young shoots and flower parts."
+    },
+    {
+      "label": "Identification",
+      "text": "Tight terminal flowering spike with crowded small pink/lilac-purple tubular corollas."
+    },
+    {
+      "label": "Identification",
+      "text": "Corolla made of one fused tube with FIVE spreading lobes; often whitish center, NOT five separate petals."
+    },
+    {
+      "label": "Identification",
+      "text": "Individual narrow bract immediately SUBTENDS each flower's hairy 5-ribbed calyx; distinguish the two only on a clearly exposed side macro."
+    },
+    {
+      "label": "Identification",
+      "text": "Small compact fruiting spike whose axis does NOT elongate greatly, contrasting older elongated G. bipinnatifida spikes."
+    },
+    {
+      "label": "Identification",
+      "text": "Use mature foliage, floral tube/calyx and mature fruiting axis TOGETHER; neither flower color nor habit alone confirms species."
+    },
+    {
+      "label": "Habit",
+      "text": "Small annual, commonly low/spreading or ascending, in Williamson County specimens up to ~19 cm; stems square/4-angled, often hairy with stalked glandular hairs."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite/decussate SIMPLE leaves, usually petiolate, at nodes on four-sided stems; pair appears at matching heights."
+    },
+    {
+      "label": "Leaf dissected",
+      "text": "Mid-stem mature leaves often 12–27 mm, outline broadly ovate/triangular. Typically 3–6 pairs of relatively broad, fanlike major lobes with 1–2 further notches; overall less finely/regularly pinnate than most mature G. bipinnatifida. Juvenile leaves and plant vigor vary substantially."
+    },
+    {
+      "label": "Flowering structure",
+      "text": "Short, tight terminal spike densely filled with individual flowers. One flower per narrow subtending bract; old fruiting axis grows little rather than stretching into obvious separated calyx intervals."
+    },
+    {
+      "label": "Flower measurements",
+      "text": "Flower limb about 7–8 mm across (UT Williamson); Flower corolla tube ~4–5 mm plus throat ~2–3 mm; North Central Texas key gives corolla tube roughly 8–10 mm depending on measurement convention. Do not mix tube-only and tube-plus-throat numbers."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "G. bipinnatifida has larger, more deeply and finely 1–2-pinnately dissected leaves and generally a coarser, more feathery appearance. G. pumila is the smaller, compact, broad-lobed plant."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5d780ea76f940851f75d5191ce2d89351c25eda8e0008443a7dca5088f9767bd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

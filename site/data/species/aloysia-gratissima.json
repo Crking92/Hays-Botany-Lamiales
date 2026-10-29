@@ -1,0 +1,30 @@
+{
+  "id": "aloysia-gratissima",
+  "family": "Verbenaceae",
+  "genus": "Aloysia",
+  "scientific_name": "Aloysia gratissima",
+  "common_name": "Whitebrush / beebush",
+  "look_here_first": "Measure several mature leaves and compare intact axillary racemes. Leaves often 10–20 × 5–8 mm; short racemes have crowded flower bases. Do not identify by white flowers or scent alone.",
+  "key_traits": [
+    {
+      "label": "Leaves",
+      "text": "Opposite, usually small oblong or oblanceolate blades; typically entire but some forms toothed."
+    },
+    {
+      "label": "Racemes",
+      "text": "Short, dense, axillary; flower bases close together."
+    },
+    {
+      "label": "Habit",
+      "text": "Branched woody aromatic shrub; axillary leafy fascicles may be present."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "040e4f1f495e0d7671b3dad5e646bbb15012495af1ea490e5d2dd989a984aa14",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
