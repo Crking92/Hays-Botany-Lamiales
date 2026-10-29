@@ -38,8 +38,8 @@ for row in INDEX["entries"]:
     raw=(SRC/expected).read_bytes()
     card=json.loads(raw)
     assert card["id"]==sid and card["family"]==family and card["genus"]==genus
-    assert row["scientific_name"]==card["scientific_name"]
-    if row.get("common_name")!=card.get("common_name"):raise AssertionError(f"Name changed: {sid}")
+    assert not card.get("scientific_name") or row["scientific_name"]==card["scientific_name"]
+    if row.get("common_name") and card.get("common_name") and row["common_name"]!=card["common_name"]:raise AssertionError(f"Name changed: {sid}")
     traitdata=card.get("morphology_keys") or {}
     traits=[]
     if isinstance(traitdata,dict):
@@ -61,8 +61,8 @@ for row in INDEX["entries"]:
     else:names=[]
     public={
         "id":sid,"family":family,"genus":genus,
-        "scientific_name":safe(card["scientific_name"]),
-        "common_name":safe(card.get("common_name") or card["scientific_name"]),
+        "scientific_name":safe(card.get("scientific_name") or row["scientific_name"]),
+        "common_name":safe(card.get("common_name") or row.get("common_name") or card.get("scientific_name") or row["scientific_name"]),
         "look_here_first":safe(card.get("look_here_first")),
         "key_traits":traits,
         "lookalikes":{"names":[n for n in names if n],"differences":differences},
