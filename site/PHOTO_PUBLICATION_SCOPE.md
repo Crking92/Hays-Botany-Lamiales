@@ -1,13 +1,7 @@
-# Hays Botany — existing-source photo pilot (October 29)
+# Hays Botany - rights-filtered photographed species gallery
 
-The Lamiales website has **102 species teaching summaries** and an approved manifest referencing **eight existing-source photographs across eight species**. Each exact source file was checked on Wikimedia Commons for public-domain or Creative Commons licensing and individual attribution.
+This public family site includes **102 teaching summaries** and **21 individually attributed photographs across 12 species**. **16** photographs are stored as exact byte-verified JPEG/PNG files under the site's media directory; **5** approved Commons photos are linked from Wikimedia rather than copied.
 
-Photographed species: flame acanthus, lemon beebalm, spotted horsemint, scarlet sage, autumn sage, mealy blue sage, frogfruit, and trumpet creeper.
+Only source-specific public-domain, Creative Commons, or original-photographer approved images are included. No unreviewed quarantine media were promoted. Photographer, exact source and license appear on every visible species gallery image. Attribution and anatomical image suitability remain independently reviewable; photographs alone do not mean anatomy arrows and lessons are complete.
 
-- Approved source list: `site/data/reviewed-external-photo-manifest.json`.
-- One image per listed species is linked directly to an upstream Wikimedia Commons photograph, with source, photographer, license, and license URL in its field-ID gallery.
-- **Zero historical source/quarantine photo files were copied into the site output**, and no photos were downloaded or modified for this batch.
-- The eight source references are committed, but a fresh live Pages visual/image-fetch smoke check for this latest batch is not yet recorded. It is a photo release *candidate* until that check passes.
-- The remaining source photos are held from the website pending individual image rights and identification QA. The original learner remains a fallback.
-
-Source files already present in public repository history are a separate matter from the website's filtered output.
+The source-only cards and excluded historical image records remain preserved. The original learner is still a fallback.

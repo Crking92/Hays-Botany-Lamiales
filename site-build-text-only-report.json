@@ -1,17 +1,19 @@
 {
-  "status": "PASS_EXISTING_TEXT_DATA_ONLY",
+  "status": "PASS_EXISTING_TEXT_WITH_RIGHTS_FILTERED_GALLERY",
   "collection": "lamiales",
   "source_species": 102,
   "published_site_species": 102,
   "distinct_families": 11,
   "external_photos_downloaded": 0,
-  "embedded_original_photo_files": 0,
+  "embedded_original_photo_files": 16,
+  "site_media_source_sha_verified": 16,
+  "external_commons_photo_links": 5,
+  "approved_photo_species": 12,
   "private_photo_quarantine_files_copied": 0,
   "photo_claimed_publicly_permitted_without_review": 0,
-  "existing_public_cc_photo_links": 8,
+  "existing_public_cc_photo_links": 21,
   "family_pages_ready_for_text_browsing": true,
   "original_hub_modified": false,
   "source_family_branch_modified": false,
-  "new_plant_installations": 0,
-  "photo_link_stage": "EIGHT_APPROVED_MANIFEST_REFERENCES_COMMITTED; LIVE_PAGES_PHOTO_FETCH_NOT_RECHECKED"
+  "new_plant_installations": 0
 }
