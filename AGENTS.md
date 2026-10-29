@@ -1,3 +1,5 @@
+> **NEW BOTANICAL EDITORIAL ROUTE (USER APPROVED OCT 28, 2026).** This is the family-owned **active new-work branch `staging/original-source-transfer`** for new/updated plant cards, diagnostic photos, genus/family lessons, annotation data and `data/collection-index.json`; **do NOT send new plant content to `Crking92/Hays-County-Botany`**. Old hub remains read-only historic/source reference and public website fallback. No family Pages publication or repo visibility change is approved. See [active routing JSON](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/ACTIVE_NEW_PLANT_WRITE_ROUTING_20261028.json). Respect exact image rights, family assignments, concurrent edits, original SHA, source references and local validators.
+
 # Hays-Botany-Lamiales — repository guidance (2026-10-28)
 
 Status: **collection setup / staging only**. 11 assigned families, 102 original-hub installed species at planning baseline. These are historical planning counts, not live verified inventories.
