@@ -97,6 +97,7 @@ pilot_path=data/"reviewed-external-photo-manifest.json"
 approved=[]
 hosted=0
 externally_linked=0
+approved_local_paths=set()
 if pilot_path.exists():
     pilot=json.loads(pilot_path.read_text(encoding="utf-8"))
     assert pilot.get("schema_version")==1 and isinstance(pilot.get("species"),dict)
@@ -130,6 +131,7 @@ if pilot_path.exists():
                 git_sha=hashlib.sha1(b"blob "+str(len(raw)).encode()+b"\x00"+raw).hexdigest()
                 assert git_sha==p.get("source_blob_sha"),f"Source image byte SHA mismatch: {src}"
                 hosted+=1
+                approved_local_paths.add(photo_path.resolve())
             else:
                 assert src.startswith(("https://upload.wikimedia.org/wikipedia/commons/","https://commons.wikimedia.org/wiki/Special:Redirect/file/"))
                 externally_linked+=1
@@ -139,6 +141,10 @@ if pilot_path.exists():
                 assert source.startswith("https://www.inaturalist.org/photos/") and p["creator"]=="Glass Root Garden"
                 assert "Direct reuse permission" in p.get("rights_note",""),"Public owner grant must be explicit"
             approved.append((sid,p))
+site_media=site/"media"
+if site_media.exists():
+    actual_media={p.resolve() for p in site_media.rglob("*") if p.is_file()}
+    assert actual_media==approved_local_paths,"Unapproved/untracked file exists under public site/media"
 notice=site/"PHOTO_PUBLICATION_SCOPE.md"
 if approved:
     notice.write_text(
