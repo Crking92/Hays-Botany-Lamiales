@@ -1,3 +1,5 @@
+> **October 29 public learner update:** The [Lamiales family learner](https://crking92.github.io/Hays-Botany-Lamiales/site/) contains 102 searchable species lessons from 11 families. A first **single existing-source, individually reviewed CC BY 2.0 photograph** (flame acanthus, photo by Scott) is linked from Wikimedia Commons and credited on the species card; other images remain excluded from the site pending image-level review. See [exact photo scope](site/PHOTO_PUBLICATION_SCOPE.md) and [approved photo manifest](site/data/reviewed-external-photo-manifest.json). The image is linked from its original host, **not yet archived as a new GitHub-hosted website image**. The repo and its historical staging branches are now public; historical wording below referring to private storage is obsolete. New botanical edits still route to the registered family staging branch, and the original learner stays as fallback. No new restricted photo bytes were transferred for this pilot.
+
 # Hays Botany — Lamiales
 
 **Original source-file migration PASS in private staging — NOT a live learner or authoritative source.**
