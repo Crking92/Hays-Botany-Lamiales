@@ -1,0 +1,65 @@
+name: Verify public family photo gallery image delivery
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/data/reviewed-external-photo-manifest.json'
+      - 'site/media/**'
+      - 'site/app.js'
+      - 'site/styles.css'
+      - '.github/workflows/verify-live-photo-gallery.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check live Lamiales image links against each approved media record
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json,time,urllib.request,urllib.error
+          from pathlib import Path
+          from concurrent.futures import ThreadPoolExecutor
+          BASE="https://crking92.github.io/Hays-Botany-Lamiales/site/"
+          local=json.loads(Path("site/data/reviewed-external-photo-manifest.json").read_text())
+          assert len(local["species"])>0
+          expected=sum(len(v) for v in local["species"].values())
+          def fetch(path):
+              req=urllib.request.Request(BASE+path,headers={"User-Agent":"HaysBotany-PhotoIntegrityCheck/1.0"})
+              with urllib.request.urlopen(req,timeout=15) as resp:
+                  return resp.status,resp.headers.get("Content-Type",""),resp.read()
+          for retry in range(6):
+              try:
+                  status,_,body=fetch("data/reviewed-external-photo-manifest.json")
+                  live=json.loads(body)
+                  if status==200 and sum(len(v) for v in live["species"].values())==expected:
+                      break
+              except Exception as e:
+                  print("Live manifest not yet refreshed",repr(e))
+              print("Waiting for public Pages manifest to match main; attempt",retry+1)
+              time.sleep(12)
+          else:
+              raise AssertionError("Live Pages manifest is not the currently approved photo release")
+          assert "gallery-strip" in fetch("styles.css")[2].decode()
+          assert "approvedPhotos" in fetch("app.js")[2].decode()
+          assert len(json.loads(fetch("data/collection-index.json")[2])["entries"])==102
+          localpaths=[p["src"] for pics in live["species"].values() for p in pics if p["src"].startswith("media/")]
+          def check(path):
+              status,ctype,body=fetch(path)
+              assert status==200 and ctype.lower().startswith("image/"),(path,status,ctype)
+              assert body.startswith((b"\xff\xd8\xff",b"\x89PNG\r\n\x1a\n")),path
+              assert len(body)>1000,path
+              return path,len(body)
+          with ThreadPoolExecutor(max_workers=7) as executor:
+              delivered=list(executor.map(check,localpaths))
+          print("LIVE_PUBLIC_GALLERY_IMAGE_PASS",json.dumps({
+              "species":len(live["species"]),"total_approved_photos":expected,
+              "github_hosted_images_loaded":len(delivered),
+              "external_commons_links_not_checked":expected-len(delivered),
+              "image_byte_total":sum(size for _,size in delivered)
+          },sort_keys=True))
+          PY
