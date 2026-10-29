@@ -1,0 +1,64 @@
+name: Restore more existing Lamiales CC source photos (never harvest)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/restore_remaining_existing_source_photos.py'
+      - '.github/workflows/restore-additional-existing-lamiales-photos.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: lamiales-existing-source-gallery-backfill
+  cancel-in-progress: false
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: website
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/original-source-transfer
+          path: source
+          persist-credentials: false
+      - name: Restore only source-migrated exact-photo public-license media
+        run: |
+          python3 -m py_compile website/scripts/restore_remaining_existing_source_photos.py
+          python3 website/scripts/restore_remaining_existing_source_photos.py source website
+      - name: Commit verified historic photos and source-specific approval ledger
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd website
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          mapfile -t images < <(find site/media -type f | sort)
+          for ((i=0; i<${#images[@]}; i+=45)); do
+            slice=("${images[@]:i:45}")
+            git add -- "${slice[@]}"
+            if ! git diff --cached --quiet; then
+              git diff --cached --check
+              git commit -m "Archive 45-or-fewer source-licensed Lamiales photos in website"
+            fi
+          done
+          git add site/data/reviewed-external-photo-manifest.json site/PHOTO_PUBLICATION_SCOPE.md site/photo-source-migration-report.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Connect approved original Lamiales photo galleries with per-photo holds"
+          fi
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:refs/heads/main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lamiales-original-media-rights-checkpoint
+          path: website/site/photo-source-migration-report.json
+          retention-days: 60
+          if-no-files-found: warn
