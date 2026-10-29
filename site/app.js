@@ -1,6 +1,6 @@
 "use strict";
 const $=id=>document.getElementById(id);
-const siteState={config:null,entries:[],active:null,mode:"learner"};
+const siteState={config:null,entries:[],active:null,mode:"learner",details:new Map()};
 const hub="https://crking92.github.io/Hays-County-Botany/";
 function setText(node,text){node.textContent=String(text??"");return node}
 function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)setText(n,text);if(cls)n.className=cls;return n}
@@ -10,7 +10,7 @@ function renderList(){
  const result=$("results");clear(result);
  const q=$("search").value.trim().toLocaleLowerCase();
  const list=siteState.entries.filter(x=>(String(x.scientific_name||"")+" "+String(x.common_name||"")).toLocaleLowerCase().includes(q));
- if(!siteState.entries.length){result.append(el("p","No species imported yet. The existing main Hays Botany learner still contains the authoritative cards.","muted"));return}
+ if(!siteState.entries.length){result.append(el("p","No species in this collection release. Open the legacy Hays Botany learner for older records.","muted"));return}
  if(!list.length){result.append(el("p","No matching plants in this collection.","muted"));return}
  for(const s of list){
    const b=el("button");b.type="button";b.append(el("strong",s.common_name||s.scientific_name),el("em",s.scientific_name));
@@ -18,13 +18,63 @@ function renderList(){
    b.addEventListener("click",()=>select(s.id,true));result.append(b);
  }
 }
-function select(id,push){
+async function select(id,push){
  const r=siteState.entries.find(x=>x.id===id);
  if(!r){statusMessage("Plant not available","That species has not been imported or verified in this family collection.");return}
  siteState.active=id;renderList();
- const d=$("detail");clear(d);d.append(el("p",r.family+" · "+r.genus,"sectionnum"),el("h3",r.common_name||r.scientific_name),el("p",r.scientific_name,"latin"));
- d.append(el("p","A verified "+(siteState.mode==="learner"?"visual lesson":"field-identification tile")+" will be displayed here after source data, photos, and anatomy annotations have passed the migration and publication reviews.","muted"));
  if(push){const url=new URL(location.href);url.searchParams.set("species",id);history.pushState({species:id},"",url)}
+ const d=$("detail");clear(d);d.append(el("p",r.family+" · "+r.genus,"sectionnum"),el("h3",r.common_name||r.scientific_name),el("p",r.scientific_name,"latin"));
+ try{
+   if(!siteState.details.has(id)){
+     const resp=await fetch("data/species/"+encodeURIComponent(id)+".json");
+     if(!resp.ok)throw Error("Verified teaching summary is not available yet");
+     siteState.details.set(id,await resp.json());
+   }
+   if(siteState.active!==id)return;
+   const card=siteState.details.get(id);
+   d.append(el("p","Field-identification text from the existing Hays Botany scientific record. Photographs in this first family release are temporarily withheld pending source-specific public-reuse review.","muted"));
+   if(card.look_here_first){
+     d.append(el("h3","LOOK HERE FIRST"));
+     d.append(el("p",card.look_here_first));
+   }
+   if(siteState.mode==="learner" && Array.isArray(card.key_traits)&&card.key_traits.length){
+     d.append(el("h3","Anatomy and field recognition"));
+     const list=el("ul");
+     for(const trait of card.key_traits.slice(0,10)){
+       const li=el("li");li.append(el("strong",trait.label+": "),document.createTextNode(trait.text));list.append(li);
+     }
+     d.append(list);
+   }
+   if(card.lookalikes){
+     d.append(el("h3","Look-alikes"));
+     if(card.lookalikes.names?.length)d.append(el("p","Compare with: "+card.lookalikes.names.join(", ")));
+     if(card.lookalikes.differences)d.append(el("p",card.lookalikes.differences));
+   }
+   if(Array.isArray(card.verified_photos)&&card.verified_photos.length){
+     const heading=el("h3","Real species photographs");d.append(heading);
+     d.append(el("p","Scroll sideways to compare the photographed structures. Image rights vary by photograph; review each caption. Anatomy arrows have not yet been individually certified.","muted"));
+     const strip=el("div",undefined,"gallery-strip");
+     for(const photo of card.verified_photos){
+       const fig=el("figure",undefined,"gallery-photo");
+       const link=document.createElement("a");link.href=photo.src;link.target="_blank";link.rel="noopener noreferrer";link.setAttribute("aria-label","Open original-size preview of "+(photo.role||card.scientific_name));
+       const image=document.createElement("img");image.src=photo.src;image.loading="lazy";image.alt=card.scientific_name+": "+(photo.role||"verified species photograph");
+       link.append(image);fig.append(link);
+       const cap=el("figcaption");cap.append(el("strong",photo.role||"Species photograph"),el("small","Photo: "+photo.creator+" · "+photo.license+". Resized for this learner, source credited."));
+       if(photo.noncommercial_only)cap.append(el("small","NONCOMMERCIAL-ONLY reuse. No commercial use or redistribution outside license terms.","photo-nc"));
+       if(photo.private_rights_review_only)cap.append(el("small",photo.rights_note||"Private review: public license verification still required.","photo-review"));
+       const sources=el("div",undefined,"source-links");
+       for(const [label,url] of [[photo.source_page_is_exact===false?"Related iNaturalist reference (exact photo page pending)":"Photo source",photo.source_page],["License",photo.license_url]]){
+         if(!url||!url.startsWith("https://"))continue;
+         const a=el("a",label);a.href=url;a.target="_blank";a.rel="noopener noreferrer";sources.append(a);
+       }
+       cap.append(sources);fig.append(cap);strip.append(fig);
+     }
+     d.append(strip);
+   }else d.append(el("p","Photographs for this species are held for source-rights or visual review. Its text lesson is available; see the current main learner for any existing images.","muted"));
+
+ }catch(error){
+   if(siteState.active===id)d.append(el("p","Teaching summary pending: "+error.message,"muted"));
+ }
 }
 function setMode(mode){
  siteState.mode=mode;
