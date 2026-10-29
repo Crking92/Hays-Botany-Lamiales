@@ -1,0 +1,46 @@
+{
+  "id": "physostegia-correllii",
+  "family": "Lamiaceae",
+  "genus": "Physostegia",
+  "scientific_name": "Physostegia correllii",
+  "common_name": "Correll's false dragonhead",
+  "look_here_first": "Think tall wetland obedient-plant: a rhizomatous perennial often over 1 m tall, with opposite narrow leaves and a long spike of pink-purple bilabiate flowers in saturated stream-edge or drainage habitat.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "often 1 m or taller"
+    },
+    {
+      "label": "Identification",
+      "text": "square mint-family stems"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite narrow lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "elongated terminal spike of pink-purple bilabiate flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers borne in repeated verticillaster-like clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "streambank, ditch, spring, river-edge and saturated sediment habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with the broad Physostegia virginiana complex, P. correllii is a rare southern wetland specialist with strong stream-edge affiliation and a tall, rhizomatous habit."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1b154a2caec1457594faa6b364fad106309a1a0f3639b9ab7511d5973a4ce0e5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

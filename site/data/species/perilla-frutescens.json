@@ -1,0 +1,17 @@
+{
+  "id": "perilla-frutescens",
+  "family": "Lamiaceae",
+  "genus": "Perilla",
+  "scientific_name": "Perilla frutescens",
+  "common_name": "Perilla",
+  "look_here_first": "Inspect opposite, strongly toothed aromatic leaves on a square stem, and the small two-lipped flowers arranged in slender spikes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c8e1ce174a64e361d958f35f4e28a6d9fe478d5dbab604479161971ae34d90d0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

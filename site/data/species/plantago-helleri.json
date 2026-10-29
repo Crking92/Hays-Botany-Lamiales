@@ -1,0 +1,17 @@
+{
+  "id": "plantago-helleri",
+  "family": "Plantaginaceae",
+  "genus": "Plantago",
+  "scientific_name": "Plantago helleri",
+  "common_name": "Heller's plantain",
+  "look_here_first": "Inspect the basal rosette and the lengthwise veins of each leaf, then examine the erect fruiting spikes and seed capsules.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6100be17772016cb8d17e02530c298bac219626c6ee2e8ad7826ddcacfa4b15f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

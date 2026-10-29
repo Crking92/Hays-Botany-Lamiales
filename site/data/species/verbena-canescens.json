@@ -1,0 +1,50 @@
+{
+  "id": "verbena-canescens",
+  "family": "Verbenaceae",
+  "genus": "Verbena",
+  "scientific_name": "Verbena canescens",
+  "common_name": "Gray vervain / Woolly vervain",
+  "look_here_first": "Look for the gray cast before anything else: this is the short, low vervain whose stems and leaves are densely covered in stiff whitish hairs, giving the entire plant a canescent or dusty-gray appearance.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low perennial, commonly under about 30 cm in the Williamson County treatment"
+    },
+    {
+      "label": "Identification",
+      "text": "stems and leaves densely hirsute/canescent, producing a gray-green appearance"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite sessile to subsessile leaves, elliptic to oblong or nearly linear"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins with only a few teeth or short lobes rather than deep major divisions"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal many-flowered slender spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx and rachis conspicuously hairy, including pustulate-based hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "four one-seeded mericarps with strongly pitted outer faces"
+    },
+    {
+      "label": "Verbena training",
+      "text": "Separate these by leaf architecture + hair texture + spike/branching architecture before using flower color."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3301265a0d407f3974fce52e57f59bfcec3a985ca2aa4f6c836f507d162b3b41",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

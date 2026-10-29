@@ -1,0 +1,46 @@
+{
+  "id": "penstemon-tenuis",
+  "family": "Plantaginaceae",
+  "genus": "Penstemon",
+  "scientific_name": "Penstemon tenuis",
+  "common_name": "Sharpsepal beardtongue",
+  "look_here_first": "Start with scale and habitat: small lavender-violet flowers on slender branched stems in wet alluvial or coastal-prairie settings; sharp calyx lobes and an orange-haired exserted staminode are key details.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial with slender erect branched stems"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite sessile oblong to lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "small sharp-tipped calyx lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "small lavender-violet corolla about 10–14 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "white-villous lower throat"
+    },
+    {
+      "label": "Identification",
+      "text": "exserted staminode with orange distal hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "small capsules"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Much smaller-flowered and wetter-site than P. cobaea, P. triflorus, or woody-based P. baccharifolius."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8d9537696581fe117a64f709af26e0da290d3d1e46cf625711b83beae1ef9382",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

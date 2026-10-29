@@ -1,0 +1,74 @@
+{
+  "id": "monarda-citriodora",
+  "family": "Lamiaceae",
+  "genus": "Monarda",
+  "scientific_name": "Monarda citriodora",
+  "common_name": "Lemon beebalm",
+  "look_here_first": "CREW: Look for a strongly aromatic, upright mint with opposite leaves on a four-angled stem and two to six DISTINCT, spaced flower rings. Find one actual two-lipped tubular flower and the broad pink, purple, sometimes PALE bracts directly underneath its flower tier. For a stronger split from spotted horsemint (Monarda punctata), inspect the long slender bristle tips of the floral bracts and especially the narrow, bristle-like calyx teeth; do NOT identify by purple color alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "erect aromatic annual with four-angled mint-family stems"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite lanceolate to oblong-lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal inflorescence formed by separated dense flower whorls"
+    },
+    {
+      "label": "Identification",
+      "text": "upper floral bracts often conspicuously purple or purple-tinted"
+    },
+    {
+      "label": "Identification",
+      "text": "floral bracts abruptly narrowed to long bristle-like tips"
+    },
+    {
+      "label": "Identification",
+      "text": "tubular ribbed calyx with long stiff bristle-tipped teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "bilabiate white to pink/lavender corollas, commonly purple-spotted or lined"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit divides into four nutlets"
+    },
+    {
+      "label": "Habit",
+      "text": "Typically a taprooted, aromatic annual of open ground; often erect 30–75 cm tall in the Williamson County botanical treatment, although height varies with site. Multiple stems or branches may support stacked flowering heads."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite and decussate, the opposite leaf pairs alternating their orientation up a generally four-sided mint-family stem."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple, generally lanceolate to oblong-lanceolate, often about 30–60 × 6–14 mm in the UT Williamson County species account, with low serrations and gland-dotted aromatic tissue; avoid using one leaf size as a strict species diagnosis."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "An interrupted flowering axis with commonly 1–5(–7) widely spaced many-flowered nodes (verticils/verticillasters) in the Williamson County material; conspicuous modified floral bracts under each dense whorl may be pink-purple, green, or pale."
+    },
+    {
+      "label": "Floral bracts",
+      "text": "Bract = a modified leaf below the flowers, NOT a petal. Outer bracts can be colorful and end in visibly LONG narrow hairlike/bristlelike tips (aristate). Purple is common but not required: the Glass Root Garden pale-flowered observation illustrates natural color variability, not cultivar identity."
+    },
+    {
+      "label": "Calyx",
+      "text": "Calyx = the 5-toothed, ribbed tubular cup surrounding the base of each flower. Lemon beebalm has long slender, stiff, sharply tapering calyx teeth, often with stiff hairs. Actual tooth tips require a carefully focused side/close macro; do not confuse these smaller teeth with the larger showy bracts."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The fastest split from spotted horsemint is the long bristle-tipped bracts/calyx teeth of M. citriodora versus the shorter pointed bracts and short triangular-lanceolate calyx teeth of M. punctata."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "801dac2ac192fea4f3e94d0b825b3b9214f3217cb8683fa858445288053034ea",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

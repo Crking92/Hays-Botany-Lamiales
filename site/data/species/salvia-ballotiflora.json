@@ -1,0 +1,66 @@
+{
+  "id": "salvia-ballotiflora",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia ballotiflora",
+  "common_name": "Shrubby Blue Sage",
+  "look_here_first": "This is a WOODY branching shrub with SMALL BLUE to lavender flowers (often ~10–13 mm long), rough/hairy ovate leaves with serrated/wavy edges. Do not describe its leaves as categorically smaller than autumn sage: sizes overlap (ballotiflora ~15–38 mm vs greggii ~8–48 mm in descriptions). More useful split: balloon-flower shrub sage's distinctly textured leaf faces and tiny blue-purple corollas versus S. greggii's generally smoother leaf blades with larger often ~25-mm showy corollas. Hays introduced-from-Medina specimen is NOT proof this is wild native in Hays.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "woody densely branched shrub/subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "small ovate leaves with serrate/wavy margins"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf surfaces hairy/rough"
+    },
+    {
+      "label": "Identification",
+      "text": "small blue to purple flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "elongated flower clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "dry rocky limestone/scrub habitat"
+    },
+    {
+      "label": "Identification",
+      "text": "At close range, inspect the hairy calyx/corolla tube and upper-lip hairs; Joey notes flowers around 10 mm across."
+    },
+    {
+      "label": "Flower detail",
+      "text": "Showy for its size but MUCH smaller than S. greggii in comparison: blue to lavender-purple bilabiate flowers about 10–13 mm; hair on upper corolla lip/calyx, which requires focused macro."
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey also notes pleasant volatile compounds/aromatic character in the leaves; treat odor as a supporting cue, not a primary ID character."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite ovate leaves roughly 15–38 mm, often coarsely toothed or crenulate/wavy, hair roughness on upper and lower faces; dimensions may overlap S. greggii."
+    },
+    {
+      "label": "Comparison to greggii",
+      "text": "S. greggii also woody and may have similarly small leaves, but many cultivated S. greggii have large ~25 mm corollas and comparatively smooth elliptic foliage; don't rely on leaf LENGTH alone."
+    },
+    {
+      "label": "Hays flora context",
+      "text": "UT Austin Hays flora specifically lists Salvia ballotiflora as introduced from a cliff above Medina River (Medina County) to Hays collection. This is not wild in-situ Hays nativity proof; keep historical introduction separate from source-pool learner inclusion."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d70309dc524c92fda0a5041b5cbb328f9fee85950760460842d17cdb19fb31c2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

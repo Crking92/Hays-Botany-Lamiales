@@ -1,0 +1,74 @@
+{
+  "id": "phyla-nodiflora",
+  "family": "Verbenaceae",
+  "genus": "Phyla",
+  "scientific_name": "Phyla nodiflora",
+  "common_name": "Turkey tangle frogfruit",
+  "look_here_first": "CREW FIELD ID: First find a low mat of running stems. Look at nodes for opposite paired leaves, and follow the thin mostly leafless flower stalk back to a leaf axil. Its tiny white/lilac flowers cluster around a purplish button that elongates with age. Inspect 3–5 mature leaves: a blade commonly widest beyond midlength, with most teeth toward the tip and a narrowing, less-toothed base. Rooting at buried/contact nodes is typical but may be hidden. These characters support Phyla; they do NOT unambiguously separate traditional P. nodiflora from P. lanceolata or P. cuneifolia, which a 2025 revision combines.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "GROUND LEVEL: creeping perennial, frequently forming interconnected mats; a growing point may root where it touches soil"
+    },
+    {
+      "label": "Identification",
+      "text": "NODE: paired opposite (decussate) leaves with little or no visible stalk; young stems can appear nearly four-sided"
+    },
+    {
+      "label": "Identification",
+      "text": "LEAF: generally spoon-shaped to elliptic; many mature blades broader beyond halfway and toothed mainly nearer tip; check several leaves because this varies"
+    },
+    {
+      "label": "Identification",
+      "text": "FLOWER: one slender, mostly naked stalk from a leaf axil, topped with a tight button/cylinder of minute white to lavender two-lipped flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "FRUIT: an older head becomes elongated and scaly; individual dry fruits split into two tiny one-seeded mericarps, not usually visible without dissection"
+    },
+    {
+      "label": "Habit and stems",
+      "text": "Perennial clonal, low prostrate to procumbent herb. Tough, flexible runners/rooting stems, typically 2.5–30 cm tall including ascending shoots (UT Williamson County treatment); buried/contact nodes can form adventitious roots. Young shoots may be weakly four-angled. Rooting habit is useful but not species-unique."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite and decussate: two leaves are borne at each node, with successive pairs rotated about 90 degrees. Not alternate; pair attachment is a high-value field check."
+    },
+    {
+      "label": "Leaves",
+      "text": "Usually (5–)10–30 mm long × 3–12 mm wide in UT Williamson County specimens. Oblanceolate, spatulate or elliptic, tapering toward a short petiole (often <2.5 mm). Usually several teeth per side mainly above the middle, but old/shaded/drought shoots vary considerably; inspect multiple leaves. Hairs can be inconspicuous without magnification."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "A single many-flowered condensed headlike spike arises from a leaf axil on a mostly leafless peduncle (usually 4–70 mm, occasionally to 90 mm in UT county treatment). Head initially approximately spherical/button-shaped, elongating into a short cylinder as it matures (often 5–20 × 4.5–8 mm). Repeated purple/green overlapping bracts form a scaly head."
+    },
+    {
+      "label": "Flowers",
+      "text": "Minute white, lilac or pinkish, bilaterally symmetrical, two-lipped flowers, sometimes with yellow throat/marking, emerge in a ring around the head. Treat color as variable; flower architecture and stalk origin matter more."
+    },
+    {
+      "label": "Fruits",
+      "text": "Dry schizocarp hidden among bracts and enclosed by a persistent calyx; separates into TWO one-seeded mericarps (nutlets), usually about 1.6–2 mm long. A photo of the brown cylindrical HEAD does not by itself reveal the isolated mericarps. Hand lens or dissected mature head needed."
+    },
+    {
+      "label": "Microscope traits",
+      "text": "Appressed two-armed, medifixed (T-shaped or malpighiaceous) hairs are characteristic of Phyla. Check stems and leaf surfaces under magnification; do not claim that ordinary habit photos resolve individual hairs. Genus-level, not a nodiflora-vs-lanceolata shortcut."
+    },
+    {
+      "label": "Hays county habitat",
+      "text": "Look in openings, lawns, sidewalk/bed edges, moist low spots, drainage margins, alluvial soils and disturbed ground in Central Texas. The taxon tolerates wet spells and dry periods; its growth and bloom display may change with mowing or irrigation. A planted patch alone is not proof of natural county occurrence."
+    },
+    {
+      "label": "Phenology",
+      "text": "Flowers repeatedly through warm weather in Central Texas, generally spring through fall and sometimes longer in mild conditions; living stems may persist through winter. Heads can carry flowers, bracts and developing fruits together, and the same patch can show rounded young and cylindrical old heads."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Phyla lanceolata: The best leaf split: P. nodiflora is usually widest beyond the middle and its teeth are concentrated in the distal half; P. lanceolata is widest nearer the middle and the teeth extend farther down the blade. Phyla cuneifolia: Wedgeleaf frogfruit has a more distinctly wedge-shaped leaf architecture. Use several mature leaves rather than one odd leaf, because Phyla leaf shape varies along a shoot. Glandularia spp.: Glandularia can also form low mats with verbena-like flowers, but its flowers are much larger and borne in more open terminal heads/spikes; Phyla has tiny flowers packed into a compact button/cylinder on a naked axillary peduncle."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "312bdfc1fa038328ec34234a3897530b7bc68fc3ee165c9d63236d29c7a8c698",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

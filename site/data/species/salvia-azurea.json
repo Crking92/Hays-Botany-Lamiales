@@ -1,0 +1,54 @@
+{
+  "id": "salvia-azurea",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia azurea",
+  "common_name": "Azure Sage",
+  "look_here_first": "Find narrow cauline leaves and the long, loose blue-flowering axis. Flip to a flower CALYX: the green 15-ribbed surface (local var. grandiflora treatment) remains visible between short hairs/glands, unlike the dense white OR violet felt covering S. farinacea calyces. Check flower cluster spacing, not petal blue color alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Woody-rootstock herbaceous perennial, often upright; not a rosette. Central Texas local treatment often below 1 m."
+    },
+    {
+      "label": "Leaves",
+      "text": "UT Texas var. grandiflora: only cauline leaves, narrow linear-lanceolate to linear-oblanceolate ~30–80 × 4–8 mm, mostly entire/subentire."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Long, open interrupted panicle of paired axillary cymes; lower part sometimes leafy; often only 1 flower of each cyme open at a time."
+    },
+    {
+      "label": "Calyx",
+      "text": "Green-surfaced, bell-shaped, ~8 mm long and ca. 15-ribbed (UT local variety treatment), short-hairy with glandular hairs but not densely felted like S. farinacea."
+    },
+    {
+      "label": "Identification",
+      "text": "tall stature"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow linear leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "long open flowering axis"
+    },
+    {
+      "label": "Identification",
+      "text": "green non-mealy calyx"
+    },
+    {
+      "label": "Variety caution",
+      "text": "Central Texas azure sage often var. grandiflora. New Alex Abair close photograph is Florida var. azurea; retain variety/provenance label, do not equate to local material."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fc63dd0e948e5386233ebc4e3ea5206a88318d3d561033cd983f72447ae11c8a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

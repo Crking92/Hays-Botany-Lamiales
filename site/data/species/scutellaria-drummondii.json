@@ -1,0 +1,58 @@
+{
+  "id": "scutellaria-drummondii",
+  "family": "Lamiaceae",
+  "genus": "Scutellaria",
+  "scientific_name": "Scutellaria drummondii",
+  "common_name": "Drummond's skullcap",
+  "look_here_first": "First check the plant base and leaf tips. Drummond's skullcap is a small taprooted annual with visibly glandular-hairy stems/calyces; its leaves are acute-tipped, and lower stem leaves may be shallowly crenate. Then confirm the small blue-violet corolla and the visorlike Scutellaria calyx appendage.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual, taprooted, usually 15–30 cm tall with one to several stems from the base"
+    },
+    {
+      "label": "Identification",
+      "text": "stems four-sided and densely short glandular-hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves opposite and decussate, generally ovate, with acute tips"
+    },
+    {
+      "label": "Identification",
+      "text": "lower cauline leaves shallowly crenate; upper leaves becoming entire"
+    },
+    {
+      "label": "Identification",
+      "text": "leafy raceme with paired opposite axillary flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "pedicel very short at anthesis, about 1–1.2 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx two-lipped with the diagnostic projecting visorlike scutellum/appendage"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx and scutellum visibly glandular short-pilose, often with longer marginal hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla about 5.5–10 mm long, blue-violet to blue; lower lip may have a white center with violet/blue spots"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit produces four small tuberculate nutlets"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Scutellaria wrightii: S. wrightii is a bushy perennial with several-many stems from a persistent base, rounded/obtuse entire leaves, minute pubescence and a smoother-looking calyx; its corolla is larger (mostly 13–18 mm) and its pedicel longer (3–3.5 mm). S. drummondii is annual, acute-leaved, visibly glandular-hairy and smaller-flowered. Scutellaria ovata: S. ovata is a much taller rhizomatous perennial (about 35–70 cm in the Williamson treatment) with much larger triangular-ovate, crenate leaves and much larger corollas (about 21–25 mm)."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "047ef5f720a586a10e5b53c5197b86d8daebf04033ba7e21de3ee3f296affeb3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

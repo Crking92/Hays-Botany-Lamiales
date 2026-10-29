@@ -1,0 +1,50 @@
+{
+  "id": "verbena-scabra",
+  "family": "Verbenaceae",
+  "genus": "Verbena",
+  "scientific_name": "Verbena scabra",
+  "common_name": "Sandpaper vervain",
+  "look_here_first": "Feel or closely inspect the broad leaves: this is the big sandpaper-textured Verbena, with broad ovate leaves and long, thin flowering spikes that can form a branched panicle.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "robust perennial, often 40–150 cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "broad ovate leaves, much wider than those of the other native B013 species"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaf surface harshly scabrous/sandpapery from short stiff hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "lower nodes can root adventitiously in wet or submerged conditions"
+    },
+    {
+      "label": "Identification",
+      "text": "long slender spikes, often grouped into a branched panicle"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers tiny relative to the very long spike"
+    },
+    {
+      "label": "Identification",
+      "text": "stems and rachises scabrous with pustulate-based hairs"
+    },
+    {
+      "label": "Verbena training",
+      "text": "Separate these by leaf architecture + hair texture + spike/branching architecture before using flower color."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "331d520e90f658c13a9deda19e7c17cef6c78fd0ee72148b18dc0392162efd4e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

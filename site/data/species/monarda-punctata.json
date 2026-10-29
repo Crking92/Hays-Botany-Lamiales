@@ -1,0 +1,74 @@
+{
+  "id": "monarda-punctata",
+  "family": "Lamiaceae",
+  "genus": "Monarda",
+  "scientific_name": "Monarda punctata",
+  "common_name": "Spotted horsemint",
+  "look_here_first": "CREW ID: Find an aromatic upright mint with opposite leaves on a square stem and pale white-to-pink leaflike floral bracts under crowded rings of flowers. Look for the ACTUAL cream-to-yellow, often purple-spotted, two-lipped flowers protruding from those tiers. For the critical lemon beebalm comparison, examine the bract tips and the small calyx tube beneath ONE flower with a hand lens: typical spotted horsemint has pointed bracts and shorter, triangular calyx teeth, versus long slender bristles in lemon beebalm. IMPORTANT: Texas M. punctata varieties vary in calyx-tooth length; do not force an ID from one character. In sandy Central Texas habitats also inspect the calyx mouth: M. stanfieldii has a dense whitish hair plug, unlike the generally open/ciliate mouth of M. punctata.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Strongly aromatic annual or short-lived perennial, sometimes persistent depending on variety/site; square or 4-angled often hairy stems"
+    },
+    {
+      "label": "Identification",
+      "text": "Opposite simple lanceolate to narrow-lanceolate leaves with low, uneven teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "Flowering axis commonly bears several distinct crowded tiers (verticillasters), with the uppermost tier terminal; stacking alone does NOT split lemon beebalm"
+    },
+    {
+      "label": "Identification",
+      "text": "Large leaflike white, pale pink, or purplish floral bracts beneath each tier, generally pointed without the long hairlike terminal bristle conspicuous in M. citriodora"
+    },
+    {
+      "label": "Identification",
+      "text": "Actual tubular two-lipped corollas are cream to pale yellow, often speckled with purple or reddish-brown dots; color and spotting have exceptions"
+    },
+    {
+      "label": "Identification",
+      "text": "Green ribbed CALYX immediately behind an individual flower ends in five typically short triangular-to-lanceolate teeth, often ciliate; Texas varieties can have longer teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "Calyx opening is generally open with marginal hairs, not densely sealed by a white-silvery hair plug as in M. stanfieldii"
+    },
+    {
+      "label": "Identification",
+      "text": "Four dry one-seeded nutlets may develop per flower inside the persistent calyx"
+    },
+    {
+      "label": "Habit",
+      "text": "Annual, short-lived perennial or occasionally perennial in the species complex, typically 30–120 cm, erect and often branching; texture and stature vary by variety and site. Do not rely on longevity for species ID."
+    },
+    {
+      "label": "Stems and leaves",
+      "text": "Stems square/4-angled, hairy, aromatic. Leaves opposite, simple, usually lanceolate or narrowly oblong, often approximately 2–9 cm long and up to 2.5 cm wide in the 2023 detailed species account; margins show shallow teeth, sometimes reduced on upper leaves. Mint-family leaf characters are shared with other Monarda."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Several (often 1–4 or sometimes more) dense false whorls (verticillasters), separated by internodes, with showy leaflike upper bracts reaching around or below each tier. A single head on a small shoot does not rule out this species."
+    },
+    {
+      "label": "Floral bracts",
+      "text": "A bract is a LEAFLIKE STRUCTURE beneath the cluster, NOT the flower's petals and NOT the calyx tube surrounding a single flower. M. punctata bracts are commonly whitish, pink or lavender with acute/acuminate tips; their color and outline overlap M. citriodora and seasonal conditions."
+    },
+    {
+      "label": "Corolla",
+      "text": "One actual flower has a distinctly bilabiate (two-lipped) narrow tubular corolla, typically cream/pale yellow with many purple spots; the arching hairy upper lip curves like a hood, and the lower lip broadens and divides into three lobes. Unspotted or lightly marked forms occur; repeated observations outperform one flower."
+    },
+    {
+      "label": "Calyx",
+      "text": "The CALYX is the smaller green, ribbed tube of fused sepals behind ONE flower. Five lobes/teeth surround its opening; typical M. punctata teeth are short, triangular or triangular-lanceolate. UT Austin's Williamson County var. intermedia treatment specifically measures the teeth about 0.5–1 mm and describes them as not stiff-pointed. Other varieties vary in calyx pubescence and tooth shape, so compare multiple structures instead of treating tooth length alone as an absolute species diagnostic."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "First separate it from M. citriodora by the absence of long bristles on the bracts/calyx teeth. For the critical Central Texas M. stanfieldii comparison, inspect the calyx mouth: open/ciliate in M. punctata versus densely plugged with white/silvery hairs in M. stanfieldii."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3bd1bcd9764f18122bc30895cf75e11785e59b4276fe3dc060cf39705048c275",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

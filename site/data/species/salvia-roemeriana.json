@@ -1,0 +1,74 @@
+{
+  "id": "salvia-roemeriana",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia roemeriana",
+  "common_name": "Cedar Sage",
+  "look_here_first": "FIND THE ROSETTE and a WHOLE LEAF. Cedar sage is a taprooted PERENNIAL with low rosette and stem leaves, usually on long petioles; leaves can be simple (one terminal leaflet) or pinnately 3-foliolate with two smaller lateral leaflets. Many basal blades rounded/heart-shaped, unlike scarlet sage's simple deltoid leaves up an upright stem or big red sage's broad, thick, smooth rosette. Then inspect red tubular flowers and shaded cedar-juniper habitat.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "taprooted rosetted perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "basal plus cauline leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves rounded/cordate to lyrate-pinnatifid"
+    },
+    {
+      "label": "Identification",
+      "text": "red long-exserted corolla"
+    },
+    {
+      "label": "Identification",
+      "text": "late-season cleistogamous flowers can occur"
+    },
+    {
+      "label": "Identification",
+      "text": "shade/cedar-duff association"
+    },
+    {
+      "label": "Identification",
+      "text": "very long petioles; some leaves can appear nearly peltate in field view"
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey highlights the red tubular flower and the unusually long petioles, describing the leaves as nearly peltate in appearance. This is a useful field cue when the basal rosette is visible."
+    },
+    {
+      "label": "Habit",
+      "text": "Taprooted rosetted woodland perennial, one to several ascending flower stems from basal crown; often under Ashe juniper in leafy duff/limestone shade."
+    },
+    {
+      "label": "Leaves",
+      "text": "UT Austin: opposite, 1–3 foliolate, often seemingly a single broad terminal leaflet with cordate base or two smaller lateral leaflets; long petioles, terminal blade to about 50 × 55 mm, soft/velveteen hair. Some leaves appear nearly peltate but petiole actually attaches at leaf base."
+    },
+    {
+      "label": "Flowering nodes",
+      "text": "Paired three-flowered cymes at successive flowering nodes; red/crimson tubular corollas and persistent calyx, calyx green with purple ridges/tips."
+    },
+    {
+      "label": "Flower measurement",
+      "text": "UT Austin corolla tube/throat to about 17 mm plus lips ~11.5 mm (complex overlapping measures); do NOT present as a 4-cm Big Red sage flower."
+    },
+    {
+      "label": "Diagnostic calyx",
+      "text": "Calyx roughly 11 mm tube length, purplish veined and long-pointed at upper tip; measure with scale if teaching fine IDs."
+    },
+    {
+      "label": "Habit vs big red",
+      "text": "Both rosetted, but Big Red sage's thick, dark-green smooth basal leaves to 12 cm and pink-red 4 cm corollas on 1.5 m stalks are usually much larger and often moist ravine/seep-associated."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "df53357ba6be722e39f8ef8af0d27268a9142c49938091934f38ef4eccb6f5f2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

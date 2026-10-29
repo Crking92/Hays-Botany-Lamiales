@@ -1,0 +1,62 @@
+{
+  "id": "salvia-farinacea",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia farinacea",
+  "common_name": "Mealy Blue Sage",
+  "look_here_first": "Look behind a blue-violet flower at the calyx: a thick white OR dark-violet FELT of short hairs covers it. A purple calyx can still be mealy blue sage. Compare broader, usually serrated stem leaves and condensed upright flower groups with azure sage's narrow nearly entire leaves and more open green-calyxed axis.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous clonal perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "not rosetted; only cauline opposite leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "linear-lanceolate to lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx densely farinose/mealy"
+    },
+    {
+      "label": "Identification",
+      "text": "erect repeated verticils"
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's landscaping frame gives the upright flowering habit and repeated inflorescence architecture at field scale. Use that gestalt only as supporting context; the mealy/farinose calyx remains the decisive field character."
+    },
+    {
+      "label": "Calyx",
+      "text": "UT Texas study: outer calyx densely white-haired or violet-haired, compressed side-to-side, about 5–8 mm long and ~10-ribbed. Not necessarily visibly white!"
+    },
+    {
+      "label": "Morphs",
+      "text": "White hairy form often blue flowers/white marks on lip; dark violet hairy form often darker blue without white marks. Both S. farinacea: do NOT use flower/calyx pigment as separate species."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite cauline leaves, blade often ~30–95 × 11–33 mm (occasional 5 mm narrow outliers), lanceolate/ovate, usually serrated; narrower S. azurea often ~4–8 mm wide and mostly entire."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Erect interrupted terminal panicle, condensed paired axillary cymes often 10+ flowers per cyme; many flowers crowded compared with azure sage."
+    },
+    {
+      "label": "Habit",
+      "text": "Rhizomatous clonal perennial with several shoots, typically 30–100 cm in local descriptions; not rosetted."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0076aecd58d5745eb5a2cf9952201d20914e26d916ff88b4bd77c74515813f56",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

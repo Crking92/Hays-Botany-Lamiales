@@ -1,0 +1,62 @@
+{
+  "id": "salvia-greggii",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia greggii",
+  "common_name": "Autumn Sage",
+  "look_here_first": "Start with WOODY branches, then inspect one OPPOSITE pair of oval/elliptic (sometimes obovate) leaves. Autumn sage has relatively smooth/glabrous blades with tiny pitted glands, and larger showy two-lipped red-pink (or other cultivar-color) flowers around 25 mm long in the UT Texas treatment. Shrubby blue sage can have similarly sized leaves, but leaf surfaces are rough/hairy and its blue-purple corollas are usually smaller (often <13 mm). Flower color alone is NOT enough, especially in cultivated salvias.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "woody perennial subshrub/shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "small aromatic elliptic to obovate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "often evergreen or tardily deciduous"
+    },
+    {
+      "label": "Identification",
+      "text": "showy relatively large flowers with strong color variation"
+    },
+    {
+      "label": "Identification",
+      "text": "dry rocky western Edwards Plateau/Trans-Pecos habitat"
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's landscaping frame reinforces the mounded woody-shrub habit and flowering architecture. A second desert-field video shows a mature calyx during seed collection, adding a useful fruiting-stage cue beyond the showy corolla."
+    },
+    {
+      "label": "Leaf dimensions",
+      "text": "UT Austin regional S. greggii blades ~8–48 × 3–22 mm, ovate/elliptic or oblanceolate with low scallops; overlaps S. ballotiflora leaf SIZE. Better check hair/texture plus the corolla."
+    },
+    {
+      "label": "Leaf surface",
+      "text": "Leaf blades generally not coarsely hairy, minutely gland-dotted/pitted; leaf can feel smooth compared with shrubby blue sage's conspicuous rough leaf hairs. Pitted glands require true macro."
+    },
+    {
+      "label": "Corolla",
+      "text": "In UT Austin regional description, two-lipped corolla ~25 mm long, typically scarlet/rose-red wild; cultivated varieties can be white, orange, pink and purple. Do not use garden flower color as a wild-species diagnostic."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal raceme with successive opposite pairs of ascending flowers, conspicuous comparatively large two-lipped lips and persistent glandular calyx."
+    },
+    {
+      "label": "Cultivar caution",
+      "text": "S. greggii is sold in many colors and can be confused in gardens with S. microphylla and Salvia × jamensis hybrids; cultivar or hybrid flowers do NOT confirm wild S. greggii identity or native provenance."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cb0a8dc2510110d9474e19da833f740327876a03515e5acf6f9689aec139caae",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

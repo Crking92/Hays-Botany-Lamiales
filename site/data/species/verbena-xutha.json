@@ -1,0 +1,50 @@
+{
+  "id": "verbena-xutha",
+  "family": "Verbenaceae",
+  "genus": "Verbena",
+  "scientific_name": "Verbena xutha",
+  "common_name": "Gulf vervain",
+  "look_here_first": "Start with the leaves: most are conspicuously 3-lobed or deeply cut, with a long central lobe and smaller lateral lobes; then notice the coarse hispid/glandular plant and multiple terminal or axillary spikes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "coarse perennial, one to several stems, commonly taller than V. canescens"
+    },
+    {
+      "label": "Identification",
+      "text": "stems and foliage hispid-hirsute with swollen/pustulate hair bases plus short glandular hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite leaves mostly 3-lobed or deeply cut, with the central lobe conspicuously dominant"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins toothed and principal veins strongly raised below"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal and axillary many-flowered spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers unevenly spaced along a ridged hairy rachis"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit a four-part schizocarp"
+    },
+    {
+      "label": "Verbena training",
+      "text": "Separate these by leaf architecture + hair texture + spike/branching architecture before using flower color."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b4796f95f22b8393207587d4085eb9c4625c3484d7495f37818648f49fcc6742",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

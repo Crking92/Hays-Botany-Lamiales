@@ -1,0 +1,62 @@
+{
+  "id": "salvia-pentstemonoides",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia pentstemonoides",
+  "common_name": "Big Red Sage",
+  "look_here_first": "LOOK at actual ROSETTE in USFWS SSA Fig. 2.1a (linked below) for broad, thick, glossy dark-green basal blades. In the installed USFWS close-up, inspect the roughly 4-cm crimson tube with upper/lower corolla lips and green-to-purple calyx; it does NOT photograph the rosette, despite misleading media-page title. Compare cedar sage's smaller crimson blooms and often 1–3 leaflet long-petioled rosette versus scarlet sage's triangular simple leaves up stems.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb with persistent basal rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "tall stiff flowering stalk"
+    },
+    {
+      "label": "Identification",
+      "text": "large red/rose-red bilabiate flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "limestone seep/stream/canyon specialization"
+    },
+    {
+      "label": "Identification",
+      "text": "rare Edwards Plateau endemic"
+    },
+    {
+      "label": "Habit",
+      "text": "Long-lived perennial with thick basal rootstock and a persistent rosette, one or several flowering stalks to about 1.5 m."
+    },
+    {
+      "label": "Leaves",
+      "text": "Smooth thick dark-green basal rosette leaves, can be as long as 12 cm; not usually pinnately 1–3-foliolate like some cedar sage."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Tall unbranched or sparsely branched stiff four-sided flowering stalk with big tubular red to purplish-red blooms."
+    },
+    {
+      "label": "Flower dimensions",
+      "text": "Corolla typically around 4 cm tubular, scarlet to reddish purple. Calyx green, becoming purple with age; flower much larger than local cedar sage in typical conditions."
+    },
+    {
+      "label": "Habitat",
+      "text": "Typically shaded/seep-moist limestone ravines, bluffs and streamside ledges, within the Edwards Plateau; a rare, conservation-sensitive wild taxon."
+    },
+    {
+      "label": "Rare plant caution",
+      "text": "Do not disclose exact locations or collect wild specimens for photographs. USFWS sources indicate at-risk, narrowly distributed native."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bc61840f624e5588189f3d6295f9232a5f78c334dadf20d8c4bc26be14825456",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

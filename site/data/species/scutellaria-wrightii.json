@@ -1,0 +1,58 @@
+{
+  "id": "scutellaria-wrightii",
+  "family": "Lamiaceae",
+  "genus": "Scutellaria",
+  "scientific_name": "Scutellaria wrightii",
+  "common_name": "Wright's skullcap",
+  "look_here_first": "First look at the plant base and leaf tips. Wright's skullcap is a low bushy perennial with many stems from a persistent base and small entire leaves with rounded/obtuse tips. Its hairs are minute and the calyx can look nearly smooth to the naked eye. Then confirm the larger upward-curving blue-violet corolla and visorlike skullcap calyx.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb, taprooted, several-many-stemmed at the base, usually 10–20 cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "bushy habit with ascending branches"
+    },
+    {
+      "label": "Identification",
+      "text": "stems four-sided, densely puberulent with minute sessile glandular hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves opposite and decussate, short-petiolate, ovate to elliptic"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins entire and tips rounded/obtuse"
+    },
+    {
+      "label": "Identification",
+      "text": "leafy raceme with paired axillary flowers, often oriented mainly to one side"
+    },
+    {
+      "label": "Identification",
+      "text": "pedicel about 3–3.5 mm long"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx two-lipped with a projecting visorlike scutellum; puberulent but often smoother-looking than S. drummondii"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla mostly 13–18 mm long, with a cylindric tube that curves upward and a violet throat"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit produces four small minutely warty nutlets"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Scutellaria drummondii: S. drummondii is an annual with acute-tipped leaves, more conspicuous glandular hairs, shorter pedicels (about 1–1.2 mm) and smaller corollas (about 5.5–10 mm). S. wrightii is perennial/bushy, round-tipped and larger-flowered. Scutellaria ovata: S. ovata is much taller and rhizomatous, with large triangular-ovate leaves having truncate/subcordate bases and crenate margins; its corolla is about 21–25 mm."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ff6901edffb1ac12fb63c043f07312ae2419acb238a87fc286735ae15e3fdfc9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

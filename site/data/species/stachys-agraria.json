@@ -1,0 +1,17 @@
+{
+  "id": "stachys-agraria",
+  "family": "Lamiaceae",
+  "genus": "Stachys",
+  "scientific_name": "Stachys agraria",
+  "common_name": "Stachys agraria",
+  "look_here_first": "Examine opposite leaves, four-sided stems and whorled flowers; inspect the two-lipped corollas and calyx teeth.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a558a83da5f1bf8b9007b332368f172ca38ce936ab0565992080c23d90c6803f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

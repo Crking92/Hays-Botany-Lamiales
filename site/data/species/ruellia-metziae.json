@@ -1,0 +1,46 @@
+{
+  "id": "ruellia-metziae",
+  "family": "Acanthaceae",
+  "genus": "Ruellia",
+  "scientific_name": "Ruellia metziae",
+  "common_name": "Metz's ruellia / wild white petunia",
+  "look_here_first": "Start with the flower color and inflorescence. Ruellia metziae has conspicuously large white flowers in a terminal panicle of opposite cymes, and the upper inflorescence axes and calyx are densely stalked-glandular-hairy.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite decussate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal panicle of cymes"
+    },
+    {
+      "label": "Identification",
+      "text": "large white corolla"
+    },
+    {
+      "label": "Identification",
+      "text": "upper inflorescence with dense stalked glandular hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "4-sided stems aging more cylindrical"
+    },
+    {
+      "label": "Identification",
+      "text": "dry rocky limestone habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "R. ciliatiflora usually has violet to purple flowers and less strikingly white corollas. R. metziae is easiest to recognize by the large white flowers plus glandular-hairy upper inflorescence."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5f68f535f2957d02bebd186c86d2454b15d82e503a9d87b6c2a968a69cd19491",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

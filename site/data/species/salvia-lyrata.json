@@ -1,0 +1,58 @@
+{
+  "id": "salvia-lyrata",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia lyrata",
+  "common_name": "Lyreleaf Sage",
+  "look_here_first": "Look DOWN at the basal ROSETTE before checking flowers. Mature S. lyrata leaves are LYRATE: a larger rounded TERMINAL lobe toward the leaf tip and smaller paired LATERAL lobes closer to the stalk; some leaves vary from shallow to deeply cut. A mostly leafless square flowering stalk rises well above, bearing SMALL lavender-blue bilabiate flowers in widely spaced tiers. Cedar sage also forms a rosette, but often has separate 1–3 leaflets with long petioles and CRIMSON corollas. Do not rely on basal rosette alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial basal rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "lyrate/pinnatifid basal leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "flowering stems rise well above rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "small blue-lavender bilabiate flowers in spaced verticils"
+    },
+    {
+      "label": "Identification",
+      "text": "often in low moist/open woods, meadows, disturbed ground"
+    },
+    {
+      "label": "Basal leaf structure",
+      "text": "Lyrate/pinnatifid basal leaves: broad rounded end (terminal) lobe and smaller side lobes, often separated by narrow sinus; leaf remains ONE continuous blade, not several detached leaflets."
+    },
+    {
+      "label": "Flowering axis",
+      "text": "Usually mostly leafless above rosette, tall unbranched or sparsely branched square stem with spaced verticils of pale blue/lavender two-lipped flowers."
+    },
+    {
+      "label": "Habit",
+      "text": "Herbaceous perennial with flat basal rosette, unlike woody branching greggii/ballotiflora; green or purplish winter rosettes may persist."
+    },
+    {
+      "label": "Lookalike cedar",
+      "text": "Cedar sage also low rosette, but broad petiolate leaves can be 1–3 FOLIOLATE (separate lateral leaflets), and crimson flowers in woodland shade; lyreleaf has a lyrately LOBED single blade and pale blue flowers. Leaf shape/calyx support identification."
+    },
+    {
+      "label": "Leaf variation",
+      "text": "Entire to shallowly lobed leaves and purple-stained cultivated forms occur; don't claim every plant has deeply cut lobes."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7606116f62662e5c6538522d2a06af7e0bad34d09a154266769a9709dfc7ca21",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

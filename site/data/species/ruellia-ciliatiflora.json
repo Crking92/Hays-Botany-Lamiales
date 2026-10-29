@@ -1,0 +1,54 @@
+{
+  "id": "ruellia-ciliatiflora",
+  "family": "Acanthaceae",
+  "genus": "Ruellia",
+  "scientific_name": "Ruellia ciliatiflora",
+  "common_name": "common wild petunia / violet ruellia",
+  "look_here_first": "Start with where the flowers are. Common wild petunia sends a conspicuous peduncled, branching terminal flower stalk above the leaves; the flowers are not sitting directly in the leaf axils. Then confirm mostly glabrous/glabrescent oval-ovate leaves with wavy to low-dentate margins.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb/subshrub with woody or persistent base"
+    },
+    {
+      "label": "Identification",
+      "text": "stems usually erect to ascending and relatively sparsely branched"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite oval to ovate leaves, usually rounded to subacute at tip"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage essentially glabrous to only inconspicuously short-hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins commonly wavy, subentire or low-dentate"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescences terminal and upper-axillary, distinctly pedunculate and branching into cymes"
+    },
+    {
+      "label": "Identification",
+      "text": "purple to violet funnel-shaped flowers elevated above foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx and fruit usually glandular-pubescent"
+    },
+    {
+      "label": "Identification",
+      "text": "capsule pubescent and explosively dehiscent"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Ruellia drummondiana: R. drummondiana bears flowers/cymes directly from leaf axils with essentially no peduncle and has short fine pubescence; its capsules contain only 2–4 seeds. Ruellia humilis: R. humilis also has axillary nearly sessile flowers but is conspicuously long-pilose, especially on stems and leaf margins. Ruellia metziae: R. metziae also has terminal pedunculate flowers but is typically white to pale purple and has somewhat narrower leaves; preserve as a later local comparison."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "77f96ba1f3230127af354be3f2626e89a278e9afc80496af26051980125f5877",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

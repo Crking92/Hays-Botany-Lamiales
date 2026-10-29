@@ -1,0 +1,42 @@
+{
+  "id": "monarda-fistulosa",
+  "family": "Lamiaceae",
+  "genus": "Monarda",
+  "scientific_name": "Monarda fistulosa",
+  "common_name": "Wild bergamot",
+  "look_here_first": "Start with the classic bee-balm head: an aromatic perennial with opposite leaves and a dense rounded terminal head of pale lavender to pink bilabiate flowers rather than the tiered bracted whorls typical of M. citriodora and M. punctata.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "aromatic perennial mint-family herb"
+    },
+    {
+      "label": "Identification",
+      "text": "four-angled stems"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "dense rounded terminal flower head"
+    },
+    {
+      "label": "Identification",
+      "text": "pale lavender to pink bilabiate corollas"
+    },
+    {
+      "label": "Identification",
+      "text": "flowering head not arranged as the strongly separated stacked whorls typical of M. citriodora"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with M. citriodora and M. punctata, wild bergamot usually presents a more conventional dense terminal head rather than conspicuous tiered whorls with showy bracts. Do not rely on flower color alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d98eb8d362d41afa4c7f881a9c13bbb7c0f2635da5450af659d2f7f0d2b23e4c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

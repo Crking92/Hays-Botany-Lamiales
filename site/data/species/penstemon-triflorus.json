@@ -1,0 +1,54 @@
+{
+  "id": "penstemon-triflorus",
+  "family": "Plantaginaceae",
+  "genus": "Penstemon",
+  "scientific_name": "Penstemon triflorus",
+  "common_name": "Hill Country penstemon",
+  "look_here_first": "Start with the glossy leaves and the narrower pink-to-red corolla. Hill Country penstemon is an erect perennial with opposite dark-green leaves; lower leaves are often toothed while upper leaves become smaller and more entire/connate. Flowers are usually about 25–35 mm, distinctly smaller than P. cobaea.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial with several erect to bushy stems"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite dark-green often glossy leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaves often toothed"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaves smaller and often entire/connate"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal clustered/racemose inflorescence"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla usually about 25–35 mm and pink/rose/red to lavender depending variety"
+    },
+    {
+      "label": "Identification",
+      "text": "pale throat commonly marked with darker guide lines"
+    },
+    {
+      "label": "Identification",
+      "text": "staminode glabrous in var. triflorus but lightly bearded in var. integrifolius"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit a capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Penstemon cobaea: P. cobaea has much larger 35–55 mm pale flowers with a strongly inflated throat and broader serrate leaves. Penstemon baccharifolius: P. baccharifolius is a woody-based low subshrub with thick leathery serrate leaves and red flowers from cliff/rock crevices. Penstemon tenuis: P. tenuis has tiny 10–14 mm lavender flowers, sharp small calyx lobes and a wetter coastal/alluvial ecology."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "aa1ff96ad1d8053831d65da39e3a1953e3b68f783efb637a3d405b045d733fb0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

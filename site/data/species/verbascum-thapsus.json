@@ -1,0 +1,17 @@
+{
+  "id": "verbascum-thapsus",
+  "family": "Scrophulariaceae",
+  "genus": "Verbascum",
+  "scientific_name": "Verbascum thapsus",
+  "common_name": "Common mullein (introduced)",
+  "look_here_first": "Recognize the first-year thick fuzzy gray basal rosette and second-year upright spike of yellow five-lobed flowers; inspect woolly leaves and filament hairs.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "33237f6aa26eb16e1a8b3f6dce21fd39b632fcfa17dbc858ca5aec6c960b5a0f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

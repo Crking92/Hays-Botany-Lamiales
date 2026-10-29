@@ -1,0 +1,17 @@
+{
+  "id": "plantago-rhodosperma",
+  "family": "Plantaginaceae",
+  "genus": "Plantago",
+  "scientific_name": "Plantago rhodosperma",
+  "common_name": "redseed plantain",
+  "look_here_first": "Find a low basal rosette and narrow flowering spikes; examine capsules, their opening and reddish mature seeds.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d952fe9767a8dc083c332310bbb72deeb40be146108e8ffbc49d4f26bcb0c889",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

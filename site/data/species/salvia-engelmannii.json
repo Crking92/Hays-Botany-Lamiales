@@ -1,0 +1,74 @@
+{
+  "id": "salvia-engelmannii",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia engelmannii",
+  "common_name": "Engelmann's Sage",
+  "look_here_first": "FIRST photograph stem BASE: Engelmann’s sage has cauline (stem) leaves but no persistent basal-leaf set. Narrow linear leaf blades ~30–60 × 3–5 mm. THEN count flowers in axillary cymes (three per cyme) and examine the ten-ribbed 10–11 mm calyx with short awned tips. Tack-shaped subsessile glands require true macro; never pretend broad shot proves them.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial low dense clump with many stems."
+    },
+    {
+      "label": "Leaves",
+      "text": "Only cauline narrow leaves; paired bases can form a short sheath across the node."
+    },
+    {
+      "label": "Surface",
+      "text": "Conspicuous tack-shaped subsessile glandular hairs."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "3-flowered cymes repeated at closely spaced nodes."
+    },
+    {
+      "label": "Calyx",
+      "text": "Strongly 10-ridged with short awned lobe tips."
+    },
+    {
+      "label": "Floral detail",
+      "text": "Pale blue-violet corolla with a broad white/violet-marked lower lip."
+    },
+    {
+      "label": "Identification",
+      "text": "no basal-leaf set"
+    },
+    {
+      "label": "Identification",
+      "text": "tack-shaped glands"
+    },
+    {
+      "label": "Identification",
+      "text": "3-flowered cymes"
+    },
+    {
+      "label": "Identification",
+      "text": "10-ridged awned calyx"
+    },
+    {
+      "label": "Leaf measurement",
+      "text": "Cauline linear leaves typically ~30–60 mm long and 3–5 mm wide (UT Austin Williamson County morphology)."
+    },
+    {
+      "label": "Calyx measurement",
+      "text": "Calyx ~10–11 mm long, 10-ridged with short ~0.5 mm awns and tack-shaped glands (microscope/strong macro needed)."
+    },
+    {
+      "label": "Flower group",
+      "text": "Two opposite axillary cymes at each flowering node, typically 3 flowers per cyme."
+    },
+    {
+      "label": "Corolla",
+      "text": "Blue-violet with conspicuous white/violet-marked lower lip; corolla approximately 18–22 mm (UT Austin); can overlap Texas sage."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3e77cee3fd358c0f825c9cc3d0414964990d1ec5328ba8aa8f0b4ee8236068ff",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

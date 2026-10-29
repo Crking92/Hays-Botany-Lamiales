@@ -1,0 +1,74 @@
+{
+  "id": "salvia-coccinea",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia coccinea",
+  "common_name": "Scarlet Sage",
+  "look_here_first": "RED FLOWERS ARE NOT THE ID. Start with the LEAVES: scarlet sage has many broad triangular-to-ovate SIMPLE leaves on prominent petioles up an upright, branching stem, not a cedar-sage basal rosette nor big-red-sage's large thick smooth basal leaves. Check the interrupted flower spike and calyces next; wild flowers are often red but cultivated selections can also be pink/white.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Annual to short-lived perennial/subshrub tendency; usually branched, often 0.5–1 m tall."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite decussate, simple, petiolate; blades triangular or ovate to deltoid with serrate margins."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Interrupted series of verticils/cymes along a terminal axis."
+    },
+    {
+      "label": "Calyx",
+      "text": "Persistent, ribbed and enlarging around developing nutlets."
+    },
+    {
+      "label": "Floral detail",
+      "text": "Long bilateral corolla; typically red in local material but color is secondary to leaf and inflorescence structure."
+    },
+    {
+      "label": "Identification",
+      "text": "broad deltoid/ovate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "long petioles"
+    },
+    {
+      "label": "Identification",
+      "text": "verticillate flowering axis"
+    },
+    {
+      "label": "Identification",
+      "text": "persistent ribbed calyx"
+    },
+    {
+      "label": "Life cycle",
+      "text": "Annual or short-lived perennial depending on frost and site, herbaceous branched upper stems; an open, weedlike shoot is supportive but not sole proof."
+    },
+    {
+      "label": "Leaf diagnostic",
+      "text": "Simple (one undivided blade), opposite broad ovate/deltoid, petiolate with serrate edges; no lateral leaflets as on some cedar sage leaves."
+    },
+    {
+      "label": "Flower arrangement",
+      "text": "Red tubular two-lipped corollas in separate spaced flowering whorls on branched/terminal upright spikes; persistent calyces remain after petals fall."
+    },
+    {
+      "label": "Compare roemeriana",
+      "text": "Cedar sage is a taprooted perennial with conspicuous basal rosette and leaves sometimes 1–3-foliolate on long petioles. Its calyx is ~11 mm (UT), and flower spikes usually arise from a woodland leaf rosette."
+    },
+    {
+      "label": "Compare pentstemonoides",
+      "text": "Big red sage has thick, smooth, large basal rosette leaves (to ~12 cm) and flowers about 4 cm, on tall stalks (to ~1.5 m), usually seep-fed limestone ravines; FWS source."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bbf3bb2ed28eb64664cddf2203bdfde64e017f5b2f04f87dc8f463703700a308",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "scutellaria-ovata",
+  "family": "Lamiaceae",
+  "genus": "Scutellaria",
+  "scientific_name": "Scutellaria ovata",
+  "common_name": "Heart-leaved skullcap",
+  "look_here_first": "First check size and leaves. This is a much taller rhizomatous perennial than the small local skullcaps, with large triangular-ovate leaves, truncate to shallowly heart-shaped bases, crenate margins, and relatively large blue-violet flowers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial, substantially taller than S. drummondii and S. wrightii"
+    },
+    {
+      "label": "Identification",
+      "text": "often about 35–70 cm tall in regional treatments"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite large triangular-ovate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf bases truncate to shallowly cordate"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins crenate"
+    },
+    {
+      "label": "Identification",
+      "text": "leafy raceme with bilaterally symmetric blue-violet flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "two-lipped Scutellaria calyx with the projecting visorlike scutellum"
+    },
+    {
+      "label": "Identification",
+      "text": "corollas much larger than S. drummondii, roughly 21–25 mm in regional comparison treatments"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "S. drummondii is a small glandular-hairy annual with acute leaves and much smaller flowers; S. wrightii is a low bushy perennial with small rounded entire leaves. S. ovata is taller, rhizomatous, and conspicuously larger-leaved and larger-flowered."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "31b67770fe63cb1e422ba96a99520d1a73d58f908850868773c96a0a9f57f5d9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

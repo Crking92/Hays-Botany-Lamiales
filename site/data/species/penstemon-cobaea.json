@@ -1,0 +1,50 @@
+{
+  "id": "penstemon-cobaea",
+  "family": "Plantaginaceae",
+  "genus": "Penstemon",
+  "scientific_name": "Penstemon cobaea",
+  "common_name": "Prairie penstemon",
+  "look_here_first": "Start with flower size and the leaf node. Prairie penstemon has enormous pale lavender-to-white flowers, usually about 35–55 mm long, and opposite serrate stem leaves that are sessile and often fused across the node. The calyx and inflorescence are glandular-hairy, and the throat is abruptly inflated.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "short-lived perennial with several stout stems from a perennial crown/rhizome"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite cauline leaves, sessile and often connate across the stem"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades broad and usually sharply serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence and calyx glandular-pubescent"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla very large, white to lavender, with darker nectar guides"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla tube abruptly enlarged below the midpoint"
+    },
+    {
+      "label": "Identification",
+      "text": "staminode conspicuously bearded"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit a many-seeded capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Penstemon triflorus: P. triflorus usually has smaller 25–35 mm pink/red flowers; P. cobaea has much larger abruptly inflated pale flowers and broader serrate leaves. Penstemon tenuis: P. tenuis has much smaller 10–14 mm lavender/violet flowers and favors wet alluvial/coastal prairie habitats. Penstemon baccharifolius: P. baccharifolius is a woody-based subshrub with small thick leathery toothed leaves and red tubular flowers from limestone crevices."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f842a092e1c65df44e5a1f090a09e8f544edff942ac26274e1e4e63a7311ac98",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

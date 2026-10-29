@@ -1,0 +1,54 @@
+{
+  "id": "ruellia-drummondiana",
+  "family": "Acanthaceae",
+  "genus": "Ruellia",
+  "scientific_name": "Ruellia drummondiana",
+  "common_name": "Drummond's ruellia",
+  "look_here_first": "Look at the leaf axil. Drummond's ruellia has purple flowers/cymes essentially sessile in the axils rather than raised on a terminal stalk. The ovate leaves and stems have short fine pubescence, not the conspicuous long hairs of R. humilis. If fruit is present, the capsule's only 2–4 seeds are a powerful confirmation.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Texas-endemic perennial herb, decumbent to ascending"
+    },
+    {
+      "label": "Identification",
+      "text": "four-sided stems enlarged above nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite ovate to broadly elliptic leaves with acute to obtuse tips"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage short-pilose/finely pubescent rather than glabrous or long-shaggy"
+    },
+    {
+      "label": "Identification",
+      "text": "paired axillary cymes essentially sessile, without a long peduncle"
+    },
+    {
+      "label": "Identification",
+      "text": "violet corolla commonly about 23–32 mm in Williamson material"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx lobes long, narrow and glandular-hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "capsule densely pubescent"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit character unusually distinctive: only 2–4 seeds"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Ruellia ciliatiflora: R. ciliatiflora (= R. nudiflora) raises its flowers on conspicuous terminal/upper-axillary peduncles and is much less hairy. Ruellia humilis: Both have nearly sessile axillary flowers, but R. humilis is conspicuously long-pilose with obvious individual hairs along stems and leaf margins; R. drummondiana is finely short-pubescent and has only 2–4 seeds. Ruellia simplex: Mexican petunia has long narrow lanceolate leaves and typically taller, more linear architecture; it is a common non-native landscape escape."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dd1c6482a299932cafbcbabfc1ea503e3ab2651d23d2347d25259ce24b8e6a48",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

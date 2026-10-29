@@ -1,0 +1,50 @@
+{
+  "id": "penstemon-baccharifolius",
+  "family": "Plantaginaceae",
+  "genus": "Penstemon",
+  "scientific_name": "Penstemon baccharifolius",
+  "common_name": "Rock penstemon",
+  "look_here_first": "Start with the woody base and leaf texture. Rock penstemon is a low densely branched subshrub with thick dark-green leathery leaves that have coarse mucronate teeth. It grows from limestone cracks and carries red tubular flowers on short stalks.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial subshrub, commonly 15–60 cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "densely branched with lower stems becoming woody"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves small, thick, leathery and dark green"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins coarsely serrate, teeth often mucronate"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence pubescent and relatively open"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla red to rosy red, roughly 25–30 mm, tubular/bilabiate"
+    },
+    {
+      "label": "Identification",
+      "text": "white inner throat heavily marked with dark guide lines"
+    },
+    {
+      "label": "Identification",
+      "text": "specialized for dry limestone crevices, bluffs and canyon walls"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Penstemon triflorus: P. triflorus is herbaceous rather than woody-based and has thinner, larger opposite leaves. Penstemon cobaea: P. cobaea is a broad-leaved herb with enormous pale flowers, not a woody cliff subshrub. Penstemon tenuis: P. tenuis is a slender wet-site herb with tiny lavender flowers and soft thin leaves."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ccdab064888da5374859a3260f9ba9d4ad15c8d7904e8514286b4bcb6e04face",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

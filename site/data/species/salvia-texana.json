@@ -1,0 +1,74 @@
+{
+  "id": "salvia-texana",
+  "family": "Lamiaceae",
+  "genus": "Salvia",
+  "scientific_name": "Salvia texana",
+  "common_name": "Texas Sage",
+  "look_here_first": "PHOTOGRAPH THE BASE before flowers: Texas sage is NOT a true rosette, but has basal leaves plus stem leaves. Basal leaves are narrowly elliptic to oblanceolate (~25–60 × 4–10+ mm); then look for terminal many-flowered raceme with leaflike bracts. Critical tiny confirmation is glandular hairs SUNKEN in pits on the foliage; Engelmann has elevated tack-shaped glands.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Taprooted perennial with woody caudex, usually short."
+    },
+    {
+      "label": "Leaves",
+      "text": "Both basal and cauline opposite leaves; basal blades narrow oblanceolate to elliptic."
+    },
+    {
+      "label": "Surface",
+      "text": "Leaf surfaces have sunken/pitted glandular hairs."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal raceme with conspicuous leaflike bracts."
+    },
+    {
+      "label": "Calyx",
+      "text": "Strongly ribbed, sharply pointed lobes."
+    },
+    {
+      "label": "Identification",
+      "text": "basal + cauline leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "pitted glandular hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflike bracts"
+    },
+    {
+      "label": "Identification",
+      "text": "sharply pointed ribbed calyx"
+    },
+    {
+      "label": "Identification",
+      "text": "Joey's Borderlands podcast context places this sage in xeric scrub/limestone-hill country; use habitat as supporting context after checking the ribbed pointed calyx and pitted glandular hairs."
+    },
+    {
+      "label": "Identification",
+      "text": "Basal AND cauline leaves (but NOT a true rosette)"
+    },
+    {
+      "label": "Identification",
+      "text": "Leaflike pointed bracts and many-flowered terminal raceme"
+    },
+    {
+      "label": "Identification",
+      "text": "Glandular hairs sunken in leaf pits (microscope/macro only)"
+    },
+    {
+      "label": "Joey field context",
+      "text": "A Borderlands podcast transcript normalizes Joey's spoken taxon to Salvia texana with high confidence and associates it with xeric scrub/limestone hills. The archive still flags an audio check as desirable, so this is kept as attributed habitat context rather than a new diagnostic character."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "27c9ba8b33eada7e66b0379f90a2363a58e81319688cfbb03983b40dcc53246e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

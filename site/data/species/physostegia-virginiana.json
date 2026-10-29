@@ -1,0 +1,42 @@
+{
+  "id": "physostegia-virginiana",
+  "family": "Lamiaceae",
+  "genus": "Physostegia",
+  "scientific_name": "Physostegia virginiana",
+  "common_name": "Obedient plant / false dragonhead",
+  "look_here_first": "Upright rhizomatous mint-family perennial with opposite toothed leaves and dense spikes of pink-lavender bilabiate flowers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial from rhizomes"
+    },
+    {
+      "label": "Identification",
+      "text": "square stems"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "dense terminal flower spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "pink-lavender bilabiate corollas"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers in repeated clusters around axis"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d32c511276171980bdd1910af20902cd4a4e292398b6e53976a23df6cdd91b21",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

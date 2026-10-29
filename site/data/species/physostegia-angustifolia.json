@@ -1,0 +1,42 @@
+{
+  "id": "physostegia-angustifolia",
+  "family": "Lamiaceae",
+  "genus": "Physostegia",
+  "scientific_name": "Physostegia angustifolia",
+  "common_name": "Narrowleaf false dragonhead",
+  "look_here_first": "Start with the narrow opposite leaves and upright terminal spike of pink-lavender bilabiate flowers. Compare leaf width and habitat carefully against P. correllii and the broad P. virginiana complex.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "upright perennial mint-family herb"
+    },
+    {
+      "label": "Identification",
+      "text": "square stems"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite narrow leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal spike of pink to lavender bilabiate flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers arranged in repeated clusters along the spike"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow foliage is an important first-pass cue"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "P. correllii is a tall rhizomatous wetland/stream-edge specialist; the P. virginiana complex is broader and taxonomically messy in Texas. For P. angustifolia, begin with the notably narrow leaves and then confirm floral/spike characters."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "feff9b09fffc7fbf9a9599d7e37f0f881413cb4b4832703798acb2aed49b736d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

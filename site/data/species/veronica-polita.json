@@ -1,0 +1,17 @@
+{
+  "id": "veronica-polita",
+  "family": "Plantaginaceae",
+  "genus": "Veronica",
+  "scientific_name": "Veronica polita",
+  "common_name": "Gray field speedwell (introduced)",
+  "look_here_first": "Look for tiny four-lobed blue flowers with a pale center and opposite rounded, toothed leaves; examine fruit capsule lobes and hair pattern to separate Veronica persica.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4c977ce92258aefb60cc256fa738617909e415f801db10998ac1ec67401cf941",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

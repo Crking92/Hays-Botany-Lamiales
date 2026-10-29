@@ -1,0 +1,50 @@
+{
+  "id": "verbena-halei",
+  "family": "Verbenaceae",
+  "genus": "Verbena",
+  "scientific_name": "Verbena halei",
+  "common_name": "Texas vervain",
+  "look_here_first": "Look at the leaf dissection and overall slenderness first: lower leaves are often deeply pinnatifid, while the upper flowering branches become narrow and simple; the plant is much less gray-woolly than Verbena canescens.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "slender perennial, usually one to a few stems with an open branched flowering canopy"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaves variable but often deeply pinnately lobed or cut"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaves become much narrower, simpler, and sometimes nearly entire"
+    },
+    {
+      "label": "Identification",
+      "text": "stems comparatively sparsely hairy rather than densely gray-canescent"
+    },
+    {
+      "label": "Identification",
+      "text": "slender terminal/branched spikes with widely spaced tiny lavender-purple flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "four-angled to ridged stems; opposite leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit breaks into four one-seeded mericarps"
+    },
+    {
+      "label": "Verbena training",
+      "text": "Separate these by leaf architecture + hair texture + spike/branching architecture before using flower color."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b22763083e8022f3372d0538acf9982673242af8986e510066c14961c69bd2cc",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
