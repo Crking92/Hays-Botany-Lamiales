@@ -102,11 +102,18 @@ if pilot_path.exists():
     for sid,photos in pilot["species"].items():
         assert sid in known_ids and isinstance(photos,list)
         for p in photos:
-            assert p["src"].startswith("https://upload.wikimedia.org/wikipedia/commons/")
+            assert p["src"].startswith(("https://upload.wikimedia.org/wikipedia/commons/","https://commons.wikimedia.org/wiki/Special:Redirect/file/"))
             assert p["source_page"].startswith("https://commons.wikimedia.org/wiki/File:")
             assert p["creator"].strip() and p["role"].strip()
-            assert p["license"]=="CC BY 2.0"
-            assert p["license_url"]=="https://creativecommons.org/licenses/by/2.0/"
+            allowed_licenses={
+                "CC BY 2.0":"https://creativecommons.org/licenses/by/2.0/",
+                "CC BY 3.0":"https://creativecommons.org/licenses/by/3.0/",
+                "CC BY 4.0":"https://creativecommons.org/licenses/by/4.0/",
+                "CC BY-SA 3.0":"https://creativecommons.org/licenses/by-sa/3.0/",
+                "CC BY-SA 4.0":"https://creativecommons.org/licenses/by-sa/4.0/",
+                "Public Domain (U.S. federal work)":"https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+            assert p["license"] in allowed_licenses and p["license_url"]==allowed_licenses[p["license"]]
             assert p["private_rights_review_only"] is False
             assert p["noncommercial_only"] is False
             approved_external.append((sid,p))
