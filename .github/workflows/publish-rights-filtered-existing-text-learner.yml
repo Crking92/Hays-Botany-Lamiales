@@ -1,0 +1,93 @@
+name: Publish existing Lamiales field-ID text learner (NO original photos, no new harvesting)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_public_text_learner_from_verified_staging.py'
+      - '.github/workflows/publish-rights-filtered-existing-text-learner.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: lamiales-text-site-build
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: website
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/original-source-transfer
+          path: source
+          persist-credentials: false
+      - name: Validate pinned family-source identity without photos
+        shell: bash
+        run: |
+          set -euo pipefail
+          PYTHONPYCACHEPREFIX="$RUNNER_TEMP/pycache" python3 -m py_compile website/scripts/build_public_text_learner_from_verified_staging.py
+          python3 source/scripts/validate_collection.py
+      - name: Convert only the original 102 existing species' educational text
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 website/scripts/build_public_text_learner_from_verified_staging.py source website
+          python3 - <<'PY'
+          from pathlib import Path
+          import json
+          w=Path("website")
+          p=w/"site/index.html"
+          s=p.read_text()
+          s=s.replace('<meta name="robots" content="noindex,nofollow">','<meta name="robots" content="index,follow">')
+          s=s.replace('PRIVATE STAGING · NOT PUBLISHED','EXISTING PLANT LESSONS · PHOTO GALLERIES UNDER REVIEW')
+          s=s.replace('Layout prototype only.</strong> No botanical records or photographs have been transferred to this collection. The current public Hays Botany learner remains authoritative.','Existing plant records are now available.</strong> Browse source-migrated field-ID descriptions and morphology. The images are temporarily withheld from this family website until each photo passes its reuse and caption checks. The original Hays Botany learner remains the published photo fallback.')
+          s=s.replace('Lessons will appear here after botanical records and approved images are safely imported.','Choose a species to read its existing diagnostic field-ID lesson.')
+          s=s.replace('Collection prototype only. All photographs and botanical observations require source-specific verification before public use.','Existing botanical lessons published without any source photographs. Individual photo rights still require review.')
+          p.write_text(s)
+          (w/"index.html").write_text('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0;url=./site/"><title>Hays Botany · Lamiales</title><link rel="canonical" href="./site/"></head><body><p><a href="./site/">Open the Lamiales Field-ID Learner</a></p></body></html>\n')
+          cards=list((w/"site/data/species").glob("*.json"))
+          assert len(cards)==102
+          for p in cards:
+              x=json.loads(p.read_text())
+              assert x["verified_photos"]==[] and x["photo_status"]=="NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW"
+          assert len(json.loads((w/"site/data/collection-index.json").read_text())["entries"])==102
+          print("PASS 102 scientific teaching cards with ZERO source photo assets embedded")
+          PY
+      - name: Commit existing-source cards in batches of 50 or fewer
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd website
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mapfile -t cards < <(find site/data/species -maxdepth 1 -type f -name '*.json' | sort)
+          for ((i=0; i<${#cards[@]}; i+=50)); do
+            portion=("${cards[@]:i:50}")
+            git add -- "${portion[@]}"
+            if ! git diff --cached --quiet; then
+              git diff --cached --check
+              git commit -m "Publish 50-or-fewer previously migrated Lamiales botanical text records with no photos"
+            fi
+          done
+          git add site/data/collection-index.json site/data/collection-meta.json site/PHOTO_PUBLICATION_SCOPE.md site/index.html index.html site-build-text-only-report.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Enable public Lamiales learner entrypoint and validated 102-plant searchable index, photos excluded"
+          fi
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:refs/heads/main
+      - name: Keep a no-photo source evidence report for review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lamiales-source-existing-text-102-readonly-photo-safe-publication
+          path: website/site-build-text-only-report.json
+          retention-days: 30
+          if-no-files-found: warn
