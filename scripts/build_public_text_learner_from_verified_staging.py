@@ -94,58 +94,80 @@ for card in cards:
 # Preserve an independently reviewed existing-source photo link without
 # copying any of the rights-held staging/source image bytes into the public build.
 pilot_path=data/"reviewed-external-photo-manifest.json"
-approved_external=[]
+approved=[]
+hosted=0
+externally_linked=0
 if pilot_path.exists():
     pilot=json.loads(pilot_path.read_text(encoding="utf-8"))
     assert pilot.get("schema_version")==1 and isinstance(pilot.get("species"),dict)
     known_ids={c["id"] for c in cards}
+    allowed_licenses={
+        "CC BY 2.0":"https://creativecommons.org/licenses/by/2.0/",
+        "CC BY 3.0":"https://creativecommons.org/licenses/by/3.0/",
+        "CC BY 4.0":"https://creativecommons.org/licenses/by/4.0/",
+        "CC BY-SA 2.0":"https://creativecommons.org/licenses/by-sa/2.0/",
+        "CC BY-SA 3.0":"https://creativecommons.org/licenses/by-sa/3.0/",
+        "CC BY-SA 4.0":"https://creativecommons.org/licenses/by-sa/4.0/",
+        "Public Domain (U.S. federal work)":"https://creativecommons.org/publicdomain/mark/1.0/",
+        "Public Domain":"https://creativecommons.org/publicdomain/mark/1.0/",
+    }
     for sid,photos in pilot["species"].items():
-        assert sid in known_ids and isinstance(photos,list)
+        assert sid in known_ids and isinstance(photos,list) and photos
         for p in photos:
-            assert p["src"].startswith(("https://upload.wikimedia.org/wikipedia/commons/","https://commons.wikimedia.org/wiki/Special:Redirect/file/"))
-            assert p["source_page"].startswith("https://commons.wikimedia.org/wiki/File:")
-            assert p["creator"].strip() and p["role"].strip()
-            allowed_licenses={
-                "CC BY 2.0":"https://creativecommons.org/licenses/by/2.0/",
-                "CC BY 3.0":"https://creativecommons.org/licenses/by/3.0/",
-                "CC BY 4.0":"https://creativecommons.org/licenses/by/4.0/",
-                "CC BY-SA 3.0":"https://creativecommons.org/licenses/by-sa/3.0/",
-                "CC BY-SA 4.0":"https://creativecommons.org/licenses/by-sa/4.0/",
-                "Public Domain (U.S. federal work)":"https://creativecommons.org/publicdomain/mark/1.0/"
-            }
-            assert p["license"] in allowed_licenses and p["license_url"]==allowed_licenses[p["license"]]
-            assert p["private_rights_review_only"] is False
-            assert p["noncommercial_only"] is False
-            approved_external.append((sid,p))
+            assert p.get("creator") and p.get("role") and p.get("source_page")
+            assert p.get("license") in allowed_licenses
+            assert p.get("license_url")==allowed_licenses[p["license"]]
+            assert p.get("noncommercial_only") is False and p.get("private_rights_review_only") is False
+            src=p.get("src","")
+            source=p["source_page"]
+            if src.startswith("media/"):
+                assert re.fullmatch(r"media/[a-z0-9-]+/[A-Za-z0-9._-]+\.(jpg|png)",src,re.I)
+                assert src.startswith("media/"+sid+"/")
+                photo_path=site/src
+                assert photo_path.is_file(),f"Missing approved website image: {src}"
+                raw=photo_path.read_bytes()
+                assert raw.startswith((b"\xff\xd8\xff",b"\x89PNG\r\n\x1a\n")),f"Image bytes invalid: {src}"
+                git_sha=hashlib.sha1(b"blob "+str(len(raw)).encode()+b"\x00"+raw).hexdigest()
+                assert git_sha==p.get("source_blob_sha"),f"Source image byte SHA mismatch: {src}"
+                hosted+=1
+            else:
+                assert src.startswith(("https://upload.wikimedia.org/wikipedia/commons/","https://commons.wikimedia.org/wiki/Special:Redirect/file/"))
+                externally_linked+=1
+            if source.startswith("https://commons.wikimedia.org/wiki/File:"):
+                pass
+            else:
+                assert source.startswith("https://www.inaturalist.org/photos/") and p["creator"]=="Glass Root Garden"
+                assert "Direct reuse permission" in p.get("rights_note",""),"Public owner grant must be explicit"
+            approved.append((sid,p))
 notice=site/"PHOTO_PUBLICATION_SCOPE.md"
-if approved_external:
+if approved:
     notice.write_text(
-       "# Hays Botany - individually reviewed photo pilot\n\n"
-       f"This public family site has **{len(cards)} existing species text lessons** and "
-       f"**{len(approved_external)} externally hosted, individually credited CC BY photo(s)** "
-       "referenced through the reviewed external photo manifest.\n\n"
-       "No source photograph bytes or unverified media are copied to the Pages site. "
-       "Approved links point directly to Wikimedia Commons, and the card shows photographer, "
-       "license, and original source page. Each approved image was already included in "
-       "the historical species source record. This does not establish photo/anatomy completeness.\n\n"
-       "Remaining historical photos are withheld for individual rights and identity review. "
-       "The original learner remains a photo fallback.\n",encoding="utf-8")
+       "# Hays Botany - rights-filtered photographed species gallery\n\n"
+       f"This public family site includes **{len(cards)} teaching summaries** and **{len(approved)} "
+       f"individually attributed photographs across {len(set(sid for sid,p in approved))} species**. "
+       f"**{hosted}** photographs are stored as exact byte-verified JPEG/PNG files under "
+       f"the site's media directory; **{externally_linked}** approved Commons photos "
+       "are linked from Wikimedia rather than copied.\n\n"
+       "Only source-specific public-domain, Creative Commons, or original-photographer "
+       "approved images are included. No unreviewed quarantine media were promoted. "
+       "Photographer, exact source and license appear on every visible species gallery image. "
+       "Attribution and anatomical image suitability remain independently reviewable; "
+       "photographs alone do not mean anatomy arrows and lessons are complete.\n\n"
+       "The source-only cards and excluded historical image records remain preserved. "
+       "The original learner is still a fallback.\n",encoding="utf-8")
 else:
     notice.write_text("# Hays Botany family text-only learner preview\n\n"
-      f"This public learner currently contains **{len(cards)} existing species teaching summaries** "
-      "from the migrated family source cards. **No third-party image files or remote embedded photos** "
-      "are included in the output. Historical source-photo records and credits are preserved "
-      "unchanged on the staging branch for an individual rights review before gallery use.\n\n"
-      "Source repository being public does not establish rights to distribute all original photographs. "
-      "Photographs can be added to the WEBSITE only when individually verified for display, "
-      "attribution, license and adaptation rights. The old public learner remains the "
-      "fallback for existing verified photographs and full lessons.\n",encoding="utf-8")
-report={"status":"PASS_EXISTING_TEXT_DATA_ONLY","collection":CONFIG["collection_id"],
+       f"{len(cards)} teaching summaries are available; no images have passed "
+       "the individual public-media rights gate yet. The original learner remains "
+       "available as a fallback.\n",encoding="utf-8")
+report={"status":"PASS_EXISTING_TEXT_WITH_RIGHTS_FILTERED_GALLERY","collection":CONFIG["collection_id"],
  "source_species":len(cards),"published_site_species":len(cards),
  "distinct_families":len(counts),"external_photos_downloaded":0,
- "embedded_original_photo_files":0,"private_photo_quarantine_files_copied":0,
+ "embedded_original_photo_files":hosted,"site_media_source_sha_verified":hosted,
+ "external_commons_photo_links":externally_linked,"approved_photo_species":len(set(sid for sid,p in approved)),
+ "private_photo_quarantine_files_copied":0,
  "photo_claimed_publicly_permitted_without_review":0,
- "existing_public_cc_photo_links":len(approved_external),
+ "existing_public_cc_photo_links":len(approved),
  "family_pages_ready_for_text_browsing":True,"original_hub_modified":False,
  "source_family_branch_modified":False,"new_plant_installations":0}
 (DEST/"site-build-text-only-report.json").write_text(json.dumps(report,indent=2)+"\n")
