@@ -13,7 +13,13 @@ function renderList(){
  if(!siteState.entries.length){result.append(el("p","No species in this collection release. Open the legacy Hays Botany learner for older records.","muted"));return}
  if(!list.length){result.append(el("p","No matching plants in this collection.","muted"));return}
  for(const s of list){
-   const b=el("button");b.type="button";b.append(el("strong",s.common_name||s.scientific_name),el("em",s.scientific_name));
+   const b=el("button");b.type="button";
+   const photos=siteState.approvedPhotos[s.id]||[];
+   if(photos.length){
+     const thumb=document.createElement("img");thumb.className="result-thumb";thumb.src=photos[0].src;thumb.loading="lazy";thumb.alt="";thumb.onerror=()=>thumb.remove();b.append(thumb);
+   }
+   b.append(el("strong",s.common_name||s.scientific_name),el("em",s.scientific_name));
+   if(photos.length)b.append(el("small",photos.length+" visible photo"+(photos.length===1?"":"s"),"photo-count"));
    if(s.id===siteState.active)b.setAttribute("aria-current","true");
    b.addEventListener("click",()=>select(s.id,true));result.append(b);
  }
@@ -33,7 +39,7 @@ async function select(id,push){
    if(siteState.active!==id)return;
    const card=siteState.details.get(id);
    const photos=siteState.approvedPhotos[id]||[];
-   d.append(el("p",photos.length?`${photos.length} individually credited historical photograph${photos.length===1?"":"s"} released from an exact-source CC license review. Other images remain held.`:"Field-identification text from the existing Hays Botany scientific record. Photographs for this species remain withheld pending source-specific reuse review.","muted"));
+   d.append(el("p",photos.length?`${photos.length} credited photograph${photos.length===1?"":"s"} in this species gallery. See each image for its source and license; additional views may still be under review.`:"This species has an identification lesson, but no photo cleared for display in this family gallery yet. Its source photos have not necessarily been lost.","muted"));
    if(card.look_here_first){
      d.append(el("h3","LOOK HERE FIRST"));
      d.append(el("p",card.look_here_first));
@@ -58,9 +64,11 @@ async function select(id,push){
      for(const photo of photos){
        const fig=el("figure",undefined,"gallery-photo");
        const link=document.createElement("a");link.href=photo.src;link.target="_blank";link.rel="noopener noreferrer";link.setAttribute("aria-label","Open original-size preview of "+(photo.role||card.scientific_name));
-       const image=document.createElement("img");image.src=photo.src;image.loading="lazy";image.alt=card.scientific_name+": "+(photo.role||"verified species photograph");
+       const image=document.createElement("img");image.src=photo.src;image.loading="lazy";image.decoding="async";image.alt=card.scientific_name+": "+(photo.role||"verified species photograph");
+       image.onerror=()=>{image.style.display="none";if(!fig.querySelector(".photo-load-error"))fig.append(el("p","This image did not load. Open its photo source below.","photo-load-error"));};
        link.append(image);fig.append(link);
-       const cap=el("figcaption");cap.append(el("strong",photo.role||"Species photograph"),el("small","Photo: "+photo.creator+" · "+photo.license+". Resized for this learner, source credited."));
+       const cap=el("figcaption");cap.append(el("strong",photo.role||"Species photograph"),el("small","Photo: "+photo.creator+" · "+photo.license+"."));
+       if(photo.modified)cap.append(el("small",photo.modified));
        if(photo.noncommercial_only)cap.append(el("small","NONCOMMERCIAL-ONLY reuse. No commercial use or redistribution outside license terms.","photo-nc"));
        if(photo.private_rights_review_only)cap.append(el("small",photo.rights_note||"Private review: public license verification still required.","photo-review"));
        const sources=el("div",undefined,"source-links");
@@ -83,7 +91,7 @@ function setMode(mode){
  $("nav-learner").setAttribute("aria-current",mode==="learner"?"page":"false");
  $("nav-field").setAttribute("aria-current",mode==="field"?"page":"false");
  if(siteState.active)select(siteState.active,false);
- else statusMessage(mode==="learner"?"Choose a species to begin":"Field ID tiles","This is a preview shell. Species lessons will appear only after the first verified import.");
+ else statusMessage(mode==="learner"?"Choose a species to begin":"Choose a field ID lesson","Select any of the imported plants to view its identification lesson and any cleared photographs.");
 }
 async function boot(){
  try{
@@ -92,6 +100,8 @@ async function boot(){
    siteState.config=await confResp.json();const doc=await indexResp.json();const photoDoc=await photosResp.json();
    if(photoDoc.schema_version!==1||!photoDoc.species||typeof photoDoc.species!=="object")throw Error("approved photo manifest invalid");
    siteState.approvedPhotos=photoDoc.species;
+   const photos=Object.values(siteState.approvedPhotos).flat();
+   if($("photo-summary"))$("photo-summary").textContent=photos.length+" approved images across "+Object.keys(siteState.approvedPhotos).length+" species";
    if(!Array.isArray(doc.entries))throw Error("invalid collection index");
    siteState.entries=doc.entries;
    const label=siteState.config.repository_full_name.split("/")[1].replace("Hays-Botany-","").replaceAll("-"," ");
