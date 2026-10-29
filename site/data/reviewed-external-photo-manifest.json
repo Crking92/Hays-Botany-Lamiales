@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "status": "SINGLE_EXISTING_IMAGE_CC_BY_2_0_PUBLIC_PILOT",
-  "note": "Explicit allowlist for pre-existing species-image source records; only verified photo URLs are rendered. Other historical images remain excluded. No third-party file bytes were moved.",
+  "status": "EIGHT_EXISTING_SOURCE_CC_OR_PUBLIC_DOMAIN_PHOTO_PILOT",
+  "note": "Eight pre-existing exact-species photographs are displayed from individually checked Wikimedia Commons source pages. No new photographic bytes are copied or published from historical rights-held archives. Not a completed gallery or anatomy audit.",
   "species": {
     "anisacanthus-quadrifidus-var-wrightii": [
       {
@@ -18,6 +18,118 @@
         "rights_note": "Taxon determination follows original source identification; infraspecific determination is not independently confirmed from image alone.",
         "original_source_record": "content/taxa/Acanthaceae/Anisacanthus/anisacanthus-quadrifidus-var-wrightii/image-sources.csv",
         "original_image_blob_sha": "e1410b0817f6b149f8328f69f92770ae40ea9f1a"
+      }
+    ],
+    "monarda-citriodora": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Monarda_citriodora.jpg",
+        "creator": "Clarence A. Rechenthin / USDA-NRCS",
+        "license": "Public Domain (U.S. federal work)",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_citriodora.jpg",
+        "role": "Flowering stems with stacked whorls and bracts",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "rights_note": "",
+        "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-citriodora/image-sources.csv"
+      }
+    ],
+    "salvia-coccinea": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Salvia_coccinea_259451907.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_coccinea_259451907.jpg",
+        "role": "Whole flowering plant, leaves and red salvia inflorescence",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "rights_note": "",
+        "original_source_record": "content/taxa/Lamiaceae/Salvia/salvia-coccinea/image-sources.csv"
+      }
+    ],
+    "salvia-greggii": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Salvia_greggii.jpg",
+        "creator": "Raul654",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_greggii.jpg",
+        "role": "Flower and branching-habit reference",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "rights_note": "Species morphology only; photo not proof of wild Hays County provenance",
+        "original_source_record": "content/taxa/Lamiaceae/Salvia/salvia-greggii/image-sources.csv"
+      }
+    ],
+    "phyla-nodiflora": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr_080605-6676_Phyla_nodiflora.jpg",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080605-6676_Phyla_nodiflora.jpg",
+        "role": "Frogfruit flower heads, small leaves and spreading habit",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "rights_note": "",
+        "original_source_record": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/image-sources.csv"
+      }
+    ],
+    "campsis-radicans": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Campsis_radicans-leaf.jpg",
+        "creator": "Jaknouse",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans-leaf.jpg",
+        "role": "Odd-pinnate compound leaf and toothed leaflets",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "rights_note": "",
+        "original_source_record": "content/taxa/Bignoniaceae/Campsis/campsis-radicans/image-sources.csv"
+      }
+    ],
+    "monarda-punctata": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Monarda_punctata_inflorescence.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_punctata_inflorescence.jpg",
+        "role": "Spotted horsemint inflorescence with pale bracts and spotted corollas",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "rights_note": "",
+        "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-punctata/image-sources.csv"
+      }
+    ],
+    "salvia-farinacea": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Salvia_farinacea_168170655.jpg",
+        "creator": "Michelle W. (鍾偉瑋)",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea_168170655.jpg",
+        "role": "Mealy blue sage inflorescence, Travis County field image",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "rights_note": "",
+        "original_source_record": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/image-sources.csv"
       }
     ]
   }
