@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "status": "FAMILY_REVIEWED_SOURCE_PHOTOS_WITH_GITHUB_HOSTED_MONARDA",
-  "note": "Approved source-specific photo references by species. Monarda citriodora has five physical byte-verified GitHub site JPEGs; other earlier approved photos still link upstream Commons. No blanket publication of source quarantines.",
+  "status": "EXISTING_RIGHTS_CLEARED_GITHUB_MEDIA_RESTORATION_IN_PROGRESS",
+  "note": "Per-species strict public-rights allowlist. Physical existing-source images are added to public site/media only after exact creator/source/versioned CC or public-domain review. Others remain withheld.",
   "species": {
     "anisacanthus-quadrifidus-var-wrightii": [
       {
@@ -147,33 +147,80 @@
     ],
     "campsis-radicans": [
       {
-        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Campsis_radicans-leaf.jpg",
+        "src": "media/campsis-radicans/01-compound-serrate-leaf.jpg",
         "creator": "Jaknouse",
         "license": "CC BY-SA 3.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
         "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans-leaf.jpg",
-        "role": "Odd-pinnate compound leaf and toothed leaflets",
+        "role": "Odd-pinnate compound leaf with sharply serrated leaflets",
         "source_page_is_exact": true,
         "noncommercial_only": false,
         "private_rights_review_only": false,
-        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
         "rights_note": "",
+        "source_blob_sha": "193a0f706e7ad1715fcb08e850fba147842668f9",
+        "original_source_record": "content/taxa/Bignoniaceae/Campsis/campsis-radicans/image-sources.csv"
+      },
+      {
+        "src": "media/campsis-radicans/02-flowering-vine-foliage.jpg",
+        "creator": "BotBln",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Campsis_radicans_LeavesFlowers_BotGardBln0806.JPG",
+        "role": "Flowering vine context with compound leaves and orange trumpet flowers",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
+        "rights_note": "",
+        "source_blob_sha": "0a8869ca86f559a00b4c9a41b01ac070a799819f",
         "original_source_record": "content/taxa/Bignoniaceae/Campsis/campsis-radicans/image-sources.csv"
       }
     ],
     "monarda-punctata": [
       {
-        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Monarda_punctata_inflorescence.jpg",
+        "src": "media/monarda-punctata/01-reference.jpg",
         "creator": "Alex Abair",
         "license": "CC BY 4.0",
         "license_url": "https://creativecommons.org/licenses/by/4.0/",
         "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_punctata_inflorescence.jpg",
-        "role": "Spotted horsemint inflorescence with pale bracts and spotted corollas",
+        "role": "Inflorescence / spotted corollas and pale bracts",
         "source_page_is_exact": true,
         "noncommercial_only": false,
         "private_rights_review_only": false,
-        "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
         "rights_note": "",
+        "source_blob_sha": "a240f0b5e5c476ec0573754d4893a3d5cc622b0b",
+        "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-punctata/image-sources.csv"
+      },
+      {
+        "src": "media/monarda-punctata/02-reference.jpg",
+        "creator": "Aaron Carlson",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_punctata_(4908479312).jpg",
+        "role": "Spotted yellow corollas, pale bracts and upper leaves",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
+        "rights_note": "",
+        "source_blob_sha": "0c6d9a7430abb5433754525db8b4034b8f71e97c",
+        "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-punctata/image-sources.csv"
+      },
+      {
+        "src": "media/monarda-punctata/03-botanical-illustration.png",
+        "creator": "N. L. Britton & A. Brown (1913)",
+        "license": "Public Domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_punctata_BB-1913.png",
+        "role": "Botanical illustration / flowering stem, leaf, calyx and corolla details",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
+        "rights_note": "",
+        "source_blob_sha": "cb6647ffd1d5fa941f94f3132dd6737f73765f3b",
         "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-punctata/image-sources.csv"
       }
     ],
@@ -191,6 +238,104 @@
         "modified": "Original upstream Commons file displayed; no derivative downloaded or modified",
         "rights_note": "",
         "original_source_record": "content/taxa/Lamiaceae/Salvia/salvia-farinacea/image-sources.csv"
+      }
+    ],
+    "ruellia-humilis": [
+      {
+        "src": "media/ruellia-humilis/01-habit-flower.jpg",
+        "creator": "Miwasatoshi",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia-humilis-20080401.JPG",
+        "role": "Flower front with pubescent opposite leaves",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
+        "rights_note": "",
+        "source_blob_sha": "585463ecc4fb9fb24b1fe22febd94ed6351c3f29",
+        "original_source_record": "content/taxa/Acanthaceae/Ruellia/ruellia-humilis/image-sources.csv"
+      },
+      {
+        "src": "media/ruellia-humilis/02-flower-foliage.jpg",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_humilis_kz01.jpg",
+        "role": "Axillary flower and hairy foliage reference",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
+        "rights_note": "",
+        "source_blob_sha": "a1bd534b99ef94f4ba0e450b967bc5f889f2b75b",
+        "original_source_record": "content/taxa/Acanthaceae/Ruellia/ruellia-humilis/image-sources.csv"
+      },
+      {
+        "src": "media/ruellia-humilis/03-field-habit.jpg",
+        "creator": "Chris Light",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Hairy_Wild_Petunia_(Ruellia_humilis)_6397.jpg",
+        "role": "Flower, calyx and visibly hairy stem",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
+        "rights_note": "",
+        "source_blob_sha": "af762eeffb88a40d8b17014eb55900e1f1d0e8c4",
+        "original_source_record": "content/taxa/Acanthaceae/Ruellia/ruellia-humilis/image-sources.csv"
+      }
+    ],
+    "ruellia-drummondiana": [
+      {
+        "src": "media/ruellia-drummondiana/ruellia-drummondiana-provisional-face.jpg",
+        "creator": "Michelle",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_drummondiana.jpg",
+        "role": "Flowering habit recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
+        "rights_note": "",
+        "source_blob_sha": "ba9dcdc9ee5837e7726076554f29cafc2b3650e4",
+        "original_source_record": "content/taxa/Acanthaceae/Ruellia/ruellia-drummondiana/image-sources.csv"
+      }
+    ],
+    "ruellia-metziae": [
+      {
+        "src": "media/ruellia-metziae/ruellia-metziae-provisional-face.jpg",
+        "creator": "Michelle W.",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_metziae_in_bloom.jpg",
+        "role": "Flowering habit recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
+        "rights_note": "",
+        "source_blob_sha": "2911a36279daca1a77f652bb0a474552213fe25c",
+        "original_source_record": "content/taxa/Acanthaceae/Ruellia/ruellia-metziae/image-sources.csv"
+      }
+    ],
+    "monarda-fistulosa": [
+      {
+        "src": "media/monarda-fistulosa/monarda-fistulosa-provisional-face.jpg",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_fistulosa_142817652.jpg",
+        "role": "Flowering head / recognizable face",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "Exact prior learner image bytes copied to family site; no modifications",
+        "rights_note": "",
+        "source_blob_sha": "cb98290041fb6020af045a0a8d60f5979316e8f6",
+        "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-fistulosa/image-sources.csv"
       }
     ]
   }
