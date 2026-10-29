@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "status": "SINGLE_EXISTING_IMAGE_CC_BY_2_0_PUBLIC_PILOT",
+  "note": "Explicit allowlist for pre-existing species-image source records; only verified photo URLs are rendered. Other historical images remain excluded. No third-party file bytes were moved.",
+  "species": {
+    "anisacanthus-quadrifidus-var-wrightii": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Anisacanthus_quadrifidus_wrightii.jpg",
+        "creator": "Scott",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Anisacanthus_quadrifidus_wrightii.jpg",
+        "role": "Red tubular flowers and opposite narrow foliage (source labels plant as A. quadrifidus wrightii)",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "modified": "No file alteration; upstream Wikimedia Commons original linked directly",
+        "rights_note": "Taxon determination follows original source identification; infraspecific determination is not independently confirmed from image alone.",
+        "original_source_record": "content/taxa/Acanthaceae/Anisacanthus/anisacanthus-quadrifidus-var-wrightii/image-sources.csv",
+        "original_image_blob_sha": "e1410b0817f6b149f8328f69f92770ae40ea9f1a"
+      }
+    ]
+  }
+}
