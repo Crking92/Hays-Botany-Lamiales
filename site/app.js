@@ -38,6 +38,9 @@ async function select(id,push){
    }
    if(siteState.active!==id)return;
    const card=siteState.details.get(id);
+   if(card.source_sync_status==="AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"){
+     d.append(el("p","Automatically imported botanical source record — identification, county nativity and anatomy should be checked before relying on this lesson.","muted"));
+   }
    const photos=siteState.approvedPhotos[id]||[];
    d.append(el("p",photos.length?`${photos.length} credited photograph${photos.length===1?"":"s"} in this species gallery. See each image for its source and license; additional views may still be under review.`:"This species has an identification lesson, but no photo cleared for display in this family gallery yet. Its source photos have not necessarily been lost.","muted"));
    if(card.look_here_first){
