@@ -1,0 +1,15 @@
+name: Test Lamiales automated photo intake (isolated site only)
+on:
+  push:
+    branches: [main]
+    paths: ['scripts/publish_approved_lamiales_photos.py','scripts/publish_approved_family_photos.py','scripts/test_lamiales_photo_intake.py','.github/workflows/test-lamiales-photo-intake.yml']
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - run: python3 scripts/test_lamiales_photo_intake.py
