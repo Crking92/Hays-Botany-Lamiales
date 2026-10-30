@@ -1,0 +1,14 @@
+name: Test safe species-source to public family lesson synchronization
+on:
+  push:
+    branches: [main]
+    paths: ['scripts/sync_source_species_to_site.py','scripts/test_generic_source_species_sync.py','.github/workflows/test-source-species-sync.yml']
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/test_species_source_sync.py

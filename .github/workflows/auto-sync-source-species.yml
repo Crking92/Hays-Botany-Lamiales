@@ -1,0 +1,70 @@
+name: Automatically sync changed botanical species records to family lessons
+on:
+  push:
+    branches: [staging/original-source-transfer]
+    paths:
+      - 'content/taxa/**/species.json'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: lamiales-family-auto-photo-release
+  cancel-in-progress: false
+jobs:
+  publish-source-edits:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/original-source-transfer
+          fetch-depth: 0
+      - name: Prepare isolated public family release
+        run: |
+          git fetch origin main
+          git worktree add "$RUNNER_TEMP/family-release" origin/main
+      - name: Inspect only species records changed by this push
+        env:
+          SOURCE_BEFORE: ${{ github.event.before }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$SOURCE_BEFORE" || "$SOURCE_BEFORE" =~ ^0+$ ]]; then
+            echo "No reliable previous source commit; no automatic bulk rewrite."
+            exit 0
+          fi
+          python3 "$RUNNER_TEMP/family-release/scripts/sync_source_species_to_site.py" --source-root . --site-root "$RUNNER_TEMP/family-release/site" --changed-from "$SOURCE_BEFORE" --check
+          python3 "$RUNNER_TEMP/family-release/scripts/sync_source_species_to_site.py" --source-root . --site-root "$RUNNER_TEMP/family-release/site" --changed-from "$SOURCE_BEFORE"
+      - name: Verify regenerated species cards, galleries and identity
+        working-directory: ${{ runner.temp }}/family-release
+        run: python3 - <<'PY'
+          import json,pathlib
+          root=pathlib.Path('site')
+          idx=json.loads((root/'data/collection-index.json').read_text())['entries']
+          manifest=json.loads((root/'data/reviewed-external-photo-manifest.json').read_text())['species']
+          assert {x['id'] for x in idx}.issuperset(manifest)
+          assert len(idx)==len({x['id'] for x in idx})
+          assert all((root/'data/species'/(x['id']+'.json')).is_file() for x in idx)
+          print('PASS: Lamiales indexed new source and existing photo links preserved')
+          PY
+      - name: Commit new or improved species lessons (preserve photos)
+        id: release
+        working-directory: ${{ runner.temp }}/family-release
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/species/ site/data/collection-index.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Auto-sync assigned family botanical source records into learner"
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Request public lesson rebuild
+        if: steps.release.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
