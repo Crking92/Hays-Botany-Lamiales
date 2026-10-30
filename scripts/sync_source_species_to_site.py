@@ -80,9 +80,19 @@ def render(source,site,files,check=False):
         if not isinstance(comparisons,dict):comparisons={}
         names=comparisons.get("confused_with") or []
         if not isinstance(names,list):names=[]
-        morph=raw.get("morphology_keys")\n        if not isinstance(morph,dict):morph={}\n        text=comparisons.get("key_distinctions") or morph.get("comparison_training","")
+        morph=raw.get("morphology_keys")
+        if not isinstance(morph,dict):morph={}
+        text=comparisons.get("key_distinctions") or morph.get("comparison_training","")
         if not isinstance(text,str):text=""
         card=dict(current or {})
+        traits=compact_traits(raw)
+        if not traits and current:traits=current.get("key_traits",[])
+        if not first.strip() and current:first=current.get("look_here_first","")
+        if not names and not text and current:
+            oldcmp=current.get("lookalikes",{})
+            if isinstance(oldcmp,dict):
+                names=oldcmp.get("names",[])
+                text=oldcmp.get("differences","")
         card.update({"id":sid,"family":family,"genus":genus,
                      "scientific_name":scientific,"common_name":common,
                      "look_here_first":first.strip(),
