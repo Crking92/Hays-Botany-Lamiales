@@ -37,7 +37,8 @@ jobs:
           python3 "$RUNNER_TEMP/family-release/scripts/sync_source_species_to_site.py" --source-root . --site-root "$RUNNER_TEMP/family-release/site" --changed-from "$SOURCE_BEFORE"
       - name: Verify regenerated species cards, galleries and identity
         working-directory: ${{ runner.temp }}/family-release
-        run: python3 - <<'PY'
+        run: |
+          python3 - <<'PY'
           import json,pathlib
           root=pathlib.Path('site')
           idx=json.loads((root/'data/collection-index.json').read_text())['entries']
