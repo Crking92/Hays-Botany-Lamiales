@@ -1,5 +1,28 @@
 # Cross-collection source migration status — October 30, 2026
 
+## October 30 later update — all eight grouped collections live-file QA finished
+
+**Eight-group existing-source migration sweep: COMPLETE.** The 4,982 original files across 899 species remain accounted for; the six grouped collections previously awaiting live Pages tests have now all passed an automated independent HTTP/byte check of **every published species JSON and every hosted gallery image**. Together with the two earlier verified collections, all eight groups have a successful deployed-photo verification run. The six newer tests independently compare each published photo's Git blob hash with the archived source hash, check credit/license fields, compare indexes and inspect the actual Pages-served JSON/media bytes. The previous paragraph below saying those six had not yet been independently re-fetched is **superseded by this dated addendum**.
+
+| Family-group website | Species | Original source files exact | Hosted gallery photos | Live gallery QA |
+|---|---:|---:|---:|---|
+| Fabaceae | 91 | 491/491 (four documented text/credit edits) | 88 | [PASS 41063761970](https://github.com/Crking92/Hays-Botany-Fabaceae/actions/runs/41063761970) |
+| Lamiales | 102 | 582/582 | 100 (+ 2 approved remote photo links) | [PASS 41078124849](https://github.com/Crking92/Hays-Botany-Lamiales/actions/runs/41078124849) |
+| Monocots & Aquatics | 113 | 587/587 | 35 | [PASS 41081040579](https://github.com/Crking92/Hays-Botany-Monocots-Aquatics/actions/runs/41081040579) |
+| Asterid Allies | 118 | 693/693 | 64 | [PASS 41081440106](https://github.com/Crking92/Hays-Botany-Asterid-Allies/actions/runs/41081440106) |
+| Cacti & Buttercups | 107 | 543/543 | 37 | [PASS 41081592865](https://github.com/Crking92/Hays-Botany-Cacti-Buttercups/actions/runs/41081592865) |
+| Spurges & Mallows | 130 | 764/764 | 99 | [PASS 41081608621](https://github.com/Crking92/Hays-Botany-Spurges-Mallows/actions/runs/41081608621) |
+| Trees & Shrubs | 133 | 790/790 | 107 | [PASS 41081682522](https://github.com/Crking92/Hays-Botany-Trees-Shrubs/actions/runs/41081682522) |
+| Mixed Families | 105 | 532/532 | 19 | [PASS 41081696484](https://github.com/Crking92/Hays-Botany-Mixed-Families/actions/runs/41081696484) |
+| **Totals** | **899** | **4,982/4,982 accounted for** | **549** (+ 2 remote Lamiales) | **8/8 pass** |
+
+Each of the six newly audited collections has a README reflecting its PUBLIC photo-backed state, a migration checkpoint under `migration/`, and an `scripts/verify_existing_site.py` with a GitHub Actions live-site QA workflow. Tiny photo-caption copy errors that falsely said unchanged original photos were resized were corrected. No original photos, legacy hub data, or historic photo archive were deleted or modified.
+
+**Data-enrichment backlog, not a migration defect:** the six new QA runs report **16 inherited empty `look_here_first` fields** (Asterid Allies 14; Cacti & Buttercups 2; Monocots, Spurges, Trees, Mixed 0). These species records and any other missing anatomy or diagnostic content remain for a separate botanical improvement phase. Do not fabricate missing lessons merely to make source-transfer metrics pass.
+
+**Open non-migration concerns:** historical held photo bytes in public Git history are not made private by Pages filtering; individual photo-rights/provenance still need their own review before additional public gallery inclusion. The original Hays-County-Botany stays read-only, old scheduled automations stay paused, and the final unified hub/navigation cutover and further botanical improvements are separate future steps. Poaceae and Asteraceae are separate previously migrated specialist families and were not re-audited by this eight-group verification.
+
+
 **Scope:** Existing botanical records and existing photographs ONLY. No new photos, new taxa, new source science, new location work, family-to-hub website cutover, or automation restarts. The original `Crking92/Hays-County-Botany` remains READ-ONLY botanical fallback. This report records preserved SOURCE BYTES separately from approved/public photos.
 
 ## Eight source-transfer audit results (original hub vs assigned family staging branches)
