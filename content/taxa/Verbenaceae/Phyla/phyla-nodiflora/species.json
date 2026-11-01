@@ -178,6 +178,91 @@
       "source_page": "https://www.inaturalist.org/guides/14344",
       "study_use": "yes",
       "public_reuse": "review"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/622667987/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "acarlson1",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/341978811",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622667987/original.jpg",
+      "original_source_sha256": "348e5bb02ccee371e62cbfb52c0958347813f99fccf7770304e77e63c1ced0fe",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Verbenaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/632337886/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "arbutusatx",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/346860188",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632337886/original.jpg",
+      "original_source_sha256": "b4828a327e6ac474ffdbad6db36418bac2fbf10f820a076780c6865a8311bb8e",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Verbenaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/632199336/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "arbutusatx",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/346789359",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632199336/original.jpg",
+      "original_source_sha256": "335d90b3b09676ae01e27f746565a4b88ac2ee38ef05aa72bcd20ff03a13746e",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Verbenaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/634403543/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "sageost",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/347899110",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634403543/original.jpg",
+      "original_source_sha256": "297b28e1c0e177b1552308f0a8cc0c75557d39732e5fb722d49c7ac9679efc51",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Verbenaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/635559700/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "JL",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/348481413",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635559700/original.jpg",
+      "original_source_sha256": "c1390f65bc10537bd4a10d59c1264600edc0d06e9dc478d04d7296be5ff59b39",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Verbenaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
     }
   ],
   "learner_visual_status": {
@@ -495,5 +580,14 @@
       "external_note": "Credited verified exact-species external Wikimedia Commons photo. Not saved as a canonical local image. Check 'Diagnostic photo comparisons' for annotated arrows and teaching."
     }
   ],
-  "gallery_note": "Main swipe photo viewer includes installed images PLUS individually licensed external exact-species references. The canonical images[] and physical JPEG files are unchanged; these additional source photos are externally hosted, with source and CC license credited. Look-alike taxon photos remain in the separate comparison section."
+  "gallery_note": "Main swipe photo viewer includes installed images PLUS individually licensed external exact-species references. The canonical images[] and physical JPEG files are unchanged; these additional source photos are externally hosted, with source and CC license credited. Look-alike taxon photos remain in the separate comparison section.",
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Verbenaceae",
+    "incoming_photo_count": 5,
+    "added_external_gallery_refs": 5,
+    "held_remote_http_links": 0,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "github_hosted_copy_completed": false
+  }
 }
