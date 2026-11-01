@@ -20,11 +20,17 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Aloysia virgata",
+      "Lantana urticoides",
+      "Verbena halei"
+    ],
+    "differences": "A. virgata usually has larger toothed leaves and lax, flexuose racemes; Lantana has rounded heads; Verbena is herbaceous with spikes."
   },
   "verified_photos": [],
   "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
   "original_species_sha256": "040e4f1f495e0d7671b3dad5e646bbb15012495af1ea490e5d2dd989a984aa14",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "9b71611b99c7832ae4f88c77b0e082e6834cd6303e1a5a24c0ac4138a041b4f0",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }
