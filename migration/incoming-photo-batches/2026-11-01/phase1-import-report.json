@@ -2,6 +2,16 @@
   "schema_version": 1,
   "report": [
     {
+      "species": "Leucophyllum frutescens",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Verbascum thapsus",
+      "hosted": 5,
+      "pending": []
+    },
+    {
       "species": "Aloysia gratissima",
       "hosted": 5,
       "pending": []

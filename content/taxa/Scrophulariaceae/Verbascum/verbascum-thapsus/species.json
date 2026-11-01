@@ -25,6 +25,81 @@
       "source_page": "https://commons.wikimedia.org/wiki/File:Verbascumthapsus.jpg",
       "study_use": "Private noncommercial educational field-ID learner",
       "public_reuse": "CC0 public-domain dedication, photographer credit voluntarily preserved"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Shelia Hargis",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/343301306",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "97b0f1522c51afa90c7510f7a46f577676219658bb3f04c1982001470edb456d",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625327792/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-97b0f1522c51afa90c75.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "weston_smith1",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/344224958",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "dbd854557112a05b963b99227d2229d70c98e25b5677ad036a0872ed7a36d3bf",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627164933/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-dbd854557112a05b963b.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "happy_snails141",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/344077800",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "30bf010f4488cdef4bca0234cf699f841000b44214924192936299c603c55d93",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626882958/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-30bf010f4488cdef4bca.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "musicalpirate1929",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/347320973",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "cedf8cf4891d5756fa0ead9fd71c9cd2a9afd807c3687d8567580949673f59cf",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633255462/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-cedf8cf4891d5756fa0e.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Eric Knight",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/347106644",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "46ceeac8089b05c583efd181e01f2f77623f758fa15e60c4c83269fe4b1e956f",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632830854/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-46ceeac8089b05c583ef.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "learner_visual_status": {
@@ -33,5 +108,15 @@
     "image_count": 1,
     "filled_at": "2026-10-18",
     "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Scrophulariaceae",
+    "incoming_photo_count": 5,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "github_hosted_copy_completed": true,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
   }
 }

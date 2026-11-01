@@ -119,6 +119,81 @@
       "source_page": "https://commons.wikimedia.org/wiki/File:Starr_041028-0233_Leucophyllum_frutescens.jpg",
       "study_use": "yes",
       "public_reuse": "yes"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "pinkystrong",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/343116028",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "195b309db087a3495ad92c5088ddf2a9e438bcb748b21dcdb1a1662f64120f2e",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624949450/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-195b309db087a3495ad9.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "wmirshell",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/343016714",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "7945fc8ff1f67481cdce7ce62e0cc35a4cd44be25a9e3d5b1186411b35edff1b",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624746888/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-7945fc8ff1f67481cdce.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "devinvandergriff",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/342103459",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "af6055105ea43bbb21b021e4b5b3d8077db4b49e6bdcc4d87276386de9b5142f",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622920590/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-af6055105ea43bbb21b0.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "byronporter12",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/344606128",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "30f76ca5da6bcdf8b6a72258f0c944bd1f8412b7a6d30ddca751755c18d58299",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627913541/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-30f76ca5da6bcdf8b6a7.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "steve emmons",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/355826499",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "0094a2869364e4119692f8668ac1ffec8bd17f7bf8e95557c6e06188c4eddff3",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648897901/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-0094a2869364e4119692.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "scientific_sources": [
@@ -160,5 +235,15 @@
     "visual_reviewed": true,
     "visual_status": "field_recognition_provisional",
     "photo_backfill_needed": false
+  },
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Scrophulariaceae",
+    "incoming_photo_count": 5,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "github_hosted_copy_completed": true,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
   }
 }
