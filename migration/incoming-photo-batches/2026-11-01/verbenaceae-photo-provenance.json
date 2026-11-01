@@ -1,0 +1,546 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Keep existing species cards and images intact. Photo source links, credited creators and exact hashes retained for Phase 1 import. CC BY-NC photos require noncommercial license compliance; do not silently change license.",
+  "family": "Verbenaceae",
+  "target_repository": "Crking92/Hays-Botany-Lamiales",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Verbenaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Aloysia gratissima",
+      "species_id": "aloysia-gratissima",
+      "photos": [
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_gratissima/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "mkloomis",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/344926059",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/628523291/original.jpg",
+          "sha256": "4e681884e96b15cdaff5acf24d9f6b3d85fc21f1e249a69d85d250a083fec5e2",
+          "bytes": 3700623,
+          "gbif_id": 6185220702
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_gratissima/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "bridgette24601",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/350956001",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640396500/original.jpg",
+          "sha256": "37ae7df70efea165d82ac675f64fc67be2a5f5d15678f8e13b64b7d0549fc54f",
+          "bytes": 2226086,
+          "gbif_id": 6234844127
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_gratissima/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "ashley0618",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/354728001",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647070041/original.jpg",
+          "sha256": "9d4896536c51d17ecbe9811c0a856fc155d34ffb74eb48472204843ac0c12daa",
+          "bytes": 3094815,
+          "gbif_id": 6251576860
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_gratissima/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "sylvie_79",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/353775039",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645441219/original.jpg",
+          "sha256": "1fe30476504badfd81259fbb0a2052918151342fb1a770b8e58c1ff25ca905da",
+          "bytes": 1293690,
+          "gbif_id": 6273905603
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_gratissima/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "jarwney",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/386377629",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/707431709/original.jpg",
+          "sha256": "2af605dee7604dcaec1f721c7cb9b35d758c2e91245111b0053d9823e4de94e5",
+          "bytes": 2831173,
+          "gbif_id": 6480854962
+        }
+      ]
+    },
+    {
+      "species": "Aloysia virgata",
+      "species_id": "aloysia-virgata",
+      "photos": [
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_virgata/photos/photo_0.jpeg",
+          "filename": "photo_0.jpeg",
+          "creator": "Justin Gonzalez",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/135401394",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230929549/original.jpeg",
+          "sha256": "4726e81f15e919d07b6afad2611a19e988008ca77b5a728f9947a6cfca01e67a",
+          "bytes": 1951601,
+          "gbif_id": 4407096485
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_virgata/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Dana Nichols",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/352878854",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643945471/original.jpg",
+          "sha256": "3f2eca471e1cdcd33110ba93fa3f4b2443b3c498b0cb5437c9c8b1631b43d16d",
+          "bytes": 2637854,
+          "gbif_id": 6273483811
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_virgata/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "vickilea",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/353567729",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645095895/original.jpg",
+          "sha256": "a100af3f894e51b4ef0b2033d73f9d8e45845fe6ec1ddb952eebb25f513978bd",
+          "bytes": 2871471,
+          "gbif_id": 6274262389
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_virgata/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Julie Lang",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/384221840",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/703307681/original.jpg",
+          "sha256": "241f73550922008690a29771d4158557e5bd1b27f69e9c135ea1e2b871ce174a",
+          "bytes": 3200150,
+          "gbif_id": 6470537639
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Aloysia_virgata/photos/photo_4.jpeg",
+          "filename": "photo_4.jpeg",
+          "creator": "kchelotes",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/241761144",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430918139/original.jpeg",
+          "sha256": "319baadf7a852577e85ea916fe8a9af45fb773c78f5e84f008dc227614c84c93",
+          "bytes": 1152483,
+          "gbif_id": 4946396838
+        }
+      ]
+    },
+    {
+      "species": "Glandularia bipinnatifida",
+      "species_id": "glandularia-bipinnatifida",
+      "photos": [
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Glandularia_bipinnatifida/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "scramblednick",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342505260",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623753373/original.jpg",
+          "sha256": "ab3d96f691321279fe92cda52a3f322084d969a82b6165a136d8de910a9b0303",
+          "bytes": 865221,
+          "gbif_id": 6178473877
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Glandularia_bipinnatifida/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Alan R Lusk",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342453994",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623628794/original.jpg",
+          "sha256": "57c73935fdf7ff265b5a70e1c6e2b228bf8c65ca474219ee244e30f68315841f",
+          "bytes": 3555771,
+          "gbif_id": 6178546194
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Glandularia_bipinnatifida/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "bluecanine",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342972647",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624658578/original.jpg",
+          "sha256": "620ba868429ca82c28f6b6c9cc8e21079ac8f22acd470de7ab6c4e1a4a7710b5",
+          "bytes": 3990135,
+          "gbif_id": 6178585716
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Glandularia_bipinnatifida/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "lbarney",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341604394",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621911512/original.jpg",
+          "sha256": "6377087a0cfd27f9ba682a15ae96b8cfd7e24c10d6e3c30f28230b08b210011e",
+          "bytes": 4341586,
+          "gbif_id": 6178622230
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Glandularia_bipinnatifida/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "scramblednick",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342501951",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623728943/original.jpg",
+          "sha256": "77dbc9d1575669d95e3095d80f08bee28962c9ad47c43b6bed266c93bec6115e",
+          "bytes": 2846920,
+          "gbif_id": 6178838308
+        }
+      ]
+    },
+    {
+      "species": "Lantana camara",
+      "species_id": "lantana-camara",
+      "photos": [
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_camara/photos/photo_0.jpeg",
+          "filename": "photo_0.jpeg",
+          "creator": "catherine327",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/275272463",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494684128/original.jpeg",
+          "sha256": "b01795849f6365aea074306e7aec9fb824237209973d6af1e05f5e74711c03df",
+          "bytes": 2114132,
+          "gbif_id": 5140984053
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_camara/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Devoncox",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/118563932",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200334708/original.jpg",
+          "sha256": "85fa36e80bbfc6dddd38c302d454a0aba995d518b9fc44908e0fe8c0fa44c3d1",
+          "bytes": 966539,
+          "gbif_id": 3802570615
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_camara/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "drgma",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/43885298",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/69596353/original.jpg",
+          "sha256": "652f0daedcb74f44d200889ebafb9cc2b6847055b13944710b7ea9bd7deeb16b",
+          "bytes": 694816,
+          "gbif_id": 2611130766
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_camara/photos/photo_3.jpeg",
+          "filename": "photo_3.jpeg",
+          "creator": "alyssa",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/43756571",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/69392355/original.jpeg",
+          "sha256": "f43dd63a92b0641e0400d5cad4c3ba96ca4674f9bd02352eb4cfe234fbdd3063",
+          "bytes": 435617,
+          "gbif_id": 2611235232
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_camara/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "plectrudis",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/24160042",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37361991/original.jpg",
+          "sha256": "74000ba9d71b8b0a18c26dc83532f005f1f4661ae3e1d6b72279141f70fd2afb",
+          "bytes": 1279687,
+          "gbif_id": 2238994176
+        }
+      ]
+    },
+    {
+      "species": "Lantana urticoides",
+      "species_id": "lantana-urticoides",
+      "photos": [
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_urticoides/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "voslanier",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/349309477",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637189319/original.jpg",
+          "sha256": "7301a401920d8a528aabe55c28b3d9887027b726dff83b24cd1b20a6082dc27a",
+          "bytes": 3097323,
+          "gbif_id": 6235808650
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_urticoides/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "stubug",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/358104007",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653220635/original.jpg",
+          "sha256": "db2088ee87d4a521cf32f8cf37384513c726f3fffcf1c7b8d154f61dfd052eee",
+          "bytes": 2153927,
+          "gbif_id": 6334472759
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_urticoides/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "katherinetrinidad",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/349080186",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636736315/original.jpg",
+          "sha256": "218eabd5a27351f5ad82572ea14ffed9a287315d4ab23a874407c3c6d375e6b1",
+          "bytes": 3698780,
+          "gbif_id": 6334549722
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_urticoides/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "stubug",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/358104042",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653220728/original.jpg",
+          "sha256": "6d92b4c28141bc15b3d8b90e9fbb1c0fa46a1f8b64317bf3253f0e72a4c10559",
+          "bytes": 2720487,
+          "gbif_id": 6334845658
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Lantana_urticoides/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "janetcidjieu06",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/345675521",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630003844/original.jpg",
+          "sha256": "0ba3f9e0ab116b85aff480c7e7e2ec12d494fc207149b92c7a5550bd718193aa",
+          "bytes": 2021697,
+          "gbif_id": 6352485450
+        }
+      ]
+    },
+    {
+      "species": "Phyla nodiflora",
+      "species_id": "phyla-nodiflora",
+      "photos": [
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Phyla_nodiflora/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "acarlson1",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341978811",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622667987/original.jpg",
+          "sha256": "348e5bb02ccee371e62cbfb52c0958347813f99fccf7770304e77e63c1ced0fe",
+          "bytes": 3177170,
+          "gbif_id": 6441335426
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Phyla_nodiflora/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "arbutusatx",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/346860188",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632337886/original.jpg",
+          "sha256": "b4828a327e6ac474ffdbad6db36418bac2fbf10f820a076780c6865a8311bb8e",
+          "bytes": 4964216,
+          "gbif_id": 6188558537
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Phyla_nodiflora/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "arbutusatx",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/346789359",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632199336/original.jpg",
+          "sha256": "335d90b3b09676ae01e27f746565a4b88ac2ee38ef05aa72bcd20ff03a13746e",
+          "bytes": 4583353,
+          "gbif_id": 6188590326
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Phyla_nodiflora/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "sageost",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/347899110",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634403543/original.jpg",
+          "sha256": "297b28e1c0e177b1552308f0a8cc0c75557d39732e5fb722d49c7ac9679efc51",
+          "bytes": 1280422,
+          "gbif_id": 6188620448
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Phyla_nodiflora/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "JL",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/348481413",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635559700/original.jpg",
+          "sha256": "c1390f65bc10537bd4a10d59c1264600edc0d06e9dc478d04d7296be5ff59b39",
+          "bytes": 2712707,
+          "gbif_id": 6195618770
+        }
+      ]
+    },
+    {
+      "species": "Verbena brasiliensis",
+      "species_id": "verbena-brasiliensis",
+      "photos": [
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_brasiliensis/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "vgabbard",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/346632130",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631887550/original.jpg",
+          "sha256": "aef08e335eb14697af8daf158aaa3aa56475740f7795fdc529e304de8203b3ab",
+          "bytes": 1281996,
+          "gbif_id": 6188519016
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_brasiliensis/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Russell Sanders",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/354567470",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646791719/original.jpg",
+          "sha256": "18fe379bf1c20283655c32598c16dabb0fc92bc87e86f361d4a487f96bede4f9",
+          "bytes": 3359786,
+          "gbif_id": 6251434765
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_brasiliensis/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "jenbug93",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/272275528",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489832402/original.jpg",
+          "sha256": "2a655b01f524f56264abbc7bdd8b12a97bf945e1cc15cf45fac4850f3a3ecc4e",
+          "bytes": 1865268,
+          "gbif_id": 5134761140
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_brasiliensis/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Charles Franks",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/276006331",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495768146/original.jpg",
+          "sha256": "c55ce883a5c9c0e74ee1c7d8f43a52a8b7fe0a0db029729cf7179169d88d9935",
+          "bytes": 4261359,
+          "gbif_id": 5140796938
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_brasiliensis/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "kathybf",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/276006639",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495768521/original.jpg",
+          "sha256": "64c346090123b00f5d5dc23486ee94b3b9a190c825ffb2c122b553fe1115fb7a",
+          "bytes": 3214851,
+          "gbif_id": 5140884265
+        }
+      ]
+    },
+    {
+      "species": "Verbena xutha",
+      "species_id": "verbena-xutha",
+      "photos": [
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_xutha/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "CAROLYN LANGLINAIS",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/353004875",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644156272/original.jpg",
+          "sha256": "e48e60b1d62a4c173d358696d3145a7585d23f6ac1da5578a2db58e32aeb3a20",
+          "bytes": 3523528,
+          "gbif_id": 6251883079
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_xutha/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "milosmith",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/355738357",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648738076/original.jpg",
+          "sha256": "575f125b10eb7f9eacfd655417d02018d0c9787b211ef5634d446d87f8074d7a",
+          "bytes": 3012459,
+          "gbif_id": 6252075354
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_xutha/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "milosmith",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/355922036",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649067452/original.jpg",
+          "sha256": "bf7e5c9b03772c7b8cf35b59eab99acb454ba5172d86b3db2bcc78afe500cfbe",
+          "bytes": 3201575,
+          "gbif_id": 6252235580
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_xutha/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "PeaceBwU",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/354639049",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646913920/original.jpg",
+          "sha256": "c163e6f25fb1f3425c7e889cc5a782d4d0a551427eef3a18c7a41098a4bdbe7f",
+          "bytes": 2614830,
+          "gbif_id": 6252574890
+        },
+        {
+          "source_zip": "Verbenaceae.zip",
+          "zip_entry": "Verbenaceae/Verbena_xutha/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "troyadkins",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/354685123",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646992983/original.jpg",
+          "sha256": "cc6bd4b3580e25df3d1006815af6fd8398af68d0c919aa94c4097a6113f96f8b",
+          "bytes": 2657166,
+          "gbif_id": 6253127693
+        }
+      ]
+    }
+  ]
+}
