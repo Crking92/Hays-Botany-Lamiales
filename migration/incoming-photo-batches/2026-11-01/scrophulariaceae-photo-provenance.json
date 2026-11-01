@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Source images were filtered by downloader to Creative Commons licenses, and exact file hashes checked. Stage only: review per-photo rights and botanical ID before public release. Preserve all original cards/photos.",
+  "family": "Scrophulariaceae",
+  "target_repository": "Crking92/Hays-Botany-Lamiales",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Scrophulariaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Leucophyllum frutescens",
+      "species_id": "leucophyllum-frutescens",
+      "photos": [
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Leucophyllum_frutescens/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "pinkystrong",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/343116028",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624949450/original.jpg",
+          "sha256": "195b309db087a3495ad92c5088ddf2a9e438bcb748b21dcdb1a1662f64120f2e",
+          "bytes": 1176256,
+          "gbif_id": 6178338994
+        },
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Leucophyllum_frutescens/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "wmirshell",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/343016714",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624746888/original.jpg",
+          "sha256": "7945fc8ff1f67481cdce7ce62e0cc35a4cd44be25a9e3d5b1186411b35edff1b",
+          "bytes": 2333111,
+          "gbif_id": 6178493467
+        },
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Leucophyllum_frutescens/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "devinvandergriff",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342103459",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622920590/original.jpg",
+          "sha256": "af6055105ea43bbb21b021e4b5b3d8077db4b49e6bdcc4d87276386de9b5142f",
+          "bytes": 2911631,
+          "gbif_id": 6178737916
+        },
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Leucophyllum_frutescens/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "byronporter12",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/344606128",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627913541/original.jpg",
+          "sha256": "30f76ca5da6bcdf8b6a72258f0c944bd1f8412b7a6d30ddca751755c18d58299",
+          "bytes": 2795370,
+          "gbif_id": 6185348262
+        },
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Leucophyllum_frutescens/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "steve emmons",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/355826499",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648897901/original.jpg",
+          "sha256": "0094a2869364e4119692f8668ac1ffec8bd17f7bf8e95557c6e06188c4eddff3",
+          "bytes": 2551040,
+          "gbif_id": 6253238147
+        }
+      ]
+    },
+    {
+      "species": "Verbascum thapsus",
+      "species_id": "verbascum-thapsus",
+      "photos": [
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Verbascum_thapsus/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Shelia Hargis",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/343301306",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625327792/original.jpg",
+          "sha256": "97b0f1522c51afa90c7510f7a46f577676219658bb3f04c1982001470edb456d",
+          "bytes": 1771552,
+          "gbif_id": 6179586753
+        },
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Verbascum_thapsus/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "weston_smith1",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/344224958",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627164933/original.jpg",
+          "sha256": "dbd854557112a05b963b99227d2229d70c98e25b5677ad036a0872ed7a36d3bf",
+          "bytes": 3092563,
+          "gbif_id": 6184970073
+        },
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Verbascum_thapsus/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "happy_snails141",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/344077800",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626882958/original.jpg",
+          "sha256": "30bf010f4488cdef4bca0234cf699f841000b44214924192936299c603c55d93",
+          "bytes": 2088565,
+          "gbif_id": 6185068049
+        },
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Verbascum_thapsus/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "musicalpirate1929",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/347320973",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633255462/original.jpg",
+          "sha256": "cedf8cf4891d5756fa0ead9fd71c9cd2a9afd807c3687d8567580949673f59cf",
+          "bytes": 2479529,
+          "gbif_id": 6188471078
+        },
+        {
+          "source_zip": "Scrophulariaceae.zip",
+          "zip_entry": "Scrophulariaceae/Verbascum_thapsus/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Eric Knight",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/347106644",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632830854/original.jpg",
+          "sha256": "46ceeac8089b05c583efd181e01f2f77623f758fa15e60c4c83269fe4b1e956f",
+          "bytes": 3128524,
+          "gbif_id": 6188526732
+        }
+      ]
+    }
+  ]
+}
