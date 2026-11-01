@@ -1,0 +1,42 @@
+name: One-time Phase 1 photo localization
+on:
+  push:
+    branches:
+      - staging/original-source-transfer
+    paths:
+      - .github/workflows/phase1-install-photo-archive.yml
+permissions:
+  contents: write
+concurrency:
+  group: one-off-photo-import-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  localize:
+    if: github.ref == 'refs/heads/staging/original-source-transfer'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check out exact family staging branch
+        uses: actions/checkout@v4
+        with:
+          ref: staging/original-source-transfer
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install image validation library
+        run: python -m pip install 'Pillow>=10,<12'
+      - name: Install exact source-photo pixels and retain original metadata
+        run: python scripts/hays_phase1_photo_importer.py
+      - name: Commit only staged species and import report if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa migration/incoming-photo-batches/2026-11-01/phase1-import-report.json
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "Install Phase 1 photos with hash-checked source and license records"
+            git push origin HEAD:staging/original-source-transfer
+          fi
