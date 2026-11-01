@@ -7,44 +7,46 @@
   "look_here_first": "Look at the architecture: a tall plant with long bare internodes and an open candelabra-like panicle made of many short compact flower spikes; the leaves are simple, narrow, sharply serrate, and not lobed.",
   "key_traits": [
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "introduced South American annual or short-lived perennial, often 0.9–2.3 m tall"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "erect strongly 4-sided green stems with long internodes"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "opposite simple elliptic to oblanceolate leaves, sharply serrate above midblade"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "leaves sessile/subsessile and not deeply lobed"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "open panicle with several orders of opposite branching"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "many short compact terminal spikelets rather than a few long spikes"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "tiny violet-purple flowers and prolific small mericarps/seeds"
-    },
-    {
-      "label": "Verbena training",
-      "text": "Tall open candelabra architecture + simple narrow serrate leaves + many short compact spikes separates this common invasive from local native Verbena."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Verbena scabra",
+      "Verbena xutha",
+      "Verbena bonariensis"
+    ],
+    "differences": "Verbena scabra: V. scabra has broad harsh sandpaper leaves and very long slender spikes; Brazilian vervain has narrow simple serrate leaves and many short compact spikes in an open panicle. Verbena xutha: V. xutha has deeply 3-lobed leaves and coarse hispid/glandular foliage; Brazilian vervain leaves are simple and unlobed. Verbena bonariensis: A separate introduced ornamental/naturalized Verbena with dense rounded flower heads on long peduncles; do not collapse it into V. brasiliensis."
   },
   "verified_photos": [],
   "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
   "original_species_sha256": "c730b4733090139d11a085e40c583914d5b08ce9b2ae42c3dabed3498a45540d",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "037c9dbf0862ae652d13a63752af2beea822a10d68a10e7048952ebef0e980c0",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }

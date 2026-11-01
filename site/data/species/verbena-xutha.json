@@ -7,44 +7,46 @@
   "look_here_first": "Start with the leaves: most are conspicuously 3-lobed or deeply cut, with a long central lobe and smaller lateral lobes; then notice the coarse hispid/glandular plant and multiple terminal or axillary spikes.",
   "key_traits": [
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "coarse perennial, one to several stems, commonly taller than V. canescens"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "stems and foliage hispid-hirsute with swollen/pustulate hair bases plus short glandular hairs"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "opposite leaves mostly 3-lobed or deeply cut, with the central lobe conspicuously dominant"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "leaf margins toothed and principal veins strongly raised below"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "terminal and axillary many-flowered spikes"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "flowers unevenly spaced along a ridged hairy rachis"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "fruit a four-part schizocarp"
-    },
-    {
-      "label": "Verbena training",
-      "text": "Separate these by leaf architecture + hair texture + spike/branching architecture before using flower color."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Verbena halei",
+      "Verbena canescens",
+      "Verbena brasiliensis"
+    ],
+    "differences": "Verbena halei: Both can have divided leaves, but V. xutha is coarse and strongly hispid/glandular with a repeated 3-lobed leaf pattern; V. halei is more slender with highly variable lower pinnatifid leaves and very narrow upper leaves. Verbena canescens: V. canescens is short and uniformly gray-canescent with only short lobes; V. xutha is taller, greener/coarser, and strongly 3-lobed. Verbena brasiliensis: Brazilian vervain has simple narrow serrate leaves and an open many-branched panicle of short spikes rather than strongly lobed leaves."
   },
   "verified_photos": [],
   "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
   "original_species_sha256": "b4796f95f22b8393207587d4085eb9c4625c3484d7495f37818648f49fcc6742",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "ef77f2221c25cb792f175bc9a31b6e5196f384b0b71b2acc3b224890a57bfe47",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }
