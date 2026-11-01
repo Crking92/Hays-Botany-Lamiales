@@ -40,3 +40,5 @@ jobs:
             git commit -m "Install Phase 1 photos with hash-checked source and license records"
             git push origin HEAD:staging/original-source-transfer
           fi
+
+# Manual one-time import: Scrophulariaceae archive received 2026-11-01.
