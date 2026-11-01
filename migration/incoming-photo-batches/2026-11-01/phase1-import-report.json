@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "report": [
+    {
+      "species": "Aloysia gratissima",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Aloysia virgata",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Glandularia bipinnatifida",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Lantana camara",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Lantana urticoides",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Phyla nodiflora",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Verbena brasiliensis",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Verbena xutha",
+      "hosted": 5,
+      "pending": []
+    }
+  ]
+}
