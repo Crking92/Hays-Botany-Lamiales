@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 124,
-  "photo_species": 60,
+  "photo_count": 129,
+  "photo_species": 61,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
       "count": 1,
@@ -350,8 +350,8 @@
       "first_src": "media/veronica-polita/source-0ae56e7fc874.jpg"
     },
     "buddleja-racemosa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/buddleja-racemosa/inat-634526198.jpg"
     },
     "leucophyllum-frutescens": {
       "count": 5,

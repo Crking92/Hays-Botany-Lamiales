@@ -697,7 +697,8 @@
       "genus": "Buddleja",
       "scientific_name": "Buddleja racemosa",
       "common_name": "Texas butterflybush",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "leucophyllum-frutescens",
