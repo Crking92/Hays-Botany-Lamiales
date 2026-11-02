@@ -24,7 +24,10 @@ for sid,images in photos["species"].items():
     for img in images:
         src=img["src"]
         assert img["creator"] and img["license"] and img["license_url"] and img["source_page"]
-        assert img["noncommercial_only"] is False and img["private_rights_review_only"] is False
+        assert img["private_rights_review_only"] is False
+        nc=img["license"] in ("CC BY-NC 4.0","CC BY-NC-SA 4.0")
+        assert img["noncommercial_only"] is nc
+        if nc: assert meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True
         if src.startswith("media/"):
             assert src.startswith("media/"+sid+"/") and ".." not in src
             p=SITE/src

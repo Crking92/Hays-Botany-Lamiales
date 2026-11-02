@@ -44,6 +44,9 @@ def run(source:Path,site:Path,check:bool=False):
         sid=sidecar.parent.name
         if sid not in mapping:fail("New species needs an indexed source card: "+sid)
         approval,image,payload,checksum=read_approved(source,sid,sidecar)
+        is_nc=approval["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+        if is_nc and not (meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True and approval.get("noncommercial_site_use_confirmed") is True):
+            fail("Noncommercial-only media requires explicit site and image use confirmation")
         dst=site/"media"/sid/image.name
         if not dst.resolve().is_relative_to((site/"media").resolve()):fail("Unsafe destination path")
         if dst.exists() and (dst.is_symlink() or dst.read_bytes()!=payload):
@@ -67,8 +70,12 @@ def run(source:Path,site:Path,check:bool=False):
                "source_page_is_exact":True,"license":approval["license"],
                "license_url":approval["license_url"],"source_blob_sha":blob_sha(payload),
                "role":approval["role"].strip(),"modified":approval.get("modifications") or "Original credited",
-               "noncommercial_only":False,"private_rights_review_only":False,
-               "photo_approved_by":approval["approved_by"],"photo_approval_note":approval["approval_note"],
+               "noncommercial_only":is_nc,"private_rights_review_only":False,
+               "photo_approved_by":approval["approved_by"] if approval.get("approval_mode","NAMED_HUMAN_PHOTO_REVIEW")=="NAMED_HUMAN_PHOTO_REVIEW" else "Owner standing policy; exact-photo checks: "+approval["review_operator"],
+               "photo_approval_mode":approval.get("approval_mode","NAMED_HUMAN_PHOTO_REVIEW"),
+               "photo_approval_note":approval["approval_note"],
+               "source_review_evidence":approval.get("source_review_evidence"),
+               "taxon_review_evidence":approval.get("taxon_review_evidence"),
                "sha256":checksum}
         current.append(photo)
         card.setdefault("verified_photos",[]).append(photo)

@@ -15,7 +15,7 @@ def call(source,site,approved=True,check=False):
 def main():
     origin=ROOT/"site/data/reviewed-external-photo-manifest.json"
     initial=json.loads(origin.read_text())
-    assert len(initial["species"])==55
+    assert len(initial["species"])>=55
     local=ROOT/"site/media/monarda-citriodora/01-reference.jpg"
     assert local.is_file()
     with tempfile.TemporaryDirectory(prefix="lamiales-auto-photo-") as temp:

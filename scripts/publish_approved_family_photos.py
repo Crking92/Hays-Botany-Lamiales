@@ -24,6 +24,8 @@ LICENSES = {
     "CC BY-SA 2.0": "https://creativecommons.org/licenses/by-sa/2.0/",
     "CC BY-SA 3.0": "https://creativecommons.org/licenses/by-sa/3.0/",
     "CC BY-SA 4.0": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "CC BY-NC 4.0": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "CC BY-NC-SA 4.0": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
 }
 MAX_BYTES = 25 * 1024 * 1024
 MAX_PIXELS = 80_000_000
@@ -71,8 +73,18 @@ def read_approved(staging: Path, sid: str, sidecar: Path):
         fail("No explicit public publication decision for " + str(sidecar))
     if data.get("rights_approved_for_public") is not True or data.get("taxon_reviewed") is not True:
         fail("Photo lacks both source-rights and botanical identity approvals: " + str(sidecar))
-    if not isinstance(data.get("approved_by"),str) or len(data["approved_by"].strip())<3:
-        fail("Named human publication approver is required: " + str(sidecar))
+    mode=data.get("approval_mode","NAMED_HUMAN_PHOTO_REVIEW")
+    if mode=="NAMED_HUMAN_PHOTO_REVIEW":
+        if not isinstance(data.get("approved_by"),str) or len(data["approved_by"].strip())<3:
+            fail("Named human publication approver is required: " + str(sidecar))
+    elif mode=="OWNER_STANDING_PHOTO_FIRST_POLICY":
+        if data.get("policy_ref")!="PHOTO_FIRST_PUBLIC_GALLERY_POLICY_2026-11-02":
+            fail("Standing owner policy reference is missing: " + str(sidecar))
+        for key,minimum in (("source_review_evidence",25),("taxon_review_evidence",25),("review_operator",3)):
+            if not isinstance(data.get(key),str) or len(data[key].strip())<minimum:
+                fail("Standing policy requires documented real photo review: "+key+" "+str(sidecar))
+    else:
+        fail("Unsupported publication approval mode: " + str(sidecar))
     if not isinstance(data.get("approval_note"),str) or len(data["approval_note"].strip())<12:
         fail("Document actual license/taxon review basis in approval_note: " + str(sidecar))
     license_name=data.get("license")
@@ -146,6 +158,9 @@ def main():
         if sid not in by_id or by_id[sid]["family"] not in families:
             fail("Cannot publish a species not yet on the assigned family site: " + sid)
         meta,image,payload,sha256=read_approved(root,sid,sidecar)
+        nc_license=meta["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+        if nc_license and not (site_meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True and meta.get("noncommercial_site_use_confirmed") is True):
+            fail("CC BY-NC photo requires explicit site and per-image noncommercial confirmation: " + str(sidecar))
         dest=site/"media"/sid/image.name
         if not dest.resolve().is_relative_to((site/"media").resolve()):
             fail("Unsafe target media path")
@@ -175,8 +190,12 @@ def main():
             "source_blob_sha":blob_sha(payload),
             "role":meta["role"].strip(),
             "modified":meta.get("modifications") or "Original source photo credited; no alterations declared",
-            "noncommercial_only":False,"private_rights_review_only":False,
-            "photo_approval_note":meta["approval_note"],"photo_approved_by":meta["approved_by"],
+            "noncommercial_only":nc_license,"private_rights_review_only":False,
+            "photo_approval_note":meta["approval_note"],
+            "photo_approval_mode":meta.get("approval_mode","NAMED_HUMAN_PHOTO_REVIEW"),
+            "photo_approved_by":meta["approved_by"] if meta.get("approval_mode","NAMED_HUMAN_PHOTO_REVIEW")=="NAMED_HUMAN_PHOTO_REVIEW" else "Owner standing photo-first policy; photo-specific checks documented by "+meta["review_operator"],
+            "source_review_evidence":meta.get("source_review_evidence"),
+            "taxon_review_evidence":meta.get("taxon_review_evidence"),
             "sha256":sha256
         }
         photos.append(record)

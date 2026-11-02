@@ -13,5 +13,9 @@
     "Scrophulariaceae",
     "Verbenaceae"
   ],
-  "site_release_stage": "PUBLIC_TEXT_ONLY_PREVIEW_PHOTOS_HELD"
+  "site_release_stage": "PUBLIC_TEXT_ONLY_PREVIEW_PHOTOS_HELD",
+  "photo_license_policy": {
+    "noncommercial_educational_use": true,
+    "notice": "Educational noncommercial Hays Botany family learner. CC BY-NC and CC BY-NC-SA media remain noncommercial only; source owners and individual rights apply. If use becomes commercial, remove or separately relicense restricted photos."
+  }
 }
