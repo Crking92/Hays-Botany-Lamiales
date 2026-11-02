@@ -1,0 +1,37 @@
+{
+  "repo": "Crking92/Hays-Botany-Lamiales",
+  "source_photos_historically_held": 3,
+  "candidates": [
+    {
+      "species_id": "verbena-scabra",
+      "gbif_id": 2807620226,
+      "sha256": "cc097e879aa022c4938880dca2d042ffb2776da0297d5c58880dc634b5b6f8ef",
+      "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp67248439840336797408.att.jpg",
+      "license": "CC BY 4.0",
+      "creator": "The University of Texas at Austin",
+      "role": "Pressed rough vervain with leafy stems and terminal flowering spikes",
+      "original_zip": "Verbenaceae-2026-11-02.zip"
+    },
+    {
+      "species_id": "verbena-scabra",
+      "gbif_id": 2807601996,
+      "sha256": "e2b55cb15bde731d49f84adde57a2cc237021862234b6084e27055457df8ecb6",
+      "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp65276481891275289907.att.jpg",
+      "license": "CC BY 4.0",
+      "creator": "The University of Texas at Austin",
+      "role": "Pressed branching verbena stems and multiple slender flowering spikes",
+      "original_zip": "Verbenaceae-2026-11-02.zip"
+    },
+    {
+      "species_id": "verbena-scabra",
+      "gbif_id": 2807654766,
+      "sha256": "63957e6d242fb554b6a13199870945d0a23110ca32c3153cfc7f6bd2c34fb480",
+      "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp62059319254358404838.att.jpg",
+      "license": "CC BY 4.0",
+      "creator": "The University of Texas at Austin",
+      "role": "Pressed rough vervain showing broad, toothed leaves and flowering branch",
+      "original_zip": "Verbenaceae-2026-11-02.zip"
+    }
+  ],
+  "review": "Three herbarium originals from the preserved Verbenaceae ZIP reviewed on contact sheet Nov 2, 2026. No image is cleared by this file alone; live GBIF image-level license, photographer, accepted taxon and archived ZIP SHA-256 must match before release."
+}
