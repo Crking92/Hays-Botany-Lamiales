@@ -1,0 +1,60 @@
+name: Verify and publish Verbenaceae general field photographs
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photo-intake/remote-photo-manifests/verbenaceae-2026-11-02.json'
+      - 'scripts/verify_verbenaceae_photo_sources.py'
+      - '.github/workflows/verify-and-publish-verbenaceae.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: lamiales-family-auto-photo-release
+  cancel-in-progress: false
+jobs:
+  photo-first-release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Check exact iNaturalist photo licenses, source taxa and original ZIP file hashes
+        run: python3 scripts/verify_verbenaceae_photo_sources.py
+      - name: Install eligible photos in existing Lamiales manifest, preserving older galleries
+        run: |
+          python3 scripts/publish_approved_lamiales_photos.py --source-root "$RUNNER_TEMP/verbenaceae-verified" --site-root site --check
+          python3 scripts/publish_approved_lamiales_photos.py --source-root "$RUNNER_TEMP/verbenaceae-verified" --site-root site
+          python3 scripts/build_collection_preview.py
+      - name: Commit original verified photos and their credits to main site
+        id: release
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media/ site/data/species/ site/data/collection-index.json site/data/gallery-index.json site/data/reviewed-external-photo-manifest.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Publish source-verified Verbenaceae general photos with individual credits"
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Request Pages update for bot-authored photos
+        if: steps.release.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - name: Archive the individual exact-photo source check report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: verbenaceae-photo-specific-rights-and-identity
+          path: ${{ runner.temp }}/verbenaceae-photo-source-check.json
+          if-no-files-found: warn
+          retention-days: 30

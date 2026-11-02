@@ -1,0 +1,272 @@
+{
+  "family": "Verbenaceae",
+  "original_zip": "Verbenaceae(1).zip",
+  "original_zip_sha256": "f88baf4739b189929b8d8874c83b08bdb31c3579326dc0ee4e31e061114a9ef6",
+  "original_archive_backup": "/Hays-Botany-Photo-ZIPs/Verbenaceae-2026-11-02.zip",
+  "original_photo_count": 25,
+  "archive_hashes_verified": 25,
+  "held_records": [
+    {
+      "species_id": "verbena-scabra",
+      "gbif_id": 2807620226,
+      "sha256": "cc097e879aa022c4938880dca2d042ffb2776da0297d5c58880dc634b5b6f8ef",
+      "reason": "TEX-LL herbarium media rights and source-specific original not yet verified; preserved in ZIP"
+    },
+    {
+      "species_id": "verbena-scabra",
+      "gbif_id": 2807601996,
+      "sha256": "e2b55cb15bde731d49f84adde57a2cc237021862234b6084e27055457df8ecb6",
+      "reason": "TEX-LL herbarium media rights and source-specific original not yet verified; preserved in ZIP"
+    },
+    {
+      "species_id": "verbena-scabra",
+      "gbif_id": 2807654766,
+      "sha256": "63957e6d242fb554b6a13199870945d0a23110ca32c3153cfc7f6bd2c34fb480",
+      "reason": "TEX-LL herbarium media rights and source-specific original not yet verified; preserved in ZIP"
+    }
+  ],
+  "photo_records": [
+    {
+      "species_id": "glandularia-pumila",
+      "photo_id": 622753373,
+      "observation_id": 342019959,
+      "sha256": "05d442bb732b7db59228282429934c7f05042ca16f1802b98cd1df434834cec4",
+      "metadata_photographer": "Saunders Drukker",
+      "role": "Leaf shape and small pink flowers",
+      "source_page": "https://www.inaturalist.org/photos/622753373",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622753373/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "glandularia-pumila",
+      "photo_id": 623688722,
+      "observation_id": 342482652,
+      "sha256": "b66e4e19bff220f0845031d627588f12175e7e847ec48bddf2f5b37f14b349aa",
+      "metadata_photographer": "kembletwhite",
+      "role": "Foliage and low habit",
+      "source_page": "https://www.inaturalist.org/photos/623688722",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623688722/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "glandularia-pumila",
+      "photo_id": 620704009,
+      "observation_id": 341019337,
+      "sha256": "d852397a08ba9bf9362cf5520da6eb380b164111aa6dc033ba249d516a029b2",
+      "metadata_photographer": "Russell Sanders",
+      "role": "Small spreading plant among rocks",
+      "source_page": "https://www.inaturalist.org/photos/620704009",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620704009/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "glandularia-pumila",
+      "photo_id": 626773264,
+      "observation_id": 344022332,
+      "sha256": "ed8942e4dffabb1b7acb71cb96e35aed6a1e707c351e5869f3dd639dffbfc41",
+      "metadata_photographer": "Russell Sanders",
+      "role": "Flowering habit and lobed foliage",
+      "source_page": "https://www.inaturalist.org/photos/626773264",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626773264/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "glandularia-pumila",
+      "photo_id": 628219888,
+      "observation_id": 344768622,
+      "sha256": "b1c12fd991d0cd5b07eeafba3476e33b8a14c21d9f9f893213e6b68bf5a7e",
+      "metadata_photographer": "ezzzini",
+      "role": "Small pink flowers and leaves",
+      "source_page": "https://www.inaturalist.org/photos/628219888",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/628219888/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "lantana-x-strigocamara",
+      "photo_id": 635426525,
+      "observation_id": 348414869,
+      "sha256": "f0b08122abd1e75a87de649798b4dd9671c73d1ad09d79469e048669ae64b",
+      "metadata_photographer": "Daniela Garza",
+      "role": "Yellow and pink flower head",
+      "source_page": "https://www.inaturalist.org/photos/635426525",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635426525/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "lantana-x-strigocamara",
+      "photo_id": 637328303,
+      "observation_id": 349381469,
+      "sha256": "bcfd44cc848197518be1ea2a575a70dd4ad5510e0e7d136b2619a6d29feb4",
+      "metadata_photographer": "Daniela Garza",
+      "role": "Pink flower heads and foliage",
+      "source_page": "https://www.inaturalist.org/photos/637328303",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637328303/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "lantana-x-strigocamara",
+      "photo_id": 636148698,
+      "observation_id": 348778522,
+      "sha256": "9c0cf4694e1a7a0d4bf98305d213d2c13765dc01a79a9c4e1609af3e32ced1a",
+      "metadata_photographer": "TJ Bolen",
+      "role": "Shrub foliage and flowering branches",
+      "source_page": "https://www.inaturalist.org/photos/636148698",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636148698/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "lantana-x-strigocamara",
+      "photo_id": 637332919,
+      "observation_id": 349383770,
+      "sha256": "d723568e32ebd1239df0dba1a9ad38ef8bd5e5108c1f2bef363b1e51e32ea",
+      "metadata_photographer": "Daniela Garza",
+      "role": "Pink and yellow flowers with rough leaves",
+      "source_page": "https://www.inaturalist.org/photos/637332919",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637332919/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "lantana-x-strigocamara",
+      "photo_id": 636127057,
+      "observation_id": 348769184,
+      "sha256": "967040a48da00c23248faf62effc118e849a66daa6dcd2c8b43b4c4b755c3",
+      "metadata_photographer": "daviddeleon",
+      "role": "Spreading plant and foliage",
+      "source_page": "https://www.inaturalist.org/photos/636127057",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636127057/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-canescens",
+      "photo_id": 625176835,
+      "observation_id": 343227835,
+      "sha256": "74c3115b3d1a172c73e4a739807b52f272b93680317f841c2924dcb1ba254b7",
+      "metadata_photographer": "ahirs01",
+      "role": "Gray-green plant in dry habitat",
+      "source_page": "https://www.inaturalist.org/photos/625176835",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625176835/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-canescens",
+      "photo_id": 623628472,
+      "observation_id": 342453714,
+      "sha256": "1ea878bc618b81592dd5adea7ea9b65753fefba19b4da87c331464b157b3c7a",
+      "metadata_photographer": "Alan R Lusk",
+      "role": "Gray foliage and plant habit",
+      "source_page": "https://www.inaturalist.org/photos/623628472",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623628472/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-canescens",
+      "photo_id": 622214302,
+      "observation_id": 341754689,
+      "sha256": "ace92ac4f0861823bd78a3fd951404b8d6a92c193c296f311f1542637873489",
+      "metadata_photographer": "cavaretta",
+      "role": "Narrow leaves and lavender flowers",
+      "source_page": "https://www.inaturalist.org/photos/622214302",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622214302/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-canescens",
+      "photo_id": 621523403,
+      "observation_id": 341414617,
+      "sha256": "ee3cf47dbdafbdf934d7d9dc11ca8974cc54164e77f7d06bd32ca837ae4c4c3",
+      "metadata_photographer": "Kerry Pickens",
+      "role": "Low growing plant among rocks",
+      "source_page": "https://www.inaturalist.org/photos/621523403",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621523403/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-canescens",
+      "photo_id": 623219077,
+      "observation_id": 342252500,
+      "sha256": "f655a450478015244defca6d2238cb096a0057c4d6acc7c29ce42e1a6755ae4",
+      "metadata_photographer": "Chuck Patterson",
+      "role": "Flowering stems and narrow leaves",
+      "source_page": "https://www.inaturalist.org/photos/623219077",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623219077/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-halei",
+      "photo_id": 627739410,
+      "observation_id": 344518366,
+      "sha256": "07a6f3a211bb2542ab9b8a308d583cde2d92345995a1361925d3762f312be0e4",
+      "metadata_photographer": "c0raline",
+      "role": "Flowering spike close-up",
+      "source_page": "https://www.inaturalist.org/photos/627739410",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627739410/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-halei",
+      "photo_id": 630463948,
+      "observation_id": 345719471,
+      "sha256": "5f38d4212389dddcc60e33a7f8cc491f5f9f1211f078576fd54fef979eb7a173",
+      "metadata_photographer": "kmorton123",
+      "role": "Slender flowering branches",
+      "source_page": "https://www.inaturalist.org/photos/630463948",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630463948/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-halei",
+      "photo_id": 626785996,
+      "observation_id": 344028512,
+      "sha256": "d68bf56d909f6581e62cb2d0a2510b273400cabef2129c42558a6f70c2a8a10",
+      "metadata_photographer": "tobiadve",
+      "role": "Slender flower spikes",
+      "source_page": "https://www.inaturalist.org/photos/626785996",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626785996/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-halei",
+      "photo_id": 631757508,
+      "observation_id": 346564705,
+      "sha256": "8fd8f750736e9325bb974f944684fcf14c533e6cd259b2a5dca126b25a2c86",
+      "metadata_photographer": "Katie S",
+      "role": "Whole plant with lavender spikes",
+      "source_page": "https://www.inaturalist.org/photos/631757508",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631757508/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-halei",
+      "photo_id": 631162515,
+      "observation_id": 346264925,
+      "sha256": "d0d5089879e2c764a993a383cad47f0bf6040ac1ab5aec35443c847bdf5fc312",
+      "metadata_photographer": "milosmith",
+      "role": "Open habitat flowering habit",
+      "source_page": "https://www.inaturalist.org/photos/631162515",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631162515/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-scabra",
+      "photo_id": 45773769,
+      "observation_id": 29314705,
+      "sha256": "e3d2062561522f22147661837603974fbf703001b8c0618a09c5ccbf18e9d224",
+      "metadata_photographer": "CompanyInk",
+      "role": "White-pink flowering spike and leaves",
+      "source_page": "https://www.inaturalist.org/photos/45773769",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45773769/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    },
+    {
+      "species_id": "verbena-scabra",
+      "photo_id": 316759475,
+      "observation_id": 181749364,
+      "sha256": "902649ae685df50a6151a5c91abef95f7d03f92d4dbd289c66d6fdfeb04903d5",
+      "metadata_photographer": "CompanyInk",
+      "role": "White flowering spike close view",
+      "source_page": "https://www.inaturalist.org/photos/316759475",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/316759475/original.jpg",
+      "recorded_license": "CC BY-NC 4.0"
+    }
+  ]
+}
