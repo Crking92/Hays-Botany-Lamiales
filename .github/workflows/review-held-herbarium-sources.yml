@@ -1,0 +1,98 @@
+name: Recheck original held herbarium photo rights and publish eligible images
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/review-held-herbarium-sources.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: lamiales-family-auto-photo-release
+  cancel-in-progress: false
+jobs:
+  recheck:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify exact GBIF photo license, source creator and archived bytes
+        run: python3 scripts/recheck_historical_gbif_herbarium.py
+      - name: Preserve public photo credit and image integrity
+        run: |
+          python3 - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          site=Path("site")
+          manifest=json.loads((site/"data/reviewed-external-photo-manifest.json").read_text())
+          gallery=json.loads((site/"data/gallery-index.json").read_text())
+          assert gallery["species"]==102
+          assert gallery["photo_count"]==sum(len(v) for v in manifest["species"].values())
+          for sid,images in manifest["species"].items():
+              for p in images:
+                  assert p["creator"] and p["source_page"].startswith("https://")
+                  if p["src"].startswith("https://"):continue
+                  b=(site/p["src"]).read_bytes()
+                  assert hashlib.sha1(b"blob "+str(len(b)).encode()+b"\0"+b).hexdigest()==p["source_blob_sha"]
+          print("LAMIALES_APPROVED_IMAGES_AND_CREDITS_VALID")
+          PY
+      - name: Commit only rights-cleared photo additions and audit results
+        id: write
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media/ site/data/species/ site/data/gallery-index.json site/data/collection-index.json site/data/reviewed-external-photo-manifest.json workflow/archived-herbarium-rights-result-2026-11-02.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git diff --cached --check
+          if git diff --cached --name-only | grep -q '^site/'; then
+            echo "published=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "published=false" >> "$GITHUB_OUTPUT"
+          fi
+          git commit -m "Reconcile historic herbarium rights holds and publish verified photos"
+          git push origin HEAD:main
+      - name: Build public Pages when verified photos were installed
+        if: steps.write.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - name: Verify current Pages gallery and delivered photo bytes
+        if: steps.write.outputs.published == 'true'
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,time,urllib.request
+          from pathlib import Path
+          base="https://crking92.github.io/Hays-Botany-Lamiales/site/"
+          root=Path("site")
+          expected=(root/"data/gallery-index.json").read_bytes()
+          report=json.loads(Path("workflow/archived-herbarium-rights-result-2026-11-02.json").read_text())
+          def read(rel):
+              with urllib.request.urlopen(urllib.request.Request(base+rel,headers={"User-Agent":"HaysBotanyGBIFRightsAudit/1.0"}),timeout=22) as response:
+                  assert response.status==200
+                  return response.read()
+          for attempt in range(40):
+              try:
+                  if read("data/gallery-index.json")==expected:break
+              except Exception as e:print("Pages not yet current",str(e))
+              time.sleep(9)
+          else:raise AssertionError("Live family gallery not updated")
+          checked=0
+          for r in report["records"]:
+              if r["status"]!="RIGHTS_AND_IMAGE_VERIFIED":continue
+              sid=r["species_id"]
+              rel="media/"+sid+"/archival-gbif-"+str(r["gbif_id"])+".jpg"
+              assert hashlib.sha256(read(rel)).digest()==hashlib.sha256((root/rel).read_bytes()).digest(),rel
+              card=json.loads(read("data/species/"+sid+".json"))
+              assert any(p.get("src")==rel and p.get("license")==r["license"] for p in card["verified_photos"]),rel
+              checked+=1
+          assert checked==report["published"]
+          print("LIVE_HELD_HERBARIUM_PHOTO_PASS",checked)
+          PY
