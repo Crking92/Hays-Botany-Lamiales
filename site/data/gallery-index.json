@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 129,
+  "photo_count": 132,
   "photo_species": 61,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -406,7 +406,7 @@
       "first_src": "media/verbena-halei/inat-626785996.jpg"
     },
     "verbena-scabra": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/verbena-scabra/inat-316759475.jpg"
     },
     "verbena-xutha": {

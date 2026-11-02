@@ -1,0 +1,30 @@
+{
+  "original_held": 3,
+  "approved_for_install": 3,
+  "published": 3,
+  "held": 0,
+  "checked_at": "2026-11-02T21:01:46.015446+00:00",
+  "records": [
+    {
+      "species_id": "verbena-scabra",
+      "gbif_id": 2807620226,
+      "status": "RIGHTS_AND_IMAGE_VERIFIED",
+      "license": "CC BY 4.0",
+      "sha256": "cc097e879aa022c4938880dca2d042ffb2776da0297d5c58880dc634b5b6f8ef"
+    },
+    {
+      "species_id": "verbena-scabra",
+      "gbif_id": 2807601996,
+      "status": "RIGHTS_AND_IMAGE_VERIFIED",
+      "license": "CC BY 4.0",
+      "sha256": "e2b55cb15bde731d49f84adde57a2cc237021862234b6084e27055457df8ecb6"
+    },
+    {
+      "species_id": "verbena-scabra",
+      "gbif_id": 2807654766,
+      "status": "RIGHTS_AND_IMAGE_VERIFIED",
+      "license": "CC BY 4.0",
+      "sha256": "63957e6d242fb554b6a13199870945d0a23110ca32c3153cfc7f6bd2c34fb480"
+    }
+  ]
+}
