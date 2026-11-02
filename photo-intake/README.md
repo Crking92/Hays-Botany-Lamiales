@@ -1,6 +1,8 @@
+**Current November 2 photo-first policy:** [Read the shared rules](../workflow/PHOTO_FIRST_PUBLIC_GALLERY_POLICY_2026-11-02.md). General, source-credited views can publish before anatomy lessons. In addition to genuine named review, the importer supports the documented `OWNER_STANDING_PHOTO_FIRST_POLICY` approval mode when the real operator, exact photo source/license, identity evidence, and review notes are recorded. Verified CC BY-NC / CC BY-NC-SA 4.0 photos also require an explicit per-image noncommercial use confirmation. Never fabricate approvals or upload held imagery to a public branch.
+
 # Lamiales automatic photo gallery updates
 
-This collection already has 100 hosted approved media images plus two licensed external image links. They are retained. Its website reads `site/data/reviewed-external-photo-manifest.json`, so our automated release updates that manifest directly—not an invisible unused gallery file.
+This collection retains its existing hosted approved media and separately licensed external photo links; the current photo totals are calculated from the live gallery, not the historical migration baseline. Its website reads `site/data/reviewed-external-photo-manifest.json`, so our automated release updates that manifest directly—not an invisible unused gallery file.
 
 Add an image `photo-intake/approved/<species-id>/<filename>.jpg` with matching `<filename>.jpg.json` metadata **on the assigned `staging/original-source-transfer` branch**. Schema identical to [Fabaceae photo intake](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/main/photo-intake/README.md). After its public reuse rights, image identity and source information are checked, a push starts the release workflow and updates Lamiales' live manifest. Both source photos and taxon records must be accurate; unknown-rights photos must NOT be uploaded to a public branch. Existing site images/lessons are never replaced.
 
