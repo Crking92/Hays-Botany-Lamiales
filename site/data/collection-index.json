@@ -450,7 +450,8 @@
       "genus": "Proboscidea",
       "scientific_name": "Proboscidea louisianica",
       "common_name": "Common devil's claw",
-      "photo_count": 1
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "forestiera-angustifolia",
@@ -458,7 +459,7 @@
       "genus": "Forestiera",
       "scientific_name": "Forestiera angustifolia",
       "common_name": "Narrowleaf Elbowbush / Texas Swamp-privet",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -467,7 +468,8 @@
       "genus": "Forestiera",
       "scientific_name": "Forestiera pubescens",
       "common_name": "Elbowbush / Desert Olive / Downy Forestiera",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "fraxinus-albicans",
@@ -475,7 +477,7 @@
       "genus": "Fraxinus",
       "scientific_name": "Fraxinus albicans",
       "common_name": "Texas ash",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -484,7 +486,7 @@
       "genus": "Fraxinus",
       "scientific_name": "Fraxinus berlandieriana",
       "common_name": "Mexican ash",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -493,7 +495,7 @@
       "genus": "Fraxinus",
       "scientific_name": "Fraxinus greggii",
       "common_name": "Gregg's ash",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -502,7 +504,8 @@
       "genus": "Fraxinus",
       "scientific_name": "Fraxinus pennsylvanica",
       "common_name": "Green ash",
-      "photo_count": 1
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ligustrum-lucidum",
@@ -510,7 +513,8 @@
       "genus": "Ligustrum",
       "scientific_name": "Ligustrum lucidum",
       "common_name": "Glossy privet",
-      "photo_count": 3
+      "photo_count": 8,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ligustrum-quihoui",
@@ -518,7 +522,7 @@
       "genus": "Ligustrum",
       "scientific_name": "Ligustrum quihoui",
       "common_name": "Quihoui privet",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -527,7 +531,7 @@
       "genus": "Ligustrum",
       "scientific_name": "Ligustrum sinense",
       "common_name": "Chinese privet",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -536,7 +540,7 @@
       "genus": "Menodora",
       "scientific_name": "Menodora heterophylla",
       "common_name": "Redbud menodora",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -545,7 +549,7 @@
       "genus": "Menodora",
       "scientific_name": "Menodora longiflora",
       "common_name": "Showy Menodora",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

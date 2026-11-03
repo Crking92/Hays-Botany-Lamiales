@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 321,
-  "photo_species": 97,
+  "photo_count": 378,
+  "photo_species": 98,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
       "count": 1,
@@ -214,51 +214,51 @@
       "first_src": "media/utricularia-gibba/source-32cda936778b.jpg"
     },
     "proboscidea-louisianica": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/proboscidea-louisianica/source-efaaf4a86085.jpg"
     },
     "forestiera-angustifolia": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/forestiera-angustifolia/source-d078a05d4405.jpg"
     },
     "forestiera-pubescens": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/forestiera-pubescens/inat-620704540.jpg"
     },
     "fraxinus-albicans": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/fraxinus-albicans/source-9e77d4fb8afe.jpg"
     },
     "fraxinus-berlandieriana": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/fraxinus-berlandieriana/source-1877a3c03d3f.jpg"
     },
     "fraxinus-greggii": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/fraxinus-greggii/archived-1bd246c0a5aa9f6f.jpg"
     },
     "fraxinus-pennsylvanica": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/fraxinus-pennsylvanica/source-acf3e30a05ef.jpg"
     },
     "ligustrum-lucidum": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/ligustrum-lucidum/source-2dd81067786e.jpg"
     },
     "ligustrum-quihoui": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/ligustrum-quihoui/source-57c739e3b767.jpg"
     },
     "ligustrum-sinense": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ligustrum-sinense/archived-41155ff1abea9d21.jpg"
     },
     "menodora-heterophylla": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/menodora-heterophylla/archived-1a7d9bf9cfd50bb2.jpg"
     },
     "menodora-longiflora": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/menodora-longiflora/archived-41012ce60fca7972.jpeg"
     },
     "agalinis-edwardsiana": {
