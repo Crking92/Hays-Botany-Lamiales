@@ -40,7 +40,7 @@ jobs:
             --site-root site \
             --repository "Crking92/Hays-Botany-Lamiales" \
             --publisher lamiales \
-            --limit 80
+            --limit 55
       - name: Verify the exact newly installed source bytes, credits and gallery links before commit
         run: |
           python3 - <<'PY'
@@ -143,7 +143,7 @@ jobs:
         if: steps.save.outputs.published == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds" || echo "Pages build request transiently failed; public byte-and-credit check follows"
       - name: Verify real family Pages delivered each new original image byte and source credit
         if: steps.save.outputs.published == 'true'
         run: |
