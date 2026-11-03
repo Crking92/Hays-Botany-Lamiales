@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 303,
+  "photo_count": 308,
   "photo_species": 96,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -286,7 +286,7 @@
       "first_src": "media/castilleja-purpurea/source-4305bb330641.jpg"
     },
     "seymeria-bipinnatisecta": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/seymeria-bipinnatisecta/archived-ebe0ec60b65ecf9b.jpg"
     },
     "paulownia-tomentosa": {
