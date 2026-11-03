@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 132,
-  "photo_species": 61,
+  "photo_count": 205,
+  "photo_species": 72,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
       "count": 1,
@@ -290,63 +290,63 @@
       "first_src": null
     },
     "paulownia-tomentosa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/paulownia-tomentosa/inat-212822970.jpeg"
     },
     "bacopa-monnieri": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/bacopa-monnieri/inat-374743029.jpg"
     },
     "leucospora-multifida": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/leucospora-multifida/inat-201591136.jpeg"
     },
     "linaria-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/linaria-texana/inat-481283189.jpeg"
     },
     "maurandella-antirrhiniflora": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/maurandella-antirrhiniflora/inat-627344004.jpg"
     },
     "mecardonia-procumbens": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/mecardonia-procumbens/inat-480926922.jpeg"
     },
     "penstemon-baccharifolius": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/penstemon-baccharifolius/inat-520360524.jpg"
     },
     "penstemon-cobaea": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/penstemon-cobaea/inat-628031047.jpg"
     },
     "penstemon-tenuis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/penstemon-tenuis/source-a07846920276.jpg"
     },
     "penstemon-triflorus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/penstemon-triflorus/source-0e8b564bdd95.jpg"
     },
     "plantago-helleri": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/plantago-helleri/inat-639219171.jpg"
     },
     "plantago-rhodosperma": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/plantago-rhodosperma/inat-623734293.jpg"
     },
     "veronica-anagallis-aquatica": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/veronica-anagallis-aquatica/inat-623223471.jpg"
     },
     "veronica-persica": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/veronica-persica/source-25bc8c18f758.jpg"
     },
     "veronica-polita": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/veronica-polita/source-0ae56e7fc874.jpg"
     },
     "buddleja-racemosa": {

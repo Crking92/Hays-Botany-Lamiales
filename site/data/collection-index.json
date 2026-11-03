@@ -577,7 +577,8 @@
       "genus": "Paulownia",
       "scientific_name": "Paulownia tomentosa",
       "common_name": "Princess tree",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "bacopa-monnieri",
@@ -585,7 +586,8 @@
       "genus": "Bacopa",
       "scientific_name": "Bacopa monnieri",
       "common_name": "Herb-of-grace / water hyssop",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "leucospora-multifida",
@@ -593,7 +595,8 @@
       "genus": "Leucospora",
       "scientific_name": "Leucospora multifida",
       "common_name": "Narrowleaf paleseed",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "linaria-texana",
@@ -601,7 +604,8 @@
       "genus": "Linaria",
       "scientific_name": "Linaria texana",
       "common_name": "Texas toadflax",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "maurandella-antirrhiniflora",
@@ -609,7 +613,8 @@
       "genus": "Maurandella",
       "scientific_name": "Maurandella antirrhiniflora",
       "common_name": "Snapdragon vine",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "mecardonia-procumbens",
@@ -617,7 +622,8 @@
       "genus": "Mecardonia",
       "scientific_name": "Mecardonia procumbens",
       "common_name": "Baby jump-up",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "penstemon-baccharifolius",
@@ -625,7 +631,8 @@
       "genus": "Penstemon",
       "scientific_name": "Penstemon baccharifolius",
       "common_name": "Rock penstemon",
-      "photo_count": 0
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "penstemon-cobaea",
@@ -633,7 +640,8 @@
       "genus": "Penstemon",
       "scientific_name": "Penstemon cobaea",
       "common_name": "Prairie penstemon",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "penstemon-tenuis",
@@ -641,7 +649,8 @@
       "genus": "Penstemon",
       "scientific_name": "Penstemon tenuis",
       "common_name": "Sharpsepal beardtongue",
-      "photo_count": 1
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "penstemon-triflorus",
@@ -649,7 +658,8 @@
       "genus": "Penstemon",
       "scientific_name": "Penstemon triflorus",
       "common_name": "Hill Country penstemon",
-      "photo_count": 1
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "plantago-helleri",
@@ -657,7 +667,8 @@
       "genus": "Plantago",
       "scientific_name": "Plantago helleri",
       "common_name": "Heller's plantain",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "plantago-rhodosperma",
@@ -665,7 +676,8 @@
       "genus": "Plantago",
       "scientific_name": "Plantago rhodosperma",
       "common_name": "redseed plantain",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "veronica-anagallis-aquatica",
@@ -673,7 +685,8 @@
       "genus": "Veronica",
       "scientific_name": "Veronica anagallis-aquatica",
       "common_name": "Water speedwell",
-      "photo_count": 0
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "veronica-persica",
@@ -681,7 +694,8 @@
       "genus": "Veronica",
       "scientific_name": "Veronica persica",
       "common_name": "Persian speedwell (introduced)",
-      "photo_count": 1
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "veronica-polita",
@@ -689,7 +703,8 @@
       "genus": "Veronica",
       "scientific_name": "Veronica polita",
       "common_name": "Gray field speedwell (introduced)",
-      "photo_count": 1
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "buddleja-racemosa",
