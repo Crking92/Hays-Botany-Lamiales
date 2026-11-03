@@ -1,0 +1,32 @@
+{
+  "batch_id": "t-zip-2026-11-03",
+  "zip_sha256": "68d7104b7823196988861d592a49360e16b273b32d6ed4f41a72d5720093548c",
+  "library_backup": "NONE__OWNER_KEEP_ORIGINAL_IN_LAPTOP_ARCHIVED_FOLDER",
+  "sha256_checked_original_images": 5,
+  "exact_internal_duplicates": 0,
+  "original_images": 5,
+  "photos_for_live_source_recheck": 4,
+  "source_rights_holds": 1,
+  "species": [
+    "utricularia-gibba"
+  ],
+  "records_base64": "ABVpLR4MHm7rjVfrV1HA2i1PCEuza8jeVZc92Bvbm7nvasqvXsnU19oBABC4PgAJq47jt16eXLYoH5LkKy2FdoQzZfKgg+hJQC98f1EoMVOpI2UBAAsUnbUGkdyuEIyuX3qni+qP3YJ8A3xYIJ/ZEVf251JCmpBJ9tn654QAAAHx89wBQi5gfpdC/mQvR+HZuSbp069T80oiNhKxBRc0tUo1BNMVAdIB",
+  "source_metadata_credits": {
+    "32633820": "Alison Northup",
+    "185900469": "Dylan Sheng",
+    "280509952": "Michelle W. （鍾偉瑋）",
+    "359214366": "Michelle W. （鍾偉瑋）"
+  },
+  "offline_held_media": [
+    {
+      "species_id": "utricularia-gibba",
+      "filename": "photo_4_21c4dae0fc547adf.jpg",
+      "sha256": "21c4dae0fc547adf0ed7392e885772eb86506b621a571692675af43338b5dfbd",
+      "photographer": "The University of Texas at Austin",
+      "recorded_license": "CC BY 4.0 (recorded; exact specimen-image rights not independently verified)",
+      "gbif_id": 2864232308,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp63368769962108461934.att.jpg",
+      "hold_reason": "University of Texas institutional specimen photo—exact image rights unconfirmed"
+    }
+  ]
+}
