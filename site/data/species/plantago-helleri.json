@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 356261802, photo 649683180, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2921daff274f53b0fbaf52c3f5bb58b998db77d4a608075eb5aa6eb8d551e82b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Plantago helleri maps to indexed species plantago-helleri; specialist morphology and BONAP range deferred.",
       "sha256": "2921daff274f53b0fbaf52c3f5bb58b998db77d4a608075eb5aa6eb8d551e82b"
+    },
+    {
+      "src": "media/plantago-helleri/archived-854bdd9546424bf8.jpg",
+      "creator": "Matthew Allen",
+      "source_page": "https://www.inaturalist.org/photos/14975148",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "21390e029c544a777cdb37a883f795250ae5f83e",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 10718679 photo 14975148 individual CC code cc-by-nc; photographer (c) Matthew Allen, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 21390e029c544a777cdb37a883f795250ae5f83e; exact image source https://www.inaturalist.org/photos/14975148",
+      "taxon_review_evidence": "Original species record Plantago helleri linked to an original image and matching current inat photo of source taxon Plantago helleri. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "854bdd9546424bf8ee834ce0e867f39dc086b17d69a6583c8d91d32a2af8d64d"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 205,
-  "photo_species": 72,
+  "photo_count": 255,
+  "photo_species": 92,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
       "count": 1,
@@ -14,16 +14,16 @@
       "first_src": "media/justicia-americana/source-716eee975127.jpg"
     },
     "dicliptera-brachiata": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/dicliptera-brachiata/source-0c4902179db2.jpg"
     },
     "dyschoriste-linearis": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/dyschoriste-linearis/archived-24f8bdeab91e0a49.jpg"
     },
     "hygrophila-costata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/hygrophila-costata/archived-9bf681f6810b1c30.jpg"
     },
     "justicia-pilosella": {
       "count": 3,
@@ -46,7 +46,7 @@
       "first_src": "media/ruellia-metziae/ruellia-metziae-provisional-face.jpg"
     },
     "bignonia-capreolata": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/bignonia-capreolata/source-c3010f010805.jpg"
     },
     "campsis-radicans": {
@@ -54,8 +54,8 @@
       "first_src": "media/campsis-radicans/01-compound-serrate-leaf.jpg"
     },
     "catalpa-bignonioides": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/catalpa-bignonioides/archived-d8f0976743144458.jpg"
     },
     "catalpa-speciosa": {
       "count": 1,
@@ -70,28 +70,28 @@
       "first_src": "media/tecoma-stans/source-a4b5390ae406.jpg"
     },
     "tecoma-stans-var-angustata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tecoma-stans-var-angustata/archived-96322e33e55e13bd.jpg"
     },
     "callicarpa-americana": {
       "count": 0,
       "first_src": null
     },
     "hedeoma-acinoides": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/hedeoma-acinoides/archived-064839493ff284ed.jpg"
     },
     "hedeoma-drummondii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/hedeoma-drummondii/archived-860e4422ee5d254c.jpg"
     },
     "hedeoma-nana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/hedeoma-nana/archived-72b2dc6b5142e53c.jpg"
     },
     "hedeoma-reverchonii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/hedeoma-reverchonii/archived-3166eff2ef94c552.jpg"
     },
     "hedeoma-serpyllifolia": {
       "count": 0,
@@ -122,8 +122,8 @@
       "first_src": "media/monarda-punctata/01-reference.jpg"
     },
     "perilla-frutescens": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/perilla-frutescens/archived-faed2c45f229019b.jpg"
     },
     "physostegia-angustifolia": {
       "count": 1,
@@ -174,12 +174,12 @@
       "first_src": "media/salvia-roemeriana/01-field-reference.jpg"
     },
     "salvia-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/salvia-texana/archived-e9edcd06a7a3ef92.jpg"
     },
     "scutellaria-drummondii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/scutellaria-drummondii/archived-490697ea59b4e965.jpg"
     },
     "scutellaria-ovata": {
       "count": 1,
@@ -190,8 +190,8 @@
       "first_src": null
     },
     "stachys-agraria": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/stachys-agraria/archived-1d44bcebbf816890.jpg"
     },
     "teucrium-canadense": {
       "count": 1,
@@ -202,12 +202,12 @@
       "first_src": "media/teucrium-cubense/source-9cd4c7ff50e6.jpg"
     },
     "vitex-agnus-castus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/vitex-agnus-castus/archived-ebb01dbe91459397.jpg"
     },
     "warnockia-scutellarioides": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/warnockia-scutellarioides/archived-b5000b6d11bc4fee.jpg"
     },
     "utricularia-gibba": {
       "count": 1,
@@ -218,7 +218,7 @@
       "first_src": "media/proboscidea-louisianica/source-efaaf4a86085.jpg"
     },
     "forestiera-angustifolia": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/forestiera-angustifolia/source-d078a05d4405.jpg"
     },
     "forestiera-pubescens": {
@@ -230,12 +230,12 @@
       "first_src": "media/fraxinus-albicans/source-9e77d4fb8afe.jpg"
     },
     "fraxinus-berlandieriana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/fraxinus-berlandieriana/source-1877a3c03d3f.jpg"
     },
     "fraxinus-greggii": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/fraxinus-greggii/archived-1bd246c0a5aa9f6f.jpg"
     },
     "fraxinus-pennsylvanica": {
       "count": 1,
@@ -246,7 +246,7 @@
       "first_src": "media/ligustrum-lucidum/source-2dd81067786e.jpg"
     },
     "ligustrum-quihoui": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/ligustrum-quihoui/source-57c739e3b767.jpg"
     },
     "ligustrum-sinense": {
@@ -254,15 +254,15 @@
       "first_src": null
     },
     "menodora-heterophylla": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/menodora-heterophylla/archived-1a7d9bf9cfd50bb2.jpg"
     },
     "menodora-longiflora": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/menodora-longiflora/archived-41012ce60fca7972.jpeg"
     },
     "agalinis-edwardsiana": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/agalinis-edwardsiana/source-fe67b604c523.jpg"
     },
     "agalinis-heterophylla": {
@@ -270,27 +270,27 @@
       "first_src": "media/agalinis-heterophylla/source-2fc34fee58aa.jpg"
     },
     "buchnera-americana": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/buchnera-americana/archived-4d2ec55fabe814de.jpg"
     },
     "castilleja-indivisa": {
       "count": 0,
       "first_src": null
     },
     "castilleja-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/castilleja-lindheimeri/archived-52a84d46932ed109.jpg"
     },
     "castilleja-purpurea": {
       "count": 3,
       "first_src": "media/castilleja-purpurea/source-4305bb330641.jpg"
     },
     "seymeria-bipinnatisecta": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/seymeria-bipinnatisecta/archived-ebe0ec60b65ecf9b.jpg"
     },
     "paulownia-tomentosa": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/paulownia-tomentosa/inat-212822970.jpeg"
     },
     "bacopa-monnieri": {
@@ -298,7 +298,7 @@
       "first_src": "media/bacopa-monnieri/inat-374743029.jpg"
     },
     "leucospora-multifida": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/leucospora-multifida/inat-201591136.jpeg"
     },
     "linaria-texana": {
@@ -310,15 +310,15 @@
       "first_src": "media/maurandella-antirrhiniflora/inat-627344004.jpg"
     },
     "mecardonia-procumbens": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/mecardonia-procumbens/inat-480926922.jpeg"
     },
     "penstemon-baccharifolius": {
-      "count": 4,
+      "count": 6,
       "first_src": "media/penstemon-baccharifolius/inat-520360524.jpg"
     },
     "penstemon-cobaea": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/penstemon-cobaea/inat-628031047.jpg"
     },
     "penstemon-tenuis": {
@@ -330,15 +330,15 @@
       "first_src": "media/penstemon-triflorus/source-0e8b564bdd95.jpg"
     },
     "plantago-helleri": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/plantago-helleri/inat-639219171.jpg"
     },
     "plantago-rhodosperma": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/plantago-rhodosperma/inat-623734293.jpg"
     },
     "veronica-anagallis-aquatica": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/veronica-anagallis-aquatica/inat-623223471.jpg"
     },
     "veronica-persica": {
@@ -362,11 +362,11 @@
       "first_src": "media/verbascum-thapsus/source-0598bc64e9fd.jpg"
     },
     "aloysia-gratissima": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/aloysia-gratissima/source-441a7ca8047b.jpg"
     },
     "aloysia-virgata": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/aloysia-virgata/source-f0d634b20982.jpg"
     },
     "glandularia-bipinnatifida": {
@@ -394,7 +394,7 @@
       "first_src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr_080605-6676_Phyla_nodiflora.jpg"
     },
     "verbena-brasiliensis": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/verbena-brasiliensis/source-c57e3bc7d394.jpg"
     },
     "verbena-canescens": {

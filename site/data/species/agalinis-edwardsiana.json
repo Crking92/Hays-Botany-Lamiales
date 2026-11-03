@@ -23,8 +23,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/agalinis-edwardsiana/archived-25a4ead621dbd0ed.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/332721164",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "3cb8e4130f4ec29da4e195a6e34e8baec767a43e",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 189872473 photo 332721164 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 3cb8e4130f4ec29da4e195a6e34e8baec767a43e; exact image source https://www.inaturalist.org/photos/332721164",
+      "taxon_review_evidence": "Original species record Agalinis edwardsiana linked to an original image and matching current inat photo of source taxon Agalinis edwardsiana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "25a4ead621dbd0edd1c30e9862219dcab50062bbc614b0e22abae5bb963bcd89"
+    },
+    {
+      "src": "media/agalinis-edwardsiana/archived-78d828eeaa5e254b.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/332721137",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "3b5415a1c170ee39ad0f35cf053fa03b8d397b2a",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 189872473 photo 332721137 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 3b5415a1c170ee39ad0f35cf053fa03b8d397b2a; exact image source https://www.inaturalist.org/photos/332721137",
+      "taxon_review_evidence": "Original species record Agalinis edwardsiana linked to an original image and matching current inat photo of source taxon Agalinis edwardsiana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "78d828eeaa5e254baf0312970cb72f625a2413d2a6155577a68c0074eee8a110"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "adc98b77eea80ea9591ce989ecf3fc31e0029bf4f6066402dcf14a3acf9caf19",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

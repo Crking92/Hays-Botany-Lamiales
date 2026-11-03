@@ -86,6 +86,25 @@
       "source_review_evidence": "Live iNaturalist observation 345009947, photo 628686708, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7d7899faef3c1e7123efce86dc815774f14b783f8c364b0e6e1a85f23dcc112c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica anagallis-aquatica maps to indexed species veronica-anagallis-aquatica; specialist morphology and BONAP range deferred.",
       "sha256": "7d7899faef3c1e7123efce86dc815774f14b783f8c364b0e6e1a85f23dcc112c"
+    },
+    {
+      "src": "media/veronica-anagallis-aquatica/archived-7a20ef26458759e0.jpg",
+      "creator": "Vik Dunis",
+      "source_page": "https://www.inaturalist.org/photos/111267942",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "1f06c846f89c466a70c9e862dcec51c8844ef1f0",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 68677717 photo 111267942 individual CC code cc-by-nc; photographer (c) Vik Dunis, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 1f06c846f89c466a70c9e862dcec51c8844ef1f0; exact image source https://www.inaturalist.org/photos/111267942",
+      "taxon_review_evidence": "Original species record Veronica anagallis-aquatica linked to an original image and matching current inat photo of source taxon Veronica anagallis-aquatica. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "7a20ef26458759e0270c1d7f13fccbcd8c411b717c564f4255d00d6889aabffa"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

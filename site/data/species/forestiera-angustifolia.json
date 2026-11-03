@@ -39,8 +39,47 @@
     "names": [],
     "differences": "F. pubescens has much broader elliptic/ovate leaves with more visible pubescence and a winter-deciduous habit; F. angustifolia is the narrow, skeletal-leaved shrub."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/forestiera-angustifolia/archived-67c39774a761c8dc.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/220263366",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "dbefd69b9484ba424da36555917ed1114d052089",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 129598300 photo 220263366 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA dbefd69b9484ba424da36555917ed1114d052089; exact image source https://www.inaturalist.org/photos/220263366",
+      "taxon_review_evidence": "Original species record Forestiera angustifolia linked to an original image and matching current inat photo of source taxon Forestiera angustifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "67c39774a761c8dc5016f0f5c503e379cdc09769a6ee417d5bb757dc04959a15"
+    },
+    {
+      "src": "media/forestiera-angustifolia/archived-c8fa9dc41f9126d9.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/342482746",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "a7a720f00f2de6466a01f8ed025b64ca2adfb43e",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 194782769 photo 342482746 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA a7a720f00f2de6466a01f8ed025b64ca2adfb43e; exact image source https://www.inaturalist.org/photos/342482746",
+      "taxon_review_evidence": "Original species record Forestiera angustifolia linked to an original image and matching current inat photo of source taxon Forestiera angustifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "c8fa9dc41f9126d9098310e46d4b1c490c26103b0ec62dcf348db232d70b1888"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5e999fc4468bc80850d57666aa89daaa59163bb1a51f37b1cae6b44b374d384e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

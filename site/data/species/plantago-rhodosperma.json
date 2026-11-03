@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 351513559, photo 641481184, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1dcff61e6f8b4bf92042e51b25169fd9d7eb3e26e7a0919e5aa1d6e6d52e9d01. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Plantago rhodosperma maps to indexed species plantago-rhodosperma; specialist morphology and BONAP range deferred.",
       "sha256": "1dcff61e6f8b4bf92042e51b25169fd9d7eb3e26e7a0919e5aa1d6e6d52e9d01"
+    },
+    {
+      "src": "media/plantago-rhodosperma/archived-76905f97ecb85227.jpeg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/476406656",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "3c24924d84b19e40ad28525c7abd84efc3e1126c",
+      "role": "Provisional species recognition photo (not diagnostic certified)",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 265245797 photo 476406656 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA 3c24924d84b19e40ad28525c7abd84efc3e1126c; exact image source https://www.inaturalist.org/photos/476406656",
+      "taxon_review_evidence": "Original species record Plantago rhodosperma linked to an original image and matching current inat photo of source taxon Plantago rhodosperma. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "76905f97ecb8522777b7ba183cc5445324ed63ed5bbdf9b042429f4e7eb3213b"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

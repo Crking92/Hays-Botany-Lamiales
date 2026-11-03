@@ -25,7 +25,8 @@
       "genus": "Dicliptera",
       "scientific_name": "Dicliptera brachiata",
       "common_name": "Branched foldwing",
-      "photo_count": 1
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dyschoriste-linearis",
@@ -33,7 +34,8 @@
       "genus": "Dyschoriste",
       "scientific_name": "Dyschoriste linearis",
       "common_name": "Narrow-leaf snakeherb",
-      "photo_count": 0
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hygrophila-costata",
@@ -41,7 +43,8 @@
       "genus": "Hygrophila",
       "scientific_name": "Hygrophila costata",
       "common_name": "Hygrophila costata",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "justicia-pilosella",
@@ -89,7 +92,8 @@
       "genus": "Bignonia",
       "scientific_name": "Bignonia capreolata",
       "common_name": "Crossvine",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "campsis-radicans",
@@ -105,7 +109,8 @@
       "genus": "Catalpa",
       "scientific_name": "Catalpa bignonioides",
       "common_name": "Southern catalpa",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "catalpa-speciosa",
@@ -137,7 +142,8 @@
       "genus": "Tecoma",
       "scientific_name": "Tecoma stans var. angustata",
       "common_name": "Narrowleaf esperanza",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "callicarpa-americana",
@@ -153,7 +159,8 @@
       "genus": "Hedeoma",
       "scientific_name": "Hedeoma acinoides",
       "common_name": "Slender false pennyroyal",
-      "photo_count": 0
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hedeoma-drummondii",
@@ -161,7 +168,8 @@
       "genus": "Hedeoma",
       "scientific_name": "Hedeoma drummondii",
       "common_name": "Drummond's pennyroyal",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hedeoma-nana",
@@ -169,7 +177,8 @@
       "genus": "Hedeoma",
       "scientific_name": "Hedeoma nana",
       "common_name": "Dwarf pennyroyal",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hedeoma-reverchonii",
@@ -177,7 +186,8 @@
       "genus": "Hedeoma",
       "scientific_name": "Hedeoma reverchonii",
       "common_name": "Reverchon's pennyroyal",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hedeoma-serpyllifolia",
@@ -241,7 +251,8 @@
       "genus": "Perilla",
       "scientific_name": "Perilla frutescens",
       "common_name": "Perilla",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "physostegia-angustifolia",
@@ -345,7 +356,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia texana",
       "common_name": "Texas Sage",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "scutellaria-drummondii",
@@ -353,7 +365,8 @@
       "genus": "Scutellaria",
       "scientific_name": "Scutellaria drummondii",
       "common_name": "Drummond's skullcap",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "scutellaria-ovata",
@@ -377,7 +390,8 @@
       "genus": "Stachys",
       "scientific_name": "Stachys agraria",
       "common_name": "Stachys agraria",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "teucrium-canadense",
@@ -401,7 +415,8 @@
       "genus": "Vitex",
       "scientific_name": "Vitex agnus-castus",
       "common_name": "Chaste tree",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "warnockia-scutellarioides",
@@ -409,7 +424,8 @@
       "genus": "Warnockia",
       "scientific_name": "Warnockia scutellarioides",
       "common_name": "Warnockia scutellarioides",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "utricularia-gibba",
@@ -433,7 +449,8 @@
       "genus": "Forestiera",
       "scientific_name": "Forestiera angustifolia",
       "common_name": "Narrowleaf Elbowbush / Texas Swamp-privet",
-      "photo_count": 1
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "forestiera-pubescens",
@@ -457,7 +474,8 @@
       "genus": "Fraxinus",
       "scientific_name": "Fraxinus berlandieriana",
       "common_name": "Mexican ash",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "fraxinus-greggii",
@@ -465,7 +483,8 @@
       "genus": "Fraxinus",
       "scientific_name": "Fraxinus greggii",
       "common_name": "Gregg's ash",
-      "photo_count": 0
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "fraxinus-pennsylvanica",
@@ -489,7 +508,8 @@
       "genus": "Ligustrum",
       "scientific_name": "Ligustrum quihoui",
       "common_name": "Quihoui privet",
-      "photo_count": 1
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ligustrum-sinense",
@@ -505,7 +525,8 @@
       "genus": "Menodora",
       "scientific_name": "Menodora heterophylla",
       "common_name": "Redbud menodora",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "menodora-longiflora",
@@ -513,7 +534,8 @@
       "genus": "Menodora",
       "scientific_name": "Menodora longiflora",
       "common_name": "Showy Menodora",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "agalinis-edwardsiana",
@@ -521,7 +543,8 @@
       "genus": "Agalinis",
       "scientific_name": "Agalinis edwardsiana",
       "common_name": "Edwards Plateau false foxglove",
-      "photo_count": 1
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "agalinis-heterophylla",
@@ -537,7 +560,8 @@
       "genus": "Buchnera",
       "scientific_name": "Buchnera americana",
       "common_name": "American bluehearts",
-      "photo_count": 0
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "castilleja-indivisa",
@@ -553,7 +577,8 @@
       "genus": "Castilleja",
       "scientific_name": "Castilleja lindheimeri",
       "common_name": "Lindheimer's paintbrush",
-      "photo_count": 0
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "castilleja-purpurea",
@@ -569,7 +594,8 @@
       "genus": "Seymeria",
       "scientific_name": "Seymeria bipinnatisecta",
       "common_name": "Seymeria bipinnatisecta",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "paulownia-tomentosa",
@@ -577,7 +603,7 @@
       "genus": "Paulownia",
       "scientific_name": "Paulownia tomentosa",
       "common_name": "Princess tree",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -595,7 +621,7 @@
       "genus": "Leucospora",
       "scientific_name": "Leucospora multifida",
       "common_name": "Narrowleaf paleseed",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -622,7 +648,7 @@
       "genus": "Mecardonia",
       "scientific_name": "Mecardonia procumbens",
       "common_name": "Baby jump-up",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -631,7 +657,7 @@
       "genus": "Penstemon",
       "scientific_name": "Penstemon baccharifolius",
       "common_name": "Rock penstemon",
-      "photo_count": 4,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -640,7 +666,7 @@
       "genus": "Penstemon",
       "scientific_name": "Penstemon cobaea",
       "common_name": "Prairie penstemon",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -667,7 +693,7 @@
       "genus": "Plantago",
       "scientific_name": "Plantago helleri",
       "common_name": "Heller's plantain",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -676,7 +702,7 @@
       "genus": "Plantago",
       "scientific_name": "Plantago rhodosperma",
       "common_name": "redseed plantain",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -685,7 +711,7 @@
       "genus": "Veronica",
       "scientific_name": "Veronica anagallis-aquatica",
       "common_name": "Water speedwell",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -737,7 +763,8 @@
       "genus": "Aloysia",
       "scientific_name": "Aloysia gratissima",
       "common_name": "Whitebrush / beebush",
-      "photo_count": 1
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "aloysia-virgata",
@@ -745,7 +772,8 @@
       "genus": "Aloysia",
       "scientific_name": "Aloysia virgata",
       "common_name": "Sweet almond verbena / sweet almond bush",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "glandularia-bipinnatifida",
@@ -803,7 +831,8 @@
       "genus": "Verbena",
       "scientific_name": "Verbena brasiliensis",
       "common_name": "Brazilian vervain",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "verbena-canescens",

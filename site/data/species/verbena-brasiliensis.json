@@ -43,8 +43,28 @@
     ],
     "differences": "Verbena scabra: V. scabra has broad harsh sandpaper leaves and very long slender spikes; Brazilian vervain has narrow simple serrate leaves and many short compact spikes in an open panicle. Verbena xutha: V. xutha has deeply 3-lobed leaves and coarse hispid/glandular foliage; Brazilian vervain leaves are simple and unlobed. Verbena bonariensis: A separate introduced ornamental/naturalized Verbena with dense rounded flower heads on long peduncles; do not collapse it into V. brasiliensis."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/verbena-brasiliensis/archived-7c95d72ea3333276.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/48819510",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "95b0421aa4de04c5555d856a3fb93486c7df5f01",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 31206784 photo 48819510 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 95b0421aa4de04c5555d856a3fb93486c7df5f01; exact image source https://www.inaturalist.org/photos/48819510",
+      "taxon_review_evidence": "Original species record Verbena brasiliensis linked to an original image and matching current inat photo of source taxon Verbena brasiliensis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "7c95d72ea3333276ea9ed0946fdfe1ea94b1dd12d260bccd96f0e452166efb25"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c730b4733090139d11a085e40c583914d5b08ce9b2ae42c3dabed3498a45540d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
   "source_record_sha256": "037c9dbf0862ae652d13a63752af2beea822a10d68a10e7048952ebef0e980c0",

@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 345070568, photo 628810075, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2e2e83fe4bf1eca318d13ea8d4abb85b3829d418c854982aaf96da7b170afd53. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Mecardonia procumbens maps to indexed species mecardonia-procumbens; specialist morphology and BONAP range deferred.",
       "sha256": "2e2e83fe4bf1eca318d13ea8d4abb85b3829d418c854982aaf96da7b170afd53"
+    },
+    {
+      "src": "media/mecardonia-procumbens/archived-d4a24698d41723c9.jpg",
+      "creator": "sahi2018",
+      "source_page": "https://www.inaturalist.org/photos/127188987",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "0ef25dd86eaf0f039d4ea824108fa629eb17e26e",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 77757282 photo 127188987 individual CC code cc-by-nc; photographer (c) sahi2018, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 0ef25dd86eaf0f039d4ea824108fa629eb17e26e; exact image source https://www.inaturalist.org/photos/127188987",
+      "taxon_review_evidence": "Original species record Mecardonia procumbens linked to an original image and matching current inat photo of source taxon Mecardonia procumbens. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "d4a24698d41723c960282ccc060848ea860907b332d67b0acb22645081098774"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

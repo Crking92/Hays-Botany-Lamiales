@@ -31,8 +31,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ligustrum-quihoui/archived-0526db9734bcbbeb.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/104517096",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "8aaba25dc35d3b3fccb39f8ba1aae79cdeea3622",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 64963133 photo 104517096 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 8aaba25dc35d3b3fccb39f8ba1aae79cdeea3622; exact image source https://www.inaturalist.org/photos/104517096",
+      "taxon_review_evidence": "Original species record Ligustrum quihoui linked to an original image and matching current inat photo of source taxon Ligustrum quihoui. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "0526db9734bcbbeb17cea3b1cdfd8c73e1ad3ff480f984654429f7a18d5adbfa"
+    },
+    {
+      "src": "media/ligustrum-quihoui/archived-b7ef402b0c6fc40e.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/104517110",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "d1298b88b7abc478e2ae0e57a06f7ce0d9ba1fde",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 64963133 photo 104517110 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA d1298b88b7abc478e2ae0e57a06f7ce0d9ba1fde; exact image source https://www.inaturalist.org/photos/104517110",
+      "taxon_review_evidence": "Original species record Ligustrum quihoui linked to an original image and matching current inat photo of source taxon Ligustrum quihoui. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b7ef402b0c6fc40e26004209601f296c5f7283776b747c561ee48558089c3e6a"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d07524d83128407922123290bd8fc93b7fb225bf03f4c23260540e02e34fc9b7",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -43,8 +43,47 @@
     "names": [],
     "differences": "Taller and broader-leaved than Dyschoriste linearis, with paired bracted cymes instead of solitary axillary flowers."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/dicliptera-brachiata/archived-570c94fef9ff803a.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/99679565",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "36ca36d47337163f2526dc8b9a57263f94773258",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 62230746 photo 99679565 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 36ca36d47337163f2526dc8b9a57263f94773258; exact image source https://www.inaturalist.org/photos/99679565",
+      "taxon_review_evidence": "Original species record Dicliptera brachiata linked to an original image and matching current inat photo of source taxon Dicliptera brachiata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "570c94fef9ff803a4236eebd772d8c52229987863d8053fc7da1ffb8691c2c53"
+    },
+    {
+      "src": "media/dicliptera-brachiata/archived-b9c012cad6e9f08f.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/99679508",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "2d6582705481a5ec1d9d0d31b2073135353ea685",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 62230746 photo 99679508 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 2d6582705481a5ec1d9d0d31b2073135353ea685; exact image source https://www.inaturalist.org/photos/99679508",
+      "taxon_review_evidence": "Original species record Dicliptera brachiata linked to an original image and matching current inat photo of source taxon Dicliptera brachiata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b9c012cad6e9f08fbf1e76551419dc38c1af5905106c852e8285ed13944f83f0"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c763fd39b16037ce28077c49316fadedb51433ab155870f808cd1d2041c47f8f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

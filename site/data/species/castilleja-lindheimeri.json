@@ -51,8 +51,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/castilleja-lindheimeri/archived-52a84d46932ed109.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/369421893",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "273e658cdd570f3d70664db73de79f70a6b5434e",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 208779191 photo 369421893 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 273e658cdd570f3d70664db73de79f70a6b5434e; exact image source https://www.inaturalist.org/photos/369421893",
+      "taxon_review_evidence": "Original species record Castilleja lindheimeri linked to an original image and matching current inat photo of source taxon Castilleja lindheimeri. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "52a84d46932ed1092ae90bef6d25b204f27cfb3e6f73b209aeceba35fd5e96c3"
+    },
+    {
+      "src": "media/castilleja-lindheimeri/archived-d99d46d550faf1d1.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/260397999",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "1dcc34f472019a58a5aa60c99bb72db96666720a",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 150960559 photo 260397999 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 1dcc34f472019a58a5aa60c99bb72db96666720a; exact image source https://www.inaturalist.org/photos/260397999",
+      "taxon_review_evidence": "Original species record Castilleja lindheimeri linked to an original image and matching current inat photo of source taxon Castilleja lindheimeri. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "d99d46d550faf1d16bfde534d25f077e4880dee4870b6ddc00da5f01fb3caa47"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "10cd66edfce8bd36d2e896df5ef7c0c4ac40a61903369853d591d84542a8254a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

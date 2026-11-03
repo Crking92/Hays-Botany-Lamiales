@@ -67,8 +67,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/salvia-texana/archived-e9edcd06a7a3ef92.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/369798579",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "e20e037e87436ff8c97160c69b45f950d1877b89",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 208982603 photo 369798579 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA e20e037e87436ff8c97160c69b45f950d1877b89; exact image source https://www.inaturalist.org/photos/369798579",
+      "taxon_review_evidence": "Original species record Salvia texana linked to an original image and matching current inat photo of source taxon Salvia texana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "e9edcd06a7a3ef92c8bd4daab7c86f8a5259e108c92bde463f79e3822e544080"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "27c9ba8b33eada7e66b0379f90a2363a58e81319688cfbb03983b40dcc53246e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

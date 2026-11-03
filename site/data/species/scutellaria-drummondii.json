@@ -51,8 +51,28 @@
     "names": [],
     "differences": "Scutellaria wrightii: S. wrightii is a bushy perennial with several-many stems from a persistent base, rounded/obtuse entire leaves, minute pubescence and a smoother-looking calyx; its corolla is larger (mostly 13–18 mm) and its pedicel longer (3–3.5 mm). S. drummondii is annual, acute-leaved, visibly glandular-hairy and smaller-flowered. Scutellaria ovata: S. ovata is a much taller rhizomatous perennial (about 35–70 cm in the Williamson treatment) with much larger triangular-ovate, crenate leaves and much larger corollas (about 21–25 mm)."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/scutellaria-drummondii/archived-490697ea59b4e965.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/99231556",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "bf1923bdd4d8f9dddb44f6febbbe8a5ea755d6e6",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 61972112 photo 99231556 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA bf1923bdd4d8f9dddb44f6febbbe8a5ea755d6e6; exact image source https://www.inaturalist.org/photos/99231556",
+      "taxon_review_evidence": "Original species record Scutellaria drummondii linked to an original image and matching current inat photo of source taxon Scutellaria drummondii. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "490697ea59b4e9659e7b2fc43f88aa4f0cc026032df76d26e8dd8d54cb81481f"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "047ef5f720a586a10e5b53c5197b86d8daebf04033ba7e21de3ee3f296affeb3",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

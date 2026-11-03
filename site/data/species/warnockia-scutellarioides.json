@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/warnockia-scutellarioides/archived-b5000b6d11bc4fee.jpg",
+      "creator": "dblack16",
+      "source_page": "https://www.inaturalist.org/photos/643990088",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "3b9193db4c2f4c2af567fbea117be93e39abf043",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 352906538 photo 643990088 individual CC code cc-by-nc; photographer (c) dblack16, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 3b9193db4c2f4c2af567fbea117be93e39abf043; exact image source https://www.inaturalist.org/photos/643990088",
+      "taxon_review_evidence": "Original species record Warnockia scutellarioides linked to an original image and matching current inat photo of source taxon Warnockia scutellarioides. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b5000b6d11bc4feee28094ff5aac47d789ac671a515331c47df7710d2687c2cd"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "7154904255c94dff8b72aa6a86051f1864091fa836bb1b2adfa74f22798dbe64",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

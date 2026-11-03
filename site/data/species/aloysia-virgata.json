@@ -27,8 +27,28 @@
     ],
     "differences": "A. gratissima typically has much smaller leaves and shorter, dense flower racemes; Lantana urticoides has flowers packed into rounded heads rather than extended racemes; Verbena halei is herbaceous with spikes, not a woody shrub."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/aloysia-virgata/archived-9a5f5e9f9eb3d26d.jpg",
+      "creator": "Patricio Cowper Coles",
+      "source_page": "https://www.inaturalist.org/photos/675009404",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "2ad8de21bf5fe27144aa463a1a42b5d88218cedf",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "GBIF occurrence 6400798774 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/675009404/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Patricio Cowper Coles; dHash distance 0; archived source SHA 2ad8de21bf5fe27144aa463a1a42b5d88218cedf; exact image source https://www.inaturalist.org/photos/675009404",
+      "taxon_review_evidence": "Original species record Aloysia virgata linked to an original image and matching current gbif photo of source taxon Aloysia virgata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "9a5f5e9f9eb3d26d89bc9ec5fc0764738d16a8b42f8f54e9472af2a44a86fd24"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "e7a38a4fae0d61ff58d6089bac21eb593ae7969f895940c0241448f6eb441324",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
   "source_record_sha256": "d3cd61d842b475e8d7e626d1b4875d432c93b8a19f99033034443f03160db866",
