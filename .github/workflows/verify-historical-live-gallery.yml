@@ -12,6 +12,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+  statuses: write
 jobs:
   verify-live-website:
     runs-on: ubuntu-24.04
@@ -25,4 +26,13 @@ jobs:
           path: .shared-photo-audit
           persist-credentials: false
       - name: Verify each photo and photographer on actual Pages
-        run: python3 .shared-photo-audit/scripts/verify_historical_live_gallery.py --repository "Crking92/Hays-Botany-Lamiales" --site-root site
+        run: |
+          set -o pipefail
+          python3 .shared-photo-audit/scripts/verify_historical_live_gallery.py --repository "Crking92/Hays-Botany-Lamiales" --site-root site | tee "$RUNNER_TEMP/hays-verified-photo-count.txt"
+      - name: Record site-verified photo count on GitHub commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          N=$(awk '/^HAYS_HISTORICAL_SITE_PHOTOS_LIVE/ {print $2}' "$RUNNER_TEMP/hays-verified-photo-count.txt" | tail -n 1)
+          test -n "$N"
+          gh api --method POST "repos/${{ github.repository }}/statuses/${{ github.sha }}" -f state=success -f context="hays-botany/historical-photos-live" -f description="$N historical photo bytes and creator/source credits verified on Pages"
