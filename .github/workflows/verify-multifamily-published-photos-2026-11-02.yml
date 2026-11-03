@@ -1,5 +1,6 @@
 name: Verify all family photos are live and byte-identical on GitHub Pages
 # 2026-11-03 verify source-cleared Ophioglossaceae–Orobanchaceae photos, exact live image bytes and attribution.
+# This follow-up audits the full gallery after newly published fern and Orobanchaceae originals.
 on:
   push:
     branches: [main]
