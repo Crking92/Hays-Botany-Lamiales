@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 378,
+  "photo_count": 380,
   "photo_species": 98,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -374,7 +374,7 @@
       "first_src": "media/glandularia-bipinnatifida/source-1b5b5c8c56fc.jpg"
     },
     "glandularia-pumila": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/glandularia-pumila/inat-620704009.jpg"
     },
     "lantana-camara": {
