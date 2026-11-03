@@ -1,0 +1,42 @@
+{
+  "batch_id": "ophioglossaceae-through-orobanchaceae-2026-11-03",
+  "zip_sha256": "6f6157a5f403d5f8bc5ca3b5a861e074a262ec385747192a98facede9979c9cc",
+  "library_backup": "/Hays-Botany-Photo-ZIPs/Ophioglossaceae-through-Orobanchaceae-2026-11-03.zip",
+  "original_zip_image_sha256_verified": 61,
+  "source_image_count_for_this_repo": 35,
+  "species": [
+    "agalinis-edwardsiana",
+    "agalinis-heterophylla",
+    "buchnera-americana",
+    "castilleja-indivisa",
+    "castilleja-lindheimeri",
+    "castilleja-purpurea",
+    "seymeria-bipinnatisecta"
+  ],
+  "records_base64": "ACbF6UkVQslI/9C27jnZWV4UW4hz1LtDnhn2my4OwZlz73UuL+mLlgsAACwau7IYBd2vgZqDLUrwu3ftIWkVGr767SYwWxyy/Q5GMderJT3eKw8AACxSzLYYIi//fKfm8sN0MXlEmk+zYmFIof4tiaT6n8KCF0+rOXh+KtwAACx1HKUYL33WPzH9ekywROACVyQEb9BQoyD+VbjofCWsFY6NTkIRQw8AACHRLUkSuVOExs7JxLpnv53eFVC6awzBkDodzvWoLq50gmHQ9ZeJuxkAAQLrA9oB3WsrU5iJSX8RNO437UREwpCFxkYqpoHz9tkATw7vXxsOrXEAASvWUiEX4wvQhLsim7Fl7yFcwo1q8DK6Lt9uzarS2yLzybME6si8GxkAASwzZ2EYElyMda4F/TNSuVQosrNcdV9WRpQWkdDnGePZ6dFGRlyk8iwAASxuxccYMC5rBGRCuPP3im6f+ku1QprSQ+b5UkfB9WXViEWRvGww+bsAASxv9qQYMMPtqAHxMlxI4riY/iWAt6X800D9TBJ77IRiiiQ73NDlAUQAAicnKL8VdTceDj8qFNdrYMH5JTazC/ymxKZewrZo+6EZQr+k55BgqggAAyUaDWYUYJz1bIxKVnrG15oSMOPf2xbPf0kW8Y0TNStqkCBBcAxhZbwAAyUHP1EUV3BNntrl6mWmKTRlHcyydOK8Q7P4yUHgfhzRCPOjYhrtydIAAyVDRwAUdSnj1UlSTsYiutIxWDQ3nIKG05p/bE5dQByPJZaKTb3bzuwAAyVBZjAUdEIXD5GjdxuXC7sD8jcdwrOu5VZv/TUKPCEcXekN6xZCUegAAyWcbggUomueqXrnY9NNlTj6ihmOsSZ9FLFUl3kEpWykZl6DYUERlIcABCVNKG0UYRJH8tcGfe6qN7wZw5dWxMGsQv8Poktqjzqb+9WKHANEyyAABCWW8KwUn6QpjBbksNDyyn8PG0P9FcTI6tZegiUK5fDeZjA77DosQ4kABCVz2HcUjcTCDxEsuCMVph5UewMUn5z9uo2RK5UoJPVUmEwhzPd+9wgABCWT2VgUnga+GRfJCPSFM+s8bVcY4XwdyRGAIy9SSE/qSBWTdN2JV9oABCVNKLIUegQc4FShFXbnImEJTeor+Ejhhy0lS9ZFU4eJNTsaGMGSjH4ABQI6AbkBcKERZqzcpaZ8GlmUg5Dzp63s5oHKToKSrFvBuzE5UpF1SAoBBRP9hh4LZaXmNVTwSJr1YvSelLtzqpBUedckl7lGwdz32rzM6iMYX5MBBSU1vuIUbnbIR7Ix6ISbCo7ubQKV1T0J8V8qQfBONei7Ezfr70ygkDUABSVcvl0Ugcf5hFvxAOexftY0XNa90PdU9eDq2g016XdWjkqBgbLIOBsABSWMgbsUmkhlaJ+y9JvRsM/nZEH2kdRoAnmpPYEPqlIPEQrdGc4PwVkABg/jzeEJMldY4hfZ2VMTLX9Ojp5R6CTAzHVmJYNuHIFQ9s7sUHggghgABiD+hK0SS1NkTXa5D+igabiAXf+UBBFbu57KjvfXEhsM8lHQqL9C5wsABgBt4wgAWG2ujVQ+SY3T5NyGbU7zVbOeSXPWKu0TziBWnQlsZEVQz2sBBh7El/8RHNBifNljBl4TV2gZo7RhEu/YZKb7oPynejh7izxdiDpfZgQABhiCurcNzMrHyg2omHeXzATUadHTwUIliu+mfhwm+6qWWwrYR7kOpPsB",
+  "held_offline_media": [
+    {
+      "species": "buchnera-americana",
+      "filename": "photo_0_8196cd72a84009c9.jpg",
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp62784125429176196844.att.jpg",
+      "claimed_license": "CC BY 4.0",
+      "creator": "The University of Texas at Austin",
+      "reason": "Independent confirmation of specimen image reuse rights pending"
+    },
+    {
+      "species": "buchnera-americana",
+      "filename": "photo_1_4490bd1e8885d8c9.jpg",
+      "reason": "Independent confirmation of specimen image reuse rights pending"
+    },
+    {
+      "species": "buchnera-americana",
+      "filename": "photo_2_a2ede0a0a495466c.jpg",
+      "reason": "Independent confirmation of specimen image reuse rights pending"
+    },
+    {
+      "species": "buchnera-americana",
+      "filename": "photo_3_0606ffd9770968b7.jpg",
+      "reason": "Independent confirmation of specimen image reuse rights pending"
+    }
+  ]
+}
