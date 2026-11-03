@@ -1,0 +1,76 @@
+name: Publish verified Marantaceae–Oleaceae original ZIP photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photo-intake/remote-photo-manifests/marantaceae-through-oleaceae-2026-11-03.json'
+      - 'scripts/publish_verified_marantaceae_oleaceae_zip.py'
+      - '.github/workflows/publish-marantaceae-oleaceae-2026-11-03.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: family-photo-first-marantaceae-oleaceae-release
+  cancel-in-progress: false
+jobs:
+  release-cleared-originals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Install image validation dependency
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify exact photo-specific license, source observation taxon and original ZIP image hashes
+        run: |
+          python3 scripts/publish_verified_marantaceae_oleaceae_zip.py \
+            --manifest photo-intake/remote-photo-manifests/marantaceae-through-oleaceae-2026-11-03.json \
+            --source-root "$RUNNER_TEMP/source-cleared" \
+            --report "$RUNNER_TEMP/marantaceae-oleaceae-source-audit.json"
+      - name: Install source-cleared originals, individual credit and species gallery indexes
+        run: |
+          if test -f site/data/reviewed-external-photo-manifest.json; then
+            python3 scripts/publish_approved_lamiales_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site --check
+            python3 scripts/publish_approved_lamiales_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site
+          else
+            python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site --check
+            python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site
+            python3 scripts/verify_automatic_gallery.py --site-root site
+          fi
+          python3 scripts/build_collection_preview.py
+      - name: Commit actual image bytes and credited site gallery records
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+          if test -f site/data/reviewed-external-photo-manifest.json; then git add site/data/reviewed-external-photo-manifest.json; fi
+          if git diff --cached --quiet; then
+            echo "No new eligible photos; inspect photo-specific source audit for holds."
+          else
+            git diff --cached --check
+            git commit -m "Publish credited original Marantaceae–Oleaceae photos"
+            for attempt in 1 2 3 4; do
+              if git push origin HEAD:main; then
+                echo "Licensed photo release committed successfully."
+                break
+              fi
+              if test "$attempt" -eq 4; then
+                echo "Four non-force publication attempts exhausted" >&2
+                exit 1
+              fi
+              git fetch origin main
+              git rebase origin/main
+            done
+          fi
+      - name: Preserve individual source-rights and hold audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: marantaceae-oleaceae-source-audit
+          path: "${{ runner.temp }}/marantaceae-oleaceae-source-audit.json"
+          retention-days: 30
+          if-no-files-found: warn
