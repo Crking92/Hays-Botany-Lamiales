@@ -90,7 +90,55 @@ jobs:
             echo "published=false" >> "$GITHUB_OUTPUT"
           fi
           git commit -m "Recover older Commons photos from original per-image rights and credits"
-          git push origin HEAD:main
+          git push origin HEAD:main || {
+            # Another worker (including ZIP imports) advanced this same family.
+            # Never force-push or let our stale index replace the newer gallery.
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort || true
+                git reset --hard origin/main
+                python3 .shared-photo-audit/scripts/recover_historical_archive_trust.py \
+                  --source-root "$RUNNER_TEMP/source-archive" \
+                  --site-root site \
+                  --repository "Crking92/Hays-Botany-Lamiales" \
+                  --publisher lamiales \
+                  --limit 80
+                python3 - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          root=Path("site")
+          p=Path("workflow/multi-family-historical-archive-trust-2026-11-03.json")
+          report=json.loads(p.read_text())
+          gal=json.loads((root/"data/gallery-index.json").read_text())
+          idx=json.loads((root/"data/collection-index.json").read_text())
+          assert gal["species"]==len(idx["entries"])
+          seen=set()
+          for rec in report["records"]:
+              if rec["status"]!="SOURCE_VERIFIED_READY":continue
+              sid,src=rec["species_id"],rec["src"]
+              assert src.startswith("media/"+sid+"/") and src not in seen
+              seen.add(src)
+              assert hashlib.sha256((root/src).read_bytes()).hexdigest()==rec["sha256"]
+              card=json.loads((root/"data/species"/(sid+".json")).read_text())
+              assert any(v.get("src")==src and v.get("creator")==rec["creator"] and
+                         v.get("source_page")==rec["source_page"] and v.get("license")==rec["license"]
+                         for v in card["verified_photos"])
+          assert len(seen)==report["new_installed"]
+          print("REBASED_HISTORIC_PHOTOS_CHECKED",len(seen))
+          PY
+                git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json workflow/multi-family-historical-archive-trust-2026-11-03.json
+                git diff --cached --check
+                if git diff --cached --quiet; then
+                  echo "Nothing new after latest family publication"; exit 0
+                fi
+                git commit -m "Reconcile and publish historical Commons originals against latest family gallery"
+              fi
+              if git push origin HEAD:main; then exit 0; fi
+              sleep 5
+            done
+            exit 1
+          }
       - name: Request public Pages build for newly installed images
         if: steps.save.outputs.published == 'true'
         env:
