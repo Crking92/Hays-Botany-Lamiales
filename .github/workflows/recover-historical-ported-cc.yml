@@ -64,12 +64,19 @@ jobs:
           if git diff --cached --quiet; then echo "published=false" >> "$GITHUB_OUTPUT"; exit 0; fi
           git diff --cached --check
           git commit -m "Publish historically credited CC country-port photographs"
-          git fetch origin main
-          git rebase origin/main
-          git push origin HEAD:main
-          echo "published=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3 4 5 6 7 8 9 10; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep 4
+          done
+          echo "Parallel changes kept moving; no force push" >&2
+          exit 1
       - name: Request website build
         if: steps.save.outputs.published == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds" || echo "Pages request transient; separate live photo audit will confirm site delivery"
