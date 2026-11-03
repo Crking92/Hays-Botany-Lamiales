@@ -1,0 +1,44 @@
+name: Verify historical Glandularia photos on public Pages
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/verify-glandularia-recovery-live.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - name: Check out existing verified source and credits
+        uses: actions/checkout@v4
+      - name: Confirm public Pages actually displays the two source-verified photos with matching credits
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,time,urllib.request
+          from pathlib import Path
+          r=json.loads(Path('workflow/multi-family-verified-synonym-recovery-2026-11-03.json').read_text())
+          photos=[x for x in r['records'] if x['status']=='SOURCE_VERIFIED_READY']
+          assert len(photos)==2 and all(x['species_id']=='glandularia-pumila' for x in photos)
+          root='https://crking92.github.io/Hays-Botany-Lamiales/site/'
+          def fetch(path):
+              req=urllib.request.Request(root+path,headers={'User-Agent':'HaysBotanyPublicHistoricalGlandulariaVerification/2026-11-03'})
+              with urllib.request.urlopen(req,timeout=20) as h:
+                  assert h.status==200
+                  return h.read()
+          expected=(Path('site/data/gallery-index.json')).read_bytes()
+          for n in range(45):
+              try:
+                  if fetch('data/gallery-index.json')==expected: break
+              except Exception as e:
+                  print('Waiting for Pages',str(e)[:160],flush=True)
+              time.sleep(8)
+          else: raise AssertionError('Public Pages gallery does not match committed gallery')
+          card=json.loads(fetch('data/species/glandularia-pumila.json'))
+          for p in photos:
+              assert hashlib.sha256(fetch(p['src'])).hexdigest()==p['sha256'],p['src']
+              assert any(x.get('src')==p['src'] and x.get('creator')==p['creator'] and x.get('license')==p['license'] and x.get('source_page')==p['source_page'] for x in card['verified_photos']),p['src']
+          print('LIVE_PAGES_WITH_CORRECT_CREDITS',len(photos))
+          PY
