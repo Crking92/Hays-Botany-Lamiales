@@ -1,0 +1,75 @@
+name: Recover old species-card iNaturalist photos with exact individual rights
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/recover-historical-card-inat.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: hays-Hays-Botany-Lamiales-photo-publisher
+  cancel-in-progress: false
+jobs:
+  install:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Preserved originals
+        run: |
+          git fetch origin staging/original-source-transfer
+          git worktree add "$RUNNER_TEMP/archive" origin/staging/original-source-transfer
+      - uses: actions/checkout@v4
+        with:
+          repository: Crking92/Hays-Botany-Public
+          ref: 2c8da9e1a64ecbbdebf657c802d12ce917f2ef2b
+          path: .shared-photo-audit
+          persist-credentials: false
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Approve matching documented original photos and publish in bulk
+        run: |
+          python3 .shared-photo-audit/scripts/recover_historical_card_inat.py \
+            --source-root "$RUNNER_TEMP/archive" \
+            --site-root site \
+            --repository "Crking92/Hays-Botany-Lamiales" \
+            --publisher lamiales --limit 60
+      - name: Verify source checksum and exact credits locally
+        run: |
+          python3 - <<'PY'
+          import json,hashlib
+          from pathlib import Path
+          root=Path('site')
+          j=json.loads(Path('workflow/multi-family-historical-card-inat-2026-11-03.json').read_text())
+          for r in j['records']:
+              if r['status']!='SOURCE_VERIFIED_READY': continue
+              b=(root/r['src']).read_bytes()
+              assert hashlib.sha256(b).hexdigest()==r['sha256']
+              card=json.loads((root/'data/species'/ (r['species_id']+'.json')).read_text())
+              assert any(p.get('src')==r['src'] and p.get('creator')==r['creator']
+                and p.get('license')==r['license'] and p.get('source_page')==r['source_page']
+                for p in card.get('verified_photos',[]))
+          PY
+      - name: Safe publisher commit
+        id: save
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json workflow/multi-family-historical-card-inat-2026-11-03.json
+          if test -f site/data/reviewed-external-photo-manifest.json; then git add site/data/reviewed-external-photo-manifest.json; fi
+          if git diff --cached --quiet; then echo "published=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          git diff --cached --check
+          git commit -m "Restore verified archived originals from species-card photo references"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Request website build
+        if: steps.save.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
