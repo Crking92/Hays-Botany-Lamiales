@@ -1,4 +1,5 @@
 name: Publish source-verified Lamiaceae batch B photos
+# Queued behind validated Lamiaceae A run; shallow checkout avoids historical photo clone.
 on:
   push:
     branches: [main]
