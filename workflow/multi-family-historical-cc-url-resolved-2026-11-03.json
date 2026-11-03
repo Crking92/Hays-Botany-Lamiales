@@ -1,25 +1,101 @@
 {
   "repository": "Crking92/Hays-Botany-Lamiales",
   "batch_key": "MULTIFAMILY_HISTORICAL_CC_URL_RESOLVED_2026-11-03",
-  "checked_at": "2026-11-03T23:41:37.644739+00:00",
+  "checked_at": "2026-11-03T23:47:34.360015+00:00",
   "source_files": 240,
   "selection_window": 80,
-  "candidate_pool_with_usable_source_identifiers": 0,
+  "candidate_pool_with_usable_source_identifiers": 4,
   "remaining_candidates_not_yet_checked": 0,
-  "selected_candidates": 0,
-  "selected_by_lane": {},
-  "skipped_or_previously_published": {
-    "outside_reviewed_commons_recovery_lane": 237,
-    "original_path_shape_unknown": 3
+  "selected_candidates": 4,
+  "selected_by_lane": {
+    "commons": 4
   },
-  "new_installed": 0,
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 232,
+    "original_path_shape_unknown": 3,
+    "license_shorthand_not_proven_by_original_exact_versioned_url": 1
+  },
+  "new_installed": 4,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
-  "records": [],
-  "previous_batches": [],
-  "batch_number": 1,
+  "records": [
+    {
+      "species_id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "filename": "commons-annika-554081866-texas.jpg",
+      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-annika-554081866-texas.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-annika-554081866-texas.jpg",
+      "git_blob_sha": "ee691ea4d294ba9b430cfdaaf8620017218c96ac",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_554081866.jpg",
+      "taxon": "Glandularia bipinnatifida",
+      "src": "media/glandularia-bipinnatifida/archived-d95188f522bb5545.jpg",
+      "sha256": "d95188f522bb5545e57a543cb59aa4201edea19d8383c22641ed8eae3c6a738f"
+    },
+    {
+      "species_id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "filename": "commons-fonseca-171222-flowering.jpg",
+      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-171222-flowering.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-171222-flowering.jpg",
+      "git_blob_sha": "9dd5d37b03846dc581f37ef27c702121d47cf6e0",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_(Verbenaceae)_171222.jpg",
+      "taxon": "Glandularia bipinnatifida",
+      "src": "media/glandularia-bipinnatifida/archived-42b28e02155d78c6.jpg",
+      "sha256": "42b28e02155d78c66d0be89ca8dc6cb6a1fbcf3fe5326ca7b805c2a38cbaf25f"
+    },
+    {
+      "species_id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "filename": "commons-fonseca-prairie-verbena-527.jpg",
+      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-prairie-verbena-527.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-prairie-verbena-527.jpg",
+      "git_blob_sha": "5ffc1b7d6ff24e3b76da3cc14a5ab548f6812f3a",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_000000000527.jpg",
+      "taxon": "Glandularia bipinnatifida",
+      "src": "media/glandularia-bipinnatifida/archived-b3ffd85363b1a912.jpg",
+      "sha256": "b3ffd85363b1a912d99195c80b791a52ca4f0ea6c36990f792688a1d448d18ed"
+    },
+    {
+      "species_id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "filename": "commons-michelle-586522824-comal.jpg",
+      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-michelle-586522824-comal.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-michelle-586522824-comal.jpg",
+      "git_blob_sha": "ab09a0f038712ab6ec98004f561c4ae829c26921",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Glandularia_bipinnatifida_586522824.jpg",
+      "taxon": "Glandularia bipinnatifida",
+      "src": "media/glandularia-bipinnatifida/archived-f75d56be33d0d549.jpg",
+      "sha256": "f75d56be33d0d549f8aea86fac01b0e6310200e2669263f0fa481738695ef965"
+    }
+  ],
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-03T23:41:37.644739+00:00",
+      "selected_candidates": 0,
+      "new_installed": 0,
+      "held_checked": 0,
+      "records": []
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 0,
+  "cumulative_installed": 4,
   "cumulative_held_reviewed": 0
 }
