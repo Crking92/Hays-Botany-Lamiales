@@ -1,0 +1,133 @@
+name: Bulk recovery of archived historical Commons photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/recover-historical-bulk-commons.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: hays-Hays-Botany-Lamiales-photo-publisher
+  cancel-in-progress: false
+jobs:
+  audit-and-publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - name: Check out assigned public family website
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Worktree checkout of preserved historical source archive
+        run: |
+          git fetch origin staging/original-source-transfer
+          git worktree add "$RUNNER_TEMP/source-archive" origin/staging/original-source-transfer
+      - name: Check out SINGLE shared historical photo recovery implementation at pinned commit
+        uses: actions/checkout@v4
+        with:
+          repository: Crking92/Hays-Botany-Public
+          ref: 811e75eaf36c66d0f83aacd9e81e142396883934
+          path: .shared-photo-audit
+          persist-credentials: false
+      - name: Install image decoder
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Audit up to 55 previously held originals and publish passing photos to this family only
+        run: |
+          python3 .shared-photo-audit/scripts/recover_historical_bulk_commons.py \
+            --source-root "$RUNNER_TEMP/source-archive" \
+            --site-root site \
+            --repository "Crking92/Hays-Botany-Lamiales" \
+            --publisher lamiales \
+            --limit 25
+      - name: Verify the exact newly installed source bytes, credits and gallery links before commit
+        run: |
+          python3 - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          root=Path("site")
+          report=json.loads(Path("workflow/multi-family-historical-bulk-commons-2026-11-03.json").read_text())
+          gal=json.loads((root/"data/gallery-index.json").read_text())
+          index=json.loads((root/"data/collection-index.json").read_text())
+          assert gal["species"]==len(index["entries"])
+          assert gal["photo_count"]>=report["new_installed"]
+          seen=set()
+          for row in report["records"]:
+              if row["status"]!="SOURCE_VERIFIED_READY":continue
+              sid=row["species_id"];relative=row["src"]
+              assert relative.startswith("media/"+sid+"/")
+              assert relative not in seen
+              seen.add(relative)
+              raw=(root/relative).read_bytes()
+              assert hashlib.sha256(raw).hexdigest()==row["sha256"],relative
+              card=json.loads((root/"data/species"/(sid+".json")).read_text())
+              matches=[p for p in card.get("verified_photos",[]) if p.get("src")==relative]
+              assert len(matches)==1,(sid,relative)
+              p=matches[0]
+              assert p["creator"]==row["creator"] and p["source_page"]==row["source_page"] and p["license"]==row["license"]
+              assert not p.get("private_rights_review_only") and not p.get("license","").endswith("-ND 4.0")
+              if "NC" in p["license"]:
+                  assert p["noncommercial_only"] is True
+          assert len(seen)==report["new_installed"],(len(seen),report["new_installed"])
+          print("HAYS_MULTIFAMILY_LOCAL_VERIFIED",len(seen),gal["photo_count"])
+          PY
+      - name: Commit only verified gallery assets and the holds/duplicates audit result
+        id: save
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json  workflow/multi-family-historical-bulk-commons-2026-11-03.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git diff --cached --check
+          if git diff --cached --name-only | grep -q '^site/'; then
+            echo "published=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "published=false" >> "$GITHUB_OUTPUT"
+          fi
+          git commit -m "Install source-matched historical Commons photographs in large recovery pass"
+          git push origin HEAD:main
+      - name: Request public Pages build for newly installed images
+        if: steps.save.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - name: Verify real family Pages delivered each new original image byte and source credit
+        if: steps.save.outputs.published == 'true'
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,time,urllib.request
+          from pathlib import Path
+          root=Path("site");base="https://crking92.github.io/Hays-Botany-Lamiales/site/"
+          report=json.loads(Path("workflow/multi-family-historical-bulk-commons-2026-11-03.json").read_text())
+          expected=(root/"data/gallery-index.json").read_bytes()
+          def fetch(relative):
+              req=urllib.request.Request(base+relative,headers={"User-Agent":"HaysBotanyMultiFamilyLivePhotoVerification/1.0"})
+              with urllib.request.urlopen(req,timeout=25) as resp:
+                  assert resp.status==200
+                  return resp.read()
+          for attempt in range(55):
+              try:
+                  if fetch("data/gallery-index.json")==expected:break
+              except Exception as ex:
+                  print("Pages pending",str(ex)[:130],flush=True)
+              time.sleep(9)
+          else:raise AssertionError("Latest family gallery index not available on public website")
+          checked=0
+          for row in report["records"]:
+              if row["status"]!="SOURCE_VERIFIED_READY":continue
+              rel=row["src"];sid=row["species_id"]
+              assert hashlib.sha256(fetch(rel)).hexdigest()==row["sha256"],rel
+              card=json.loads(fetch("data/species/"+sid+".json"))
+              assert any(p.get("src")==rel and p.get("creator")==row["creator"] and
+                         p.get("source_page")==row["source_page"] and p.get("license")==row["license"]
+                         for p in card.get("verified_photos",[])),(sid,rel)
+              checked+=1
+          assert checked==report["new_installed"],(checked,report["new_installed"])
+          print("MULTIFAMILY_PUBLIC_PHOTOS_LIVE_WITH_CREDITS",checked)
+          PY
+ 
