@@ -17,6 +17,8 @@ from PIL import Image, UnidentifiedImageError
 ID = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 FILENAME = re.compile(r"^[a-z0-9][a-z0-9._-]{2,110}\.(?:jpg|jpeg|png|webp)$")
 LICENSES = {
+    "PUBLIC DOMAIN (U.S. FEDERAL WORK)": "https://www.copyright.gov/title17/92chap1.html#105",
+    "PUBLIC DOMAIN (AUTHOR RELEASED)": "https://creativecommons.org/publicdomain/mark/1.0/",
     "CC BY 2.5": "https://creativecommons.org/licenses/by/2.5/",
     "CC BY 3.0 DE": "https://creativecommons.org/licenses/by/3.0/de/",
     "CC BY-SA 2.0 CA": "https://creativecommons.org/licenses/by-sa/2.0/ca/",
