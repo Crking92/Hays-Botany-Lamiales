@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 277,
-  "photo_species": 95,
+  "photo_count": 303,
+  "photo_species": 96,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
       "count": 1,
@@ -262,27 +262,27 @@
       "first_src": "media/menodora-longiflora/archived-41012ce60fca7972.jpeg"
     },
     "agalinis-edwardsiana": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/agalinis-edwardsiana/source-fe67b604c523.jpg"
     },
     "agalinis-heterophylla": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/agalinis-heterophylla/source-2fc34fee58aa.jpg"
     },
     "buchnera-americana": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/buchnera-americana/archived-4d2ec55fabe814de.jpg"
     },
     "castilleja-indivisa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/castilleja-indivisa/inat-621231953.jpg"
     },
     "castilleja-lindheimeri": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/castilleja-lindheimeri/archived-52a84d46932ed109.jpg"
     },
     "castilleja-purpurea": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/castilleja-purpurea/source-4305bb330641.jpg"
     },
     "seymeria-bipinnatisecta": {

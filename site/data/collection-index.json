@@ -552,7 +552,7 @@
       "genus": "Agalinis",
       "scientific_name": "Agalinis edwardsiana",
       "common_name": "Edwards Plateau false foxglove",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -561,7 +561,8 @@
       "genus": "Agalinis",
       "scientific_name": "Agalinis heterophylla",
       "common_name": "Prairie false foxglove",
-      "photo_count": 3
+      "photo_count": 8,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "buchnera-americana",
@@ -569,7 +570,7 @@
       "genus": "Buchnera",
       "scientific_name": "Buchnera americana",
       "common_name": "American bluehearts",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -578,7 +579,8 @@
       "genus": "Castilleja",
       "scientific_name": "Castilleja indivisa",
       "common_name": "Texas Paintbrush",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "castilleja-lindheimeri",
@@ -586,7 +588,7 @@
       "genus": "Castilleja",
       "scientific_name": "Castilleja lindheimeri",
       "common_name": "Lindheimer's paintbrush",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -595,7 +597,8 @@
       "genus": "Castilleja",
       "scientific_name": "Castilleja purpurea",
       "common_name": "Prairie / Purple Paintbrush",
-      "photo_count": 3
+      "photo_count": 8,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "seymeria-bipinnatisecta",
