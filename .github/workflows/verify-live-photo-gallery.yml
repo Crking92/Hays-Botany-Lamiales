@@ -1,5 +1,6 @@
 name: Verify public family photo gallery image delivery
 # Verify 2026-11-03 Oxalidaceae-to-Plumbaginaceae release (original images and licensed credits).
+# Final recheck after the credited Veronica anagallis-aquatica CC0 source photo joined the live gallery.
 on:
   push:
     branches: [main]
