@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 276,
+  "photo_count": 277,
   "photo_species": 95,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -338,7 +338,7 @@
       "first_src": "media/plantago-rhodosperma/inat-623734293.jpg"
     },
     "veronica-anagallis-aquatica": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/veronica-anagallis-aquatica/inat-623223471.jpg"
     },
     "veronica-persica": {
