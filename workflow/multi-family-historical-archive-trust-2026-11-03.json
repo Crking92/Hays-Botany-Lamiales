@@ -1,0 +1,131 @@
+{
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "batch_key": "MULTIFAMILY_HISTORICAL_ARCHIVE_TRUST_2026-11-03",
+  "checked_at": "2026-11-03T23:32:48.940216+00:00",
+  "source_files": 240,
+  "selection_window": 55,
+  "candidate_pool_with_usable_source_identifiers": 8,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 8,
+  "selected_by_lane": {
+    "commons": 8
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 229,
+    "original_path_shape_unknown": 3
+  },
+  "new_installed": 2,
+  "held_checked": 6,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "anisacanthus-quadrifidus-var-wrightii",
+      "family": "Acanthaceae",
+      "filename": "01-red-tubular-flowers-foliage.jpg",
+      "original_path": "content/taxa/Acanthaceae/Anisacanthus/anisacanthus-quadrifidus-var-wrightii/images/01-red-tubular-flowers-foliage.jpg",
+      "archive_path": "migration/private-original-photo-holds/Acanthaceae/Anisacanthus/anisacanthus-quadrifidus-var-wrightii/images/01-red-tubular-flowers-foliage.jpg",
+      "git_blob_sha": "e1410b0817f6b149f8328f69f92770ae40ea9f1a",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Scott",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Anisacanthus_quadrifidus_wrightii.jpg",
+      "taxon": "Anisacanthus quadrifidus var. wrightii",
+      "src": "media/anisacanthus-quadrifidus-var-wrightii/archived-735e07d534f90765.jpg",
+      "sha256": "735e07d534f90765d9a9d9b4c16f55fcc2324212a723589c6e9c9dfead22f0ad"
+    },
+    {
+      "species_id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "filename": "commons-annika-554081866-texas.jpg",
+      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-annika-554081866-texas.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-annika-554081866-texas.jpg",
+      "git_blob_sha": "ee691ea4d294ba9b430cfdaaf8620017218c96ac",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Archived per-photo rights unverified or unsupported: CC BY"
+    },
+    {
+      "species_id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "filename": "commons-fonseca-171222-flowering.jpg",
+      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-171222-flowering.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-171222-flowering.jpg",
+      "git_blob_sha": "9dd5d37b03846dc581f37ef27c702121d47cf6e0",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Archived per-photo rights unverified or unsupported: CC BY-SA"
+    },
+    {
+      "species_id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "filename": "commons-fonseca-prairie-verbena-527.jpg",
+      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-prairie-verbena-527.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-fonseca-prairie-verbena-527.jpg",
+      "git_blob_sha": "5ffc1b7d6ff24e3b76da3cc14a5ab548f6812f3a",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Archived per-photo rights unverified or unsupported: CC BY-SA"
+    },
+    {
+      "species_id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "filename": "commons-michelle-586522824-comal.jpg",
+      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-michelle-586522824-comal.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/commons-michelle-586522824-comal.jpg",
+      "git_blob_sha": "ab09a0f038712ab6ec98004f561c4ae829c26921",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Archived per-photo rights unverified or unsupported: CC BY"
+    },
+    {
+      "species_id": "ligustrum-sinense",
+      "family": "Oleaceae",
+      "filename": "ligustrum-sinense-bidgee-leaves-flowers.jpg",
+      "original_path": "content/taxa/Oleaceae/Ligustrum/ligustrum-sinense/images/ligustrum-sinense-bidgee-leaves-flowers.jpg",
+      "archive_path": "migration/private-original-photo-holds/Oleaceae/Ligustrum/ligustrum-sinense/images/ligustrum-sinense-bidgee-leaves-flowers.jpg",
+      "git_blob_sha": "094a195584d135a226667f7dba5a8f34313d8610",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Archived per-photo rights unverified or unsupported: CC BY-SA 2.5 AUSTRALIA"
+    },
+    {
+      "species_id": "penstemon-baccharifolius",
+      "family": "Plantaginaceae",
+      "filename": "penstemon-baccharifolius-provisional-face.jpg",
+      "original_path": "content/taxa/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+      "git_blob_sha": "a116d752445fd93164120ad7b5e2e58cdcaa7783",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Archived per-photo rights unverified or unsupported: PUBLIC DOMAIN (U.S. FEDERAL GOVERNMENT)"
+    },
+    {
+      "species_id": "phyla-nodiflora",
+      "family": "Verbenaceae",
+      "filename": "01-flowers-leaves.jpg",
+      "original_path": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/images/01-flowers-leaves.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Phyla/phyla-nodiflora/images/01-flowers-leaves.jpg",
+      "git_blob_sha": "df1ab0d35a6a1a2321abc721d7ddfa894bce3d44",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080605-6676_Phyla_nodiflora.jpg",
+      "taxon": "Phyla nodiflora",
+      "src": "media/phyla-nodiflora/archived-67d68269f0c627b7.jpg",
+      "sha256": "67d68269f0c627b7229e91de42d48e3c6c9797dad71e70f32bb320f5bf80b02d"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Archived per-photo rights unverified or unsupported: CC BY": 2,
+    "Archived per-photo rights unverified or unsupported: CC BY-SA": 2,
+    "Archived per-photo rights unverified or unsupported: CC BY-SA 2.5 AUSTRALIA": 1,
+    "Archived per-photo rights unverified or unsupported: PUBLIC DOMAIN (U.S. FEDERAL GOVERNMENT)": 1
+  },
+  "cumulative_installed": 2,
+  "cumulative_held_reviewed": 6
+}

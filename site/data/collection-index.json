@@ -9,7 +9,8 @@
       "genus": "Anisacanthus",
       "scientific_name": "Anisacanthus quadrifidus var. wrightii",
       "common_name": "Flame acanthus / Wright's desert honeysuckle / Texas firecracker",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "justicia-americana",
@@ -860,7 +861,8 @@
       "genus": "Phyla",
       "scientific_name": "Phyla nodiflora",
       "common_name": "Turkey tangle frogfruit",
-      "photo_count": 2
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "verbena-brasiliensis",

@@ -2,11 +2,11 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 531,
+  "photo_count": 533,
   "photo_species": 101,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
-      "count": 1,
+      "count": 2,
       "first_src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Anisacanthus_quadrifidus_wrightii.jpg"
     },
     "justicia-americana": {
@@ -390,7 +390,7 @@
       "first_src": "media/lantana-x-strigocamara/inat-635426525.jpg"
     },
     "phyla-nodiflora": {
-      "count": 2,
+      "count": 3,
       "first_src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr_080605-6676_Phyla_nodiflora.jpg"
     },
     "verbena-brasiliensis": {
