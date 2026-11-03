@@ -1,4 +1,5 @@
 name: Verify all family photos are live and byte-identical on GitHub Pages
+# 2026-11-03 verify source-cleared Ophioglossaceae–Orobanchaceae photos, exact live image bytes and attribution.
 on:
   push:
     branches: [main]
