@@ -1,0 +1,28 @@
+name: Verify actual public historical photo galleries
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/verify-historical-live-gallery.yml'
+      - 'workflow/multi-family-historical-archive-trust-2026-11-03.json'
+      - 'workflow/multi-family-historical-ported-cc-2026-11-03.json'
+      - 'workflow/multi-family-historical-public-domain-2026-11-03.json'
+      - 'workflow/multi-family-species-card-reconciliation-2026-11-03.json'
+      - 'workflow/multi-family-commons-direct-cc-recovery-2026-11-03.json'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify-live-website:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: Crking92/Hays-Botany-Public
+          ref: 9ac95d3e8de44d7456cbd32f2e54eb0aaccb260f
+          path: .shared-photo-audit
+          persist-credentials: false
+      - name: Verify each photo and photographer on actual Pages
+        run: python3 .shared-photo-audit/scripts/verify_historical_live_gallery.py --repository "Crking92/Hays-Botany-Lamiales" --site-root site
