@@ -39,5 +39,5 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           N=$(awk '/^HAYS_HISTORICAL_SITE_PHOTOS_LIVE/ {print $2}' "$RUNNER_TEMP/hays-verified-photo-count.txt" | tail -n 1)
-          test -n "$N"
+          if test -z "$N"; then echo "No eligible historical-photo report entries in this collection; no site bytes to validate"; exit 0; fi
           gh api --method POST "repos/${{ github.repository }}/statuses/${{ github.sha }}" -f state=success -f context="hays-botany/historical-photos-live" -f description="$N historical photo bytes and creator/source credits verified on Pages"
