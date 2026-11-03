@@ -154,7 +154,8 @@
       "genus": "Callicarpa",
       "scientific_name": "Callicarpa americana",
       "common_name": "American Beautyberry",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hedeoma-acinoides",
@@ -162,7 +163,7 @@
       "genus": "Hedeoma",
       "scientific_name": "Hedeoma acinoides",
       "common_name": "Slender false pennyroyal",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -171,7 +172,7 @@
       "genus": "Hedeoma",
       "scientific_name": "Hedeoma drummondii",
       "common_name": "Drummond's pennyroyal",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -180,7 +181,7 @@
       "genus": "Hedeoma",
       "scientific_name": "Hedeoma nana",
       "common_name": "Dwarf pennyroyal",
-      "photo_count": 1,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -189,7 +190,7 @@
       "genus": "Hedeoma",
       "scientific_name": "Hedeoma reverchonii",
       "common_name": "Reverchon's pennyroyal",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -206,7 +207,8 @@
       "genus": "Lamium",
       "scientific_name": "Lamium amplexicaule",
       "common_name": "Henbit",
-      "photo_count": 2
+      "photo_count": 7,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lamium-purpureum",
@@ -214,7 +216,8 @@
       "genus": "Lamium",
       "scientific_name": "Lamium purpureum",
       "common_name": "Purple deadnettle",
-      "photo_count": 4
+      "photo_count": 9,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "marrubium-vulgare",
@@ -222,7 +225,8 @@
       "genus": "Marrubium",
       "scientific_name": "Marrubium vulgare",
       "common_name": "White horehound",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "monarda-citriodora",
@@ -230,7 +234,8 @@
       "genus": "Monarda",
       "scientific_name": "Monarda citriodora",
       "common_name": "Lemon beebalm",
-      "photo_count": 5
+      "photo_count": 10,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "monarda-fistulosa",
@@ -238,7 +243,7 @@
       "genus": "Monarda",
       "scientific_name": "Monarda fistulosa",
       "common_name": "Wild bergamot",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -247,7 +252,8 @@
       "genus": "Monarda",
       "scientific_name": "Monarda punctata",
       "common_name": "Spotted horsemint",
-      "photo_count": 3
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "perilla-frutescens",
@@ -255,7 +261,7 @@
       "genus": "Perilla",
       "scientific_name": "Perilla frutescens",
       "common_name": "Perilla",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -264,7 +270,7 @@
       "genus": "Physostegia",
       "scientific_name": "Physostegia angustifolia",
       "common_name": "Narrowleaf false dragonhead",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -273,7 +279,7 @@
       "genus": "Physostegia",
       "scientific_name": "Physostegia correllii",
       "common_name": "Correll's false dragonhead",
-      "photo_count": 2,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -282,7 +288,7 @@
       "genus": "Physostegia",
       "scientific_name": "Physostegia virginiana",
       "common_name": "Obedient plant / false dragonhead",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -291,7 +297,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia azurea",
       "common_name": "Azure Sage",
-      "photo_count": 3
+      "photo_count": 8,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-ballotiflora",
