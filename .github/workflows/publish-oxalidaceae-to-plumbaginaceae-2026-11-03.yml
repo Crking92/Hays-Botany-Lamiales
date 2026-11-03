@@ -1,0 +1,65 @@
+name: Publish verified Oxalidaceae–Plumbaginaceae source-photo batch
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photo-intake/remote-photo-manifests/oxalidaceae-to-plumbaginaceae-2026-11-03.json'
+      - 'scripts/publish_verified_oxalidaceae_plumbaginaceae_zip.py'
+      - '.github/workflows/publish-oxalidaceae-to-plumbaginaceae-2026-11-03.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: family-photo-first-zip-release
+  cancel-in-progress: false
+jobs:
+  publish-source-cleared-originals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Install original-photo validation dependency
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify exact iNaturalist per-photo license, current taxon, original source hash
+        run: |
+          python3 scripts/publish_verified_oxalidaceae_plumbaginaceae_zip.py \
+            --manifest photo-intake/remote-photo-manifests/oxalidaceae-to-plumbaginaceae-2026-11-03.json \
+            --source-root "$RUNNER_TEMP/cleared-photos" \
+            --report "$RUNNER_TEMP/oxali-source-audit.json"
+      - name: Install only source-cleared original photos and credits into species galleries
+        run: |
+          if test -f site/data/reviewed-external-photo-manifest.json; then
+            python3 scripts/publish_approved_lamiales_photos.py --source-root "$RUNNER_TEMP/cleared-photos" --site-root site --check
+            python3 scripts/publish_approved_lamiales_photos.py --source-root "$RUNNER_TEMP/cleared-photos" --site-root site
+          else
+            python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/cleared-photos" --site-root site --check
+            python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/cleared-photos" --site-root site
+            python3 scripts/verify_automatic_gallery.py --site-root site
+          fi
+          python3 scripts/build_collection_preview.py
+      - name: Commit actual original images and fully credited site photo metadata
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+          if test -f site/data/reviewed-external-photo-manifest.json; then git add site/data/reviewed-external-photo-manifest.json; fi
+          if git diff --cached --quiet; then
+            echo "No new source-cleared eligible images. Review source audit for rights/identity holds."
+          else
+            git diff --cached --check
+            git commit -m "Publish licensed original Oxalidaceae–Plumbaginaceae photos with credits"
+            git push origin HEAD:main
+          fi
+      - name: Preserve photo-specific source audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: oxalidaceae-plumbaginaceae-source-license-audit
+          path: "${{ runner.temp }}/oxali-source-audit.json"
+          retention-days: 30
+          if-no-files-found: warn
