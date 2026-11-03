@@ -7,6 +7,7 @@ on:
       - 'workflow/multi-family-historical-archive-trust-2026-11-03.json'
       - 'workflow/multi-family-historical-ported-cc-2026-11-03.json'
       - 'workflow/multi-family-historical-public-domain-2026-11-03.json'
+      - 'workflow/multi-family-historical-kew-synonyms-2026-11-03.json'
       - 'workflow/multi-family-species-card-reconciliation-2026-11-03.json'
       - 'workflow/multi-family-commons-direct-cc-recovery-2026-11-03.json'
   workflow_dispatch:
@@ -22,7 +23,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 9ac95d3e8de44d7456cbd32f2e54eb0aaccb260f
+          ref: b5a983c92dff78a099b88abc24c2151f954ba40a
           path: .shared-photo-audit
           persist-credentials: false
       - name: Verify each photo and photographer on actual Pages
