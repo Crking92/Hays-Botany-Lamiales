@@ -1,4 +1,4 @@
-name: Shared multi-family historical photo recovery — BATCH 1
+name: Shared multi-family historical photo recovery — BATCH 2
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 62c9f78f342431246615005af5440b80a194e7c1
+          ref: 2fbac171f35dbbeb61a88992e4a9474b08f2e5f6
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
