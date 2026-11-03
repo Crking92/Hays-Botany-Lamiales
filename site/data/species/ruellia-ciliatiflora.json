@@ -66,6 +66,25 @@
       "source_review_evidence": "GBIF occurrence 6253302529 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/611898471/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Rob Foster; dHash distance 0; archived source SHA 5a81cdaadde941fe896b04e6db8ba6bb777108b7; exact image source https://www.inaturalist.org/photos/611898471",
       "taxon_review_evidence": "Original species record Ruellia ciliatiflora linked to an original image and matching current gbif photo of source taxon Ruellia ciliatiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "b6903f11e38c805541c8fc9d972b92901002888f1203f28f0dce26e6ebd0f6dc"
+    },
+    {
+      "src": "media/ruellia-ciliatiflora/plantnet-archive-0f62cdf1799c2d54.jpg",
+      "creator": "Trap Hers / Pl@ntNet",
+      "source_page": "https://www.gbif.org/occurrence/5109825609",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 2.0 FR",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+      "source_blob_sha": "4bfc7454196be5595dbc9edc5695bde92678e65f",
+      "role": "Corolla face and lobes at close range; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Source-specific Hays Botany GBIF/Pl@ntNet live-image and archived-image verification",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner-standing release after exact photograph, provenance, licensing version, photographer, original archived hash, and current-image match verified; Pl@ntNet credit retained.",
+      "source_review_evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/040152a064e294423ea4eca4864327f387f4997e of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Trap Hers and media license field Trap Hers (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 4bfc7454196be5595dbc9edc5695bde92678e65f; same-image fingerprint distance 0",
+      "taxon_review_evidence": "Current Pl@ntNet contributor identification Ruellia ciliatiflora matches the original image's botanical scientific name Ruellia ciliatiflora; same pixel source verified, specialist diagnostic morphology deferred.",
+      "sha256": "0f62cdf1799c2d54f7de8ed81397038a034743817071cfc5d8ee9fd94392a7e9"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

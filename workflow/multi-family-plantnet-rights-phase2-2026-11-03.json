@@ -1,0 +1,28 @@
+{
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "phase": "Pl@ntNet exact image-source CC BY-SA 2.0 FR recheck",
+  "source_evidence": "https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf",
+  "checked_at": "2026-11-03T16:16:45.611363+00:00",
+  "candidate_pool": 1,
+  "selected": 1,
+  "published": 1,
+  "already_published": 0,
+  "held": 0,
+  "remaining_candidates": 0,
+  "previous_batches": [],
+  "records": [
+    {
+      "species_id": "ruellia-ciliatiflora",
+      "original_path": "content/taxa/Acanthaceae/Ruellia/ruellia-ciliatiflora/images/library-review027-42ac8d6f8cc19bd.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Trap Hers / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109825609",
+      "src": "media/ruellia-ciliatiflora/plantnet-archive-0f62cdf1799c2d54.jpg",
+      "sha256": "0f62cdf1799c2d54f7de8ed81397038a034743817071cfc5d8ee9fd94392a7e9",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/040152a064e294423ea4eca4864327f387f4997e of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Trap Hers and media license field Trap Hers (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 4bfc7454196be5595dbc9edc5695bde92678e65f; same-image fingerprint distance 0"
+    }
+  ],
+  "cumulative_published": 1,
+  "held_by_reason": {}
+}
