@@ -390,7 +390,8 @@
       "genus": "Scutellaria",
       "scientific_name": "Scutellaria wrightii",
       "common_name": "Wright's skullcap",
-      "photo_count": 0
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "stachys-agraria",
@@ -474,7 +475,8 @@
       "genus": "Fraxinus",
       "scientific_name": "Fraxinus albicans",
       "common_name": "Texas ash",
-      "photo_count": 1
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "fraxinus-berlandieriana",
@@ -793,7 +795,8 @@
       "genus": "Glandularia",
       "scientific_name": "Glandularia bipinnatifida",
       "common_name": "Prairie Verbena / Dakota Mock Vervain",
-      "photo_count": 1
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "glandularia-pumila",
@@ -852,7 +855,7 @@
       "genus": "Verbena",
       "scientific_name": "Verbena canescens",
       "common_name": "Gray vervain / Woolly vervain",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -861,7 +864,7 @@
       "genus": "Verbena",
       "scientific_name": "Verbena halei",
       "common_name": "Texas vervain",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

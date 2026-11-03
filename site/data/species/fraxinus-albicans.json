@@ -51,8 +51,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/fraxinus-albicans/archived-phase2-1183faf29de96f5c.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/524141076",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "1447cde2a066cc0d863f45eae55249af31563d0f",
+      "role": "Underside and arrangement of ash leaflets with venation on woody shoot (source taxon determination provisional; fine structure not independently validated)",
+      "modified": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Phase2 species-card evidence recovery and live exact-photo rights verifier",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Standing photo-first approval after independently confirming exact image license, original photographer, taxon, source bytes, and image similarity.",
+      "source_review_evidence": "Missing/incomplete historic CSV metadata recovered from original archived image-sources.csv + species.json. iNaturalist observation 291320492 photo 524141076 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; original pinned Git blob 1447cde2a066cc0d863f45eae55249af31563d0f.",
+      "taxon_review_evidence": "Original species card fraxinus-albicans plus live inat taxon Fraxinus albicans and exact-photo pixel comparison. No specialist anatomy approval claimed.",
+      "sha256": "1183faf29de96f5c0b94a061c95cd73bdd3a7712e6fe4875aad240f8fd6fc8bb"
+    },
+    {
+      "src": "media/fraxinus-albicans/archived-phase2-c88742b98905147a.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/524141032",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "fab78fa3d7209989c3757a7422c9dc9b19893696",
+      "role": "Compound ash leaf with large mature terminal leaflet and side leaflets held for scale (source taxon determination provisional; fine structure not independently validated)",
+      "modified": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Phase2 species-card evidence recovery and live exact-photo rights verifier",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Standing photo-first approval after independently confirming exact image license, original photographer, taxon, source bytes, and image similarity.",
+      "source_review_evidence": "Missing/incomplete historic CSV metadata recovered from original archived image-sources.csv + species.json. iNaturalist observation 291320492 photo 524141032 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; original pinned Git blob fab78fa3d7209989c3757a7422c9dc9b19893696.",
+      "taxon_review_evidence": "Original species card fraxinus-albicans plus live inat taxon Fraxinus albicans and exact-photo pixel comparison. No specialist anatomy approval claimed.",
+      "sha256": "c88742b98905147a133dcf8b657a7f1230e38096853f34d5500c52ad3e83c608"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "745b2e4776a1b8357cad919c23215c69f102e038db51f0f7b2dd648b8442cce0",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
