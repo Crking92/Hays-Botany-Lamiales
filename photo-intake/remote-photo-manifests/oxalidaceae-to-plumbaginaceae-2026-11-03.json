@@ -28,5 +28,9 @@
       "filename": "Plantaginaceae/Penstemon_baccharifolius/photos/photo_0_23abac781b38137c.jpg",
       "hold_reason": "Herbarium exact-media rights and source taxonomy require separate verification"
     }
-  ]
+  ],
+  "source_metadata_credits": {
+    "626775881": "Wendy A"
+  },
+  "credit_evidence_note": "Photographer Wendy A recorded for exact original photo 626775881 in the archived ZIP species metadata and credits; current iNaturalist CC0 media license and original checksum still verified."
 }
