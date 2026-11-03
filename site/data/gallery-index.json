@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 255,
-  "photo_species": 92,
+  "photo_count": 276,
+  "photo_species": 95,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
       "count": 1,
@@ -30,11 +30,11 @@
       "first_src": "media/justicia-pilosella/source-f2b075006fc4.jpg"
     },
     "ruellia-ciliatiflora": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/ruellia-ciliatiflora/archived-b6903f11e38c8055.jpg"
     },
     "ruellia-drummondiana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/ruellia-drummondiana/ruellia-drummondiana-provisional-face.jpg"
     },
     "ruellia-humilis": {
@@ -42,7 +42,7 @@
       "first_src": "media/ruellia-humilis/01-habit-flower.jpg"
     },
     "ruellia-metziae": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/ruellia-metziae/ruellia-metziae-provisional-face.jpg"
     },
     "bignonia-capreolata": {
@@ -114,7 +114,7 @@
       "first_src": "media/monarda-citriodora/01-reference.jpg"
     },
     "monarda-fistulosa": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/monarda-fistulosa/monarda-fistulosa-provisional-face.jpg"
     },
     "monarda-punctata": {
@@ -122,19 +122,19 @@
       "first_src": "media/monarda-punctata/01-reference.jpg"
     },
     "perilla-frutescens": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/perilla-frutescens/archived-faed2c45f229019b.jpg"
     },
     "physostegia-angustifolia": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/physostegia-angustifolia/source-f2b987826a8e.jpg"
     },
     "physostegia-correllii": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/physostegia-correllii/archived-ba3a282a8408904f.jpg"
     },
     "physostegia-virginiana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/physostegia-virginiana/source-bcdaecf11ecc.jpg"
     },
     "salvia-azurea": {
@@ -174,7 +174,7 @@
       "first_src": "media/salvia-roemeriana/01-field-reference.jpg"
     },
     "salvia-texana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/salvia-texana/archived-e9edcd06a7a3ef92.jpg"
     },
     "scutellaria-drummondii": {
@@ -182,7 +182,7 @@
       "first_src": "media/scutellaria-drummondii/archived-490697ea59b4e965.jpg"
     },
     "scutellaria-ovata": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/scutellaria-ovata/source-b8ea4a12409b.jpg"
     },
     "scutellaria-wrightii": {
@@ -250,8 +250,8 @@
       "first_src": "media/ligustrum-quihoui/source-57c739e3b767.jpg"
     },
     "ligustrum-sinense": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/ligustrum-sinense/archived-41155ff1abea9d21.jpg"
     },
     "menodora-heterophylla": {
       "count": 1,
@@ -306,7 +306,7 @@
       "first_src": "media/linaria-texana/inat-481283189.jpeg"
     },
     "maurandella-antirrhiniflora": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/maurandella-antirrhiniflora/inat-627344004.jpg"
     },
     "mecardonia-procumbens": {
@@ -322,11 +322,11 @@
       "first_src": "media/penstemon-cobaea/inat-628031047.jpg"
     },
     "penstemon-tenuis": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/penstemon-tenuis/source-a07846920276.jpg"
     },
     "penstemon-triflorus": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/penstemon-triflorus/source-0e8b564bdd95.jpg"
     },
     "plantago-helleri": {
@@ -406,11 +406,11 @@
       "first_src": "media/verbena-halei/inat-626785996.jpg"
     },
     "verbena-scabra": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/verbena-scabra/inat-316759475.jpg"
     },
     "verbena-xutha": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/verbena-xutha/source-96af42b55dfd.jpg"
     }
   }

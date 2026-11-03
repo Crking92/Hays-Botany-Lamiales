@@ -43,8 +43,28 @@
     "names": [],
     "differences": "S. drummondii is a small glandular-hairy annual with acute leaves and much smaller flowers; S. wrightii is a low bushy perennial with small rounded entire leaves. S. ovata is taller, rhizomatous, and conspicuously larger-leaved and larger-flowered."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/scutellaria-ovata/archived-8bccf3eb345439dd.jpg",
+      "creator": "Wendy A",
+      "source_page": "https://www.inaturalist.org/photos/644403290",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "1d45cc6d1d9777aa1c23afdae59df5a529046750",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "GBIF occurrence 6235828652 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/644403290/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator Wendy A; dHash distance 0; archived source SHA 1d45cc6d1d9777aa1c23afdae59df5a529046750; exact image source https://www.inaturalist.org/photos/644403290",
+      "taxon_review_evidence": "Original species record Scutellaria ovata linked to an original image and matching current gbif photo of source taxon Scutellaria ovata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "8bccf3eb345439dd3c29525aa1fbf50a36fc7f862f865fd7735ab7780da63cf8"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "31b67770fe63cb1e422ba96a99520d1a73d58f908850868773c96a0a9f57f5d9",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

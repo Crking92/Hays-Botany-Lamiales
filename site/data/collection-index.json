@@ -60,7 +60,8 @@
       "genus": "Ruellia",
       "scientific_name": "Ruellia ciliatiflora",
       "common_name": "common wild petunia / violet ruellia",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ruellia-drummondiana",
@@ -68,7 +69,8 @@
       "genus": "Ruellia",
       "scientific_name": "Ruellia drummondiana",
       "common_name": "Drummond's ruellia",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ruellia-humilis",
@@ -84,7 +86,8 @@
       "genus": "Ruellia",
       "scientific_name": "Ruellia metziae",
       "common_name": "Metz's ruellia / wild white petunia",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "bignonia-capreolata",
@@ -235,7 +238,8 @@
       "genus": "Monarda",
       "scientific_name": "Monarda fistulosa",
       "common_name": "Wild bergamot",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "monarda-punctata",
@@ -251,7 +255,7 @@
       "genus": "Perilla",
       "scientific_name": "Perilla frutescens",
       "common_name": "Perilla",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -260,7 +264,8 @@
       "genus": "Physostegia",
       "scientific_name": "Physostegia angustifolia",
       "common_name": "Narrowleaf false dragonhead",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "physostegia-correllii",
@@ -268,7 +273,8 @@
       "genus": "Physostegia",
       "scientific_name": "Physostegia correllii",
       "common_name": "Correll's false dragonhead",
-      "photo_count": 0
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "physostegia-virginiana",
@@ -276,7 +282,8 @@
       "genus": "Physostegia",
       "scientific_name": "Physostegia virginiana",
       "common_name": "Obedient plant / false dragonhead",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-azurea",
@@ -356,7 +363,7 @@
       "genus": "Salvia",
       "scientific_name": "Salvia texana",
       "common_name": "Texas Sage",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -374,7 +381,8 @@
       "genus": "Scutellaria",
       "scientific_name": "Scutellaria ovata",
       "common_name": "Heart-leaved skullcap",
-      "photo_count": 1
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "scutellaria-wrightii",
@@ -517,7 +525,8 @@
       "genus": "Ligustrum",
       "scientific_name": "Ligustrum sinense",
       "common_name": "Chinese privet",
-      "photo_count": 0
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "menodora-heterophylla",
@@ -639,7 +648,7 @@
       "genus": "Maurandella",
       "scientific_name": "Maurandella antirrhiniflora",
       "common_name": "Snapdragon vine",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -675,7 +684,7 @@
       "genus": "Penstemon",
       "scientific_name": "Penstemon tenuis",
       "common_name": "Sharpsepal beardtongue",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -684,7 +693,7 @@
       "genus": "Penstemon",
       "scientific_name": "Penstemon triflorus",
       "common_name": "Hill Country penstemon",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -858,7 +867,7 @@
       "genus": "Verbena",
       "scientific_name": "Verbena scabra",
       "common_name": "Sandpaper vervain",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -867,7 +876,8 @@
       "genus": "Verbena",
       "scientific_name": "Verbena xutha",
       "common_name": "Gulf vervain",
-      "photo_count": 1
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     }
   ]
 }

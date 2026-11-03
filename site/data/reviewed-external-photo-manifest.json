@@ -455,6 +455,25 @@
         "rights_note": "",
         "source_blob_sha": "ba9dcdc9ee5837e7726076554f29cafc2b3650e4",
         "original_source_record": "content/taxa/Acanthaceae/Ruellia/ruellia-drummondiana/image-sources.csv"
+      },
+      {
+        "src": "media/ruellia-drummondiana/archived-c229cdc5e5758d23.jpg",
+        "creator": "lanechaffin",
+        "source_page": "https://www.inaturalist.org/photos/648468131",
+        "source_page_is_exact": true,
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_blob_sha": "f8956ac8f2c7f2a82609256a494e2cac60a0aab9",
+        "role": "Additional distinct image candidate; target structures not yet visually verified",
+        "modified": "Resized JPEG and EXIF removed",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6253287226 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/648468131/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator lanechaffin; dHash distance 0; archived source SHA f8956ac8f2c7f2a82609256a494e2cac60a0aab9; exact image source https://www.inaturalist.org/photos/648468131",
+        "taxon_review_evidence": "Original species record Ruellia drummondiana linked to an original image and matching current gbif photo of source taxon Ruellia drummondiana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "c229cdc5e5758d237d4a73ec34dbce6ba0bb046488546c5d79b4d0e4afdf85cd"
       }
     ],
     "ruellia-metziae": [
@@ -472,6 +491,25 @@
         "rights_note": "",
         "source_blob_sha": "2911a36279daca1a77f652bb0a474552213fe25c",
         "original_source_record": "content/taxa/Acanthaceae/Ruellia/ruellia-metziae/image-sources.csv"
+      },
+      {
+        "src": "media/ruellia-metziae/archived-8c4e184cd43d53e1.jpg",
+        "creator": "Michelle W. （鍾偉瑋）",
+        "source_page": "https://www.inaturalist.org/photos/632955137",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "c370856c08f11a7ea3cf98982ff96aba8c906b5f",
+        "role": "Additional distinct image candidate; target structures not yet visually verified",
+        "modified": "Resized JPEG and EXIF removed",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6234296690 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/632955137/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Michelle W. （鍾偉瑋）; dHash distance 0; archived source SHA c370856c08f11a7ea3cf98982ff96aba8c906b5f; exact image source https://www.inaturalist.org/photos/632955137",
+        "taxon_review_evidence": "Original species record Ruellia metziae linked to an original image and matching current gbif photo of source taxon Ruellia metziae. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "8c4e184cd43d53e1be59efcd7828c8149e341c4ec762d9218ddd0bf04d89a6f8"
       }
     ],
     "monarda-fistulosa": [
@@ -489,6 +527,25 @@
         "rights_note": "",
         "source_blob_sha": "cb98290041fb6020af045a0a8d60f5979316e8f6",
         "original_source_record": "content/taxa/Lamiaceae/Monarda/monarda-fistulosa/image-sources.csv"
+      },
+      {
+        "src": "media/monarda-fistulosa/archived-0176f7d82ee44007.jpg",
+        "creator": "daksu",
+        "source_page": "https://www.inaturalist.org/photos/606777985",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "54272610fe6fe012cc54412cdb56e873b7ff5214",
+        "role": "Additional distinct image candidate; target structures not yet visually verified",
+        "modified": "Resized JPEG and EXIF removed",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6130049910 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/606777985/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator daksu; dHash distance 0; archived source SHA 54272610fe6fe012cc54412cdb56e873b7ff5214; exact image source https://www.inaturalist.org/photos/606777985",
+        "taxon_review_evidence": "Original species record Monarda fistulosa linked to an original image and matching current gbif photo of source taxon Monarda fistulosa. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "0176f7d82ee44007039bcb259cc76c1d3a07426e39239823f8765e61c491bded"
       }
     ],
     "salvia-roemeriana": [
@@ -1024,6 +1081,25 @@
         "modified": "Exact original source bytes, not altered",
         "rights_note": "Existing historically sourced public-license photograph",
         "original_source_record": "content/taxa/Lamiaceae/Physostegia/physostegia-angustifolia/species.json"
+      },
+      {
+        "src": "media/physostegia-angustifolia/archived-016706e57e640c8d.jpg",
+        "creator": "Wendy A",
+        "source_page": "https://www.inaturalist.org/photos/679338438",
+        "source_page_is_exact": true,
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_blob_sha": "65625f1f7e79c8713268461b23bb0463e9694be7",
+        "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6400895615 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/679338438/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator Wendy A; dHash distance 0; archived source SHA 65625f1f7e79c8713268461b23bb0463e9694be7; exact image source https://www.inaturalist.org/photos/679338438",
+        "taxon_review_evidence": "Original species record Physostegia angustifolia linked to an original image and matching current gbif photo of source taxon Physostegia angustifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "016706e57e640c8deab3712cd295635fa4ea65f5dc99a923a74b89846bc7654e"
       }
     ],
     "physostegia-virginiana": [
@@ -1041,6 +1117,25 @@
         "modified": "Exact original source bytes, not altered",
         "rights_note": "Existing historically sourced public-license photograph",
         "original_source_record": "content/taxa/Lamiaceae/Physostegia/physostegia-virginiana/species.json"
+      },
+      {
+        "src": "media/physostegia-virginiana/archived-12cb59711d38864e.jpg",
+        "creator": "andrew2285",
+        "source_page": "https://www.inaturalist.org/photos/682805727",
+        "source_page_is_exact": true,
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_blob_sha": "b5d74bd134b37ed0970e0cfe6561bb8f17b602b4",
+        "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6518397286 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/682805727/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator andrew2285; dHash distance 0; archived source SHA b5d74bd134b37ed0970e0cfe6561bb8f17b602b4; exact image source https://www.inaturalist.org/photos/682805727",
+        "taxon_review_evidence": "Original species record Physostegia virginiana linked to an original image and matching current gbif photo of source taxon Physostegia virginiana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "12cb59711d38864e414e77878691dc66ca3ea1101242a8e8290587145d816318"
       }
     ],
     "salvia-engelmannii": [
@@ -1090,6 +1185,25 @@
         "modified": "Exact original source bytes, not altered",
         "rights_note": "Existing historically sourced public-license photograph",
         "original_source_record": "content/taxa/Lamiaceae/Scutellaria/scutellaria-ovata/species.json"
+      },
+      {
+        "src": "media/scutellaria-ovata/archived-8bccf3eb345439dd.jpg",
+        "creator": "Wendy A",
+        "source_page": "https://www.inaturalist.org/photos/644403290",
+        "source_page_is_exact": true,
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_blob_sha": "1d45cc6d1d9777aa1c23afdae59df5a529046750",
+        "role": "Additional distinct image candidate; target structures not yet visually verified",
+        "modified": "Resized JPEG and EXIF removed",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6235828652 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/644403290/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator Wendy A; dHash distance 0; archived source SHA 1d45cc6d1d9777aa1c23afdae59df5a529046750; exact image source https://www.inaturalist.org/photos/644403290",
+        "taxon_review_evidence": "Original species record Scutellaria ovata linked to an original image and matching current gbif photo of source taxon Scutellaria ovata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "8bccf3eb345439dd3c29525aa1fbf50a36fc7f862f865fd7735ab7780da63cf8"
       }
     ],
     "teucrium-canadense": [
@@ -1646,6 +1760,25 @@
         "source_review_evidence": "Live iNaturalist observation 355765548, photo 648786801, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad6b7c7ac49b500d6c175efc1a718b2589121d16b9af6ff66d673d93ee312903. Credit evidence: live iNaturalist API.",
         "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon tenuis maps to indexed species penstemon-tenuis; specialist morphology and BONAP range deferred.",
         "sha256": "ad6b7c7ac49b500d6c175efc1a718b2589121d16b9af6ff66d673d93ee312903"
+      },
+      {
+        "src": "media/penstemon-tenuis/archived-b99ada8876980cb6.jpg",
+        "creator": "Nicholas🦍🦧🐒",
+        "source_page": "https://www.inaturalist.org/photos/622598685",
+        "source_page_is_exact": true,
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_blob_sha": "1a98eaddf619d3534b4fedd6b218c9273647b822",
+        "role": "Additional distinct image candidate; target structures not yet visually verified",
+        "modified": "Resized JPEG and EXIF removed",
+        "noncommercial_only": true,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6178471676 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/622598685/original.jpg; image-level license https://creativecommons.org/licenses/by-nc/4.0/; creator Nicholas🦍🦧🐒; dHash distance 0; archived source SHA 1a98eaddf619d3534b4fedd6b218c9273647b822; exact image source https://www.inaturalist.org/photos/622598685",
+        "taxon_review_evidence": "Original species record Penstemon tenuis linked to an original image and matching current gbif photo of source taxon Penstemon tenuis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "b99ada8876980cb69df8abb8c52ec8042c57c836f21806b677da92b3203d45b1"
       }
     ],
     "penstemon-triflorus": [
@@ -1758,6 +1891,25 @@
         "source_review_evidence": "Live iNaturalist observation 271583550, photo 488528627, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d861165012e6514f474c82ebfd43ddfdd079efd77e52ee1a308c9b584bb4db6a. Credit evidence: live iNaturalist API.",
         "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon triflorus maps to indexed species penstemon-triflorus; specialist morphology and BONAP range deferred.",
         "sha256": "d861165012e6514f474c82ebfd43ddfdd079efd77e52ee1a308c9b584bb4db6a"
+      },
+      {
+        "src": "media/penstemon-triflorus/archived-0ad67507c610b938.jpg",
+        "creator": "Wilton Shaw Jr",
+        "source_page": "https://www.inaturalist.org/photos/630113707",
+        "source_page_is_exact": true,
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_blob_sha": "0fd63073b33917301e2b69152d714fb456fa9ef2",
+        "role": "Additional distinct image candidate; target structures not yet visually verified",
+        "modified": "Resized JPEG and EXIF removed",
+        "noncommercial_only": true,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6184753638 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/630113707/original.jpg; image-level license https://creativecommons.org/licenses/by-nc/4.0/; creator Wilton Shaw Jr; dHash distance 0; archived source SHA 0fd63073b33917301e2b69152d714fb456fa9ef2; exact image source https://www.inaturalist.org/photos/630113707",
+        "taxon_review_evidence": "Original species record Penstemon triflorus linked to an original image and matching current gbif photo of source taxon Penstemon triflorus. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "0ad67507c610b938a8ffce11dace533393672673a4875a158a87c591a234e90e"
       }
     ],
     "veronica-persica": [
@@ -2286,6 +2438,44 @@
         "modified": "Exact original source bytes, not altered",
         "rights_note": "Existing historically sourced public-license photograph",
         "original_source_record": "content/taxa/Verbenaceae/Verbena/verbena-xutha/species.json"
+      },
+      {
+        "src": "media/verbena-xutha/archived-346b40a27f119472.jpg",
+        "creator": "Michelle Lopez",
+        "source_page": "https://www.inaturalist.org/photos/643905331",
+        "source_page_is_exact": true,
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_blob_sha": "1058e9e052ef22c44aa5bbce8b1df9f7a7d427fe",
+        "role": "Opposite coarsely toothed leaf close-up; source scientific-name determination provisional, anatomical expertise pending",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6251851319 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/643905331/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator Michelle Lopez; dHash distance 0; archived source SHA 1058e9e052ef22c44aa5bbce8b1df9f7a7d427fe; exact image source https://www.inaturalist.org/photos/643905331",
+        "taxon_review_evidence": "Original species record Verbena xutha linked to an original image and matching current gbif photo of source taxon Verbena xutha. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "346b40a27f11947244891ded126cc79a6629ba5b7962ab039d77de77382cccd4"
+      },
+      {
+        "src": "media/verbena-xutha/archived-b25a361588ca7e9e.jpg",
+        "creator": "Sam Kieschnick",
+        "source_page": "https://www.inaturalist.org/photos/617871531",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "84697f3c22dba9e5776e64151bb650fe67251f71",
+        "role": "Terminal slender flower spike and branching plant scale; source scientific-name determination provisional, anatomical expertise pending",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6163309864 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/617871531/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Sam Kieschnick; dHash distance 0; archived source SHA 84697f3c22dba9e5776e64151bb650fe67251f71; exact image source https://www.inaturalist.org/photos/617871531",
+        "taxon_review_evidence": "Original species record Verbena xutha linked to an original image and matching current gbif photo of source taxon Verbena xutha. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "b25a361588ca7e9e6e2db6485fd87eff7f90f6d128a371a4a455bea6df690dc0"
       }
     ],
     "glandularia-pumila": [
@@ -2771,6 +2961,44 @@
         "source_review_evidence": "Exact GBIF media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp62059319254358404838.att.jpg with image-level license https://creativecommons.org/licenses/by/4.0/ and creator  The University of Texas at Austin ; downloaded source SHA256 63957e6d242fb554b6a13199870945d0a23110ca32c3153cfc7f6bd2c34fb480 matches archived ZIP record on 2026-11-02T21:01:46.015446+00:00",
         "taxon_review_evidence": "Source specimen accepted as Verbena scabra in GBIF occurrence 2807654766; original archive contact sheet visually checked for plausible corresponding collected material. Specialist plant determination not claimed.",
         "sha256": "63957e6d242fb554b6a13199870945d0a23110ca32c3153cfc7f6bd2c34fb480"
+      },
+      {
+        "src": "media/verbena-scabra/archived-93e429e2f7c8d095.jpg",
+        "creator": "Sam Kieschnick",
+        "source_page": "https://www.inaturalist.org/photos/4985259",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "e3bad1334d8396ee9e68793ca44128727007923c",
+        "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 1323003871 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/4985259/original.jpeg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Sam Kieschnick; dHash distance 0; archived source SHA e3bad1334d8396ee9e68793ca44128727007923c; exact image source https://www.inaturalist.org/photos/4985259",
+        "taxon_review_evidence": "Original species record Verbena scabra linked to an original image and matching current gbif photo of source taxon Verbena scabra. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "93e429e2f7c8d0954e0ed11c255923b198979ca510cb40e0a011d28aba035f1c"
+      },
+      {
+        "src": "media/verbena-scabra/archived-e93d51a19d62416f.jpg",
+        "creator": "Sam Kieschnick",
+        "source_page": "https://www.inaturalist.org/photos/321752127",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "f0611dccf25059abc60074c40eac587cd4458ed2",
+        "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 4424160882 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/321752127/original.jpeg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Sam Kieschnick; dHash distance 0; archived source SHA f0611dccf25059abc60074c40eac587cd4458ed2; exact image source https://www.inaturalist.org/photos/321752127",
+        "taxon_review_evidence": "Original species record Verbena scabra linked to an original image and matching current gbif photo of source taxon Verbena scabra. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "e93d51a19d62416fa88490a7a6cc0a6096ea214b1f72b62c7de8eb0b6e37cb00"
       }
     ],
     "buddleja-racemosa": [
@@ -3275,6 +3503,44 @@
         "source_review_evidence": "Live iNaturalist observation 346718280, photo 632059036, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 94f892ff5a9e49c399c789d1b9207ae25c43e1c81791ce4785d246cc559c2868. Credit evidence: live iNaturalist API.",
         "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Maurandella antirrhiniflora maps to indexed species maurandella-antirrhiniflora; specialist morphology and BONAP range deferred.",
         "sha256": "94f892ff5a9e49c399c789d1b9207ae25c43e1c81791ce4785d246cc559c2868"
+      },
+      {
+        "src": "media/maurandella-antirrhiniflora/archived-38741f98bb027c54.jpg",
+        "creator": "Chris Hughes",
+        "source_page": "https://www.inaturalist.org/photos/604916200",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "3598194c46412431f86a2ad3bdd37f8708b59624",
+        "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 5938313687 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/604916200/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Chris Hughes; dHash distance 0; archived source SHA 3598194c46412431f86a2ad3bdd37f8708b59624; exact image source https://www.inaturalist.org/photos/604916200",
+        "taxon_review_evidence": "Original species record Maurandella antirrhiniflora linked to an original image and matching current gbif photo of source taxon Maurandella antirrhiniflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "38741f98bb027c544b3c567e2a672c4661668d19661a6bf2f68da02798bdf511"
+      },
+      {
+        "src": "media/maurandella-antirrhiniflora/archived-af540ab0d3dd7169.jpg",
+        "creator": "sagebrush134",
+        "source_page": "https://www.inaturalist.org/photos/604817907",
+        "source_page_is_exact": true,
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_blob_sha": "552851b855cf8d86365388d785635698877e4aa8",
+        "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 5938134988 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/604817907/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator sagebrush134; dHash distance 0; archived source SHA 552851b855cf8d86365388d785635698877e4aa8; exact image source https://www.inaturalist.org/photos/604817907",
+        "taxon_review_evidence": "Original species record Maurandella antirrhiniflora linked to an original image and matching current gbif photo of source taxon Maurandella antirrhiniflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "af540ab0d3dd71698a76c1fc910ac458086f5d65d74b8fd4f20a0215f18840fe"
       }
     ],
     "mecardonia-procumbens": [
@@ -4474,6 +4740,44 @@
         "source_review_evidence": "iNaturalist observation 178192764 photo 310026999 individual CC code cc-by-nc; photographer (c) Cat, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA b817502bec76947e92f0157c0c93f85fc67e8d1d; exact image source https://www.inaturalist.org/photos/310026999",
         "taxon_review_evidence": "Original species record Perilla frutescens linked to an original image and matching current inat photo of source taxon Perilla frutescens. Basic source-backed field recognition only; no diagnostic arrow certification.",
         "sha256": "faed2c45f229019b4819fe0fcff77201683d86a609d59a5920fbd9f2476f78f9"
+      },
+      {
+        "src": "media/perilla-frutescens/archived-093b5292e0e72854.jpg",
+        "creator": "Andy Jordan",
+        "source_page": "https://www.inaturalist.org/photos/650061976",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "db2ac0f8ea3c338259ad33d12c55e9714a50cb81",
+        "role": "Look closer · opposite toothed leaves and textured veins; source scientific-name determination provisional, anatomical expertise pending",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6252512392 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/650061976/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Andy Jordan; dHash distance 0; archived source SHA db2ac0f8ea3c338259ad33d12c55e9714a50cb81; exact image source https://www.inaturalist.org/photos/650061976",
+        "taxon_review_evidence": "Original species record Perilla frutescens linked to an original image and matching current gbif photo of source taxon Perilla frutescens. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "093b5292e0e72854915c8065d0868bc8e7b112623faed6066bd99afbe19c865c"
+      },
+      {
+        "src": "media/perilla-frutescens/archived-1361b640fe1b986e.jpg",
+        "creator": "sonoresmore",
+        "source_page": "https://www.inaturalist.org/photos/684491206",
+        "source_page_is_exact": true,
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_blob_sha": "5f7d57f830dea2943651d8bcf685a33c5becf0b4",
+        "role": "Recognize · dense patch of broad opposite leaves; source scientific-name determination provisional, anatomical expertise pending",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6519573416 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/684491206/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator sonoresmore; dHash distance 0; archived source SHA 5f7d57f830dea2943651d8bcf685a33c5becf0b4; exact image source https://www.inaturalist.org/photos/684491206",
+        "taxon_review_evidence": "Original species record Perilla frutescens linked to an original image and matching current gbif photo of source taxon Perilla frutescens. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "1361b640fe1b986e88ec8fd09ad34c3a42ee8454c366dbcd137c8d003835f7cd"
       }
     ],
     "salvia-texana": [
@@ -4495,6 +4799,25 @@
         "source_review_evidence": "iNaturalist observation 208982603 photo 369798579 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA e20e037e87436ff8c97160c69b45f950d1877b89; exact image source https://www.inaturalist.org/photos/369798579",
         "taxon_review_evidence": "Original species record Salvia texana linked to an original image and matching current inat photo of source taxon Salvia texana. Basic source-backed field recognition only; no diagnostic arrow certification.",
         "sha256": "e9edcd06a7a3ef92c8bd4daab7c86f8a5259e108c92bde463f79e3822e544080"
+      },
+      {
+        "src": "media/salvia-texana/archived-4fba636b3b446cb0.jpg",
+        "creator": "Russell Pfau",
+        "source_page": "https://www.inaturalist.org/photos/627129092",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "9665406c525901afd519700a3861ec2266994797",
+        "role": "Purple bilabiate corollas, hairy calyces, upper bracts and flowering axis; gland pits not resolved",
+        "modified": "EXIF stripped; resized JPEG copy; original private archive",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6184979809 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/627129092/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Russell Pfau; dHash distance 0; archived source SHA 9665406c525901afd519700a3861ec2266994797; exact image source https://www.inaturalist.org/photos/627129092",
+        "taxon_review_evidence": "Original species record Salvia texana linked to an original image and matching current gbif photo of source taxon Salvia texana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "4fba636b3b446cb09177f505db45afef9b36bb5ef440101214da920a9ae2ae86"
       }
     ],
     "scutellaria-drummondii": [
@@ -4621,6 +4944,88 @@
         "source_review_evidence": "iNaturalist observation 352906538 photo 643990088 individual CC code cc-by-nc; photographer (c) dblack16, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 3b9193db4c2f4c2af567fbea117be93e39abf043; exact image source https://www.inaturalist.org/photos/643990088",
         "taxon_review_evidence": "Original species record Warnockia scutellarioides linked to an original image and matching current inat photo of source taxon Warnockia scutellarioides. Basic source-backed field recognition only; no diagnostic arrow certification.",
         "sha256": "b5000b6d11bc4feee28094ff5aac47d789ac671a515331c47df7710d2687c2cd"
+      }
+    ],
+    "ligustrum-sinense": [
+      {
+        "src": "media/ligustrum-sinense/archived-41155ff1abea9d21.jpg",
+        "creator": "José Garrido",
+        "source_page": "https://www.inaturalist.org/photos/605158906",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "0b227c2310d7a6b37a0dec09892d57f8c55b4f32",
+        "role": "Additional distinct image candidate; target structures not yet visually verified",
+        "modified": "Resized JPEG and EXIF removed",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 5938027934 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/605158906/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator José Garrido; dHash distance 0; archived source SHA 0b227c2310d7a6b37a0dec09892d57f8c55b4f32; exact image source https://www.inaturalist.org/photos/605158906",
+        "taxon_review_evidence": "Original species record Ligustrum sinense linked to an original image and matching current gbif photo of source taxon Ligustrum sinense. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "41155ff1abea9d21454e2dae17c13bc0e8f35aef767c8631fb2aec7dd76b8f22"
+      }
+    ],
+    "physostegia-correllii": [
+      {
+        "src": "media/physostegia-correllii/archived-ba3a282a8408904f.jpg",
+        "creator": "Reid Hardin",
+        "source_page": "https://www.inaturalist.org/photos/405214384",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "ab31efabcce2634263ea90cb260da856bc1b75c9",
+        "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 4925954387 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/405214384/original.jpeg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Reid Hardin; dHash distance 0; archived source SHA ab31efabcce2634263ea90cb260da856bc1b75c9; exact image source https://www.inaturalist.org/photos/405214384",
+        "taxon_review_evidence": "Original species record Physostegia correllii linked to an original image and matching current gbif photo of source taxon Physostegia correllii. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "ba3a282a8408904f027d8b67f41d3bdfedd1203373b9ed299321bd28d687a076"
+      },
+      {
+        "src": "media/physostegia-correllii/archived-e5d98f9506f6df59.jpg",
+        "creator": "Reid Hardin",
+        "source_page": "https://www.inaturalist.org/photos/405214068",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "cc0e98f44ee778f83bd67a5fc1b045f780c2879d",
+        "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 4925954387 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/405214068/original.jpeg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Reid Hardin; dHash distance 0; archived source SHA cc0e98f44ee778f83bd67a5fc1b045f780c2879d; exact image source https://www.inaturalist.org/photos/405214068",
+        "taxon_review_evidence": "Original species record Physostegia correllii linked to an original image and matching current gbif photo of source taxon Physostegia correllii. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "e5d98f9506f6df59a1a09ec4718cb47f492530379836fe36a9cbe9a1b40e459e"
+      }
+    ],
+    "ruellia-ciliatiflora": [
+      {
+        "src": "media/ruellia-ciliatiflora/archived-b6903f11e38c8055.jpg",
+        "creator": "Rob Foster",
+        "source_page": "https://www.inaturalist.org/photos/611898471",
+        "source_page_is_exact": true,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_blob_sha": "5a81cdaadde941fe896b04e6db8ba6bb777108b7",
+        "role": "Purple tubular corollas with low branching leafy habit; source scientific-name determination provisional, anatomical expertise pending",
+        "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "GBIF occurrence 6253302529 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/611898471/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Rob Foster; dHash distance 0; archived source SHA 5a81cdaadde941fe896b04e6db8ba6bb777108b7; exact image source https://www.inaturalist.org/photos/611898471",
+        "taxon_review_evidence": "Original species record Ruellia ciliatiflora linked to an original image and matching current gbif photo of source taxon Ruellia ciliatiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "b6903f11e38c805541c8fc9d972b92901002888f1203f28f0dce26e6ebd0f6dc"
       }
     ]
   }

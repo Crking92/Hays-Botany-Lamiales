@@ -142,6 +142,25 @@
       "source_review_evidence": "Live iNaturalist observation 271583550, photo 488528627, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d861165012e6514f474c82ebfd43ddfdd079efd77e52ee1a308c9b584bb4db6a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon triflorus maps to indexed species penstemon-triflorus; specialist morphology and BONAP range deferred.",
       "sha256": "d861165012e6514f474c82ebfd43ddfdd079efd77e52ee1a308c9b584bb4db6a"
+    },
+    {
+      "src": "media/penstemon-triflorus/archived-0ad67507c610b938.jpg",
+      "creator": "Wilton Shaw Jr",
+      "source_page": "https://www.inaturalist.org/photos/630113707",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "0fd63073b33917301e2b69152d714fb456fa9ef2",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "GBIF occurrence 6184753638 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/630113707/original.jpg; image-level license https://creativecommons.org/licenses/by-nc/4.0/; creator Wilton Shaw Jr; dHash distance 0; archived source SHA 0fd63073b33917301e2b69152d714fb456fa9ef2; exact image source https://www.inaturalist.org/photos/630113707",
+      "taxon_review_evidence": "Original species record Penstemon triflorus linked to an original image and matching current gbif photo of source taxon Penstemon triflorus. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "0ad67507c610b938a8ffce11dace533393672673a4875a158a87c591a234e90e"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
