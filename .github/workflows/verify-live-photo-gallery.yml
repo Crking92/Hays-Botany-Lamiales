@@ -1,4 +1,5 @@
 name: Verify public family photo gallery image delivery
+# Verify 2026-11-03 Oxalidaceae-to-Plumbaginaceae release (original images and licensed credits).
 on:
   push:
     branches: [main]
