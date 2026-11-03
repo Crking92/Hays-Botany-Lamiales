@@ -442,7 +442,8 @@
       "genus": "Utricularia",
       "scientific_name": "Utricularia gibba",
       "common_name": "Humped bladderwort",
-      "photo_count": 1
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "proboscidea-louisianica",

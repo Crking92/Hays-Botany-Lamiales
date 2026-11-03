@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 380,
+  "photo_count": 384,
   "photo_species": 98,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -210,7 +210,7 @@
       "first_src": "media/warnockia-scutellarioides/archived-b5000b6d11bc4fee.jpg"
     },
     "utricularia-gibba": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/utricularia-gibba/source-32cda936778b.jpg"
     },
     "proboscidea-louisianica": {
