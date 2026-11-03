@@ -25,7 +25,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 1d716c60972d205b04223544cc913172cb6f2cfb
+          ref: 2a49125eec2771a13b4434324775db98fc119206
           path: .shared-photo-audit
           persist-credentials: false
       - name: Verify each photo and photographer on actual Pages
