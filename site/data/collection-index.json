@@ -306,7 +306,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia ballotiflora",
       "common_name": "Shrubby Blue Sage",
-      "photo_count": 1
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-coccinea",
@@ -314,7 +315,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia coccinea",
       "common_name": "Scarlet Sage",
-      "photo_count": 5
+      "photo_count": 10,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-engelmannii",
@@ -322,7 +324,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia engelmannii",
       "common_name": "Engelmann's Sage",
-      "photo_count": 2
+      "photo_count": 7,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-farinacea",
@@ -330,7 +333,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia farinacea",
       "common_name": "Mealy Blue Sage",
-      "photo_count": 4
+      "photo_count": 9,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-greggii",
@@ -338,7 +342,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia greggii",
       "common_name": "Autumn Sage",
-      "photo_count": 3
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-lyrata",
@@ -346,7 +351,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia lyrata",
       "common_name": "Lyreleaf Sage",
-      "photo_count": 4
+      "photo_count": 9,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-pentstemonoides",
@@ -354,7 +360,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia pentstemonoides",
       "common_name": "Big Red Sage",
-      "photo_count": 0
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-roemeriana",
@@ -362,7 +369,8 @@
       "genus": "Salvia",
       "scientific_name": "Salvia roemeriana",
       "common_name": "Cedar Sage",
-      "photo_count": 3
+      "photo_count": 8,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salvia-texana",
@@ -370,7 +378,7 @@
       "genus": "Salvia",
       "scientific_name": "Salvia texana",
       "common_name": "Texas Sage",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -379,7 +387,7 @@
       "genus": "Scutellaria",
       "scientific_name": "Scutellaria drummondii",
       "common_name": "Drummond's skullcap",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -388,7 +396,7 @@
       "genus": "Scutellaria",
       "scientific_name": "Scutellaria ovata",
       "common_name": "Heart-leaved skullcap",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -397,7 +405,7 @@
       "genus": "Scutellaria",
       "scientific_name": "Scutellaria wrightii",
       "common_name": "Wright's skullcap",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -415,7 +423,8 @@
       "genus": "Teucrium",
       "scientific_name": "Teucrium canadense",
       "common_name": "American germander",
-      "photo_count": 1
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "teucrium-cubense",
@@ -423,7 +432,8 @@
       "genus": "Teucrium",
       "scientific_name": "Teucrium cubense",
       "common_name": "Small coastal germander",
-      "photo_count": 1
+      "photo_count": 6,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "vitex-agnus-castus",
@@ -431,7 +441,7 @@
       "genus": "Vitex",
       "scientific_name": "Vitex agnus-castus",
       "common_name": "Chaste tree",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -440,7 +450,7 @@
       "genus": "Warnockia",
       "scientific_name": "Warnockia scutellarioides",
       "common_name": "Warnockia scutellarioides",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

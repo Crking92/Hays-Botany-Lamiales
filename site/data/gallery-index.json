@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 453,
-  "photo_species": 100,
+  "photo_count": 531,
+  "photo_species": 101,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
       "count": 1,
@@ -142,51 +142,51 @@
       "first_src": "media/salvia-azurea/01-habit-flowering-axis.jpg"
     },
     "salvia-ballotiflora": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/salvia-ballotiflora/01-flower-closeup.JPG"
     },
     "salvia-coccinea": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/salvia-coccinea/01-inflorescence-flowers.jpg"
     },
     "salvia-engelmannii": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/salvia-engelmannii/source-a8197f195713.jpg"
     },
     "salvia-farinacea": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/salvia-farinacea/01-flowers-leaves.jpg"
     },
     "salvia-greggii": {
-      "count": 3,
+      "count": 6,
       "first_src": "media/salvia-greggii/01-flower-habit.jpg"
     },
     "salvia-lyrata": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/salvia-lyrata/01-rosette-flowering-habit.jpg"
     },
     "salvia-pentstemonoides": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/salvia-pentstemonoides/inat-17405941.jpg"
     },
     "salvia-roemeriana": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/salvia-roemeriana/01-field-reference.jpg"
     },
     "salvia-texana": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/salvia-texana/archived-e9edcd06a7a3ef92.jpg"
     },
     "scutellaria-drummondii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/scutellaria-drummondii/archived-490697ea59b4e965.jpg"
     },
     "scutellaria-ovata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/scutellaria-ovata/source-b8ea4a12409b.jpg"
     },
     "scutellaria-wrightii": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/scutellaria-wrightii/archived-phase2-739f6e2593ea81eb.jpg"
     },
     "stachys-agraria": {
@@ -194,19 +194,19 @@
       "first_src": "media/stachys-agraria/archived-1d44bcebbf816890.jpg"
     },
     "teucrium-canadense": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/teucrium-canadense/source-f44ed5852b01.jpg"
     },
     "teucrium-cubense": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/teucrium-cubense/source-9cd4c7ff50e6.jpg"
     },
     "vitex-agnus-castus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/vitex-agnus-castus/archived-ebb01dbe91459397.jpg"
     },
     "warnockia-scutellarioides": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/warnockia-scutellarioides/archived-b5000b6d11bc4fee.jpg"
     },
     "utricularia-gibba": {
