@@ -105,9 +105,6 @@ def verify_inat(row, expected_name, archived):
     if not (oid.isdecimal() and pid.isdecimal()):
         raise ValueError("missing exact iNaturalist observation or photo identifier")
     direct=str(row.get("direct_image_url") or row.get("direct_url") or "")
-    match=re.search(r"^https://inaturalist-open-data\\.s3\\.amazonaws\\.com/photos/(\\d+)/(?:original|large)\\.(?:jpe?g|png|webp)$",direct,re.I)
-    if not match or match.group(1)!=pid:
-        raise ValueError("individual iNaturalist image URL not evidenced")
     data=fetch_json("https://api.inaturalist.org/v1/observations/"+oid)
     items=data.get("results") or []
     if len(items)!=1 or str(items[0].get("id"))!=oid:
@@ -119,6 +116,15 @@ def verify_inat(row, expected_name, archived):
     photo=next((x for x in (obs.get("photos") or []) if str(x.get("id"))==pid),None)
     if not photo:
         raise ValueError("individual photo not associated with source observation")
+    if not direct:
+        # Original photo ID independently appears inside the actual current
+        # observation; use its image URL rather than guessing an archive URL.
+        direct=str(photo.get("url") or "").replace("/square.","/large.").replace("/small.","/large.").replace("/thumb.","/large.")
+    urlparts=urllib.parse.urlparse(direct)
+    if urlparts.scheme!="https" or urlparts.netloc not in ("inaturalist-open-data.s3.amazonaws.com","static.inaturalist.org"):
+        raise ValueError("individual photo host not accepted")
+    if not re.search(r"/photos/"+re.escape(pid)+r"/(?:original|large)\\.(?:jpe?g|png|webp)$",urlparts.path,re.I):
+        raise ValueError("individual photo URL ID mismatch")
     code=str(photo.get("license_code") or "").lower().replace("_","-")
     lookup={"cc0":("CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/"),
        "cc-by":("CC BY 4.0","https://creativecommons.org/licenses/by/4.0/"),
