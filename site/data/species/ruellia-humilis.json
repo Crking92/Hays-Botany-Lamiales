@@ -43,8 +43,47 @@
     "names": [],
     "differences": "Ruellia drummondiana: Both have axillary nearly sessile purple flowers; R. humilis has conspicuous long hairs/ciliate margins, while R. drummondiana is short-finely pubescent and uniquely has only 2–4 seeds per capsule. Ruellia ciliatiflora: R. ciliatiflora is much less hairy and carries flowers in conspicuous peduncled terminal/upper-axillary cymes. Ruellia metziae: R. metziae tends toward terminal pedunculate pale/white flowers and lacks the strongly long-pilose prairie-petunia look."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ruellia-humilis/inat-638836821.jpg",
+      "creator": "(c) charlottereemts, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/638836821",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "ba51f716728b2da1a1467735fd3919109cdfaad4",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
+      "source_review_evidence": "Live iNaturalist observation 350151087, photo 638836821, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43a9fa4f4b802c6546649b1975a8d0dd91c46e485c6acb30046a40210e5b94cc. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia humilis maps to indexed species ruellia-humilis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
+      "sha256": "43a9fa4f4b802c6546649b1975a8d0dd91c46e485c6acb30046a40210e5b94cc"
+    },
+    {
+      "src": "media/ruellia-humilis/inat-646963236.jpg",
+      "creator": "(c) Michael Knox, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/646963236",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "fe31a2f5ef683e03e2813012ed0eea9cdfa67dab",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
+      "source_review_evidence": "Live iNaturalist observation 354668258, photo 646963236, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 907aac16bf2b004913d76f2c1244d20b4b2491264385aa7779e9867b49f08315. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia humilis maps to indexed species ruellia-humilis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
+      "sha256": "907aac16bf2b004913d76f2c1244d20b4b2491264385aa7779e9867b49f08315"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5ce9662a6efd6c61142fa73fd62ba945c601254e2db73091827077e87989912b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

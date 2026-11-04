@@ -18,7 +18,8 @@
       "genus": "Dianthera",
       "scientific_name": "Dianthera americana",
       "common_name": "American water-willow",
-      "photo_count": 2
+      "photo_count": 7,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dicliptera-brachiata",
@@ -26,7 +27,7 @@
       "genus": "Dicliptera",
       "scientific_name": "Dicliptera brachiata",
       "common_name": "Branched foldwing",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -35,7 +36,7 @@
       "genus": "Dyschoriste",
       "scientific_name": "Dyschoriste linearis",
       "common_name": "Narrow-leaf snakeherb",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -53,7 +54,8 @@
       "genus": "Justicia",
       "scientific_name": "Justicia pilosella",
       "common_name": "Hairy tube-tongue",
-      "photo_count": 3
+      "photo_count": 8,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ruellia-ciliatiflora",
@@ -70,7 +72,7 @@
       "genus": "Ruellia",
       "scientific_name": "Ruellia drummondiana",
       "common_name": "Drummond's ruellia",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -79,7 +81,8 @@
       "genus": "Ruellia",
       "scientific_name": "Ruellia humilis",
       "common_name": "prairie petunia / hairy ruellia",
-      "photo_count": 3
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ruellia-metziae",

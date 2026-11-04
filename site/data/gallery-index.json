@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 576,
+  "photo_count": 603,
   "photo_species": 102,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -10,15 +10,15 @@
       "first_src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Anisacanthus_quadrifidus_wrightii.jpg"
     },
     "justicia-americana": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/justicia-americana/source-716eee975127.jpg"
     },
     "dicliptera-brachiata": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/dicliptera-brachiata/source-0c4902179db2.jpg"
     },
     "dyschoriste-linearis": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/dyschoriste-linearis/archived-24f8bdeab91e0a49.jpg"
     },
     "hygrophila-costata": {
@@ -26,7 +26,7 @@
       "first_src": "media/hygrophila-costata/archived-9bf681f6810b1c30.jpg"
     },
     "justicia-pilosella": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/justicia-pilosella/source-f2b075006fc4.jpg"
     },
     "ruellia-ciliatiflora": {
@@ -34,11 +34,11 @@
       "first_src": "media/ruellia-ciliatiflora/archived-b6903f11e38c8055.jpg"
     },
     "ruellia-drummondiana": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/ruellia-drummondiana/ruellia-drummondiana-provisional-face.jpg"
     },
     "ruellia-humilis": {
-      "count": 3,
+      "count": 5,
       "first_src": "media/ruellia-humilis/01-habit-flower.jpg"
     },
     "ruellia-metziae": {
