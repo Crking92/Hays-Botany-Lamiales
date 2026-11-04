@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 553,
+  "photo_count": 576,
   "photo_species": 102,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -46,27 +46,27 @@
       "first_src": "media/ruellia-metziae/ruellia-metziae-provisional-face.jpg"
     },
     "bignonia-capreolata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/bignonia-capreolata/source-c3010f010805.jpg"
     },
     "campsis-radicans": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/campsis-radicans/01-compound-serrate-leaf.jpg"
     },
     "catalpa-bignonioides": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/catalpa-bignonioides/archived-d8f0976743144458.jpg"
     },
     "catalpa-speciosa": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/catalpa-speciosa/source-68cac981da9a.jpg"
     },
     "chilopsis-linearis": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/chilopsis-linearis/source-b39a45b3aef8.jpg"
     },
     "tecoma-stans": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/tecoma-stans/source-a4b5390ae406.jpg"
     },
     "tecoma-stans-var-angustata": {
