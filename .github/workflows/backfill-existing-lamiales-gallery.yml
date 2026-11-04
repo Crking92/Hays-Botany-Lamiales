@@ -1,0 +1,85 @@
+name: Backfill existing verified Lamiales media into visible species galleries
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/backfill-existing-lamiales-gallery.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: hays-Hays-Botany-Lamiales-photo-publisher
+  cancel-in-progress: false
+jobs:
+  backfill:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Match already-hosted photographs and their reviewed credits to species
+        run: |
+          python3 -m py_compile scripts/backfill_existing_verified_photo_gallery.py
+          python3 scripts/backfill_existing_verified_photo_gallery.py
+          python3 scripts/build_collection_preview.py
+          git diff --check
+      - name: Publish all credited gallery references and indexes atomically
+        id: save
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/data/species site/data/collection-index.json site/data/gallery-index.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+            echo "Concurrent family publication detected. Refusing stale manifest update." >&2
+            exit 1
+          fi
+          git diff --cached --check
+          git commit -m 'Expose already hosted rights-verified photos throughout Lamiales gallery'
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Request public Pages deployment
+        if: steps.save.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - name: Verify public site gallery/index/photo credits after deployment
+        if: steps.save.outputs.published == 'true'
+        run: |
+          python3 - <<'PY'
+          import json,time,urllib.request
+          from pathlib import Path
+          base='https://crking92.github.io/Hays-Botany-Lamiales/site/'
+          root=Path('site')
+          def get(path):
+              req=urllib.request.Request(base+path,headers={'User-Agent':'HaysBotanyLamialesVisibleMediaVerification/1.0'})
+              with urllib.request.urlopen(req,timeout=30) as r:
+                  if r.status!=200:raise RuntimeError('Photo HTTP status not 200: '+path)
+                  return r.read()
+          expected=(root/'data/gallery-index.json').read_bytes()
+          for _ in range(45):
+              try:
+                  if get('data/gallery-index.json')==expected:break
+              except Exception:pass
+              time.sleep(10)
+          else:raise RuntimeError('New species gallery not yet deployed')
+          idx=json.loads(get('data/collection-index.json'))
+          verified=0
+          for row in idx['entries']:
+              slug=row['id']
+              card=json.loads(get('data/species/'+slug+'.json'))
+              assert len(card['verified_photos'])==row['photo_count'],slug
+              for p in card['verified_photos']:
+                  path=p.get('src','')
+                  if not path.startswith('media/'):continue
+                  assert get(path)==(root/path).read_bytes(),path
+                  assert p['creator'] and p['source_page'] and p['license_url'],path
+                  verified+=1
+          print('LAMIALES_PUBLIC_PHOTOS_VISIBLE_AND_CREDITED',verified)
+          PY
