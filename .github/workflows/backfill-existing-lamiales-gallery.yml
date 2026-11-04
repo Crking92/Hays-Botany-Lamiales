@@ -1,4 +1,5 @@
 name: Backfill existing verified Lamiales media into visible species galleries
+# Public-domain archive license handling validated for remaining legacy files
 # Retry: preserve seven known indexed-source duplicate binary copies
 on:
   push:
