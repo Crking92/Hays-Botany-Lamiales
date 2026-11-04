@@ -44,7 +44,7 @@ def run(source:Path,site:Path,check:bool=False):
         sid=sidecar.parent.name
         if sid not in mapping:fail("New species needs an indexed source card: "+sid)
         approval,image,payload,checksum=read_approved(source,sid,sidecar)
-        is_nc=approval["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+        is_nc=approval["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0","OWNER PUBLIC DISPLAY PERMISSION"}
         if is_nc and not (meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True and approval.get("noncommercial_site_use_confirmed") is True):
             fail("Noncommercial-only media requires explicit site and image use confirmation")
         dst=site/"media"/sid/image.name
@@ -77,6 +77,10 @@ def run(source:Path,site:Path,check:bool=False):
                "source_review_evidence":approval.get("source_review_evidence"),
                "taxon_review_evidence":approval.get("taxon_review_evidence"),
                "sha256":checksum}
+        if approval["license"]=="OWNER PUBLIC DISPLAY PERMISSION":
+            photo["site_display_only"]=True
+            photo["public_reuse"]=False
+            photo["noncommercial_only"]=True
         current.append(photo)
         card.setdefault("verified_photos",[]).append(photo)
         card["photo_status"]="VERIFIED_EXISTING_CC_GALLERY"
