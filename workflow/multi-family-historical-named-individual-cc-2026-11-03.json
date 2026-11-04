@@ -1,0 +1,46 @@
+{
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "batch_key": "MULTIFAMILY_HISTORICAL_NAMED_INDIVIDUAL_CC_2026-11-03",
+  "checked_at": "2026-11-04T02:56:16.858178+00:00",
+  "source_files": 240,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "original_historical_review_preserved": 89,
+    "already_public_identical_bytes": 120,
+    "no_specific_named_cc_license_and_author": 27,
+    "original_path_shape_unknown": 3
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "lantana-urticoides",
+      "family": "Verbenaceae",
+      "filename": "01-texas-lantana-flowers-leaves.jpg",
+      "original_path": "content/taxa/Verbenaceae/Lantana/lantana-urticoides/images/01-texas-lantana-flowers-leaves.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Lantana/lantana-urticoides/images/01-texas-lantana-flowers-leaves.jpg",
+      "git_blob_sha": "0ccb4f7abfbea4ada93dba15cfe669eee91fcef5",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Chet Burrier",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/272160509",
+      "taxon": "Lantana urticoides",
+      "src": "media/lantana-urticoides/archived-a81753fbae8bd59c.jpg",
+      "sha256": "a81753fbae8bd59c17264af1a3e700ed3ddab810799acd9257319c6cf2b6e26e"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
