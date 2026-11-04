@@ -3,13 +3,13 @@ on:
   push:
     branches: [main]
     paths:
-      - '.github/workflows/publish-acanthaceae-altingiaceae-2026-11-03.yml'
+      - '.github/workflows/publish-acanthaceae-altingiaceae-2026-11-04.yml'
       - 'scripts/publish_verified_acanthaceae_altingiaceae_zip.py'
   workflow_dispatch:
 permissions:
   contents: write
 concurrency:
-  group: acanthaceae-altingiaceae-2026-11-03-source-publish-${{ github.repository }}
+  group: acanthaceae-altingiaceae-2026-11-04-source-publish-${{ github.repository }}
   cancel-in-progress: false
 jobs:
   source-verify-and-publish:
@@ -33,7 +33,7 @@ jobs:
             local cleared="$RUNNER_TEMP/acanthaceae-approved-$wave"
             local report="$RUNNER_TEMP/acanthaceae-rights-$wave.json"
             python3 scripts/publish_verified_acanthaceae_altingiaceae_zip.py \
-              --manifest photo-intake/remote-photo-manifests/acanthaceae-through-altingiaceae-2026-11-03.json \
+              --manifest photo-intake/remote-photo-manifests/acanthaceae-through-altingiaceae-2026-11-04.json \
               --wave "$wave" --source-root "$cleared" --report "$report"
             for attempt in $(seq 1 16); do
               python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site --check
