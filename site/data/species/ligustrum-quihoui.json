@@ -164,6 +164,23 @@
       "source_review_evidence": "Live iNaturalist observation 346651787, photo 631925565, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d52c0b80fbbe182135f4daf8211df970c0639eb7c06dd361b8e1e8bbd4c4dd2b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum quihoui maps to indexed species ligustrum-quihoui; specialist morphology and BONAP range deferred.",
       "sha256": "d52c0b80fbbe182135f4daf8211df970c0639eb7c06dd361b8e1e8bbd4c4dd2b"
+    },
+    {
+      "src": "media/ligustrum-quihoui/source-57c739e3b767.jpg",
+      "creator": "Daderot",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ligustrum_quihoui_-_Quarryhill_Botanical_Garden_-_DSC03364.JPG",
+      "role": "habit",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "57c739e3b76794fcda72dc4d70157d0368f6df5a",
+      "modified": "Exact original source bytes, not altered",
+      "source_page_is_exact": true,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Existing verified, per-image archived-public manifest and byte-matching published original",
+      "source_review_evidence": "Existing public family reviewed-photo manifest; unchanged file media/ligustrum-quihoui/source-57c739e3b767.jpg; SHA 57c739e3b76794fcda72dc4d70157d0368f6df5a",
+      "taxon_review_evidence": "Original reviewed manifest and matching existing species gallery ID ligustrum-quihoui; advanced anatomy review deferred"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

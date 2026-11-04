@@ -153,6 +153,23 @@
       "source_review_evidence": "Live iNaturalist observation 354859592, photo 647299442, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b78ab65d7656e2cf6f0c7fb222b3a82693ff85d0f24c49ff6fa992d942855c2c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus berlandieriana maps to indexed species fraxinus-berlandieriana; specialist morphology and BONAP range deferred.",
       "sha256": "b78ab65d7656e2cf6f0c7fb222b3a82693ff85d0f24c49ff6fa992d942855c2c"
+    },
+    {
+      "src": "media/fraxinus-berlandieriana/source-1877a3c03d3f.jpg",
+      "creator": "Pere López Brosa (pere prlpz)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Freixe_americ%C3%A0_de_la_pla%C3%A7a_Gal%C2%B7la_Plac%C3%ADdia_P1510486.jpg",
+      "role": "Entire living Fraxinus berlandieriana tree at Barcelona; species identification follows Commons record, later diagnostic leaf/bud images necessary.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "1877a3c03d3ff101da8ffdd7c04262093ca8aa57",
+      "modified": "Exact original source bytes, not altered",
+      "source_page_is_exact": true,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Existing verified, per-image archived-public manifest and byte-matching published original",
+      "source_review_evidence": "Existing public family reviewed-photo manifest; unchanged file media/fraxinus-berlandieriana/source-1877a3c03d3f.jpg; SHA 1877a3c03d3ff101da8ffdd7c04262093ca8aa57",
+      "taxon_review_evidence": "Original reviewed manifest and matching existing species gallery ID fraxinus-berlandieriana; advanced anatomy review deferred"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

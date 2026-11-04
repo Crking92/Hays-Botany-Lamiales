@@ -149,6 +149,23 @@
       "source_review_evidence": "Live iNaturalist observation 369467590, photo 675094654, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0746ed21754f9904c9cee8f51236da55544684308c41f3c2768ee290b00e1a95. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda fistulosa maps to indexed species monarda-fistulosa; specialist morphology and BONAP range deferred.",
       "sha256": "0746ed21754f9904c9cee8f51236da55544684308c41f3c2768ee290b00e1a95"
+    },
+    {
+      "src": "media/monarda-fistulosa/monarda-fistulosa-provisional-face.jpg",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Monarda_fistulosa_142817652.jpg",
+      "role": "Flowering head / recognizable face",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "cb98290041fb6020af045a0a8d60f5979316e8f6",
+      "modified": "Exact prior learner image bytes copied to family site; no modifications",
+      "source_page_is_exact": true,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Existing verified, per-image archived-public manifest and byte-matching published original",
+      "source_review_evidence": "Existing public family reviewed-photo manifest; unchanged file media/monarda-fistulosa/monarda-fistulosa-provisional-face.jpg; SHA cb98290041fb6020af045a0a8d60f5979316e8f6",
+      "taxon_review_evidence": "Original reviewed manifest and matching existing species gallery ID monarda-fistulosa; advanced anatomy review deferred"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

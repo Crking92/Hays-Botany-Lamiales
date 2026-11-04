@@ -105,6 +105,23 @@
       "source_review_evidence": "Live iNaturalist observation 353763094, photo 645420680, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 692ccccd61126061c77d7b7621a2e0925df46b2397787ddbbd32a0948c0e3754. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium cubense maps to indexed species teucrium-cubense; specialist morphology and BONAP range deferred.",
       "sha256": "692ccccd61126061c77d7b7621a2e0925df46b2397787ddbbd32a0948c0e3754"
+    },
+    {
+      "src": "media/teucrium-cubense/source-9cd4c7ff50e6.jpg",
+      "creator": "Andrés González",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Teucrium_cubense-_Colonia%2C_Nueva_Helvecia%2C_Campo_graminoso_entre_el_R%C3%ADo_Rosario_y_camino_vecinal_2.jpg",
+      "role": "Provisional species recognition for flowers and habit; source identified subspecies cubense, Central Texas concept needs review",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "9cd4c7ff50e687a5a5c1aade6dd0fe1316bc87ce",
+      "modified": "Exact original source bytes, not altered",
+      "source_page_is_exact": true,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Existing verified, per-image archived-public manifest and byte-matching published original",
+      "source_review_evidence": "Existing public family reviewed-photo manifest; unchanged file media/teucrium-cubense/source-9cd4c7ff50e6.jpg; SHA 9cd4c7ff50e687a5a5c1aade6dd0fe1316bc87ce",
+      "taxon_review_evidence": "Original reviewed manifest and matching existing species gallery ID teucrium-cubense; advanced anatomy review deferred"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

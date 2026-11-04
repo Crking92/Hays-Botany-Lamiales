@@ -176,6 +176,23 @@
       "source_review_evidence": "Live iNaturalist observation 399407628, photo 732781163, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6a9c55b7c71324002544b23f3f33cf64d1444b6fdbcf224ee1b674c0f39f5d4c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dicliptera brachiata maps to indexed species dicliptera-brachiata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
       "sha256": "6a9c55b7c71324002544b23f3f33cf64d1444b6fdbcf224ee1b674c0f39f5d4c"
+    },
+    {
+      "src": "media/dicliptera-brachiata/source-0c4902179db2.jpg",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dicliptera_brachiata.jpg",
+      "role": "Branched foldwing habit and flowers, useful recognisable face; leaf node/bract macros still needed.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "0c4902179db21a2336d3ec496814bc2385a43366",
+      "modified": "Exact original source bytes, not altered",
+      "source_page_is_exact": true,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Existing verified, per-image archived-public manifest and byte-matching published original",
+      "source_review_evidence": "Existing public family reviewed-photo manifest; unchanged file media/dicliptera-brachiata/source-0c4902179db2.jpg; SHA 0c4902179db21a2336d3ec496814bc2385a43366",
+      "taxon_review_evidence": "Original reviewed manifest and matching existing species gallery ID dicliptera-brachiata; advanced anatomy review deferred"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

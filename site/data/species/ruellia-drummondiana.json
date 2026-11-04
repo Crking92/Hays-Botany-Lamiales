@@ -161,6 +161,23 @@
       "source_review_evidence": "Live iNaturalist observation 364719889, photo 665830309, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 172ce9f51967c2b65b40e46fd244d559a580ca290093f1910047d799f34c9b52. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia drummondiana maps to indexed species ruellia-drummondiana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
       "sha256": "172ce9f51967c2b65b40e46fd244d559a580ca290093f1910047d799f34c9b52"
+    },
+    {
+      "src": "media/ruellia-drummondiana/ruellia-drummondiana-provisional-face.jpg",
+      "creator": "Michelle",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ruellia_drummondiana.jpg",
+      "role": "Flowering habit recognizable face",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "ba9dcdc9ee5837e7726076554f29cafc2b3650e4",
+      "modified": "Exact prior learner image bytes copied to family site; no modifications",
+      "source_page_is_exact": true,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Existing verified, per-image archived-public manifest and byte-matching published original",
+      "source_review_evidence": "Existing public family reviewed-photo manifest; unchanged file media/ruellia-drummondiana/ruellia-drummondiana-provisional-face.jpg; SHA ba9dcdc9ee5837e7726076554f29cafc2b3650e4",
+      "taxon_review_evidence": "Original reviewed manifest and matching existing species gallery ID ruellia-drummondiana; advanced anatomy review deferred"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

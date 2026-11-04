@@ -105,6 +105,23 @@
       "source_review_evidence": "Live iNaturalist observation 347901022, photo 634406998, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: abe413f6ea0e4a9f89632709ef7ba9a2f852bdd0380ee4dfb055c9362422d84b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica persica maps to indexed species veronica-persica; specialist morphology and BONAP range deferred.",
       "sha256": "abe413f6ea0e4a9f89632709ef7ba9a2f852bdd0380ee4dfb055c9362422d84b"
+    },
+    {
+      "src": "media/veronica-persica/source-25bc8c18f758.jpg",
+      "creator": "Trachemys",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Veronica_persica_(01).jpg",
+      "role": "Provisional small four-lobed blue speedwell flower and leaves recognition",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "25bc8c18f7583ddb20b4c485e0e09a5435b5c6d4",
+      "modified": "Exact original source bytes, not altered",
+      "source_page_is_exact": true,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Existing verified, per-image archived-public manifest and byte-matching published original",
+      "source_review_evidence": "Existing public family reviewed-photo manifest; unchanged file media/veronica-persica/source-25bc8c18f758.jpg; SHA 25bc8c18f7583ddb20b4c485e0e09a5435b5c6d4",
+      "taxon_review_evidence": "Original reviewed manifest and matching existing species gallery ID veronica-persica; advanced anatomy review deferred"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
