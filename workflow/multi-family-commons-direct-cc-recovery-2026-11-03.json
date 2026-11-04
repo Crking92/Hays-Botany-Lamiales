@@ -1,9 +1,9 @@
 {
   "repository": "Crking92/Hays-Botany-Lamiales",
   "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T00:58:05.497015+00:00",
+  "checked_at": "2026-11-04T01:15:12.061119+00:00",
   "source_files": 240,
-  "historical_cc0_deed_holds": 1,
+  "historical_cc0_deed_holds": 2,
   "selection_window": 15,
   "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
@@ -12,34 +12,60 @@
     "commons": 1
   },
   "skipped_or_previously_published": {
-    "not_a_prior_cc0_deed_hold": 236,
-    "original_path_shape_unknown": 3
+    "not_a_prior_cc0_deed_hold": 235,
+    "original_path_shape_unknown": 3,
+    "previous_cc0_recheck_decision_preserved": 1
   },
   "new_installed": 1,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
-      "species_id": "ligustrum-sinense",
-      "family": "Oleaceae",
-      "filename": "ligustrum-sinense-bidgee-leaves-flowers.jpg",
-      "original_path": "content/taxa/Oleaceae/Ligustrum/ligustrum-sinense/images/ligustrum-sinense-bidgee-leaves-flowers.jpg",
-      "archive_path": "migration/private-original-photo-holds/Oleaceae/Ligustrum/ligustrum-sinense/images/ligustrum-sinense-bidgee-leaves-flowers.jpg",
-      "git_blob_sha": "094a195584d135a226667f7dba5a8f34313d8610",
+      "species_id": "penstemon-baccharifolius",
+      "family": "Plantaginaceae",
+      "filename": "penstemon-baccharifolius-provisional-face.jpg",
+      "original_path": "content/taxa/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+      "git_blob_sha": "a116d752445fd93164120ad7b5e2e58cdcaa7783",
       "lane": "commons",
       "status": "SOURCE_VERIFIED_READY",
-      "creator": "Bidgee",
-      "license": "CC BY-SA 2.5 AU",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Ligustrum_sinense_leaves_and_flowers.jpg",
-      "taxon": "Ligustrum sinense",
-      "src": "media/ligustrum-sinense/archived-b22bfb4b846506f3.jpg",
-      "sha256": "b22bfb4b846506f393761ca51a064d0afd403b39590730e3661903fd5fe65183"
+      "creator": "Clarence A. Rechenthin",
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Penstemon_baccharifolius.jpg",
+      "taxon": "Penstemon baccharifolius",
+      "src": "media/penstemon-baccharifolius/archived-3d5ff743e9924382.jpg",
+      "sha256": "3d5ff743e9924382306d5dc1220666f32a2f17aae62e8d29a800fdc3a23142f0"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-04T00:58:05.497015+00:00",
+      "selected_candidates": 1,
+      "new_installed": 1,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "ligustrum-sinense",
+          "family": "Oleaceae",
+          "filename": "ligustrum-sinense-bidgee-leaves-flowers.jpg",
+          "original_path": "content/taxa/Oleaceae/Ligustrum/ligustrum-sinense/images/ligustrum-sinense-bidgee-leaves-flowers.jpg",
+          "archive_path": "migration/private-original-photo-holds/Oleaceae/Ligustrum/ligustrum-sinense/images/ligustrum-sinense-bidgee-leaves-flowers.jpg",
+          "git_blob_sha": "094a195584d135a226667f7dba5a8f34313d8610",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Bidgee",
+          "license": "CC BY-SA 2.5 AU",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ligustrum_sinense_leaves_and_flowers.jpg",
+          "taxon": "Ligustrum sinense",
+          "src": "media/ligustrum-sinense/archived-b22bfb4b846506f3.jpg",
+          "sha256": "b22bfb4b846506f393761ca51a064d0afd403b39590730e3661903fd5fe65183"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 1,
+  "cumulative_installed": 2,
   "cumulative_held_reviewed": 0
 }
