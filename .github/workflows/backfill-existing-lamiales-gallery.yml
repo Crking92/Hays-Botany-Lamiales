@@ -1,4 +1,5 @@
 name: Backfill existing verified Lamiales media into visible species galleries
+# Retry: preserve seven known indexed-source duplicate binary copies
 on:
   push:
     branches: [main]
