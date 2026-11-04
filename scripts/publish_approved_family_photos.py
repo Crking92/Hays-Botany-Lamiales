@@ -16,7 +16,8 @@ from PIL import Image, UnidentifiedImageError
 
 ID = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 FILENAME = re.compile(r"^[a-z0-9][a-z0-9._-]{2,110}\.(?:jpg|jpeg|png|webp)$")
-LICENSES = {\n    "OWNER PUBLIC DISPLAY PERMISSION": "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md",
+LICENSES = {
+    "OWNER PUBLIC DISPLAY PERMISSION": "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md",
     "PUBLIC DOMAIN (U.S. FEDERAL WORK)": "https://www.copyright.gov/title17/92chap1.html#105",
     "PUBLIC DOMAIN (AUTHOR RELEASED)": "https://creativecommons.org/publicdomain/mark/1.0/",
     "CC BY 2.5": "https://creativecommons.org/licenses/by/2.5/",
