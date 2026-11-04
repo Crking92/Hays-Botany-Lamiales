@@ -1,60 +1,86 @@
 {
   "repository": "Crking92/Hays-Botany-Lamiales",
   "batch_key": "MULTIFAMILY_VERIFIED_SYNONYM_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-03T16:49:14.962966+00:00",
+  "checked_at": "2026-11-04T00:39:18.916104+00:00",
   "source_files": 240,
   "selection_window": 25,
-  "candidate_pool_with_usable_source_identifiers": 2,
+  "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
-  "selected_candidates": 2,
+  "selected_candidates": 1,
   "selected_by_lane": {
-    "gbif": 2
+    "inat": 1
   },
   "skipped_or_previously_published": {
-    "not_a_verified_synonym_hold": 235,
-    "original_path_shape_unknown": 3
+    "not_a_verified_synonym_hold": 234,
+    "original_path_shape_unknown": 3,
+    "prior_synonym_decision_preserved": 2
   },
-  "new_installed": 2,
+  "new_installed": 1,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
-      "species_id": "glandularia-pumila",
-      "family": "Verbenaceae",
-      "filename": "library-review027-41e7786ee2f9601.jpg",
-      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-41e7786ee2f9601.jpg",
-      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-41e7786ee2f9601.jpg",
-      "git_blob_sha": "ef84beb2bb981a27139a4d11a641e2175d5becbe",
-      "lane": "gbif",
+      "species_id": "hedeoma-serpyllifolia",
+      "family": "Lamiaceae",
+      "filename": "inat-705328828.jpg",
+      "original_path": "content/taxa/Lamiaceae/Hedeoma/hedeoma-serpyllifolia/images/inat-705328828.jpg",
+      "archive_path": "migration/private-original-photo-holds/Lamiaceae/Hedeoma/hedeoma-serpyllifolia/images/inat-705328828.jpg",
+      "git_blob_sha": "c7a11fd7f7693f1785b6ddea34a971612386b9e8",
+      "lane": "inat",
       "status": "SOURCE_VERIFIED_READY",
-      "creator": "Jo Roberts",
-      "license": "CC BY 4.0",
-      "source_page": "https://www.inaturalist.org/photos/607951042",
-      "taxon": "Verbena pumila",
-      "src": "media/glandularia-pumila/archived-a61a35137dd63716.jpg",
-      "sha256": "a61a35137dd6371636087edc6e219b39a84718edd4c7461e29acfbaf42f502ea"
-    },
-    {
-      "species_id": "glandularia-pumila",
-      "family": "Verbenaceae",
-      "filename": "library-review027-f82f42405a94014.jpg",
-      "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-f82f42405a94014.jpg",
-      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-f82f42405a94014.jpg",
-      "git_blob_sha": "03a13ff65bab842b48229aa87e6b83e52b1fd50c",
-      "lane": "gbif",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "Jo Roberts",
-      "license": "CC BY 4.0",
-      "source_page": "https://www.inaturalist.org/photos/607951067",
-      "taxon": "Verbena pumila",
-      "src": "media/glandularia-pumila/archived-55c37187d79db677.jpg",
-      "sha256": "55c37187d79db67715b35780581bf5b989ffb85a5d3a6bbc33267ced1b434e60"
+      "creator": "Turner Brockman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://www.inaturalist.org/photos/705328828",
+      "taxon": "Hedeoma reverchonii serpyllifolia",
+      "src": "media/hedeoma-serpyllifolia/archived-954521be5676ef8b.jpg",
+      "sha256": "954521be5676ef8bc8d2b964bd0cb959bb99f113f88fff6dfa3464ce0a6e1565"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-03T16:49:14.962966+00:00",
+      "selected_candidates": 2,
+      "new_installed": 2,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "glandularia-pumila",
+          "family": "Verbenaceae",
+          "filename": "library-review027-41e7786ee2f9601.jpg",
+          "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-41e7786ee2f9601.jpg",
+          "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-41e7786ee2f9601.jpg",
+          "git_blob_sha": "ef84beb2bb981a27139a4d11a641e2175d5becbe",
+          "lane": "gbif",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Jo Roberts",
+          "license": "CC BY 4.0",
+          "source_page": "https://www.inaturalist.org/photos/607951042",
+          "taxon": "Verbena pumila",
+          "src": "media/glandularia-pumila/archived-a61a35137dd63716.jpg",
+          "sha256": "a61a35137dd6371636087edc6e219b39a84718edd4c7461e29acfbaf42f502ea"
+        },
+        {
+          "species_id": "glandularia-pumila",
+          "family": "Verbenaceae",
+          "filename": "library-review027-f82f42405a94014.jpg",
+          "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-f82f42405a94014.jpg",
+          "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-pumila/images/library-review027-f82f42405a94014.jpg",
+          "git_blob_sha": "03a13ff65bab842b48229aa87e6b83e52b1fd50c",
+          "lane": "gbif",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Jo Roberts",
+          "license": "CC BY 4.0",
+          "source_page": "https://www.inaturalist.org/photos/607951067",
+          "taxon": "Verbena pumila",
+          "src": "media/glandularia-pumila/archived-55c37187d79db677.jpg",
+          "sha256": "55c37187d79db67715b35780581bf5b989ffb85a5d3a6bbc33267ced1b434e60"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 2,
+  "cumulative_installed": 3,
   "cumulative_held_reviewed": 0
 }

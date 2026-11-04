@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/hedeoma-serpyllifolia/archived-954521be5676ef8b.jpg",
+      "creator": "Turner Brockman",
+      "source_page": "https://www.inaturalist.org/photos/705328828",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "c7a11fd7f7693f1785b6ddea34a971612386b9e8",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 385282046 photo 705328828 individual CC code cc-by-sa; photographer (c) Turner Brockman, some rights reserved (CC BY-SA); image dHash difference 0; source synonym verified by POWO https://powo.science.kew.org/taxon/447686-1; archived source SHA c7a11fd7f7693f1785b6ddea34a971612386b9e8; exact image source https://www.inaturalist.org/photos/705328828",
+      "taxon_review_evidence": "Indexed species Hedeoma serpyllifolia reconciled to source synonym Hedeoma reverchonii serpyllifolia per Kew POWO https://powo.science.kew.org/taxon/447686-1; source record Hedeoma reverchonii serpyllifolia linked to an original image and matching current inat photo of source taxon Hedeoma reverchonii serpyllifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "954521be5676ef8bc8d2b964bd0cb959bb99f113f88fff6dfa3464ce0a6e1565"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "6b5f3411b7d048c03d71a1480ec5572ab6cb9888f6b503a92a7695a26b9c382a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

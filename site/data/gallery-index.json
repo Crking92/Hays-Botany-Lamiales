@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 536,
-  "photo_species": 101,
+  "photo_count": 537,
+  "photo_species": 102,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
       "count": 1,
@@ -94,8 +94,8 @@
       "first_src": "media/hedeoma-reverchonii/archived-3166eff2ef94c552.jpg"
     },
     "hedeoma-serpyllifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/hedeoma-serpyllifolia/archived-954521be5676ef8b.jpg"
     },
     "lamium-amplexicaule": {
       "count": 7,
