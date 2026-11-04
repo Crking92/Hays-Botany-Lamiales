@@ -1,4 +1,4 @@
-name: Reconcile exact USDA federal public-domain historical photo originals
+name: Reconcile two verified Salvia ballotiflora photographs from archival holds
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: f8313346a28c6240613fc8654d7a4139ea1ba622
+          ref: 02281de9a0ba772b41c64a6d951c217c48120b79
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
