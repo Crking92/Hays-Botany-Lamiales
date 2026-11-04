@@ -1,0 +1,26 @@
+{
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "batch_key": "MULTIFAMILY_HISTORICAL_PLANTNET_LICENSED_2026-11-03",
+  "checked_at": "2026-11-04T00:00:02.752155+00:00",
+  "source_files": 240,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 0,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 0,
+  "selected_by_lane": {},
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 236,
+    "already_public_identical_bytes": 1,
+    "original_path_shape_unknown": 3
+  },
+  "new_installed": 0,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 0
+}
