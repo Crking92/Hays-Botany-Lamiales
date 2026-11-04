@@ -43,6 +43,7 @@ def main():
         raise SystemExit("Unknown public photo-rights gate")
     new = []
     skipped = 0
+    unapproved = []
     for row in rows:
         sid = row["id"]
         card = read(site / "data/species" / (sid + ".json"))
@@ -75,7 +76,8 @@ def main():
             if any(not p.get(k) for k in ("creator", "license", "license_url", "source_page", "source_blob_sha")):
                 raise SystemExit("Approved photo lacks individual source/rights details: " + src)
             if p.get("private_rights_review_only") or p.get("photo_approval_mode") not in ("OWNER_STANDING_PHOTO_FIRST_POLICY", "NAMED_HUMAN_PHOTO_REVIEW"):
-                raise SystemExit("Photo has no valid public approval: " + src)
+                unapproved.append(src)
+                continue
             nc = p["license"] in ("CC BY-NC 4.0", "CC BY-NC-SA 4.0")
             if p.get("noncommercial_only") is not nc:
                 raise SystemExit("Incorrect photo noncommercial restriction flag: " + src)
@@ -106,6 +108,7 @@ def main():
         "new_approved_photos_linked":len(new),
         "existing_photo_references_retained":gal["photo_count"]-len(new),
         "already_in_manifest_or_duplicate":skipped,
+        "unapproved_card_only_photos_retained_on_hold":unapproved,
         "visible_photo_count":gal["photo_count"],
         "photographed_species":gal["photo_species"],
         "species":gal["species"],
