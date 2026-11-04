@@ -1,0 +1,53 @@
+{
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "batch_key": "MULTIFAMILY_COMMONS_LICENSE_LOCALE_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-04T00:52:42.211889+00:00",
+  "source_files": 240,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "commons": 2
+  },
+  "skipped_or_previously_published": {
+    "outside_new_locale_retry_or_previously_checked": 235,
+    "original_path_shape_unknown": 3
+  },
+  "new_installed": 0,
+  "held_checked": 2,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "ligustrum-sinense",
+      "family": "Oleaceae",
+      "filename": "ligustrum-sinense-bidgee-leaves-flowers.jpg",
+      "original_path": "content/taxa/Oleaceae/Ligustrum/ligustrum-sinense/images/ligustrum-sinense-bidgee-leaves-flowers.jpg",
+      "archive_path": "migration/private-original-photo-holds/Oleaceae/Ligustrum/ligustrum-sinense/images/ligustrum-sinense-bidgee-leaves-flowers.jpg",
+      "git_blob_sha": "094a195584d135a226667f7dba5a8f34313d8610",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "penstemon-baccharifolius",
+      "family": "Plantaginaceae",
+      "filename": "penstemon-baccharifolius-provisional-face.jpg",
+      "original_path": "content/taxa/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+      "git_blob_sha": "a116d752445fd93164120ad7b5e2e58cdcaa7783",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Wikimedia current image license URL unsupported "
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)": 1,
+    "Wikimedia current image license URL unsupported ": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 2
+}
