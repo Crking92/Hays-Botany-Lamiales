@@ -1,4 +1,4 @@
-name: Verify and publish archived Bidgee Commons photograph with original ShareAlike license
+name: Reconcile exact USDA federal public-domain historical photo originals
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 3e325e7634d1a7159983c3aa660ea36b8aa4a340
+          ref: f8313346a28c6240613fc8654d7a4139ea1ba622
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
