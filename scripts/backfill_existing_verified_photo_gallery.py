@@ -50,7 +50,8 @@ for slug,records in manifest["species"].items():
         license=str(r.get("license") or "")
         nc=license in ("CC BY-NC 4.0","CC BY-NC-SA 4.0")
         owner=license=="OWNER PUBLIC DISPLAY PERMISSION"
-        if not (license.startswith(("CC BY ","CC BY-SA ","CC BY-NC ","CC BY-NC-SA ","CC0 ")) or owner):
+        public_domain=license.startswith("Public Domain") and r.get("license_url")=="https://creativecommons.org/publicdomain/mark/1.0/"
+        if not (license.startswith(("CC BY ","CC BY-SA ","CC BY-NC ","CC BY-NC-SA ","CC0 ")) or owner or public_domain):
             holds["unsupported_license"]+=1
             continue
         if r.get("noncommercial_only") is not (nc or owner):
