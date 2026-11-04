@@ -1,0 +1,68 @@
+name: Publish source-verified Balsaminaceae–Bixaceae ZIP photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish-balsaminaceae-bixaceae-2026-11-03.yml'
+      - 'scripts/publish_verified_balsaminaceae_bixaceae_zip.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: balsaminaceae-bixaceae-2026-11-03-source-publish-${{ github.repository }}
+  cancel-in-progress: false
+jobs:
+  source-verify-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Image integrity dependency
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Publish two conflict-safe verified original-photo waves
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          publish_wave() {
+            local wave="$1"
+            local cleared="$RUNNER_TEMP/balsaminaceae-approved-$wave"
+            local report="$RUNNER_TEMP/balsaminaceae-rights-$wave.json"
+            python3 scripts/publish_verified_balsaminaceae_bixaceae_zip.py \
+              --manifest photo-intake/remote-photo-manifests/balsaminaceae-through-bixaceae-2026-11-03.json \
+              --wave "$wave" --source-root "$cleared" --report "$report"
+            for attempt in $(seq 1 16); do
+              python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site --check
+              python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site
+              if [ -f scripts/verify_automatic_gallery.py ]; then python3 scripts/verify_automatic_gallery.py --site-root site; fi
+              git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+              if git diff --cached --quiet; then
+                echo "FAMILY_ZIP_ALREADY_LIVE_IN_SOURCE wave=$wave"
+                return 0
+              fi
+              git diff --cached --check
+              git commit -m "Publish licensed four-family original photos (wave $wave)"
+              if git push origin HEAD:main; then
+                echo "FAMILY_ZIP_GITHUB_PUBLISHED wave=$wave"
+                return 0
+              fi
+              echo "Concurrent update; safely refreshing main and applying cleared photos again ($attempt)"
+              git fetch origin main
+              git reset --hard origin/main
+            done
+            echo "Family ZIP publication blocked by repeated concurrent writes" >&2
+            return 1
+          }
+          publish_wave 1
+      - name: Preserve individual-photo license/identity audit files
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: balsaminaceae-bixaceae-original-photo-rights-audit
+          path: "${{ runner.temp }}/balsaminaceae-rights-*.json"
+          if-no-files-found: warn
+          retention-days: 30
