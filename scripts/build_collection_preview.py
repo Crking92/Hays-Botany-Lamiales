@@ -26,7 +26,10 @@ for sid,images in photos["species"].items():
         assert img["creator"] and img["license"] and img["license_url"] and img["source_page"]
         assert img["private_rights_review_only"] is False
         nc=img["license"] in ("CC BY-NC 4.0","CC BY-NC-SA 4.0")
-        assert img["noncommercial_only"] is nc
+        owner_display=img["license"]=="OWNER PUBLIC DISPLAY PERMISSION"
+        # Preserve narrow owner-granted public display without turning it
+        # into general commercial reuse or mislabeling it Creative Commons.
+        assert img["noncommercial_only"] is (nc or owner_display)
         if nc: assert meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True
         if src.startswith("media/"):
             assert src.startswith("media/"+sid+"/") and ".." not in src
