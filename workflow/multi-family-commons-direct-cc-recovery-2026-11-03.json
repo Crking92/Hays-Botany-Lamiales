@@ -1,40 +1,56 @@
 {
   "repository": "Crking92/Hays-Botany-Lamiales",
   "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T01:15:12.061119+00:00",
+  "checked_at": "2026-11-04T01:33:49.580674+00:00",
   "source_files": 240,
-  "historical_cc0_deed_holds": 2,
+  "historical_cc0_deed_holds": 4,
   "selection_window": 15,
-  "candidate_pool_with_usable_source_identifiers": 1,
+  "candidate_pool_with_usable_source_identifiers": 2,
   "remaining_candidates_not_yet_checked": 0,
-  "selected_candidates": 1,
+  "selected_candidates": 2,
   "selected_by_lane": {
-    "commons": 1
+    "commons": 2
   },
   "skipped_or_previously_published": {
-    "not_a_prior_cc0_deed_hold": 235,
+    "not_a_prior_cc0_deed_hold": 233,
     "original_path_shape_unknown": 3,
-    "previous_cc0_recheck_decision_preserved": 1
+    "previous_cc0_recheck_decision_preserved": 2
   },
-  "new_installed": 1,
+  "new_installed": 2,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
-      "species_id": "penstemon-baccharifolius",
-      "family": "Plantaginaceae",
-      "filename": "penstemon-baccharifolius-provisional-face.jpg",
-      "original_path": "content/taxa/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
-      "archive_path": "migration/private-original-photo-holds/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
-      "git_blob_sha": "a116d752445fd93164120ad7b5e2e58cdcaa7783",
+      "species_id": "salvia-ballotiflora",
+      "family": "Lamiaceae",
+      "filename": "02-commons-field-view-provisional.jpg",
+      "original_path": "content/taxa/Lamiaceae/Salvia/salvia-ballotiflora/images/02-commons-field-view-provisional.jpg",
+      "archive_path": "migration/private-original-photo-holds/Lamiaceae/Salvia/salvia-ballotiflora/images/02-commons-field-view-provisional.jpg",
+      "git_blob_sha": "2dcff4c4de863215ffc26bcecfb509e23e57b1be",
       "lane": "commons",
       "status": "SOURCE_VERIFIED_READY",
-      "creator": "Clarence A. Rechenthin",
-      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Penstemon_baccharifolius.jpg",
-      "taxon": "Penstemon baccharifolius",
-      "src": "media/penstemon-baccharifolius/archived-3d5ff743e9924382.jpg",
-      "sha256": "3d5ff743e9924382306d5dc1220666f32a2f17aae62e8d29a800fdc3a23142f0"
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_343007199.jpg",
+      "taxon": "Salvia ballotiflora",
+      "src": "media/salvia-ballotiflora/archived-c463ba7a61da4aa2.jpg",
+      "sha256": "c463ba7a61da4aa2ab8cb1bc49cac67e2d2ba31a8a6b8f9f4507fb189ef34d32"
+    },
+    {
+      "species_id": "salvia-ballotiflora",
+      "family": "Lamiaceae",
+      "filename": "03-commons-flower-view-provisional.jpg",
+      "original_path": "content/taxa/Lamiaceae/Salvia/salvia-ballotiflora/images/03-commons-flower-view-provisional.jpg",
+      "archive_path": "migration/private-original-photo-holds/Lamiaceae/Salvia/salvia-ballotiflora/images/03-commons-flower-view-provisional.jpg",
+      "git_blob_sha": "392296e89c0cc955770ac01f691582ff4c79060a",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Salvia_ballotiflora_589592598.jpg",
+      "taxon": "Salvia ballotiflora",
+      "src": "media/salvia-ballotiflora/archived-e23a0226e1b25f4a.jpg",
+      "sha256": "e23a0226e1b25f4a554892acbc5739a3c094d46b9b8b9c745e4cc7395f5f2d75"
     }
   ],
   "previous_batches": [
@@ -61,11 +77,35 @@
           "sha256": "b22bfb4b846506f393761ca51a064d0afd403b39590730e3661903fd5fe65183"
         }
       ]
+    },
+    {
+      "checked_at": "2026-11-04T01:15:12.061119+00:00",
+      "selected_candidates": 1,
+      "new_installed": 1,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "penstemon-baccharifolius",
+          "family": "Plantaginaceae",
+          "filename": "penstemon-baccharifolius-provisional-face.jpg",
+          "original_path": "content/taxa/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+          "archive_path": "migration/private-original-photo-holds/Plantaginaceae/Penstemon/penstemon-baccharifolius/images/penstemon-baccharifolius-provisional-face.jpg",
+          "git_blob_sha": "a116d752445fd93164120ad7b5e2e58cdcaa7783",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Clarence A. Rechenthin",
+          "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Penstemon_baccharifolius.jpg",
+          "taxon": "Penstemon baccharifolius",
+          "src": "media/penstemon-baccharifolius/archived-3d5ff743e9924382.jpg",
+          "sha256": "3d5ff743e9924382306d5dc1220666f32a2f17aae62e8d29a800fdc3a23142f0"
+        }
+      ]
     }
   ],
-  "batch_number": 2,
+  "batch_number": 3,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 2,
+  "cumulative_installed": 4,
   "cumulative_held_reviewed": 0
 }
