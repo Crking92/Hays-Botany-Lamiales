@@ -1,0 +1,132 @@
+name: Recover original iNaturalist source-card photos with verified source rights
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/recover-card-inat-expanded-2026-11-03.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: hays-Hays-Botany-Lamiales-photo-publisher
+  cancel-in-progress: false
+jobs:
+  verify-publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Refresh latest family site and preserve archived source worktree
+        run: |
+          git fetch origin main staging/original-source-transfer
+          git reset --hard origin/main
+          git worktree add "$RUNNER_TEMP/original" origin/staging/original-source-transfer
+      - uses: actions/checkout@v4
+        with:
+          repository: Crking92/Hays-Botany-Public
+          ref: 8cb82a1f92a8c6e95af0c40dcca25d3ef955958e
+          path: .shared-photo-audit
+          persist-credentials: false
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Validate original SHA and individual current license, author, source taxon and image pixels
+        run: |
+          python3 .shared-photo-audit/scripts/recover_historical_card_inat_expanded.py \
+            --source-root "$RUNNER_TEMP/original" \
+            --site-root site --repository "Crking92/Hays-Botany-Lamiales" \
+            --publisher lamiales --limit 80
+      - name: Verify all locally installed photographs and credit records
+        run: |
+          python3 - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          r=json.loads(Path("workflow/multi-family-historical-card-inat-expanded-2026-11-03.json").read_text())
+          for row in r["records"]:
+              if row["status"]!="SOURCE_VERIFIED_READY": continue
+              sid=row["species_id"]
+              assert hashlib.sha256(Path("site",row["src"]).read_bytes()).hexdigest()==row["sha256"]
+              card=json.loads(Path("site/data/species",sid+".json").read_text())
+              assert any(p.get("src")==row["src"] and p.get("creator")==row["creator"] and
+                  p.get("license")==row["license"] and p.get("source_page")==row["source_page"]
+                  for p in card["verified_photos"])
+          assert sum(x["status"]=="SOURCE_VERIFIED_READY" for x in r["records"])==r["new_installed"]
+          print("CARD_INAT_BATCH_LOCAL_VERIFIED",r["new_installed"],"held",r["held_checked"])
+          PY
+      - name: Commit safely against concurrent ZIP publishers
+        id: save
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json "workflow/multi-family-historical-card-inat-expanded-2026-11-03.json"
+            if test -f site/data/reviewed-external-photo-manifest.json; then git add site/data/reviewed-external-photo-manifest.json; fi
+            git diff --cached --check
+            if git diff --cached --quiet; then
+              echo "committed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git commit -m "Reconcile original Card source photos and publish only independently verified images"
+            if git push origin HEAD:main; then
+              echo "committed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git fetch origin main
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then
+                echo "committed=true" >> "$GITHUB_OUTPUT"
+                exit 0
+              fi
+            else
+              git rebase --abort || true
+            fi
+            git reset --hard origin/main
+            python3 .shared-photo-audit/scripts/recover_historical_card_inat_expanded.py \
+              --source-root "$RUNNER_TEMP/original" \
+              --site-root site --repository "Crking92/Hays-Botany-Lamiales" \
+              --publisher lamiales --limit 80
+          done
+          echo "Concurrent changes prevented safe write; no force push" >&2
+          exit 1
+      - name: Build Pages when photographs were actually newly installed
+        if: steps.save.outputs.committed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          NEW=$(python3 -c 'import json;print(json.load(open("workflow/multi-family-historical-card-inat-expanded-2026-11-03.json"))["new_installed"])')
+          if test "$NEW" -gt 0; then gh api --method POST "repos/${{ github.repository }}/pages/builds"; fi
+      - name: Verify live website image bytes and original photographer/license credit
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,time,urllib.request
+          from pathlib import Path
+          report=json.loads(Path("workflow/multi-family-historical-card-inat-expanded-2026-11-03.json").read_text())
+          rows=[r for r in report["records"] if r["status"]=="SOURCE_VERIFIED_READY"]
+          if not rows:
+              print("CARD_INAT_PUBLIC_PHOTOS_LIVE_WITH_CREDITS 0")
+              raise SystemExit(0)
+          base="https://crking92.github.io/Hays-Botany-Lamiales/site/"
+          def get(rel):
+              req=urllib.request.Request(base+rel,headers={"User-Agent":"HaysBotanyCard sourcePhotoLiveAudit/1.0"})
+              with urllib.request.urlopen(req,timeout=25) as response:
+                  assert response.status==200
+                  return response.read()
+          for attempt in range(50):
+              try:
+                  for r in rows:
+                      sid=r["species_id"];src=r["src"]
+                      assert hashlib.sha256(get(src)).hexdigest()==r["sha256"]
+                      card=json.loads(get("data/species/"+sid+".json"))
+                      assert any(p.get("src")==src and p.get("creator")==r["creator"] and
+                          p.get("license")==r["license"] and p.get("source_page")==r["source_page"]
+                          for p in card.get("verified_photos",[])),sid
+                  break
+              except Exception as e:
+                  if attempt==49:raise
+                  print("Pages image/credit propagation pending",str(e)[:100],flush=True)
+                  time.sleep(8)
+          print("CARD_INAT_PUBLIC_PHOTOS_LIVE_WITH_CREDITS",len(rows))
+          PY
