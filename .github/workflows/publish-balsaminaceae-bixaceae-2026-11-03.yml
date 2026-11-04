@@ -38,6 +38,7 @@ jobs:
             for attempt in $(seq 1 16); do
               python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site --check
               python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site
+              python3 scripts/normalize_nc_flags.py
               if [ -f scripts/verify_automatic_gallery.py ]; then python3 scripts/verify_automatic_gallery.py --site-root site; fi
               git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
               if git diff --cached --quiet; then
