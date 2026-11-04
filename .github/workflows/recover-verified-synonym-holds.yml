@@ -1,4 +1,4 @@
-name: Recover previously held photographs with Kew-verified taxonomic synonyms
+name: Retry exact-name historical synonyms with photo-rights checks
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: f3df80ef517e0574ffc4cbdc14941699f1c3c462
+          ref: 40e1042a483f769886430d947bf93fa93e8aaa26
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
