@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: b344020cfff1a1134822020ea35ec1f775dd2740
+          ref: 6a42c1c6bca9d85c8ffc2c3152fe4c32923fb81a
           path: .shared-recovery
           persist-credentials: false
       - name: Load immutable historical archives
@@ -40,8 +40,13 @@ jobs:
             --limit 90
       - name: Validate full site gallery and attribution atomically
         run: |
-          python3 scripts/build_collection_preview.py
-          git diff --check
+          N=$(python3 -c 'import json;print(json.load(open("/tmp/hays-bulk-summary.json"))["installed_pending_website"])')
+          if [ "$N" -gt 0 ]; then
+            python3 scripts/build_collection_preview.py
+            git diff --check
+          else
+            echo "NO_NEW_IMAGES_NO_SITE_MUTATION; no need to rerun full photo validator"
+          fi
       - name: Store exact unaccounted records and holds without creating another spreadsheet
         if: always()
         uses: actions/upload-artifact@v4
@@ -76,5 +81,5 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh api --method POST "repos/${{ github.repository }}/pages/builds"
-          echo "BATCH_COMMITTED_PAGES_REQUESTED; website-verified count pending deployment"
+          gh api --method POST "repos/${{ github.repository }}/pages/builds" || echo "Pages already queued or temporarily unavailable; push-triggered deployment remains authoritative"
+          echo "BATCH_COMMITTED_PAGES_PENDING; count only after rendered-site verification"
