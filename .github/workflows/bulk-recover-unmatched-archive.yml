@@ -1,0 +1,80 @@
+name: Publish rights-cleared historical photo backlog in ONE family batch
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/bulk-recover-unmatched-archive.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: hays-Hays-Botany-Lamiales-photo-publisher
+  cancel-in-progress: false
+jobs:
+  publish-and-audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/checkout@v4
+        with:
+          repository: Crking92/Hays-Botany-Public
+          ref: b344020cfff1a1134822020ea35ec1f775dd2740
+          path: .shared-recovery
+          persist-credentials: false
+      - name: Load immutable historical archives
+        run: |
+          git fetch origin staging/original-source-transfer
+          git worktree add "$RUNNER_TEMP/family-source" origin/staging/original-source-transfer
+      - name: Install Python image signature verifier
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: One bulk source-rights and photo-fingerprint pass over entire family unmatched queue
+        run: |
+          python3 .shared-recovery/scripts/recover_unmatched_archive_bulk_v1.py \
+            --archive "$RUNNER_TEMP/family-source" \
+            --site site \
+            --repo "Crking92/Hays-Botany-Lamiales" \
+            --reconciliation .shared-recovery/data/exports/original_photo_reconciliation_current.json \
+            --limit 90
+      - name: Validate full site gallery and attribution atomically
+        run: |
+          python3 scripts/build_collection_preview.py
+          git diff --check
+      - name: Store exact unaccounted records and holds without creating another spreadsheet
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hays-Lamiales-historical-bulk-results
+          path: /tmp/hays-bulk-summary.json
+          if-no-files-found: ignore
+          retention-days: 30
+      - name: One conflict-safe publication commit with all images, cards and index updates
+        id: save
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+          if git diff --cached --quiet; then
+            echo "new_images=0" >> "$GITHUB_OUTPUT"
+            echo "BATCH_WITH_NO_NEW_SAFE_IMAGES; see holds artifact"
+            exit 0
+          fi
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$(git rev-parse HEAD)" ]; then
+            echo "CONCURRENT_ZIP_OR_OTHER_PUBLISHER: refuse stale commit, rerun after newer publisher completes" >&2
+            exit 1
+          fi
+          git diff --cached --check
+          git commit -m 'Publish licensed historically unmatched originals in one atomic family gallery batch'
+          git push origin HEAD:main
+          echo "new_images=1" >> "$GITHUB_OUTPUT"
+      - name: Request normal Pages deployment for published batch
+        if: steps.save.outputs.new_images == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api --method POST "repos/${{ github.repository }}/pages/builds"
+          echo "BATCH_COMMITTED_PAGES_REQUESTED; website-verified count pending deployment"
