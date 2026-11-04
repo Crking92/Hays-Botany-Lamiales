@@ -1,4 +1,5 @@
 name: Verify actual public historical photo galleries
+# Read-only recheck of newly published taxonomic synonyms and retained source credits.
 on:
   push:
     branches: [main]
