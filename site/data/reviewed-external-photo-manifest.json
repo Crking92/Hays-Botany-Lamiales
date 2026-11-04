@@ -75,6 +75,21 @@
         "source_review_evidence": "Live iNaturalist observation 34765722, photo 54754486, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 364b75a23e0f7f2ccb075d114883a9d3e8dbe7d325487c77a4aabf593c3b81b9. Credit evidence: live iNaturalist API.",
         "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Anisacanthus quadrifidus wrightii maps to indexed species anisacanthus-quadrifidus-var-wrightii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
         "sha256": "364b75a23e0f7f2ccb075d114883a9d3e8dbe7d325487c77a4aabf593c3b81b9"
+      },
+      {
+        "src": "media/anisacanthus-quadrifidus-var-wrightii/archived-735e07d534f90765.jpg",
+        "creator": "Scott",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Anisacanthus_quadrifidus_wrightii.jpg",
+        "role": "Red tubular flowers with opposite narrow foliage; exact-variety fast-fill anchor",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "e1410b0817f6b149f8328f69f92770ae40ea9f1a",
+        "modified": "Historical archived photograph; no new changes.",
+        "rights_note": "Existing photo-specific Commons license, credited and hash-checked; legacy manifest reconciliation",
+        "original_source_record": "Existing species gallery card and historical source archive"
       }
     ],
     "monarda-citriodora": [
@@ -554,6 +569,21 @@
         "modified": "Exact original source bytes, not altered",
         "rights_note": "Existing historically sourced public-license photograph",
         "original_source_record": "content/taxa/Verbenaceae/Phyla/phyla-nodiflora/species.json"
+      },
+      {
+        "src": "media/phyla-nodiflora/archived-67d68269f0c627b7.jpg",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080605-6676_Phyla_nodiflora.jpg",
+        "role": "Flowers and leaves / creeping groundcover structure",
+        "source_page_is_exact": true,
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "source_blob_sha": "df1ab0d35a6a1a2321abc721d7ddfa894bce3d44",
+        "modified": "Historical archived photograph; no new changes.",
+        "rights_note": "Existing photo-specific Commons license, credited and hash-checked; legacy manifest reconciliation",
+        "original_source_record": "Existing species gallery card and historical source archive"
       }
     ],
     "campsis-radicans": [
