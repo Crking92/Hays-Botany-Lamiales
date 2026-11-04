@@ -6777,6 +6777,25 @@
         "source_review_evidence": "iNaturalist observation 248533672 photo 444096933 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 154257cbe23b14d352bd6eb23f22e57b478062f3; exact image source https://www.inaturalist.org/photos/444096933",
         "taxon_review_evidence": "Original species record Penstemon baccharifolius linked to an original image and matching current inat photo of source taxon Penstemon baccharifolius. Basic source-backed field recognition only; no diagnostic arrow certification.",
         "sha256": "52336823ac279cf68097983a9c2e8983f44e77db0183fc7d46980243d17d521b"
+      },
+      {
+        "src": "media/penstemon-baccharifolius/archived-3d5ff743e9924382.jpg",
+        "creator": "Clarence A. Rechenthin",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Penstemon_baccharifolius.jpg",
+        "source_page_is_exact": true,
+        "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+        "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+        "source_blob_sha": "a116d752445fd93164120ad7b5e2e58cdcaa7783",
+        "role": "Flowering habit / recognizable face",
+        "modified": "Historical archived photograph; no new changes.",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "Exact Commons file page, creator and image-specific PUBLIC DOMAIN (U.S. FEDERAL WORK) independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/d/d2/Penstemon_baccharifolius.jpg; image fingerprint distance 0; archived source SHA a116d752445fd93164120ad7b5e2e58cdcaa7783; exact image source https://commons.wikimedia.org/wiki/File:Penstemon_baccharifolius.jpg",
+        "taxon_review_evidence": "Original species record Penstemon baccharifolius linked to an original image and matching current commons photo of source taxon Penstemon baccharifolius. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "3d5ff743e9924382306d5dc1220666f32a2f17aae62e8d29a800fdc3a23142f0"
       }
     ],
     "penstemon-cobaea": [
@@ -9183,6 +9202,25 @@
         "source_review_evidence": "Live iNaturalist observation 355678930, photo 648632954, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f06149e53c8c508ed7ee2c04e77f7489f4a821aa54f517053845e7c2c86dfc9b. Credit evidence: live iNaturalist API.",
         "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum sinense maps to indexed species ligustrum-sinense; specialist morphology and BONAP range deferred.",
         "sha256": "f06149e53c8c508ed7ee2c04e77f7489f4a821aa54f517053845e7c2c86dfc9b"
+      },
+      {
+        "src": "media/ligustrum-sinense/archived-b22bfb4b846506f3.jpg",
+        "creator": "Bidgee",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ligustrum_sinense_leaves_and_flowers.jpg",
+        "source_page_is_exact": true,
+        "license": "CC BY-SA 2.5 AU",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5/au/",
+        "source_blob_sha": "094a195584d135a226667f7dba5a8f34313d8610",
+        "role": "Opposite leaves and flowers; provisional nonlocal habit/leaf recognition",
+        "modified": "Historical archived photograph; no new changes.",
+        "noncommercial_only": false,
+        "private_rights_review_only": false,
+        "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+        "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+        "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+        "source_review_evidence": "Exact Commons file page, creator and image-specific CC BY-SA 2.5 AU independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/7/77/Ligustrum_sinense_leaves_and_flowers.jpg; image fingerprint distance 0; archived source SHA 094a195584d135a226667f7dba5a8f34313d8610; exact image source https://commons.wikimedia.org/wiki/File:Ligustrum_sinense_leaves_and_flowers.jpg",
+        "taxon_review_evidence": "Original species record Ligustrum sinense linked to an original image and matching current commons photo of source taxon Ligustrum sinense. Basic source-backed field recognition only; no diagnostic arrow certification.",
+        "sha256": "b22bfb4b846506f393761ca51a064d0afd403b39590730e3661903fd5fe65183"
       }
     ],
     "physostegia-correllii": [
