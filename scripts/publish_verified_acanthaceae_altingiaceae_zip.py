@@ -17,6 +17,9 @@ RECORD_SIZE=42
 SYNONYMS={
  "justicia-americana":{"dianthera americana"}, # Kew homotypic synonym https://powo.science.kew.org/taxon/78915-2
  "aquarius-cordifolius":{"echinodorus cordifolius"}, # Kew homotypic synonym https://powo.science.kew.org/taxon/77182733-1
+ "anisacanthus-quadrifidus-var-wrightii":{"anisacanthus quadrifidus wrightii"}, # Identical 3-term rank-omitted variety label; Kew https://powo.science.kew.org/taxon/952518-1
+ "hygrophila-costata":{"hygrophila lacustris"}, # Kew accepted synonym https://powo.science.kew.org/taxon/49712-1
+ "ruellia-ciliatiflora":{"ruellia nudiflora","ruellia occidentalis"}, # Kew accepted synonyms https://powo.science.kew.org/taxon/53920-1
 }
 
 def grab(url,maxsize):
