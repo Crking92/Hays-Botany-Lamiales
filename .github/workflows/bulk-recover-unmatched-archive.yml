@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 6a42c1c6bca9d85c8ffc2c3152fe4c32923fb81a
+          ref: 64f4afc0e554413faace6d7d7199f0865efd1c9c
           path: .shared-recovery
           persist-credentials: false
       - name: Load immutable historical archives
