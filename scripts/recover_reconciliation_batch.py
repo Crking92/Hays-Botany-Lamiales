@@ -123,7 +123,7 @@ def verify_inat(row, expected_name, archived):
     urlparts=urllib.parse.urlparse(direct)
     if urlparts.scheme!="https" or urlparts.netloc not in ("inaturalist-open-data.s3.amazonaws.com","static.inaturalist.org"):
         raise ValueError("individual photo host not accepted")
-    if not re.search(r"/photos/"+re.escape(pid)+r"/(?:original|large)\\.(?:jpe?g|png|webp)$",urlparts.path,re.I):
+    if not re.search(r"/photos/"+re.escape(pid)+r"/(?:original|large)\.(?:jpe?g|png|webp)$",urlparts.path,re.I):
         raise ValueError("individual photo URL ID mismatch")
     code=str(photo.get("license_code") or "").lower().replace("_","-")
     lookup={"cc0":("CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/"),
