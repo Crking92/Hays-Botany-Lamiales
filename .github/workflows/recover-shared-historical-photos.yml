@@ -1,4 +1,4 @@
-name: Shared multi-family historical photo recovery — BATCH 2
+name: Shared historical photo recovery — Kew Glandularia pumila synonym follow-up
 on:
   push:
     branches: [main]
@@ -28,12 +28,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 2fbac171f35dbbeb61a88992e4a9474b08f2e5f6
+          ref: f29cbc171d0d7afaaa4d45a7273664243b479e25
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
         run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
-      - name: Audit up to 55 previously held originals and publish passing photos to this family only
+      - name: Retry two Kew-verified synonym holds with all per-photo rights and image checks
         run: |
           python3 .shared-photo-audit/scripts/recover_historical_multi_family_photos.py \
             --source-root "$RUNNER_TEMP/source-archive" \
