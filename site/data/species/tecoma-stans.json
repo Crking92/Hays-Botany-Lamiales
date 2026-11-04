@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/tecoma-stans/inat-416771880.jpeg",
+      "creator": "(c) txnaturewatch, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/416771880",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "7256bb788934fde6b45399c5c43074804c01fac2",
+      "role": "General field photograph, no anatomy claims",
+      "modified": "Original source photo; unaltered",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
+      "source_review_evidence": "Exact iNaturalist observation 234441166 and photo 416771880 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 0ad76177ea59164cfb5aaf674b7ec2395d64552a4341e333b3c051a8c73ebf54; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/416771880/original.jpeg.",
+      "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Tecoma stans' matches this assigned family species card tecoma-stans. Specialist morphology/field characters deferred.",
+      "sha256": "0ad76177ea59164cfb5aaf674b7ec2395d64552a4341e333b3c051a8c73ebf54"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "6383931a974f42bdc2cc1c788f53530746169ac235d8ec85d6b37e2edebed78c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

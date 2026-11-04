@@ -10,8 +10,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/catalpa-speciosa/inat-17272674.jpg",
+      "creator": "(c) ihono, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/17272674",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "a34795fba941f5f228dc42d2c2bac355a3f3a979",
+      "role": "General field photograph, no anatomy claims",
+      "modified": "Original source photo; unaltered",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
+      "source_review_evidence": "Exact iNaturalist observation 12013928 and photo 17272674 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 c42eaf8728b45cc8e8ae2d37e2c5ea2d92ecec3d3cce75f494ae87d7b445ee23; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/17272674/original.jpg.",
+      "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Catalpa speciosa' matches this assigned family species card catalpa-speciosa. Specialist morphology/field characters deferred.",
+      "sha256": "c42eaf8728b45cc8e8ae2d37e2c5ea2d92ecec3d3cce75f494ae87d7b445ee23"
+    },
+    {
+      "src": "media/catalpa-speciosa/inat-633292869.jpg",
+      "creator": "(c) Mike Quinn, San Marcos, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/633292869",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "30f18a907d7a619dc1d88fff3d24afca1051c8b7",
+      "role": "General field photograph, no anatomy claims",
+      "modified": "Original source photo; unaltered",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
+      "source_review_evidence": "Exact iNaturalist observation 347339831 and photo 633292869 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 15e423b4dec583789d2261578dbd36abe1cf4d8275775050ed9e016d5a45cf05; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/633292869/original.jpg.",
+      "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Catalpa speciosa' matches this assigned family species card catalpa-speciosa. Specialist morphology/field characters deferred.",
+      "sha256": "15e423b4dec583789d2261578dbd36abe1cf4d8275775050ed9e016d5a45cf05"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "73cb538072a3d15a4f27f20757f88d928fe952553a9427fdc6c1e3a1999fda6a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
