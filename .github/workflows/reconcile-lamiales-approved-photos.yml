@@ -1,0 +1,50 @@
+name: Reconcile Lamiales public photo manifest without losing archived images
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/reconcile-lamiales-approved-photos.yml'
+      - 'scripts/reconcile_lamiales_approved_gallery.py'
+      - 'site/media/**'
+      - 'site/data/species/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: lamiales-photo-manifest-reconciliation
+  cancel-in-progress: false
+jobs:
+  append-verified-photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Merge public manifest and rebuild counts from all licensed images
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in $(seq 1 12); do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 -m py_compile scripts/reconcile_lamiales_approved_gallery.py
+            python3 scripts/reconcile_lamiales_approved_gallery.py --site-root site
+            git add site/data/reviewed-external-photo-manifest.json site/data/collection-index.json site/data/gallery-index.json
+            if git diff --cached --quiet; then
+              echo "LAMIALES_PUBLIC_GALLERY_ALREADY_RECONCILED"
+              exit 0
+            fi
+            git diff --cached --check
+            git commit -m "Preserve all existing Lamiales display photos and add verified new originals"
+            if git push origin HEAD:main; then
+              echo "LAMIALES_PUBLIC_GALLERY_RECONCILED_AND_PUSHED"
+              exit 0
+            fi
+            echo "Concurrent GitHub update; recomputing from latest approved photo state ($attempt)"
+          done
+          echo "Couldn't safely publish the reconciled Lamiales gallery due to simultaneous writes" >&2
+          exit 1
