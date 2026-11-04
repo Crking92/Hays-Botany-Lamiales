@@ -35,6 +35,20 @@ jobs:
             --site-root site \
             --repo "Crking92/Hays-Botany-Lamiales" \
             --limit 25
+      - name: Identify any pre-existing noncommercial attribution inconsistencies
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          bad=[]
+          for f in Path('site/data/species').glob('*.json'):
+              d=json.loads(f.read_text())
+              for p in d.get('verified_photos',[]):
+                  nc=p.get('license') in ('CC BY-NC 4.0','CC BY-NC-SA 4.0')
+                  if p.get('noncommercial_only') is not nc:
+                      bad.append({'species':f.stem,'src':p.get('src'),'license':p.get('license'),'flag':p.get('noncommercial_only')})
+          print('BASELINE_NC_FLAG_MISMATCHES',json.dumps(bad[:30]),'COUNT',len(bad))
+          PY
       - name: Validate full gallery before any write
         run: |
           python3 scripts/build_collection_preview.py
