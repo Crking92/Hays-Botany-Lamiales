@@ -1,0 +1,99 @@
+name: Lamiales reconciliation-first individual photo license batch
+# Pass 3: two independently reviewed exact Commons images and source SHA checks
+# Pass 2: exact-source archived Commons pixel checks after API rate limits
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/pilot-reconciliation-photo-batch.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: hays-Hays-Botany-Lamiales-photo-publisher
+  cancel-in-progress: false
+jobs:
+  pilot:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Checkout immutable original archive
+        run: |
+          git fetch origin staging/original-source-transfer
+          git worktree add "$RUNNER_TEMP/source-archive" origin/staging/original-source-transfer
+      - name: Install Pillow for original-pixel verification
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Check script and run bounded source reconciliation
+        run: |
+          python3 -m py_compile scripts/recover_reconciliation_batch.py
+          python3 scripts/recover_reconciliation_batch.py \
+            --source-root "$RUNNER_TEMP/source-archive" \
+            --site-root site \
+            --repo "Crking92/Hays-Botany-Lamiales" \
+            --limit 25
+      - name: Validate full gallery before any write
+        run: |
+          python3 scripts/build_collection_preview.py
+          git diff --check
+      - name: Commit only complete photo/gallery batch, never overwrite ZIP publisher
+        id: save
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            echo "NO_APPROVED_CANDIDATES"
+            exit 0
+          fi
+          git fetch origin main
+          if test "$(git rev-parse origin/main)" != "$(git rev-parse HEAD)"; then
+            echo "NEW_ZIP_OR_OTHER_PUBLISHER_DETECTED: stop rather than overwrite" >&2
+            exit 1
+          fi
+          git diff --cached --check
+          git commit -m 'Publish rights-verified reconciliation-record Commons photographs'
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Request Pages deployment only when new eligible photos were installed
+        if: steps.save.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - name: Verify entire batch against live Pages
+        if: steps.save.outputs.published == 'true'
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, json, time, urllib.request
+          base='https://crking92.github.io/Hays-Botany-Lamiales/site/'
+          local=Path('site')
+          def fetch(path):
+              request=urllib.request.Request(base+path,headers={'User-Agent':'HaysBotanyLiveReconciliation/1.0'})
+              with urllib.request.urlopen(request,timeout=20) as r:
+                  if r.status!=200: raise ValueError('HTTP not 200')
+                  return r.read()
+          gallery=(local/'data/gallery-index.json').read_bytes()
+          for i in range(45):
+              try:
+                  if fetch('data/gallery-index.json')==gallery: break
+              except Exception: pass
+              time.sleep(10)
+          else: raise RuntimeError('Page gallery deployment not yet visible')
+          changed=[]
+          for path in (local/'media').rglob('historical-reconciled-*'):
+              relative=str(path.relative_to(local))
+              if hashlib.sha256(fetch(relative)).digest()!=hashlib.sha256(path.read_bytes()).digest():
+                  raise RuntimeError('Live image bytes differ '+relative)
+              slug=path.parent.name
+              card=json.loads(fetch('data/species/'+slug+'.json'))
+              if not any(p.get('src')==relative and p.get('creator') and p.get('license_url') and p.get('source_page') for p in card.get('verified_photos',[])):
+                  raise RuntimeError('Missing published image attribution '+relative)
+              changed.append(relative)
+          print('PUBLIC_RECONCILED_IMAGES_LIVE',len(changed),changed)
+          PY
