@@ -1,4 +1,5 @@
 name: Lamiales reconciliation-first individual photo license batch
+# Third pilot: checked owner-display QA and exact iNaturalist image ID regex
 # Pass 3: two independently reviewed exact Commons images and source SHA checks
 # Pass 2: exact-source archived Commons pixel checks after API rate limits
 on:
