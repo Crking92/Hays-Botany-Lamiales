@@ -40,9 +40,19 @@ jobs:
           def retrieve(rel,cache=""):
               url=base+rel+cache
               req=urllib.request.Request(url,headers={"User-Agent":"HaysBotanyLiveOriginalPhotoAudit/1.0"})
-              with urllib.request.urlopen(req,timeout=23) as response:
-                  if response.status!=200: raise ValueError("Bad live HTTP status: "+url)
-                  return response.read()
+              # GitHub Pages occasionally returns 429/502/503/504 mid-deployment.
+              # Retry only transient statuses, preserving exact-byte validation.
+              for attempt in range(6):
+                  try:
+                      with urllib.request.urlopen(req,timeout=28) as response:
+                          if response.status!=200: raise ValueError("Bad live HTTP status: "+url)
+                          return response.read()
+                  except urllib.error.HTTPError as e:
+                      if e.code not in (429,502,503,504) or attempt==5:raise
+                      time.sleep(min(2+2*attempt,12))
+                  except (TimeoutError,ConnectionError,urllib.error.URLError):
+                      if attempt==5:raise
+                      time.sleep(min(2+2*attempt,12))
           expected=(site/"data/gallery-index.json").read_bytes()
           for retry in range(36):
               try:
@@ -90,7 +100,7 @@ jobs:
               if hashlib.sha256(source).digest()!=hashlib.sha256(live).digest():
                   raise ValueError("Live photo or species bytes differ from GitHub: "+rel)
               return rel
-          with concurrent.futures.ThreadPoolExecutor(max_workers=10) as pool:
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
               checked=list(pool.map(verify,sorted(paths)))
           print("LIVE_PUBLIC_GALLERY_IMAGE_PASS",json.dumps({
               "repository":meta["repository_full_name"],
