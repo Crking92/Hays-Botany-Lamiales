@@ -176,6 +176,27 @@
       "source_review_evidence": "Missing/incomplete historic CSV metadata recovered from original archived image-sources.csv + species.json. iNaturalist observation 149766332 photo 258119803 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; original pinned Git blob 83706bb9bfaf4ed18bc805eecdf549493e115073.",
       "taxon_review_evidence": "Original species card verbena-halei plus live inat taxon Verbena halei and exact-photo pixel comparison. No specialist anatomy approval claimed.",
       "sha256": "a0991f497cf63d4981277abd206e8bc53a31e8acc561c9501eadf3896ed8201d"
+    },
+    {
+      "src": "media/verbena-halei/archived-3f95eb31962f9838.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/671352095",
+      "source_page_is_exact": true,
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "license_url": "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md",
+      "source_blob_sha": "1f2be91e2f3499053a7c2026f7f1da7e975689c0",
+      "role": "Slender flowering stems in mixed vegetation; flowers soft-focused, leaf and calyx macro still needed",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 367610117 photo 671352095 individual source license None; applicable owner site-display permission https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md; photographer (c) Calvin King, all rights reserved; image dHash difference 0; archived source SHA 1f2be91e2f3499053a7c2026f7f1da7e975689c0; exact image source https://www.inaturalist.org/photos/671352095",
+      "taxon_review_evidence": "Original species record Verbena halei linked to an original image and matching current inat photo of source taxon Verbena halei. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "3f95eb31962f9838630c760ed2ea9bd60de4efc9d63990566d36b2535fcea357",
+      "site_display_only": true,
+      "public_reuse": false
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

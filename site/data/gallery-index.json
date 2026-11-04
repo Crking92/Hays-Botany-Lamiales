@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 541,
+  "photo_count": 544,
   "photo_species": 102,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -370,11 +370,11 @@
       "first_src": "media/aloysia-virgata/source-f0d634b20982.jpg"
     },
     "glandularia-bipinnatifida": {
-      "count": 8,
+      "count": 9,
       "first_src": "media/glandularia-bipinnatifida/source-1b5b5c8c56fc.jpg"
     },
     "glandularia-pumila": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/glandularia-pumila/inat-620704009.jpg"
     },
     "lantana-camara": {
@@ -402,7 +402,7 @@
       "first_src": "media/verbena-canescens/inat-621523403.jpg"
     },
     "verbena-halei": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/verbena-halei/inat-626785996.jpg"
     },
     "verbena-scabra": {

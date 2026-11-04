@@ -1,7 +1,7 @@
 {
   "repository": "Crking92/Hays-Botany-Lamiales",
   "batch_key": "MULTIFAMILY_OWNER_DISPLAY_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T02:04:43.765934+00:00",
+  "checked_at": "2026-11-04T02:07:15.467376+00:00",
   "source_files": 240,
   "selection_window": 15,
   "candidate_pool_with_usable_source_identifiers": 3,
@@ -14,8 +14,8 @@
     "outside_exact_owner_permission_list": 234,
     "original_path_shape_unknown": 3
   },
-  "new_installed": 0,
-  "held_checked": 3,
+  "new_installed": 3,
+  "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
@@ -26,8 +26,13 @@
       "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/glass-root-665237164-first-photo.jpg",
       "git_blob_sha": "b637ca453d9b370aca13c63cc3578c1759add3c4",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/665237164",
+      "taxon": "Glandularia bipinnatifida",
+      "src": "media/glandularia-bipinnatifida/archived-855473b81b4420a1.jpg",
+      "sha256": "855473b81b4420a18bdebaedf95bfd7bcd889d3104fa7f6b2d32c8232eca4c99"
     },
     {
       "species_id": "glandularia-pumila",
@@ -37,8 +42,13 @@
       "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-pumila/images/glass-root-623376721-first-photo.jpg",
       "git_blob_sha": "bf139dc791c567cd43dd9c76972dd8c893d458e0",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/623376721",
+      "taxon": "Glandularia pumila",
+      "src": "media/glandularia-pumila/archived-708a81989b9187a9.jpg",
+      "sha256": "708a81989b9187a90dd8fff7a65429a55feaf067abecda72107f1fab6353bcda"
     },
     {
       "species_id": "verbena-halei",
@@ -48,16 +58,61 @@
       "archive_path": "migration/private-original-photo-holds/Verbenaceae/Verbena/verbena-halei/images/glass-root-671352095-first-photo.jpg",
       "git_blob_sha": "1f2be91e2f3499053a7c2026f7f1da7e975689c0",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/671352095",
+      "taxon": "Verbena halei",
+      "src": "media/verbena-halei/archived-3f95eb31962f9838.jpg",
+      "sha256": "3f95eb31962f9838630c760ed2ea9bd60de4efc9d63990566d36b2535fcea357"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-04T02:04:43.765934+00:00",
+      "selected_candidates": 3,
+      "new_installed": 0,
+      "held_checked": 3,
+      "records": [
+        {
+          "species_id": "glandularia-bipinnatifida",
+          "family": "Verbenaceae",
+          "filename": "glass-root-665237164-first-photo.jpg",
+          "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/glass-root-665237164-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-bipinnatifida/images/glass-root-665237164-first-photo.jpg",
+          "git_blob_sha": "b637ca453d9b370aca13c63cc3578c1759add3c4",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        },
+        {
+          "species_id": "glandularia-pumila",
+          "family": "Verbenaceae",
+          "filename": "glass-root-623376721-first-photo.jpg",
+          "original_path": "content/taxa/Verbenaceae/Glandularia/glandularia-pumila/images/glass-root-623376721-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Verbenaceae/Glandularia/glandularia-pumila/images/glass-root-623376721-first-photo.jpg",
+          "git_blob_sha": "bf139dc791c567cd43dd9c76972dd8c893d458e0",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        },
+        {
+          "species_id": "verbena-halei",
+          "family": "Verbenaceae",
+          "filename": "glass-root-671352095-first-photo.jpg",
+          "original_path": "content/taxa/Verbenaceae/Verbena/verbena-halei/images/glass-root-671352095-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Verbenaceae/Verbena/verbena-halei/images/glass-root-671352095-first-photo.jpg",
+          "git_blob_sha": "1f2be91e2f3499053a7c2026f7f1da7e975689c0",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
-  "held_by_reason": {
-    "Owner permission attribution not confirmed by exact photo": 3
-  },
-  "cumulative_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 3,
   "cumulative_held_reviewed": 3
 }
