@@ -1,4 +1,4 @@
-name: Reconcile two verified Salvia ballotiflora photographs from archival holds
+name: Recover Salvia archives from exact Commons media with safe publication rebase
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 02281de9a0ba772b41c64a6d951c217c48120b79
+          ref: ac44bfe59ad2c881fd92fa0b703f3ffa0723cf3b
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
@@ -90,6 +90,8 @@ jobs:
             echo "published=false" >> "$GITHUB_OUTPUT"
           fi
           git commit -m "Publish Bidgee's individually verified Commons CC BY-SA Australia original"
+          # Preserve any concurrent family publication commits; fail closed on conflicts.
+          git pull --rebase origin main
           git push origin HEAD:main
       - name: Request public Pages build for newly installed images
         if: steps.save.outputs.published == 'true'
