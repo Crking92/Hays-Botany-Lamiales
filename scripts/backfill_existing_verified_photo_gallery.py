@@ -98,10 +98,20 @@ gallery["photo_count"]=sum(r["photo_count"] for r in index["entries"])
 gallery["photo_species"]=sum(r["photo_count"]>0 for r in index["entries"])
 write(ip,index);write(gp,gallery)
 actual={p.relative_to(SITE).as_posix() for p in (SITE/"media").rglob("*") if p.is_file()}
-if actual!=verified_local:
-    raise RuntimeError("Some hosted originals remain unlinked to species cards: "+str(sorted(actual-verified_local)[:15]))
+unlinked=actual-verified_local
+known={p["src"]:p for rows in manifest["species"].values() for p in rows if p.get("src","").startswith("media/")}
+for source in sorted(unlinked):
+    rec=known.get(source)
+    if not rec or gitsha(SITE/source)!=rec.get("source_blob_sha"):
+        raise RuntimeError("Unverified hosted media not referenced in approved original manifest: "+source)
+    slug=source.split("/")[1]
+    card=json.loads((SITE/"data/species"/(slug+".json")).read_text())
+    if not any(p.get("source_blob_sha")==rec["source_blob_sha"] for p in card["verified_photos"]):
+        raise RuntimeError("Missing species-gallery representation of archived duplicate: "+source)
+if verified_local-actual:
+    raise RuntimeError("Species gallery references absent files")
 print("LAMIALES_EXISTING_MEDIA_GALLERY_BACKFILL",json.dumps({
-    "new_gallery_links":sum(added.values()),"species_improved":len(added),
+    "new_gallery_links":sum(added.values()),"species_improved":sum(n>0 for n in added.values()),"preserved_verified_duplicate_files":len(unlinked),
     "hosted_photos":len(actual),"gallery_photos":gallery["photo_count"],
     "nonchanges":dict(holds),"by_species":dict(added)
 },sort_keys=True),flush=True)
