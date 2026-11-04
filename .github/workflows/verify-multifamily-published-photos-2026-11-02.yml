@@ -1,4 +1,5 @@
 name: Verify all family photos are live and byte-identical on GitHub Pages
+# Preserve owner-granted public-display-only rights flags; these are not commercial reuse licenses.
 # 2026-11-03 Balsaminaceae–Bixaceae: verify new licensed originals (all current 475 gallery photos), source credits and exact public image bytes.
 # 2026-11-03 Lamiaceae: automatically verify new gallery originals and attribution after source-cleared publication.
 # 2026-11-03 t.zip: verify four new Utricularia gibba original photos and attributed Lamiales gallery.
@@ -74,7 +75,7 @@ jobs:
                   if not x.get("creator") or not x.get("source_page") or not x.get("license_url"):
                       raise SystemExit("Credit missing "+rel)
                   if x.get("private_rights_review_only"):raise SystemExit("Held photo exposed "+rel)
-                  nc=x.get("license") in ("CC BY-NC 4.0","CC BY-NC-SA 4.0")
+                  nc=x.get("license") in ("CC BY-NC 4.0","CC BY-NC-SA 4.0","OWNER PUBLIC DISPLAY PERMISSION")
                   if x.get("noncommercial_only") is not nc:raise SystemExit("NC usage flag mismatch "+rel)
                   if nc and meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is not True:
                       raise SystemExit("Site does not qualify for NC "+rel)
