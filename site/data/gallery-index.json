@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 544,
+  "photo_count": 552,
   "photo_species": 102,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -106,7 +106,7 @@
       "first_src": "media/lamium-purpureum/source-d0d9389cae6c.jpg"
     },
     "marrubium-vulgare": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/marrubium-vulgare/inat-636295996.jpg"
     },
     "monarda-citriodora": {
@@ -302,7 +302,7 @@
       "first_src": "media/leucospora-multifida/inat-201591136.jpeg"
     },
     "linaria-texana": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/linaria-texana/inat-481283189.jpeg"
     },
     "maurandella-antirrhiniflora": {
@@ -350,7 +350,7 @@
       "first_src": "media/veronica-polita/source-0ae56e7fc874.jpg"
     },
     "buddleja-racemosa": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/buddleja-racemosa/inat-634526198.jpg"
     },
     "leucophyllum-frutescens": {
