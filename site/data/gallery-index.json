@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 537,
+  "photo_count": 538,
   "photo_species": 102,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -250,7 +250,7 @@
       "first_src": "media/ligustrum-quihoui/source-57c739e3b767.jpg"
     },
     "ligustrum-sinense": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/ligustrum-sinense/archived-41155ff1abea9d21.jpg"
     },
     "menodora-heterophylla": {
