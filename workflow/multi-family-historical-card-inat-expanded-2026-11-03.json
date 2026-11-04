@@ -1,0 +1,43 @@
+{
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "batch_key": "MULTIFAMILY_HISTORICAL_CARD_INAT_EXPANDED_2026-11-03",
+  "checked_at": "2026-11-04T02:34:37.798027+00:00",
+  "source_files": 240,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "prior_historical_review_preserved": 89,
+    "already_public_identical_bytes": 120,
+    "card_lacks_exact_photo_and_observation_ids": 27,
+    "original_path_shape_unknown": 3
+  },
+  "new_installed": 0,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "ruellia-ciliatiflora",
+      "family": "Acanthaceae",
+      "filename": "inat-746790297-ruellia-ciliatiflora-inflorescence.jpg",
+      "original_path": "content/taxa/Acanthaceae/Ruellia/ruellia-ciliatiflora/images/inat-746790297-ruellia-ciliatiflora-inflorescence.jpg",
+      "archive_path": "migration/private-original-photo-holds/Acanthaceae/Ruellia/ruellia-ciliatiflora/images/inat-746790297-ruellia-ciliatiflora-inflorescence.jpg",
+      "git_blob_sha": "b150e3c12a438dd59382dd4bb9e0f23b4c029bfb",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Current photo creator differs from original image CSV: no rights reserved": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 1
+}
