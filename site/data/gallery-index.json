@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 102,
-  "photo_count": 535,
+  "photo_count": 536,
   "photo_species": 101,
   "entries": {
     "anisacanthus-quadrifidus-var-wrightii": {
@@ -386,7 +386,7 @@
       "first_src": "media/lantana-urticoides/source-a602d0873691.jpg"
     },
     "lantana-x-strigocamara": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/lantana-x-strigocamara/inat-635426525.jpg"
     },
     "phyla-nodiflora": {

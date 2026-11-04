@@ -1,0 +1,46 @@
+{
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "batch_key": "MULTIFAMILY_HISTORICAL_KEW_FOLLOWUP_B_B_2026-11-03",
+  "checked_at": "2026-11-04T00:12:11.961726+00:00",
+  "source_files": 240,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 233,
+    "unreviewed_taxonomic_mismatch": 1,
+    "original_path_shape_unknown": 3,
+    "already_public_identical_bytes": 2
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "lantana-x-strigocamara",
+      "family": "Verbenaceae",
+      "filename": "inat-166841047.jpg",
+      "original_path": "content/taxa/Verbenaceae/Lantana/lantana-x-strigocamara/images/inat-166841047.jpg",
+      "archive_path": "migration/private-original-photo-holds/Verbenaceae/Lantana/lantana-x-strigocamara/images/inat-166841047.jpg",
+      "git_blob_sha": "a08d46fd4c41c6f8e917a39c91a8184e93e6b74a",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Ron Stephens",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/166841047",
+      "taxon": "Lantana strigocamara",
+      "src": "media/lantana-x-strigocamara/archived-d3ce66a0411df06e.jpg",
+      "sha256": "d3ce66a0411df06e4e9eaf15310c26622d04d0e79604348f4338c1f6430824df"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

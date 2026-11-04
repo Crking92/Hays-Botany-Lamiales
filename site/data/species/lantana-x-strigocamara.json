@@ -105,6 +105,25 @@
       "source_review_evidence": "Exact iNaturalist observation 349383770 contains photo 637332919; live photo license cc-by-nc; photographer '(c) Daniela Garza, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 349383770 live source species lantana strigocamara aligns with lantana-x-strigocamara; detailed morphological study and BONAP range separately deferred.",
       "sha256": "d723568e32ebd1234e536991c581bdcf603d060c2076b5965dd709420500beaf"
+    },
+    {
+      "src": "media/lantana-x-strigocamara/archived-d3ce66a0411df06e.jpg",
+      "creator": "Ron Stephens",
+      "source_page": "https://www.inaturalist.org/photos/166841047",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "a08d46fd4c41c6f8e917a39c91a8184e93e6b74a",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approved_by": "Owner standing policy; exact-photo checks: Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "source_review_evidence": "iNaturalist observation 100004814 photo 166841047 individual CC code cc-by-nc; photographer (c) Ron Stephens, some rights reserved (CC BY-NC); image dHash difference 0; exact name synonym confirmed by Kew: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60444377-2; archived source SHA a08d46fd4c41c6f8e917a39c91a8184e93e6b74a; exact image source https://www.inaturalist.org/photos/166841047",
+      "taxon_review_evidence": "Original species record Lantana × strigocamara linked to an original image and matching current inat photo of source taxon Lantana strigocamara. Synonym crosschecked with Kew POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60444377-2. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "d3ce66a0411df06e4e9eaf15310c26622d04d0e79604348f4338c1f6430824df"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
