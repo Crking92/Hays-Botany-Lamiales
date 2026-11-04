@@ -1,4 +1,4 @@
-name: Recover Salvia archives from exact Commons media with safe publication rebase
+name: Publish two source-verified Salvia originals with complete gallery metadata
 on:
   push:
     branches: [main]
@@ -78,7 +78,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json  workflow/multi-family-commons-direct-cc-recovery-2026-11-03.json
+          git add site/media site/data workflow/multi-family-commons-direct-cc-recovery-2026-11-03.json
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
