@@ -13,6 +13,7 @@ import re
 import shutil
 from pathlib import Path
 from PIL import Image, UnidentifiedImageError
+from web_display_policy import make_display_bytes, ensure_site_budget
 
 ID = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 FILENAME = re.compile(r"^[a-z0-9][a-z0-9._-]{2,110}\.(?:jpg|jpeg|png|webp)$")
@@ -176,6 +177,10 @@ def main():
         if sid not in by_id or by_id[sid]["family"] not in families:
             fail("Cannot publish a species not yet on the assigned family site: " + sid)
         meta,image,payload,sha256=read_approved(root,sid,sidecar)
+        try:
+            display_payload,web_modified=make_display_bytes(payload,image.name)
+        except ValueError as exc:
+            fail("Cannot create a source-preserving web-size display photo: "+str(exc))
         nc_license=meta["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0","OWNER PUBLIC DISPLAY PERMISSION"}
         if nc_license and not (site_meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True and meta.get("noncommercial_site_use_confirmed") is True):
             fail("CC BY-NC photo requires explicit site and per-image noncommercial confirmation: " + str(sidecar))
@@ -191,7 +196,7 @@ def main():
         if not isinstance(photos,list):fail("Malformed species photo list")
         src="media/"+sid+"/"+image.name
         if dest.exists():
-            if dest.is_symlink() or dest.read_bytes()!=payload:
+            if dest.is_symlink() or dest.read_bytes()!=display_payload:
                 fail("Photo collision at " + str(dest))
         existing=next((p for p in photos if p.get("src")==src),None)
         if existing:
@@ -220,12 +225,23 @@ def main():
             record["site_display_only"]=True
             record["public_reuse"]=False
             record["noncommercial_only"]=True
+        if web_modified:
+            record["display_sha256"]=hashlib.sha256(display_payload).hexdigest()
+            record["display_blob_sha"]=blob_sha(display_payload)
+            record["display_original_site_sha256"]=sha256
+            record["display_original_intake_path"]="photo-intake/approved/"+sid+"/"+image.name
+            record["display_modifications"]="Resized and recompressed for web display; credited source preserved in photo intake"
+            record["modified"]="Resized and recompressed website copy; source note: "+record["modified"]
         photos.append(record)
         if dest.exists():fail("File already in site media but not referenced in the species lesson: " + src)
-        writes.append((dest,payload))
+        writes.append((dest,display_payload))
         added.append({"species_id":sid,"src":src,"creator":record["creator"],"license":record["license"]})
     if not added:
         print(json.dumps({"status":"NO_NEW_APPROVED_PHOTOS","installed":0,"species_count":len(by_id)}));return
+    try:
+        budget=ensure_site_budget(site,sum(len(raw) for _,raw in writes),len(writes))
+    except ValueError as exc:
+        fail(str(exc))
     counts={}
     for row in entries:
         sid=row["id"]
@@ -249,7 +265,7 @@ def main():
     report={"status":"CHECK_PASSED" if args.check else "PUBLISHED_SITE_SOURCE_UPDATED",
             "installed":len(added),"species_count":len(entries),
             "photo_count":gallery["photo_count"],"photo_species":gallery["photo_species"],
-            "added":added}
+            "added":added,"site_budget":budget}
     if not args.check:
         for dest,payload in writes:
             dest.parent.mkdir(parents=True,exist_ok=True)
