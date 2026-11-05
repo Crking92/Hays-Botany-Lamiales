@@ -4,7 +4,7 @@
   "genus": "Lamium",
   "scientific_name": "Lamium amplexicaule",
   "common_name": "Henbit",
-  "look_here_first": "LOOK HERE FIRST — HENBIT: a cool-season ANNUAL mint with squarish/4-angled stems and OPPOSITE leaf pairs. The LOWER leaves have stalks (petioles). HIGHER flowering leaves are ROUND/KIDNEY- to FAN-SHAPED, COARSELY SCALLOPED and SESSILE, forming a CLASPING COLLAR around the stem. PINK-PURPLE LONG TUBES with a HOODED UPPER LIP rise in clustered WHORLS at upper leaf nodes. This leaf stalk transition is the best split from L. purpureum (purple deadnettle), whose upper leaves remain stalked and tend to be more triangular/pointed and often purplish. Glechoma hederacea (ground ivy) is a perennial creeping stolon-former with stalked round leaves; it is NOT henbit.",
+  "look_here_first": "WINTER SEEDLING / YOUNG PLANT: After fall rains, look for low green annual growth with OPPOSITE round-to-heart-shaped scalloped leaves. On a mature enough stem, feel for the four square angles. Tiny seedlings may lack the diagnostic upper clasping leaves or flowers: identify as Lamium sp. until enough features develop. LOOK HERE FIRST — HENBIT: a cool-season ANNUAL mint with squarish/4-angled stems and OPPOSITE leaf pairs. The LOWER leaves have stalks (petioles). HIGHER flowering leaves are ROUND/KIDNEY- to FAN-SHAPED, COARSELY SCALLOPED and SESSILE, forming a CLASPING COLLAR around the stem. PINK-PURPLE LONG TUBES with a HOODED UPPER LIP rise in clustered WHORLS at upper leaf nodes. This leaf stalk transition is the best split from L. purpureum (purple deadnettle), whose upper leaves remain stalked and tend to be more triangular/pointed and often purplish. Glechoma hederacea (ground ivy) is a perennial creeping stolon-former with stalked round leaves; it is NOT henbit.",
   "key_traits": [
     {
       "label": "Habit",
@@ -48,8 +48,11 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Lamium purpureum (purple deadnettle)",
+      "Glechoma hederacea (ground ivy)"
+    ],
+    "differences": "HENBIT (L. amplexicaule): lower leaves petiolate, upper round/scalloped leaves sessile and clasp the stem; mature flowers arise at these upper whorls. PURPLE DEADNETTLE (L. purpureum): upper leaves generally retain short petioles and often crowd into a triangular/purplish canopy, not clasping collars. GROUND IVY (Glechoma hederacea): trailing perennial with stalked rounded leaves along creeping stolons, not an erect winter annual with clasping upper leaves. Sterile juvenile rosettes may not show all differences; record Lamium sp. when uncertain."
   },
   "verified_photos": [
     {
@@ -209,5 +212,5 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "2d8a7437722e3b7d92212b98700cf9c532196b990d782e337da63dd88b9577f6",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch; winter annual germination and seedling characters: University of Maryland Extension, Henbit (https://extension.umd.edu/resource/henbit), and Missouri State University Henbit field guide (https://ag.missouristate.edu/PBTrewatha/henbit.htm), checked 2026-11-04."
 }
