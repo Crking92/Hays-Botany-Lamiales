@@ -55,6 +55,19 @@ jobs:
               time.sleep(12)
           else:
               raise AssertionError("Live Pages manifest is not the currently approved photo release")
+          # A push can precede the Pages deployment; wait for the exact resized release.
+          local_optimization=Path("site/data/web-display-optimization.json")
+          if local_optimization.exists():
+              expected_optimization=local_optimization.read_bytes()
+              for attempt in range(55):
+                  try:
+                      if fetch("data/web-display-optimization.json")[2]==expected_optimization:
+                          break
+                  except Exception as exc:
+                      print("Waiting for resized Pages release",repr(exc),flush=True)
+                  time.sleep(8)
+              else:
+                  raise AssertionError("Optimized gallery is not deployed yet")
           assert "gallery-strip" in fetch("styles.css")[2].decode()
           assert "approvedPhotos" in fetch("app.js")[2].decode()
           assert len(json.loads(fetch("data/collection-index.json")[2])["entries"])==102
