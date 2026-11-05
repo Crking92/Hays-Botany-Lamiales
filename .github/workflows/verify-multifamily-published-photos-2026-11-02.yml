@@ -96,7 +96,7 @@ jobs:
               raise SystemExit("Published photo totals inconsistent")
           def verify(rel):
               source=(site/rel).read_bytes()
-              live=retrieve(rel)
+              live=retrieve(rel,"?release="+hashlib.sha256(source).hexdigest()[:16])
               if hashlib.sha256(source).digest()!=hashlib.sha256(live).digest():
                   raise ValueError("Live photo or species bytes differ from GitHub: "+rel)
               return rel
