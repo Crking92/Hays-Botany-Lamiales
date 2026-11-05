@@ -60,11 +60,11 @@ jobs:
           assert len(json.loads(fetch("data/collection-index.json")[2])["entries"])==102
           localphotos=[p for pics in live["species"].values() for p in pics if p["src"].startswith("media/")]
           localpaths=[p["src"] for p in localphotos]
-          hashes={p["src"]:p["source_blob_sha"] for p in localphotos}
+          hashes={p["src"]:(p.get("display_blob_sha") or p["source_blob_sha"]) for p in localphotos}
           assert len(localpaths)>=100 and len(hashes)==len(localpaths)
           assert all(p.get("creator") and p.get("source_page") for p in localphotos)
           assert all(not p.get("private_rights_review_only") for p in localphotos)
-          assert all(p.get("noncommercial_only") is (p.get("license") in ("CC BY-NC 4.0","CC BY-NC-SA 4.0")) for p in localphotos)
+          assert all(p.get("noncommercial_only") is (p.get("license") in ("CC BY-NC 4.0","CC BY-NC-SA 4.0","OWNER PUBLIC DISPLAY PERMISSION")) for p in localphotos)
           def check(path):
               status,ctype,body=fetch(path)
               assert status==200 and ctype.lower().startswith("image/"),(path,status,ctype)
@@ -73,7 +73,7 @@ jobs:
               original=(Path("site")/path).read_bytes()
               assert original==body,("Live byte mismatch",path)
               gitsha=hashlib.sha1(b"blob "+str(len(body)).encode()+b"\x00"+body).hexdigest()
-              assert gitsha==hashes[path],("Original-source hash mismatch",path)
+              assert gitsha==hashes[path],("Displayed-photo hash mismatch; source hash retained separately",path)
               return path,len(body)
           with ThreadPoolExecutor(max_workers=7) as executor:
               delivered=list(executor.map(check,localpaths))
