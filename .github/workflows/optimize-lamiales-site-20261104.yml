@@ -1,0 +1,72 @@
+name: Archive-safe Lamiales public image compression
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/optimize_existing_web_images.py'
+      - '.github/workflows/optimize-lamiales-site-20261104.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: lamiales-original-safe-web-compression
+  cancel-in-progress: false
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Install image decoder and check syntax
+        run: |
+          python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+          python3 -m py_compile scripts/optimize_existing_web_images.py
+      - name: Verify immutable original-photo archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          ARCHIVE_BRANCH=archive/lamiales-before-web-opt-20261104
+          git fetch origin main
+          git fetch origin "refs/heads/$ARCHIVE_BRANCH:refs/remotes/origin/$ARCHIVE_BRANCH"
+          git checkout -B lamiales-display-release origin/main
+          if test -f site/data/web-display-optimization.json; then
+            echo "Already optimized; never recompress existing display images."
+            echo 'SKIP_OPT=1' >> "$GITHUB_ENV"
+            exit 0
+          fi
+          git merge-base --is-ancestor "origin/$ARCHIVE_BRANCH" HEAD
+          echo "ARCHIVE_SHA=$(git rev-parse origin/$ARCHIVE_BRANCH)" >> "$GITHUB_ENV"
+          echo "ARCHIVE_BRANCH=$ARCHIVE_BRANCH" >> "$GITHUB_ENV"
+      - name: Verify source cards then generate compressed website copies
+        if: env.SKIP_OPT != '1'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/validate_collection.py
+          python3 scripts/optimize_existing_web_images.py --site site --archive-commit "$ARCHIVE_SHA" --archive-branch "$ARCHIVE_BRANCH"
+          python3 scripts/validate_collection.py
+      - name: Publish only if every image and site-size assertion passed
+        if: env.SKIP_OPT != '1'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/web-display-optimization.json site/data/reviewed-external-photo-manifest.json
+          git diff --cached --check
+          git commit -m "Publish smaller Lamiales display JPEGs; original archive and credits unchanged"
+          git fetch origin main
+          git rebase origin/main
+          python3 scripts/validate_collection.py
+          git push origin HEAD:main
+      - name: Request independent live-Pages photo verification
+        if: env.SKIP_OPT != '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/verify-historical-live-gallery.yml/dispatches" -f ref=main >/dev/null
