@@ -65,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "76e1a250e39a42513b73fda0786283d0f9b6b964",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -73,7 +73,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 12130679, photo 17405941, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0b014030142d85159970f0095fd9cd7443006e757abc9cc88bc53ab812b9b384. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia pentstemonoides maps to indexed species salvia-pentstemonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "0b014030142d85159970f0095fd9cd7443006e757abc9cc88bc53ab812b9b384"
+      "sha256": "0b014030142d85159970f0095fd9cd7443006e757abc9cc88bc53ab812b9b384",
+      "display_sha256": "c6b3e304a7c05341bd0ddde4dd5dcf125413c1252037278fc43017830e9b4fd8",
+      "display_blob_sha": "1542c335932f225971005236f38f017904e423d1",
+      "display_original_site_sha256": "0b014030142d85159970f0095fd9cd7443006e757abc9cc88bc53ab812b9b384",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-pentstemonoides/inat-18199851.jpg",
@@ -84,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b3d43953abf31a3d4c73803737eccb783e177ef7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -92,7 +97,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 12591583, photo 18199851, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f486ea40c32a371cd1f9ba1a3ca7032ff3dcb19bde014040d324a486b2487096. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia pentstemonoides maps to indexed species salvia-pentstemonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "f486ea40c32a371cd1f9ba1a3ca7032ff3dcb19bde014040d324a486b2487096"
+      "sha256": "f486ea40c32a371cd1f9ba1a3ca7032ff3dcb19bde014040d324a486b2487096",
+      "display_sha256": "04416b3e8134e9339d3160c0cbbe6d3ddccb38528f53ca7351276076c072f48c",
+      "display_blob_sha": "73ce7d24f99891c8e58d4901c2ced239643ecfa8",
+      "display_original_site_sha256": "f486ea40c32a371cd1f9ba1a3ca7032ff3dcb19bde014040d324a486b2487096",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-pentstemonoides/inat-292210636.jpg",
@@ -103,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "caa1f5555016a7b25cacccb941a0d116a9c27d41",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -111,7 +121,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 168597865, photo 292210636, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b4d790d7529cc14362a8fb2f504187639568d544d7b3926bf48edfa34dc667d0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia pentstemonoides maps to indexed species salvia-pentstemonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "b4d790d7529cc14362a8fb2f504187639568d544d7b3926bf48edfa34dc667d0"
+      "sha256": "b4d790d7529cc14362a8fb2f504187639568d544d7b3926bf48edfa34dc667d0",
+      "display_sha256": "5cab7e57a22b35e2f05963e6ee8ea255c374d21fd4fcb2f0f1ba7dd5c5715e18",
+      "display_blob_sha": "b163b2d000536cece2df483b8c88ab370dae1eac",
+      "display_original_site_sha256": "b4d790d7529cc14362a8fb2f504187639568d544d7b3926bf48edfa34dc667d0",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-pentstemonoides/inat-681750480.jpg",
@@ -122,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5919e85045ed88e9740f3de6711bfa3af48d77cd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -130,7 +145,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 373059624, photo 681750480, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7475dec3ed04bf403b17bfaa85014a9925659fc0c8b90aeaf6ca9a49d11b43e1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia pentstemonoides maps to indexed species salvia-pentstemonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "7475dec3ed04bf403b17bfaa85014a9925659fc0c8b90aeaf6ca9a49d11b43e1"
+      "sha256": "7475dec3ed04bf403b17bfaa85014a9925659fc0c8b90aeaf6ca9a49d11b43e1",
+      "display_sha256": "6cfaad7a877508913e49889b7c1698322069e39c9c09d61d76d8605bbba73433",
+      "display_blob_sha": "3a5f56d9eb32cf2c52c18b7b9645d9b8d4681db7",
+      "display_original_site_sha256": "7475dec3ed04bf403b17bfaa85014a9925659fc0c8b90aeaf6ca9a49d11b43e1",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-pentstemonoides/inat-8113927.jpeg",
@@ -141,7 +161,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cba169e20b2cf5536b29feb868c4aeac275e4a98",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -149,7 +169,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 6426252, photo 8113927, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5eea68dc834dcbc1e7edaa43e27e7924659b8ff03fb8fbcf28691b01a2349326. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia pentstemonoides maps to indexed species salvia-pentstemonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "5eea68dc834dcbc1e7edaa43e27e7924659b8ff03fb8fbcf28691b01a2349326"
+      "sha256": "5eea68dc834dcbc1e7edaa43e27e7924659b8ff03fb8fbcf28691b01a2349326",
+      "display_sha256": "478a1bfa88ba5cddbb6cf3a4e7cc3dc5ada4bc68423f066c1fce276febc713d6",
+      "display_blob_sha": "85021a493975f6a69d58c3ea17e9a5a607f8e050",
+      "display_original_site_sha256": "5eea68dc834dcbc1e7edaa43e27e7924659b8ff03fb8fbcf28691b01a2349326",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

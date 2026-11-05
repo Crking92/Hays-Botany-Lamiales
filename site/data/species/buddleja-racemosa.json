@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "971de535d1025cc7fc4658e3b8a56d1a60fc34b9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany multi-family original ZIP contact-sheet/source verifier",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347960969, photo 634526198, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 36b3f98aafc2ecdd242980d71b309425d5a0b63e1bc676cb2af021a1d7eaf824.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Buddleja racemosa maps to indexed species buddleja-racemosa; specialist morphology and BONAP range deferred.",
-      "sha256": "36b3f98aafc2ecdd242980d71b309425d5a0b63e1bc676cb2af021a1d7eaf824"
+      "sha256": "36b3f98aafc2ecdd242980d71b309425d5a0b63e1bc676cb2af021a1d7eaf824",
+      "display_sha256": "79fb54b9d1f42705dea8bf96acf1c0d94de352111962553ce71007713e8abf26",
+      "display_blob_sha": "4a8a34080f92be236df7418c30f4de652e1dc859",
+      "display_original_site_sha256": "36b3f98aafc2ecdd242980d71b309425d5a0b63e1bc676cb2af021a1d7eaf824",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/buddleja-racemosa/inat-640804788.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "10e1d8571fd663d12b778989af2f43bba3bb29c8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany multi-family original ZIP contact-sheet/source verifier",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 351171494, photo 640804788, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ceb56c77113f14295304795247bbf181dcea24e4f2dbad9d613bf4fbf8e92ac8.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Buddleja racemosa maps to indexed species buddleja-racemosa; specialist morphology and BONAP range deferred.",
-      "sha256": "ceb56c77113f14295304795247bbf181dcea24e4f2dbad9d613bf4fbf8e92ac8"
+      "sha256": "ceb56c77113f14295304795247bbf181dcea24e4f2dbad9d613bf4fbf8e92ac8",
+      "display_sha256": "22de71de307762f8872bdeba0a49809c7e2dc4390f3a073792aabfc13cbcaf09",
+      "display_blob_sha": "82ef0383da4ab9fbafcbf8f79bb427694fad3f5b",
+      "display_original_site_sha256": "ceb56c77113f14295304795247bbf181dcea24e4f2dbad9d613bf4fbf8e92ac8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/buddleja-racemosa/inat-643267644.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e776844540d0c6fcd51c73278412ccb4de4a1b5b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany multi-family original ZIP contact-sheet/source verifier",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 352439244, photo 643267644, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9b07336e73421c9f98cce9163322250d60dd4f6715ec2508c5f942f43e04869c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Buddleja racemosa maps to indexed species buddleja-racemosa; specialist morphology and BONAP range deferred.",
-      "sha256": "9b07336e73421c9f98cce9163322250d60dd4f6715ec2508c5f942f43e04869c"
+      "sha256": "9b07336e73421c9f98cce9163322250d60dd4f6715ec2508c5f942f43e04869c",
+      "display_sha256": "fcf8863f97b46bb61e5574dd64af376d2c43977d9e42ffff89e6d332b492c6c5",
+      "display_blob_sha": "8cd06b9a9ef9852ffe9a8e465a2101461d8bbcdc",
+      "display_original_site_sha256": "9b07336e73421c9f98cce9163322250d60dd4f6715ec2508c5f942f43e04869c",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/buddleja-racemosa/inat-653968028.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e07a440665de52db1a16df3e0da6fe82a5f11fee",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany multi-family original ZIP contact-sheet/source verifier",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 358483320, photo 653968028, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f98d314feb71be21ccaa95cd3644d3f342bb4e4e8f325f1e6983ba14b8968cb.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Buddleja racemosa maps to indexed species buddleja-racemosa; specialist morphology and BONAP range deferred.",
-      "sha256": "9f98d314feb71be21ccaa95cd3644d3f342bb4e4e8f325f1e6983ba14b8968cb"
+      "sha256": "9f98d314feb71be21ccaa95cd3644d3f342bb4e4e8f325f1e6983ba14b8968cb",
+      "display_sha256": "4d0a2a47accc6e08ec5a20b9e32032acd8a90d6db41d9284c8843842477b17ec",
+      "display_blob_sha": "a74bed8633955416353f35952e24e09433aca5c5",
+      "display_original_site_sha256": "9f98d314feb71be21ccaa95cd3644d3f342bb4e4e8f325f1e6983ba14b8968cb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/buddleja-racemosa/inat-657435517.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5f25e2e86ea9db15fe4ca285698c60ab6b6e05ac",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany multi-family original ZIP contact-sheet/source verifier",
@@ -104,7 +124,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 360298967, photo 657435517, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e205bedab3bb5cab1937d86f53b2c57fd5037b768cf1e1a6e1ec9b74724b0bbb.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Buddleja racemosa maps to indexed species buddleja-racemosa; specialist morphology and BONAP range deferred.",
-      "sha256": "e205bedab3bb5cab1937d86f53b2c57fd5037b768cf1e1a6e1ec9b74724b0bbb"
+      "sha256": "e205bedab3bb5cab1937d86f53b2c57fd5037b768cf1e1a6e1ec9b74724b0bbb",
+      "display_sha256": "86e81cbaae2d02b010e55b254601c3d0c81cb8a2525ef525e0a2bba2caeabf44",
+      "display_blob_sha": "dc549b879ba48f099ee0d2f3db07c2b5ea5bcb91",
+      "display_original_site_sha256": "e205bedab3bb5cab1937d86f53b2c57fd5037b768cf1e1a6e1ec9b74724b0bbb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/buddleja-racemosa/archived-334b6c0883c959b3.jpg",

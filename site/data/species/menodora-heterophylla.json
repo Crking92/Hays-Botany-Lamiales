@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "46062ce5ab6304b0c9aeb32773995c40b328a966",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -47,7 +47,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342687656, photo 624102396, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 85105978bce902a80dc3f3e4f42f3da0d0a78750b0d732a755dc245c33a4999c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Menodora heterophylla maps to indexed species menodora-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "85105978bce902a80dc3f3e4f42f3da0d0a78750b0d732a755dc245c33a4999c"
+      "sha256": "85105978bce902a80dc3f3e4f42f3da0d0a78750b0d732a755dc245c33a4999c",
+      "display_sha256": "b68723be1597e4604d8bf9112ac5ca8dcbd618be588e2699f522be9fa5871d54",
+      "display_blob_sha": "f61cb06bf1e9c631efac2632faead7957ac6ecd0",
+      "display_original_site_sha256": "85105978bce902a80dc3f3e4f42f3da0d0a78750b0d732a755dc245c33a4999c",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/menodora-heterophylla/inat-624233412.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3f2b3e82ee24e116a5a2cee25a2d6a9fdbba8a53",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -66,7 +71,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342761115, photo 624233412, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a3ad78c63e526d2562f5114f4f7dc924e6eb95469994f80465ee8b4de9989694. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Menodora heterophylla maps to indexed species menodora-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "a3ad78c63e526d2562f5114f4f7dc924e6eb95469994f80465ee8b4de9989694"
+      "sha256": "a3ad78c63e526d2562f5114f4f7dc924e6eb95469994f80465ee8b4de9989694",
+      "display_sha256": "a744ae362b8ca844cdff6f0a1f65dee6f510c3d9d0ac1eab928f792bfd8cd805",
+      "display_blob_sha": "281e1ab33dc1efdfe9b8f311f14a0fdca014c3d9",
+      "display_original_site_sha256": "a3ad78c63e526d2562f5114f4f7dc924e6eb95469994f80465ee8b4de9989694",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/menodora-heterophylla/inat-626803605.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cdb8096f5a30011bd7b532ebb2708eea12880b59",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -85,7 +95,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343154704, photo 626803605, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 41550348541ade08887db152af581e1aed40c7cd67d5b544fc3be6f695b84a12. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Menodora heterophylla maps to indexed species menodora-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "41550348541ade08887db152af581e1aed40c7cd67d5b544fc3be6f695b84a12"
+      "sha256": "41550348541ade08887db152af581e1aed40c7cd67d5b544fc3be6f695b84a12",
+      "display_sha256": "4f664f6bc27361a5a79967fb65462ad035ca64a0856ea9455ca74d715eb2a61c",
+      "display_blob_sha": "add8e6a2558efa08fa4504a8772c7ae39ceb4c18",
+      "display_original_site_sha256": "41550348541ade08887db152af581e1aed40c7cd67d5b544fc3be6f695b84a12",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/menodora-heterophylla/inat-632926019.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2fc164ffaceeccbc3fae3da59890f8c79f37df3c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -104,7 +119,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347152288, photo 632926019, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f71fc0e86ee16a6d2c2516b889a454c66e866ff4aa56dd581da98638316290d6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Menodora heterophylla maps to indexed species menodora-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "f71fc0e86ee16a6d2c2516b889a454c66e866ff4aa56dd581da98638316290d6"
+      "sha256": "f71fc0e86ee16a6d2c2516b889a454c66e866ff4aa56dd581da98638316290d6",
+      "display_sha256": "4d44196888d00d61cb083129fa437371526904ebba5ea92e1c3e8c50d1e9d541",
+      "display_blob_sha": "c78f252c46e0e06f627b79fdcee9b45cb4b9bd4c",
+      "display_original_site_sha256": "f71fc0e86ee16a6d2c2516b889a454c66e866ff4aa56dd581da98638316290d6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/menodora-heterophylla/inat-646898836.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9ede7188a96398bbc0fdd5504bb6138a072fe8c3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -123,7 +143,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 354630715, photo 646898836, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b865272a1045c7e5d68583d98855802ee9f95d646be8b81ef1a0cdfc1212d0d0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Menodora heterophylla maps to indexed species menodora-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "b865272a1045c7e5d68583d98855802ee9f95d646be8b81ef1a0cdfc1212d0d0"
+      "sha256": "b865272a1045c7e5d68583d98855802ee9f95d646be8b81ef1a0cdfc1212d0d0",
+      "display_sha256": "542fe9cb0f830e59cace43644eee67b9aeeb4e963d45c6f1b8ed6ae52c000be7",
+      "display_blob_sha": "eea72630a6de065ec74ce4b65860119da71e12c6",
+      "display_original_site_sha256": "b865272a1045c7e5d68583d98855802ee9f95d646be8b81ef1a0cdfc1212d0d0",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

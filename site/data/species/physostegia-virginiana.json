@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "20bf539680c6987c521e3d1b64354141d88a1c72",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -72,7 +72,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 155606264, photo 269000694, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1daf2f3207c6522a727239b38c52d29d4a3b171c12b63d2fa75a8aa001e67ae2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Physostegia virginiana maps to indexed species physostegia-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "1daf2f3207c6522a727239b38c52d29d4a3b171c12b63d2fa75a8aa001e67ae2"
+      "sha256": "1daf2f3207c6522a727239b38c52d29d4a3b171c12b63d2fa75a8aa001e67ae2",
+      "display_sha256": "81b1ffae555831d4f9a677db56f43c1da2ed39bc84483924ff8833001c362378",
+      "display_blob_sha": "c47aa4715b9e1c859c5d402656fc446b104e52b9",
+      "display_original_site_sha256": "1daf2f3207c6522a727239b38c52d29d4a3b171c12b63d2fa75a8aa001e67ae2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physostegia-virginiana/inat-520110511.jpg",
@@ -83,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "18c74d6b685834e2be24f77677a14e418fb805f2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -91,7 +96,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 289183282, photo 520110511, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ee3dfbdf53ae13e84b580cfbaa2ec5b4aff40f0313882d1fbf67e34d6906f803. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Physostegia virginiana maps to indexed species physostegia-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "ee3dfbdf53ae13e84b580cfbaa2ec5b4aff40f0313882d1fbf67e34d6906f803"
+      "sha256": "ee3dfbdf53ae13e84b580cfbaa2ec5b4aff40f0313882d1fbf67e34d6906f803",
+      "display_sha256": "8cc5a16c96c0757cdf3062022534ba4c1cddb0b752b25397bd1734d17e7a038f",
+      "display_blob_sha": "ab9f07a4f54088ba2b4ef4062f9524c0e7bf8d63",
+      "display_original_site_sha256": "ee3dfbdf53ae13e84b580cfbaa2ec5b4aff40f0313882d1fbf67e34d6906f803",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physostegia-virginiana/inat-665333885.jpg",
@@ -102,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "837a9052caa78dadabed586755062dafea2e95e4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -110,7 +120,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 364456258, photo 665333885, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a53118bcd7b94d90936e5ee21154e9b8f862cbe4f4c917aea01b2f63a9b63f2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Physostegia virginiana maps to indexed species physostegia-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "5a53118bcd7b94d90936e5ee21154e9b8f862cbe4f4c917aea01b2f63a9b63f2"
+      "sha256": "5a53118bcd7b94d90936e5ee21154e9b8f862cbe4f4c917aea01b2f63a9b63f2",
+      "display_sha256": "336c602acc61c97fa46287b6e99e446459dcaf5d723db2523a5264aeebf3e60e",
+      "display_blob_sha": "6e90d35284297ec0886d1b335ed4975599293f80",
+      "display_original_site_sha256": "5a53118bcd7b94d90936e5ee21154e9b8f862cbe4f4c917aea01b2f63a9b63f2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physostegia-virginiana/inat-689268612.jpg",
@@ -121,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a6c668731fb95ea87c1a168e70aaa3f2916b9eb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -129,7 +144,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 376953383, photo 689268612, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 25c5d87f117158a6a49ed4e78c9b6325ebc3237ea53a878d53e1d449340aaafc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Physostegia virginiana maps to indexed species physostegia-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "25c5d87f117158a6a49ed4e78c9b6325ebc3237ea53a878d53e1d449340aaafc"
+      "sha256": "25c5d87f117158a6a49ed4e78c9b6325ebc3237ea53a878d53e1d449340aaafc",
+      "display_sha256": "091349db01cb95864d1398b6f4cf8312ab1f1060fdd2a679d766116e6888532f",
+      "display_blob_sha": "a7f390a60778e475a9448bce3c160c013653889f",
+      "display_original_site_sha256": "25c5d87f117158a6a49ed4e78c9b6325ebc3237ea53a878d53e1d449340aaafc",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physostegia-virginiana/inat-706285096.jpg",

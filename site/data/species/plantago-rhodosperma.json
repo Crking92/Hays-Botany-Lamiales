@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "28ac53feaf1f62781d440c17cd26b6207e39a95a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342504506, photo 623734293, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d5fb025d402a24a98e93e228a5550f935507ed454cdf62b83c3f45923ef7895d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Plantago rhodosperma maps to indexed species plantago-rhodosperma; specialist morphology and BONAP range deferred.",
-      "sha256": "d5fb025d402a24a98e93e228a5550f935507ed454cdf62b83c3f45923ef7895d"
+      "sha256": "d5fb025d402a24a98e93e228a5550f935507ed454cdf62b83c3f45923ef7895d",
+      "display_sha256": "c8348011cf8f90286f57cdc3cd36f2fc9a6df44ffd1c89706f70bcead683cf25",
+      "display_blob_sha": "c6539bb53689eeef79bd55dea0985af9adfae75b",
+      "display_original_site_sha256": "d5fb025d402a24a98e93e228a5550f935507ed454cdf62b83c3f45923ef7895d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/plantago-rhodosperma/inat-625509824.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7667b9b4fa6621b3a528ad848296b4143d6f7bac",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343391261, photo 625509824, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0d95b0d84df34becb8ac7909bcb7522863ab4c0ea985d0a903533cf823ef863f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Plantago rhodosperma maps to indexed species plantago-rhodosperma; specialist morphology and BONAP range deferred.",
-      "sha256": "0d95b0d84df34becb8ac7909bcb7522863ab4c0ea985d0a903533cf823ef863f"
+      "sha256": "0d95b0d84df34becb8ac7909bcb7522863ab4c0ea985d0a903533cf823ef863f",
+      "display_sha256": "f38a43ea59c09e2cf767554eafef9787d547edf41b81d71f3f68ce69e0b0d621",
+      "display_blob_sha": "cb2f9798b3045c2202e0bcb1d1a75e85e85b0c9a",
+      "display_original_site_sha256": "0d95b0d84df34becb8ac7909bcb7522863ab4c0ea985d0a903533cf823ef863f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/plantago-rhodosperma/inat-634044282.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bef8f243948617b80e6c59e437df5cd8a70a587d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -85,7 +95,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 348180355, photo 634961048, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cb438f8f295144ea45be6c5d97ab7733333ae8fd00e484523ef888202a8adfcc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Plantago rhodosperma maps to indexed species plantago-rhodosperma; specialist morphology and BONAP range deferred.",
-      "sha256": "cb438f8f295144ea45be6c5d97ab7733333ae8fd00e484523ef888202a8adfcc"
+      "sha256": "cb438f8f295144ea45be6c5d97ab7733333ae8fd00e484523ef888202a8adfcc",
+      "display_sha256": "7bc28898add8bce0f4a3d7039dc3018a058ed59c01800e3eb3eea7d5732d181a",
+      "display_blob_sha": "2c650b076191a74c064e214e09396e13127fad73",
+      "display_original_site_sha256": "cb438f8f295144ea45be6c5d97ab7733333ae8fd00e484523ef888202a8adfcc",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/plantago-rhodosperma/inat-641481184.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "15adf94b69dc456998588c482ab048a63433c936",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -104,7 +119,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 351513559, photo 641481184, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1dcff61e6f8b4bf92042e51b25169fd9d7eb3e26e7a0919e5aa1d6e6d52e9d01. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Plantago rhodosperma maps to indexed species plantago-rhodosperma; specialist morphology and BONAP range deferred.",
-      "sha256": "1dcff61e6f8b4bf92042e51b25169fd9d7eb3e26e7a0919e5aa1d6e6d52e9d01"
+      "sha256": "1dcff61e6f8b4bf92042e51b25169fd9d7eb3e26e7a0919e5aa1d6e6d52e9d01",
+      "display_sha256": "c69e0da2ddd160e7b02072fa3604252c191016aa34a5e6dbd1e57d1074dab557",
+      "display_blob_sha": "843dfe6b32df90eac7c454622c8a6c6578c12350",
+      "display_original_site_sha256": "1dcff61e6f8b4bf92042e51b25169fd9d7eb3e26e7a0919e5aa1d6e6d52e9d01",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/plantago-rhodosperma/archived-76905f97ecb85227.jpeg",

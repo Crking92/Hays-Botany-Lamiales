@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c80d60f22b6987e9348766b83a04023468c9bdd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +85,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341141691, photo 620956831, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4ef2bff6050ec2102a38a14dd724db17fc764d94a214e8f8bb1e7559e4887b26. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia roemeriana maps to indexed species salvia-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "4ef2bff6050ec2102a38a14dd724db17fc764d94a214e8f8bb1e7559e4887b26"
+      "sha256": "4ef2bff6050ec2102a38a14dd724db17fc764d94a214e8f8bb1e7559e4887b26",
+      "display_sha256": "351478a9142c2b7337825da3f6c43738bfcf9e599358a7df0725574240db91bf",
+      "display_blob_sha": "98b2944ee9f88e015c02bc41d6a85967760ea9f0",
+      "display_original_site_sha256": "4ef2bff6050ec2102a38a14dd724db17fc764d94a214e8f8bb1e7559e4887b26",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-roemeriana/inat-622778077.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e6aa0c2c66eebecae5f81d1da4573215ddda74e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +109,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342032054, photo 622778077, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 70162187200c11ab69f91738aaac7f2101fc6bf1de64c67b6214af87443e9500. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia roemeriana maps to indexed species salvia-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "70162187200c11ab69f91738aaac7f2101fc6bf1de64c67b6214af87443e9500"
+      "sha256": "70162187200c11ab69f91738aaac7f2101fc6bf1de64c67b6214af87443e9500",
+      "display_sha256": "0155c820b072ecfdf62e19344d87d5afafd5f25720c74d517a469f7469e200b1",
+      "display_blob_sha": "50b4ca683572b872984152dceb290aed133f9226",
+      "display_original_site_sha256": "70162187200c11ab69f91738aaac7f2101fc6bf1de64c67b6214af87443e9500",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-roemeriana/inat-624396609.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a19ffba9fcd36e746b725d56eb9ea0a7aeec581b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -123,7 +133,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342841811, photo 624396609, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec3bc4fd6c289217fd304677326d7636cfc61918a9f3636a49b8ffa5ec2ebaaa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia roemeriana maps to indexed species salvia-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "ec3bc4fd6c289217fd304677326d7636cfc61918a9f3636a49b8ffa5ec2ebaaa"
+      "sha256": "ec3bc4fd6c289217fd304677326d7636cfc61918a9f3636a49b8ffa5ec2ebaaa",
+      "display_sha256": "7e6878789b7c7d023b2e19b26a8502915424bb8dd32f9b664e1da75885114a67",
+      "display_blob_sha": "4d70c99942df48f370993175dfd036c10d50d148",
+      "display_original_site_sha256": "ec3bc4fd6c289217fd304677326d7636cfc61918a9f3636a49b8ffa5ec2ebaaa",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-roemeriana/inat-624747692.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8470c9ff2b5f75587bebdc44415750f8186fdd8a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -142,7 +157,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343017387, photo 624747692, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf11af97645f5c597094893823634defe18b894399eb7ad8fddf5b3f87c31c78. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia roemeriana maps to indexed species salvia-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "cf11af97645f5c597094893823634defe18b894399eb7ad8fddf5b3f87c31c78"
+      "sha256": "cf11af97645f5c597094893823634defe18b894399eb7ad8fddf5b3f87c31c78",
+      "display_sha256": "d211babe920db4b9c9eefa40878ad583cb5bee756e94632d88b392a4439a3dd4",
+      "display_blob_sha": "8a7229b4260b58ce131d76fdc824c54ab5b6a28b",
+      "display_original_site_sha256": "cf11af97645f5c597094893823634defe18b894399eb7ad8fddf5b3f87c31c78",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-roemeriana/inat-625116698.jpg",
@@ -153,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9e5019dc0024940df99112afa3659c41bcd0c494",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -161,7 +181,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343199481, photo 625116698, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3b117ad5750f5fa434de355ae80a9d02407f6fa80272e8bf996ad56ef25710cb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia roemeriana maps to indexed species salvia-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "3b117ad5750f5fa434de355ae80a9d02407f6fa80272e8bf996ad56ef25710cb"
+      "sha256": "3b117ad5750f5fa434de355ae80a9d02407f6fa80272e8bf996ad56ef25710cb",
+      "display_sha256": "e5660074ea26c6f2ddd83a85a7168ad69bce445e4c24757a6e9ce116a916a4de",
+      "display_blob_sha": "376d327a68bb9ed3925fa5f40529c32408e90cd5",
+      "display_original_site_sha256": "3b117ad5750f5fa434de355ae80a9d02407f6fa80272e8bf996ad56ef25710cb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-roemeriana/01-field-reference.jpg",

@@ -118,7 +118,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "106b9a5f35e394daebf6b3da65ace63059cff97a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -126,7 +126,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345900876, photo 630446721, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6fef12049d1cb2ed012caf53c1dc163f39521c791811578d932738f6af4d6808. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria wrightii maps to indexed species scutellaria-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "6fef12049d1cb2ed012caf53c1dc163f39521c791811578d932738f6af4d6808"
+      "sha256": "6fef12049d1cb2ed012caf53c1dc163f39521c791811578d932738f6af4d6808",
+      "display_sha256": "7459425bddb8c09957c3fedb4cd90112c512e8ec0dc6ef4b7146d992540a1429",
+      "display_blob_sha": "e0e85e0ef2328fb1ab538e3396ccd17419fd88b6",
+      "display_original_site_sha256": "6fef12049d1cb2ed012caf53c1dc163f39521c791811578d932738f6af4d6808",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/scutellaria-wrightii/inat-631627448.jpg",
@@ -137,7 +142,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "62db1627059f4c4bcca063096996d3632597de12",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -145,7 +150,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346501000, photo 631627448, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5b2ae0e667435b7d22e922281015ce998b28d09d6062f5f3ebc3b5ac88cae030. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria wrightii maps to indexed species scutellaria-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "5b2ae0e667435b7d22e922281015ce998b28d09d6062f5f3ebc3b5ac88cae030"
+      "sha256": "5b2ae0e667435b7d22e922281015ce998b28d09d6062f5f3ebc3b5ac88cae030",
+      "display_sha256": "1528e3120647208802cfcd88db2a3cf94a9e95adde1f8f82968572cb25721a16",
+      "display_blob_sha": "86fffa8eb1136a4e9b78ace5d3bc9afd5ee9bb65",
+      "display_original_site_sha256": "5b2ae0e667435b7d22e922281015ce998b28d09d6062f5f3ebc3b5ac88cae030",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/scutellaria-wrightii/inat-634546613.jpg",
@@ -156,7 +166,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9cde009060eda83707caa94b285d2dbcfe71adb2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -164,7 +174,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347970033, photo 634546613, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 204839125c48ca5752efa4f55c09509ed70aecd19f41526fdfe9e2228a5eafb5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria wrightii maps to indexed species scutellaria-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "204839125c48ca5752efa4f55c09509ed70aecd19f41526fdfe9e2228a5eafb5"
+      "sha256": "204839125c48ca5752efa4f55c09509ed70aecd19f41526fdfe9e2228a5eafb5",
+      "display_sha256": "7dd25b035208cd631396f6f6ccc5bfc9d390dc776e304836b33a90b959fb8553",
+      "display_blob_sha": "8394ceade88a0d59280cb1fd2ecae2ba4d9cab3d",
+      "display_original_site_sha256": "204839125c48ca5752efa4f55c09509ed70aecd19f41526fdfe9e2228a5eafb5",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/scutellaria-wrightii/inat-636179519.jpg",
@@ -175,7 +190,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c5d8927663ed46e352376fa744ffb36d62ca712",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -183,7 +198,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 348793258, photo 636179519, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 62572ad6317b8c2b72fd86e30c239d15d0af7787d24b80a96727a8696cbf5d87. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria wrightii maps to indexed species scutellaria-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "62572ad6317b8c2b72fd86e30c239d15d0af7787d24b80a96727a8696cbf5d87"
+      "sha256": "62572ad6317b8c2b72fd86e30c239d15d0af7787d24b80a96727a8696cbf5d87",
+      "display_sha256": "faaff78e711d0cd508435f4f2bfbeb83ce176729d209db10235565f47b6a0dde",
+      "display_blob_sha": "19db0dfc695f8918019d0670a802ead6dea68d6f",
+      "display_original_site_sha256": "62572ad6317b8c2b72fd86e30c239d15d0af7787d24b80a96727a8696cbf5d87",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/scutellaria-wrightii/inat-636260045.jpg",
@@ -194,7 +214,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c33840027800bd1f192f3ac488dfb50b8874bbe0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -202,7 +222,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 348833759, photo 636260045, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d2fb6100c19aaea717c09add75f059a58ca2017c5068b4b86a275213fcdd377e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria wrightii maps to indexed species scutellaria-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "d2fb6100c19aaea717c09add75f059a58ca2017c5068b4b86a275213fcdd377e"
+      "sha256": "d2fb6100c19aaea717c09add75f059a58ca2017c5068b4b86a275213fcdd377e",
+      "display_sha256": "635cb3cb4beb3b7d24121cb4b484a1282f2071320807630f7d03b6eccc75e976",
+      "display_blob_sha": "036989d561d432d2426f0e317c6f6821046e1b80",
+      "display_original_site_sha256": "d2fb6100c19aaea717c09add75f059a58ca2017c5068b4b86a275213fcdd377e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

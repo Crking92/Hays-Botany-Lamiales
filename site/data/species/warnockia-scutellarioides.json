@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a9c078b7bfd9982c66284842aa892a4335c6c0c1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -66,7 +66,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 351295105, photo 641045792, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e4b181b1cb761c67fcf52681c8adf0324074fafb3d7441034f0e6bb9fef90b23. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Warnockia scutellarioides maps to indexed species warnockia-scutellarioides; specialist morphology and BONAP range deferred.",
-      "sha256": "e4b181b1cb761c67fcf52681c8adf0324074fafb3d7441034f0e6bb9fef90b23"
+      "sha256": "e4b181b1cb761c67fcf52681c8adf0324074fafb3d7441034f0e6bb9fef90b23",
+      "display_sha256": "b38c9aa6e7c90257c96ad264ed449b08c9d7ed242810afdc06c6fd60942535ea",
+      "display_blob_sha": "275da4184b5b73e761da4390835865ff24fabd08",
+      "display_original_site_sha256": "e4b181b1cb761c67fcf52681c8adf0324074fafb3d7441034f0e6bb9fef90b23",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/warnockia-scutellarioides/inat-641465395.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8bda7c040e0fe667e2e4cf5c67db9608a2787739",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +90,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 351505451, photo 641465395, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e2a81984690e57c22f911c1d3ed8cbd7fb59061bf6a6f88c5c134654f9bd288c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Warnockia scutellarioides maps to indexed species warnockia-scutellarioides; specialist morphology and BONAP range deferred.",
-      "sha256": "e2a81984690e57c22f911c1d3ed8cbd7fb59061bf6a6f88c5c134654f9bd288c"
+      "sha256": "e2a81984690e57c22f911c1d3ed8cbd7fb59061bf6a6f88c5c134654f9bd288c",
+      "display_sha256": "9be1a47b3c5fb9e966f3e9890bd52edf11f73309b190496740e190e8c943347f",
+      "display_blob_sha": "a44c3bd82787a05bb5b37ffd712edfe9325f60b4",
+      "display_original_site_sha256": "e2a81984690e57c22f911c1d3ed8cbd7fb59061bf6a6f88c5c134654f9bd288c",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/warnockia-scutellarioides/inat-643276199.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "80d9af776851622609a2a1b1a8a27a09e0546850",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +114,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 352443416, photo 643276199, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 64fa2bbb5254bd5a8300fc97d6b0e7a478d80348745a57a109704a2b7879a294. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Warnockia scutellarioides maps to indexed species warnockia-scutellarioides; specialist morphology and BONAP range deferred.",
-      "sha256": "64fa2bbb5254bd5a8300fc97d6b0e7a478d80348745a57a109704a2b7879a294"
+      "sha256": "64fa2bbb5254bd5a8300fc97d6b0e7a478d80348745a57a109704a2b7879a294",
+      "display_sha256": "1e3e2a1cd2a7f5336468929a78d01f296e83bdeb1929fe3c84a1b4e5c2a742f6",
+      "display_blob_sha": "5c78724d42b97169d2a064b8721419bfc1acf00d",
+      "display_original_site_sha256": "64fa2bbb5254bd5a8300fc97d6b0e7a478d80348745a57a109704a2b7879a294",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/warnockia-scutellarioides/inat-646631445.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2e509b3f2b660d3d058145530a303c02c1effd02",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -123,7 +138,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 354469790, photo 646631445, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fb1ec2bfbca8daebaec9a3069ff6c45b1d1c1a82bcc5cba0369978f8ad84fa2a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Warnockia scutellarioides maps to indexed species warnockia-scutellarioides; specialist morphology and BONAP range deferred.",
-      "sha256": "fb1ec2bfbca8daebaec9a3069ff6c45b1d1c1a82bcc5cba0369978f8ad84fa2a"
+      "sha256": "fb1ec2bfbca8daebaec9a3069ff6c45b1d1c1a82bcc5cba0369978f8ad84fa2a",
+      "display_sha256": "9a6ca0448099d7261d40b74e1ad519fa0d71b8a34c0ec77da30cb40c4e229e7a",
+      "display_blob_sha": "5a360dd2b4fac415ba39715104992a354e5aa9ed",
+      "display_original_site_sha256": "fb1ec2bfbca8daebaec9a3069ff6c45b1d1c1a82bcc5cba0369978f8ad84fa2a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

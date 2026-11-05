@@ -115,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b86e26d1dc351feb93182261c0396dc97dc7245b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -123,7 +123,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346036488, photo 630708079, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 04aa72e4ca00fd90adcf56dc5aa0695d6a6294ef3a6c6c00fdaa73a30af99bb4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia texana maps to indexed species salvia-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "04aa72e4ca00fd90adcf56dc5aa0695d6a6294ef3a6c6c00fdaa73a30af99bb4"
+      "sha256": "04aa72e4ca00fd90adcf56dc5aa0695d6a6294ef3a6c6c00fdaa73a30af99bb4",
+      "display_sha256": "fdbea256844052544cc8621a2eb47f03df39a275808d464c19adf6ca53eb60ab",
+      "display_blob_sha": "93bb2e9aef0611f30c32d3a92b8e467bffa7a06b",
+      "display_original_site_sha256": "04aa72e4ca00fd90adcf56dc5aa0695d6a6294ef3a6c6c00fdaa73a30af99bb4",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-texana/inat-631626231.jpg",
@@ -134,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "576158b615ae66be5c82448a113e1ab3c58cad4e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -142,7 +147,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346500976, photo 631626231, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f50c6792b56e44d325c33530913ae646c38414648a47e06e1d8983b88d8db2e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia texana maps to indexed species salvia-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "3f50c6792b56e44d325c33530913ae646c38414648a47e06e1d8983b88d8db2e"
+      "sha256": "3f50c6792b56e44d325c33530913ae646c38414648a47e06e1d8983b88d8db2e",
+      "display_sha256": "9eb0e0bcc78f1db384a74af5db3702e7f13985961d3fe31461b4f1a7f779826f",
+      "display_blob_sha": "b59fad7c2ad76d5d57e0c22ccf6a0079298812cb",
+      "display_original_site_sha256": "3f50c6792b56e44d325c33530913ae646c38414648a47e06e1d8983b88d8db2e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-texana/inat-634021391.jpg",
@@ -153,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b7549e2fbf86b0e254b0934da05c8332532c3b7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -161,7 +171,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347706884, photo 634021391, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e5e6c153907460ab9511bd915ae713b06f092a20a8b7a1a73b327706840d101e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia texana maps to indexed species salvia-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "e5e6c153907460ab9511bd915ae713b06f092a20a8b7a1a73b327706840d101e"
+      "sha256": "e5e6c153907460ab9511bd915ae713b06f092a20a8b7a1a73b327706840d101e",
+      "display_sha256": "4d29ecd3c328c5df28a882cb4d0df9cfbc03939b60dff66b29a4303fbe64e292",
+      "display_blob_sha": "f3b64b901ba6c63e2bad2ee060319acb8225f803",
+      "display_original_site_sha256": "e5e6c153907460ab9511bd915ae713b06f092a20a8b7a1a73b327706840d101e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-texana/inat-634470990.jpg",
@@ -191,7 +206,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "55bc9933a7467d8680c1d3f3afc8234cb1c56faf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -199,7 +214,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347936497, photo 634476008, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7e528d42b8abfeed76324a2783d515412c737dd448b6f7aa68041bbb39b377a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia texana maps to indexed species salvia-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "7e528d42b8abfeed76324a2783d515412c737dd448b6f7aa68041bbb39b377a6"
+      "sha256": "7e528d42b8abfeed76324a2783d515412c737dd448b6f7aa68041bbb39b377a6",
+      "display_sha256": "dc83122279b3289fe9ee8318677da811828436040d564109fc52e4c25c240f6a",
+      "display_blob_sha": "6ed55e387408e5022d964c4fda21c11e1ace47fa",
+      "display_original_site_sha256": "7e528d42b8abfeed76324a2783d515412c737dd448b6f7aa68041bbb39b377a6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -79,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d4a28a494e2d6999db5c363a98cd5249a5fe57d1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -87,7 +87,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 270912751, photo 487261136, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 075795f1803352fce0fe397483391497fabac37348fcccf655338a733571889e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum sinense maps to indexed species ligustrum-sinense; specialist morphology and BONAP range deferred.",
-      "sha256": "075795f1803352fce0fe397483391497fabac37348fcccf655338a733571889e"
+      "sha256": "075795f1803352fce0fe397483391497fabac37348fcccf655338a733571889e",
+      "display_sha256": "78b55f9777385b8b139396ffe2abf55a92dcc0689e9b77b82461fa0902faed33",
+      "display_blob_sha": "565740dde82e8681740ec110660044889d255b5c",
+      "display_original_site_sha256": "075795f1803352fce0fe397483391497fabac37348fcccf655338a733571889e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-sinense/inat-489022085.jpg",
@@ -98,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "999b70b61459030d95a3cc016b07bcf0b14f9303",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -106,7 +111,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 271844447, photo 489022085, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 67ca3df83d604e815e3fffaf0d3838cebaa459f10f27c40c3b87659d0b753e8b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum sinense maps to indexed species ligustrum-sinense; specialist morphology and BONAP range deferred.",
-      "sha256": "67ca3df83d604e815e3fffaf0d3838cebaa459f10f27c40c3b87659d0b753e8b"
+      "sha256": "67ca3df83d604e815e3fffaf0d3838cebaa459f10f27c40c3b87659d0b753e8b",
+      "display_sha256": "ee2f33df2636c70c8a9d240ccd1838665ceaf2ff9d216dae56f8dac746f7a991",
+      "display_blob_sha": "646497e20930ceb331458db71c88c477e63aabfd",
+      "display_original_site_sha256": "67ca3df83d604e815e3fffaf0d3838cebaa459f10f27c40c3b87659d0b753e8b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-sinense/inat-496745615.jpg",
@@ -117,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2967ba40ce583a81e934f6faae2c933efd4abc3c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -125,7 +135,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 276624332, photo 496745615, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 61ad7e05e5155cae62cd5d80ddb981e350c9d9dc69a03aea5f34395d5f552603. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum sinense maps to indexed species ligustrum-sinense; specialist morphology and BONAP range deferred.",
-      "sha256": "61ad7e05e5155cae62cd5d80ddb981e350c9d9dc69a03aea5f34395d5f552603"
+      "sha256": "61ad7e05e5155cae62cd5d80ddb981e350c9d9dc69a03aea5f34395d5f552603",
+      "display_sha256": "70c192096cc1a07dce49d8a2926363b1b3d84f3b7ec7633c18ddea9b3e5aaa84",
+      "display_blob_sha": "0950e2fcc31fea182ba61d9de7946e4968384297",
+      "display_original_site_sha256": "61ad7e05e5155cae62cd5d80ddb981e350c9d9dc69a03aea5f34395d5f552603",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-sinense/inat-648632954.jpg",
@@ -136,7 +151,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ec5f4b34d34203e85fdafbee2435906cdee8be51",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -144,7 +159,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 355678930, photo 648632954, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f06149e53c8c508ed7ee2c04e77f7489f4a821aa54f517053845e7c2c86dfc9b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum sinense maps to indexed species ligustrum-sinense; specialist morphology and BONAP range deferred.",
-      "sha256": "f06149e53c8c508ed7ee2c04e77f7489f4a821aa54f517053845e7c2c86dfc9b"
+      "sha256": "f06149e53c8c508ed7ee2c04e77f7489f4a821aa54f517053845e7c2c86dfc9b",
+      "display_sha256": "bdb23a66817a1f9261b79e820756986d83994a3828ccf2595ba218743cffb876",
+      "display_blob_sha": "08cc282e4d321221458271b3dd05e5d4f309984a",
+      "display_original_site_sha256": "f06149e53c8c508ed7ee2c04e77f7489f4a821aa54f517053845e7c2c86dfc9b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-sinense/archived-b22bfb4b846506f3.jpg",

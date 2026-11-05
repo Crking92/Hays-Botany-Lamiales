@@ -99,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2b90cf808267c6ad6c5d01aed02645970ac3419a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -107,7 +107,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341905991, photo 625813613, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2d7067deeaa37bc19c39756c4c1ac42ff0fa24b6a8f3a9bfbd58a1c0344cb20. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja lindheimeri maps to indexed species castilleja-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "f2d7067deeaa37bc19c39756c4c1ac42ff0fa24b6a8f3a9bfbd58a1c0344cb20"
+      "sha256": "f2d7067deeaa37bc19c39756c4c1ac42ff0fa24b6a8f3a9bfbd58a1c0344cb20",
+      "display_sha256": "fd4d08d81318aa7e5f51be923acd1842aa33fe5f0e52c5c3f0c0a6a89b04ea1e",
+      "display_blob_sha": "80dc368083a422f2c4ff185bb97852579018f598",
+      "display_original_site_sha256": "f2d7067deeaa37bc19c39756c4c1ac42ff0fa24b6a8f3a9bfbd58a1c0344cb20",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-lindheimeri/inat-625813682.jpg",
@@ -118,7 +123,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6eed675ff8f43d37e1d482b6a97c119809d843b6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -126,7 +131,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343540764, photo 625813682, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e054a11576e72261094dea2bf848e1872d254bd645538789353b1a18c1928c7e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja lindheimeri maps to indexed species castilleja-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "e054a11576e72261094dea2bf848e1872d254bd645538789353b1a18c1928c7e"
+      "sha256": "e054a11576e72261094dea2bf848e1872d254bd645538789353b1a18c1928c7e",
+      "display_sha256": "77db39c4dca75b2505ba73439c391ca2df18bdc4fe8991045d50864fd5ea8010",
+      "display_blob_sha": "f76700d6799b3d4569043737907ebfdad6c199e2",
+      "display_original_site_sha256": "e054a11576e72261094dea2bf848e1872d254bd645538789353b1a18c1928c7e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-lindheimeri/inat-628349047.jpg",
@@ -137,7 +147,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bee97fe6304fd3aea500ca35adb59bc137ce6995",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -145,7 +155,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344835266, photo 628349047, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0f112cb82315a61e547b03149f9cfdba8d912b952824f554984c21ccf77ef708. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja lindheimeri maps to indexed species castilleja-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "0f112cb82315a61e547b03149f9cfdba8d912b952824f554984c21ccf77ef708"
+      "sha256": "0f112cb82315a61e547b03149f9cfdba8d912b952824f554984c21ccf77ef708",
+      "display_sha256": "e7edbf2c6aa9e7f9b90df63664319797e20524b74f7ca36fb7060f1f99bd5c7d",
+      "display_blob_sha": "8bfc2b1ea31bec898c0bdcaf9eeb5f666e2c7b7c",
+      "display_original_site_sha256": "0f112cb82315a61e547b03149f9cfdba8d912b952824f554984c21ccf77ef708",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-lindheimeri/inat-630446424.jpg",
@@ -156,7 +171,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "46d99acbb56430f80c72ad8d24ab5a4fb48f70c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -164,7 +179,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345900734, photo 630446424, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1917c908f48533eb3c6d5718e17c1dc91180232f52484fea48159374dd8957da. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja lindheimeri maps to indexed species castilleja-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "1917c908f48533eb3c6d5718e17c1dc91180232f52484fea48159374dd8957da"
+      "sha256": "1917c908f48533eb3c6d5718e17c1dc91180232f52484fea48159374dd8957da",
+      "display_sha256": "00dbd361018804538cec043c829a21694746d4d1abca10485d4ee10f33f56072",
+      "display_blob_sha": "d1a13d2b9acef6e66d4333aca2b269be9d1ed91b",
+      "display_original_site_sha256": "1917c908f48533eb3c6d5718e17c1dc91180232f52484fea48159374dd8957da",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-lindheimeri/inat-630649004.jpg",
@@ -175,7 +195,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "4427400f5aa852bfed559862078f3b63cbb1ff06",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -183,7 +203,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346006569, photo 630649004, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8c16e4b0d0f2ca7f0f1b43fd15c4c8ead65e82250ae5f0de66303bec3a2c4389. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja lindheimeri maps to indexed species castilleja-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "8c16e4b0d0f2ca7f0f1b43fd15c4c8ead65e82250ae5f0de66303bec3a2c4389"
+      "sha256": "8c16e4b0d0f2ca7f0f1b43fd15c4c8ead65e82250ae5f0de66303bec3a2c4389",
+      "display_sha256": "52c9eb8aeece905316997f6552b02622c2998607316c4eb307cb3a3134c9deb9",
+      "display_blob_sha": "a9b662a062e1b0c350c1c6255de8855b5b7b8b85",
+      "display_original_site_sha256": "8c16e4b0d0f2ca7f0f1b43fd15c4c8ead65e82250ae5f0de66303bec3a2c4389",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

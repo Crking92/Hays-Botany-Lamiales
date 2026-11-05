@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "48a18d98d23bef14669349c4ce9b8763f5cc4b6c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342254164, photo 623223471, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 10385ef1c2d7334e1eac1c9fc5da1bf71c6ee299634b8214c75b0d6eb43dd17a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica anagallis-aquatica maps to indexed species veronica-anagallis-aquatica; specialist morphology and BONAP range deferred.",
-      "sha256": "10385ef1c2d7334e1eac1c9fc5da1bf71c6ee299634b8214c75b0d6eb43dd17a"
+      "sha256": "10385ef1c2d7334e1eac1c9fc5da1bf71c6ee299634b8214c75b0d6eb43dd17a",
+      "display_sha256": "321cd8f3aaa65e8a27890591a92338d9b64d6ba392a7ba2a5eba4c69d3d09d51",
+      "display_blob_sha": "1a52c016a1ad8682bda6f5e7f599a24839b8e0ba",
+      "display_original_site_sha256": "10385ef1c2d7334e1eac1c9fc5da1bf71c6ee299634b8214c75b0d6eb43dd17a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-anagallis-aquatica/inat-624779109.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "976f0e54f47b943908cfb0b75348fd1464556146",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343032307, photo 624779109, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7c0ec159402c22a8d2f16bccc816d0fa972046c91d5eef72cf0f4d4a5b142fe5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica anagallis-aquatica maps to indexed species veronica-anagallis-aquatica; specialist morphology and BONAP range deferred.",
-      "sha256": "7c0ec159402c22a8d2f16bccc816d0fa972046c91d5eef72cf0f4d4a5b142fe5"
+      "sha256": "7c0ec159402c22a8d2f16bccc816d0fa972046c91d5eef72cf0f4d4a5b142fe5",
+      "display_sha256": "b5e953d761740e98fd614ab05fb6b58e9b6e9e8b012a4cdf6541000497a99407",
+      "display_blob_sha": "24bab97cee4244011c23a7a3c1b395389c2998ac",
+      "display_original_site_sha256": "7c0ec159402c22a8d2f16bccc816d0fa972046c91d5eef72cf0f4d4a5b142fe5",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-anagallis-aquatica/inat-627364376.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "300b612befd7a9120da15f4f9889128b783a2fdd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -123,7 +133,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344023518, photo 626775881, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: dda76c46aff44c69ef3dee235ffb3408d8691473938ecbf01bfa8811512aad2d. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica anagallis-aquatica maps to indexed species veronica-anagallis-aquatica; specialist morphology and BONAP range deferred.",
-      "sha256": "dda76c46aff44c69ef3dee235ffb3408d8691473938ecbf01bfa8811512aad2d"
+      "sha256": "dda76c46aff44c69ef3dee235ffb3408d8691473938ecbf01bfa8811512aad2d",
+      "display_sha256": "18ff36e90f26b94b72ed1584f073f6d956748f720adefa7d46aae3b5353df5a3",
+      "display_blob_sha": "79eed7f98385327e4e156de778502d0c6a145da9",
+      "display_original_site_sha256": "dda76c46aff44c69ef3dee235ffb3408d8691473938ecbf01bfa8811512aad2d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

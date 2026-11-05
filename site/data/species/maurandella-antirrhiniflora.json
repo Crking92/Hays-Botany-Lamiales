@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "767785d1ca602feb55b5ab3f1b9dce94f8ada967",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344315653, photo 627344004, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c03f5e713eab780fe0fff78ba4288cd4d43beaeb78d6217eb9da1940afcb27ea. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Maurandella antirrhiniflora maps to indexed species maurandella-antirrhiniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "c03f5e713eab780fe0fff78ba4288cd4d43beaeb78d6217eb9da1940afcb27ea"
+      "sha256": "c03f5e713eab780fe0fff78ba4288cd4d43beaeb78d6217eb9da1940afcb27ea",
+      "display_sha256": "e1c8b58432ba67e971d3e63cb61ff34291b9568876e304c5d049e0ac09b0ec89",
+      "display_blob_sha": "eed3b9ea7378aeb36c2b612a650e566bebdcb74e",
+      "display_original_site_sha256": "c03f5e713eab780fe0fff78ba4288cd4d43beaeb78d6217eb9da1940afcb27ea",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maurandella-antirrhiniflora/inat-630235125.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1eaa4a13618b94560040b724f526784d21c0adc6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345795950, photo 630235125, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1e4f3995410ebcd0eacb349a90c984a79cd605f6422098e8b4a47c3f0d0ee3f0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Maurandella antirrhiniflora maps to indexed species maurandella-antirrhiniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "1e4f3995410ebcd0eacb349a90c984a79cd605f6422098e8b4a47c3f0d0ee3f0"
+      "sha256": "1e4f3995410ebcd0eacb349a90c984a79cd605f6422098e8b4a47c3f0d0ee3f0",
+      "display_sha256": "f2beeb00c44b192a9507aaa916e04611035e3c90e24bb9c1411f581fa76749f7",
+      "display_blob_sha": "c890fb42771cf9152c2dfc2208d9b7f78a16de33",
+      "display_original_site_sha256": "1e4f3995410ebcd0eacb349a90c984a79cd605f6422098e8b4a47c3f0d0ee3f0",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maurandella-antirrhiniflora/inat-630253340.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "efa2c19b8b97a37d28a685988a7e4dacb74ac2ae",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345804832, photo 630253340, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9e4a5bddd3f9bd49d75f0980a5c3b40f89544c6a774e725b6c845bbae7fc05c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Maurandella antirrhiniflora maps to indexed species maurandella-antirrhiniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "9e4a5bddd3f9bd49d75f0980a5c3b40f89544c6a774e725b6c845bbae7fc05c0"
+      "sha256": "9e4a5bddd3f9bd49d75f0980a5c3b40f89544c6a774e725b6c845bbae7fc05c0",
+      "display_sha256": "ead595c56c8e4b45364532e202a9cef182e74591cb4cea3f4583c9f437b4b8e1",
+      "display_blob_sha": "c8979ecfceda8b81163d796bf3c1d0b106930647",
+      "display_original_site_sha256": "9e4a5bddd3f9bd49d75f0980a5c3b40f89544c6a774e725b6c845bbae7fc05c0",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maurandella-antirrhiniflora/inat-631440860.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "caa96b414c7763ffdacaf44de7376f34f21f7f98",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346406598, photo 631440860, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 82fa00e1490bcd2c9adb8712064b747604a54d04457cdaac45fd3f6475430daa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Maurandella antirrhiniflora maps to indexed species maurandella-antirrhiniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "82fa00e1490bcd2c9adb8712064b747604a54d04457cdaac45fd3f6475430daa"
+      "sha256": "82fa00e1490bcd2c9adb8712064b747604a54d04457cdaac45fd3f6475430daa",
+      "display_sha256": "8fbdc93c141b8058451617d091fd2ad6f1fb2e571ff14f9c616b5fa83eba4c4b",
+      "display_blob_sha": "5ee106e2cac20e8e3ded40fc1468bd8a754c6a78",
+      "display_original_site_sha256": "82fa00e1490bcd2c9adb8712064b747604a54d04457cdaac45fd3f6475430daa",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maurandella-antirrhiniflora/inat-632059036.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8854015ca066b20bb1019bbd7c6e8c9d5f83880c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -104,7 +124,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346718280, photo 632059036, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 94f892ff5a9e49c399c789d1b9207ae25c43e1c81791ce4785d246cc559c2868. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Maurandella antirrhiniflora maps to indexed species maurandella-antirrhiniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "94f892ff5a9e49c399c789d1b9207ae25c43e1c81791ce4785d246cc559c2868"
+      "sha256": "94f892ff5a9e49c399c789d1b9207ae25c43e1c81791ce4785d246cc559c2868",
+      "display_sha256": "067726945545651d4b731d250bf40782a3b6e8e89df7e22d9a478cbcce53224a",
+      "display_blob_sha": "2ffe15f1e34a349c9f01b2f06b91784163efa1e7",
+      "display_original_site_sha256": "94f892ff5a9e49c399c789d1b9207ae25c43e1c81791ce4785d246cc559c2868",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maurandella-antirrhiniflora/archived-38741f98bb027c54.jpg",

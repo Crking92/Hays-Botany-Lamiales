@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e517f8a5b59f3b9d00ce69187fe469817067e88",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lauraceae–Lentibulariaceae photo-first original ZIP verifier",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 110222510, photo 185900469, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 108cae5f7aa78bea8fdd827c037c58209fd91157f6e752429a9049f6d9fae784. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three species contact sheets inspected for obvious off-target organisms. Live source name Utricularia gibba maps to indexed species utricularia-gibba; specialist morphology and BONAP range deferred.",
-      "sha256": "108cae5f7aa78bea8fdd827c037c58209fd91157f6e752429a9049f6d9fae784"
+      "sha256": "108cae5f7aa78bea8fdd827c037c58209fd91157f6e752429a9049f6d9fae784",
+      "display_sha256": "76174e990faaff92c2b3c35537f327c945250844451ed966b745e3d60d580321",
+      "display_blob_sha": "26da0a09d6d9d13ce15ba7cddfcced017f570e55",
+      "display_original_site_sha256": "108cae5f7aa78bea8fdd827c037c58209fd91157f6e752429a9049f6d9fae784",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/utricularia-gibba/inat-280509952.jpeg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "4b9d0b2d6bda2c720f25072b85c76be3ccedefb7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lauraceae–Lentibulariaceae photo-first original ZIP verifier",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 162238179, photo 280509952, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: b75e9e5cb6281f92e42b2d8576843365f2a083e849402f7c7f51283153a92365. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three species contact sheets inspected for obvious off-target organisms. Live source name Utricularia gibba maps to indexed species utricularia-gibba; specialist morphology and BONAP range deferred.",
-      "sha256": "b75e9e5cb6281f92e42b2d8576843365f2a083e849402f7c7f51283153a92365"
+      "sha256": "b75e9e5cb6281f92e42b2d8576843365f2a083e849402f7c7f51283153a92365",
+      "display_sha256": "01a015a859fef73ecdb3ba2954f4911de2d4c4e8631915ad26b7c742a8cb72a6",
+      "display_blob_sha": "d9cf0bb2c06fc5861b473736384d91782e001c40",
+      "display_original_site_sha256": "b75e9e5cb6281f92e42b2d8576843365f2a083e849402f7c7f51283153a92365",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/utricularia-gibba/inat-32633820.jpeg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a49e0fd33cd2db5301b7a58819a4c3078f86207a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lauraceae–Lentibulariaceae photo-first original ZIP verifier",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 21114464, photo 32633820, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7e9742fe642f47e1d9b926e9d3af53f34a223612b1051734b54a3504d31501d2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three species contact sheets inspected for obvious off-target organisms. Live source name Utricularia gibba maps to indexed species utricularia-gibba; specialist morphology and BONAP range deferred.",
-      "sha256": "7e9742fe642f47e1d9b926e9d3af53f34a223612b1051734b54a3504d31501d2"
+      "sha256": "7e9742fe642f47e1d9b926e9d3af53f34a223612b1051734b54a3504d31501d2",
+      "display_sha256": "5ea8cd1b0eba215544a19503c498c6cb1c9aac138552a964cd2782542b092bc2",
+      "display_blob_sha": "37c85d269331a42057804d660ff02308e5f8d14d",
+      "display_original_site_sha256": "7e9742fe642f47e1d9b926e9d3af53f34a223612b1051734b54a3504d31501d2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/utricularia-gibba/inat-359214366.jpeg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "6453f0f3509507f2e7905e6f4fb433df1248c561",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lauraceae–Lentibulariaceae photo-first original ZIP verifier",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 203321067, photo 359214366, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8d57eb5751c0da2d4f084bb36bc8de55973dd81bdb9bb9ef6acaaf5ec9d4d7da. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three species contact sheets inspected for obvious off-target organisms. Live source name Utricularia gibba maps to indexed species utricularia-gibba; specialist morphology and BONAP range deferred.",
-      "sha256": "8d57eb5751c0da2d4f084bb36bc8de55973dd81bdb9bb9ef6acaaf5ec9d4d7da"
+      "sha256": "8d57eb5751c0da2d4f084bb36bc8de55973dd81bdb9bb9ef6acaaf5ec9d4d7da",
+      "display_sha256": "c39c53ad95fe1a21955868f26101948dbeea483fe39db1f3eb5f335185dd298e",
+      "display_blob_sha": "90ae55809d1f7a2a971e7b83471e5833ab331024",
+      "display_original_site_sha256": "8d57eb5751c0da2d4f084bb36bc8de55973dd81bdb9bb9ef6acaaf5ec9d4d7da",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/utricularia-gibba/source-32cda936778b.jpg",

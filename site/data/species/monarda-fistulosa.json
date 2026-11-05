@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1c066abe26efdbf2f1d75cdd0e85ff9c72964ee4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -72,7 +72,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 163821294, photo 283390441, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2a4bfc8535d5efae7edbee15071d988d05bbe03876556da68b425c41eaf7b83e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda fistulosa maps to indexed species monarda-fistulosa; specialist morphology and BONAP range deferred.",
-      "sha256": "2a4bfc8535d5efae7edbee15071d988d05bbe03876556da68b425c41eaf7b83e"
+      "sha256": "2a4bfc8535d5efae7edbee15071d988d05bbe03876556da68b425c41eaf7b83e",
+      "display_sha256": "7cc048daf7d24d0f75aa28b09059aaf366f59c940d11ab321fd6148fdaa2077b",
+      "display_blob_sha": "38ab071caff83a55a110a1d8c4a74d0f1a8f2578",
+      "display_original_site_sha256": "2a4bfc8535d5efae7edbee15071d988d05bbe03876556da68b425c41eaf7b83e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-fistulosa/inat-384856815.jpg",
@@ -83,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e5b425f3fe282c39cb023fb924d45dc3f5baa4d9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -91,7 +96,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 217541369, photo 384856815, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bef3c873d99ec29030957175a21e89d948d3caffa8f147b138abf09b8509415b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda fistulosa maps to indexed species monarda-fistulosa; specialist morphology and BONAP range deferred.",
-      "sha256": "bef3c873d99ec29030957175a21e89d948d3caffa8f147b138abf09b8509415b"
+      "sha256": "bef3c873d99ec29030957175a21e89d948d3caffa8f147b138abf09b8509415b",
+      "display_sha256": "2cde9ba281264f72127cb8311f5fbf5164f56c2da06c4f953c5d3121c122e596",
+      "display_blob_sha": "8fd083e56fb7d466dc26179da78dddaa7526569b",
+      "display_original_site_sha256": "bef3c873d99ec29030957175a21e89d948d3caffa8f147b138abf09b8509415b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-fistulosa/inat-384859943.jpg",
@@ -102,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e679a53ef2a9a855f1b926362a18d38047d5840",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -110,7 +120,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 217543202, photo 384859943, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc1b180b167526e7f7d169cd64e4f80a9fcbcbeeb495ecdc48209a71de4d866f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda fistulosa maps to indexed species monarda-fistulosa; specialist morphology and BONAP range deferred.",
-      "sha256": "fc1b180b167526e7f7d169cd64e4f80a9fcbcbeeb495ecdc48209a71de4d866f"
+      "sha256": "fc1b180b167526e7f7d169cd64e4f80a9fcbcbeeb495ecdc48209a71de4d866f",
+      "display_sha256": "3dedae96695d9a2458d17141862c30596cc183ffa2a34a8bbe7da053eaae17fa",
+      "display_blob_sha": "1daaa4709f0ce6e542ca3908608fd162843ed81f",
+      "display_original_site_sha256": "fc1b180b167526e7f7d169cd64e4f80a9fcbcbeeb495ecdc48209a71de4d866f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-fistulosa/inat-651646952.jpg",
@@ -140,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eaee7db7af13165df237ce60973299ce75298b0a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -148,7 +163,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 369467590, photo 675094654, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0746ed21754f9904c9cee8f51236da55544684308c41f3c2768ee290b00e1a95. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda fistulosa maps to indexed species monarda-fistulosa; specialist morphology and BONAP range deferred.",
-      "sha256": "0746ed21754f9904c9cee8f51236da55544684308c41f3c2768ee290b00e1a95"
+      "sha256": "0746ed21754f9904c9cee8f51236da55544684308c41f3c2768ee290b00e1a95",
+      "display_sha256": "643e0d0ae7130550b42e987cfb343ba8364a2ad8ff48b1bbac9507eb0e08b53c",
+      "display_blob_sha": "cc85e9ac6b88ddcbc595ca02337f36e7ef52a5da",
+      "display_original_site_sha256": "0746ed21754f9904c9cee8f51236da55544684308c41f3c2768ee290b00e1a95",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-fistulosa/monarda-fistulosa-provisional-face.jpg",

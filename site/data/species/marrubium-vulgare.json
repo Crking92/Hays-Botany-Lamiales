@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e6cbda86276b2f154ffc72fa75e72fc264476499",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 348851151, photo 636295996, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: af210de6cf903df9bb5137db688f16e966d17fe83b3cd945a5e3064d5f32bf1b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Marrubium vulgare maps to indexed species marrubium-vulgare; specialist morphology and BONAP range deferred.",
-      "sha256": "af210de6cf903df9bb5137db688f16e966d17fe83b3cd945a5e3064d5f32bf1b"
+      "sha256": "af210de6cf903df9bb5137db688f16e966d17fe83b3cd945a5e3064d5f32bf1b",
+      "display_sha256": "4194e5d1843c4c01cbf18fbc671b87d212b8cc7f8b8210fd1aec08a488c9e733",
+      "display_blob_sha": "15ae4024a4f384f417911abd6feb2ecfecf33fb5",
+      "display_original_site_sha256": "af210de6cf903df9bb5137db688f16e966d17fe83b3cd945a5e3064d5f32bf1b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marrubium-vulgare/inat-640261260.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "893d5ef6ce2d8c825cda9763a307779ccba6ba92",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 350883759, photo 640261260, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1981a1b99e1e037d9d7ab56513c3ec2bbc69d5ae562e1d6791bd858c48e441a5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Marrubium vulgare maps to indexed species marrubium-vulgare; specialist morphology and BONAP range deferred.",
-      "sha256": "1981a1b99e1e037d9d7ab56513c3ec2bbc69d5ae562e1d6791bd858c48e441a5"
+      "sha256": "1981a1b99e1e037d9d7ab56513c3ec2bbc69d5ae562e1d6791bd858c48e441a5",
+      "display_sha256": "24352be8207d907e749d8803b3c90e9ebf2200d2b640355b704351d07e606447",
+      "display_blob_sha": "3f616e448c91ac0426fd3865f566cb68388a933b",
+      "display_original_site_sha256": "1981a1b99e1e037d9d7ab56513c3ec2bbc69d5ae562e1d6791bd858c48e441a5",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marrubium-vulgare/inat-644266530.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b8eb7323d02bfd9cffb79defbe28b75985535e8b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353068082, photo 644266530, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad3df6545d0cefc951978f8edd4f36f301a42a6995935fa9854ad9a3c1d388a2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Marrubium vulgare maps to indexed species marrubium-vulgare; specialist morphology and BONAP range deferred.",
-      "sha256": "ad3df6545d0cefc951978f8edd4f36f301a42a6995935fa9854ad9a3c1d388a2"
+      "sha256": "ad3df6545d0cefc951978f8edd4f36f301a42a6995935fa9854ad9a3c1d388a2",
+      "display_sha256": "3757a78540d2f36286555caf5e2e718e446277691dbd1e279390ca93fd378da4",
+      "display_blob_sha": "3accd5cbdb499380fac917037d2e9711adc65ede",
+      "display_original_site_sha256": "ad3df6545d0cefc951978f8edd4f36f301a42a6995935fa9854ad9a3c1d388a2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marrubium-vulgare/inat-655907587.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "333e1c474052795eb2157393d73f56f669505a99",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 359493258, photo 655907587, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a1055b4ffea3402972dd0803be9caf668af480468790a7299d50650898e210e0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Marrubium vulgare maps to indexed species marrubium-vulgare; specialist morphology and BONAP range deferred.",
-      "sha256": "a1055b4ffea3402972dd0803be9caf668af480468790a7299d50650898e210e0"
+      "sha256": "a1055b4ffea3402972dd0803be9caf668af480468790a7299d50650898e210e0",
+      "display_sha256": "913701163a2b166b5a69253245999ddc9d14c3d602710d7b53263daa12b83f65",
+      "display_blob_sha": "b98f5ee36fb26ae205c60202e3837def237bb8e2",
+      "display_original_site_sha256": "a1055b4ffea3402972dd0803be9caf668af480468790a7299d50650898e210e0",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marrubium-vulgare/inat-663009112.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bb0f22f2231e9cabe6ff9b7b865ef543a4861243",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +124,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 363223333, photo 663009112, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a320241348874ed13155170a01dd470561bd8997b94049b547fdea5babcb87e5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Marrubium vulgare maps to indexed species marrubium-vulgare; specialist morphology and BONAP range deferred.",
-      "sha256": "a320241348874ed13155170a01dd470561bd8997b94049b547fdea5babcb87e5"
+      "sha256": "a320241348874ed13155170a01dd470561bd8997b94049b547fdea5babcb87e5",
+      "display_sha256": "93d9fbc0392890603350d3af8531bf46390ef38f1b2649dedcbaf2b2ead3c0f6",
+      "display_blob_sha": "607542ecb7a1bf1b8047fc813074d0627ba82c1d",
+      "display_original_site_sha256": "a320241348874ed13155170a01dd470561bd8997b94049b547fdea5babcb87e5",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marrubium-vulgare/archived-2153dbaa70b451b3.jpg",

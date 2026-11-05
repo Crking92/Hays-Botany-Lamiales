@@ -115,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "6e46200be92a6e63c1d6d6758c8ff1439a2d0553",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -123,7 +123,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345418679, photo 629499193, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: d879e6ac2ceafa1cf5971d9e94079f60bef578750b1187b9247dce7c22deeda5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia coccinea maps to indexed species salvia-coccinea; specialist morphology and BONAP range deferred.",
-      "sha256": "d879e6ac2ceafa1cf5971d9e94079f60bef578750b1187b9247dce7c22deeda5"
+      "sha256": "d879e6ac2ceafa1cf5971d9e94079f60bef578750b1187b9247dce7c22deeda5",
+      "display_sha256": "f680fcebd908bce15018ed76c57094a93d720a497508509c4d56f7dd76660a58",
+      "display_blob_sha": "a224877af90f080f17117c05391164516ee4ac1c",
+      "display_original_site_sha256": "d879e6ac2ceafa1cf5971d9e94079f60bef578750b1187b9247dce7c22deeda5",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-coccinea/inat-631405626.jpg",
@@ -134,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5ba9b165b6138225b339896e1a2048473b324659",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -142,7 +147,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346387636, photo 631405626, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 953f9bdcbe6589e847b28c4a7a9178631d14a17b9730bc1d053781ace523a84e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia coccinea maps to indexed species salvia-coccinea; specialist morphology and BONAP range deferred.",
-      "sha256": "953f9bdcbe6589e847b28c4a7a9178631d14a17b9730bc1d053781ace523a84e"
+      "sha256": "953f9bdcbe6589e847b28c4a7a9178631d14a17b9730bc1d053781ace523a84e",
+      "display_sha256": "394bb8c67f943ce9bc15c60d7adf49590f15b19b5a28da739a1cd080aaf114cb",
+      "display_blob_sha": "f4caf3c6d5b45902d710d242466c780efe3491b6",
+      "display_original_site_sha256": "953f9bdcbe6589e847b28c4a7a9178631d14a17b9730bc1d053781ace523a84e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-coccinea/inat-632623107.jpg",
@@ -153,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a8c09085d91964aeb2baba247b99f4846752a0e6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -161,7 +171,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347002174, photo 632623107, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8a12cbc0b3896c3f4135120d58d919526f5a2c7301a5e50938f629e370bef4a3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia coccinea maps to indexed species salvia-coccinea; specialist morphology and BONAP range deferred.",
-      "sha256": "8a12cbc0b3896c3f4135120d58d919526f5a2c7301a5e50938f629e370bef4a3"
+      "sha256": "8a12cbc0b3896c3f4135120d58d919526f5a2c7301a5e50938f629e370bef4a3",
+      "display_sha256": "a7eaeebedb9827a9210a3ed094db58216453f0c248fa1514504cf09153a4b81d",
+      "display_blob_sha": "33add216411fe81bd7c63b558671365e78cf3d5b",
+      "display_original_site_sha256": "8a12cbc0b3896c3f4135120d58d919526f5a2c7301a5e50938f629e370bef4a3",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-coccinea/01-inflorescence-flowers.jpg",

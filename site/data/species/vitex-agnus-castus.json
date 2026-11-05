@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "879a3ca9d1ad1bbc1df2530b61be2a4c1d5aecd1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -47,7 +47,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341582745, photo 621864734, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c704295b0473e160cc05f010149ae531076eab34f9d78caf593d3ae4697a704e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Vitex agnus-castus maps to indexed species vitex-agnus-castus; specialist morphology and BONAP range deferred.",
-      "sha256": "c704295b0473e160cc05f010149ae531076eab34f9d78caf593d3ae4697a704e"
+      "sha256": "c704295b0473e160cc05f010149ae531076eab34f9d78caf593d3ae4697a704e",
+      "display_sha256": "91132cb1ba4fbf3bb033a3a388547d3b1cfedda4540a96ab28f4ae62a3c3d3aa",
+      "display_blob_sha": "4a1cb3ab58017e53bd76703421926f35f307fbbf",
+      "display_original_site_sha256": "c704295b0473e160cc05f010149ae531076eab34f9d78caf593d3ae4697a704e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vitex-agnus-castus/inat-629434914.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b2e7e12896c013e3850fae2f38bc0ae27a4bae18",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -66,7 +71,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345388281, photo 629434914, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a31b4fb249a2d8967d22af5faa7c9da233359c4cf851810e93aeb795720d7908. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Vitex agnus-castus maps to indexed species vitex-agnus-castus; specialist morphology and BONAP range deferred.",
-      "sha256": "a31b4fb249a2d8967d22af5faa7c9da233359c4cf851810e93aeb795720d7908"
+      "sha256": "a31b4fb249a2d8967d22af5faa7c9da233359c4cf851810e93aeb795720d7908",
+      "display_sha256": "af0849bb2dd9114f84c178cf8cbac8c3ff4db2faba7168b4f033a65ad3a030fd",
+      "display_blob_sha": "83715eb60b3f3c28c20a8038c01e6a110d363ffd",
+      "display_original_site_sha256": "a31b4fb249a2d8967d22af5faa7c9da233359c4cf851810e93aeb795720d7908",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vitex-agnus-castus/inat-638110502.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "40f75ab4816da62c5111d4a42bcfef0e151b2112",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +95,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 349777601, photo 638110502, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 777ff5a99291ee123e35bf97a8d32885353db07374394ef0e4978add04c8912f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Vitex agnus-castus maps to indexed species vitex-agnus-castus; specialist morphology and BONAP range deferred.",
-      "sha256": "777ff5a99291ee123e35bf97a8d32885353db07374394ef0e4978add04c8912f"
+      "sha256": "777ff5a99291ee123e35bf97a8d32885353db07374394ef0e4978add04c8912f",
+      "display_sha256": "7b3abeaebe160fe0edb7b654fdc2d875804cf64dadf0d7d3f5222006232a332c",
+      "display_blob_sha": "967e5c18d7e1043f5cd0f1981645411c4f82d419",
+      "display_original_site_sha256": "777ff5a99291ee123e35bf97a8d32885353db07374394ef0e4978add04c8912f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vitex-agnus-castus/inat-638726288.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d65f2067d1f0350b305830ff362b0b33ec8eb75d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +119,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 350095271, photo 638726288, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8a1fe6ed488d42c64615839da8bc74901b5e80809b44e85a19ba511d2cfbb2e6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Vitex agnus-castus maps to indexed species vitex-agnus-castus; specialist morphology and BONAP range deferred.",
-      "sha256": "8a1fe6ed488d42c64615839da8bc74901b5e80809b44e85a19ba511d2cfbb2e6"
+      "sha256": "8a1fe6ed488d42c64615839da8bc74901b5e80809b44e85a19ba511d2cfbb2e6",
+      "display_sha256": "aaf3601aa8fb3e9cb8336d78a0aff05d10120cb6a6cbec0177cc786e74729574",
+      "display_blob_sha": "fe698edbe5a611ff60ac68fe1af761cf47f8065e",
+      "display_original_site_sha256": "8a1fe6ed488d42c64615839da8bc74901b5e80809b44e85a19ba511d2cfbb2e6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vitex-agnus-castus/inat-644312471.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7ac712e8cbc64f6fa1b0fed2168d065e4ac942d5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -123,7 +143,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353094150, photo 644312471, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ecf151a597a9fd45ba6cef1352311954d793573c9aebb0fc1995d95747db5e34. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Vitex agnus-castus maps to indexed species vitex-agnus-castus; specialist morphology and BONAP range deferred.",
-      "sha256": "ecf151a597a9fd45ba6cef1352311954d793573c9aebb0fc1995d95747db5e34"
+      "sha256": "ecf151a597a9fd45ba6cef1352311954d793573c9aebb0fc1995d95747db5e34",
+      "display_sha256": "53372ae11ad9ee1a4df955055e9ec3cc6901943a0dd31e74513cdd17baaa744e",
+      "display_blob_sha": "d73e23b33c53ca9622fd885cd0dfc39206615e8c",
+      "display_original_site_sha256": "ecf151a597a9fd45ba6cef1352311954d793573c9aebb0fc1995d95747db5e34",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

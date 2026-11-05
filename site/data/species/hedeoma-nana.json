@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fb47e5ea9775b5ccc8c2b9023469af51e15c4218",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -47,7 +47,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 206163855, photo 364612813, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a8a34182e714195790eee1d0ecf6856da821505b4eb90c6eed4a58baa84a2795. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Hedeoma nana maps to indexed species hedeoma-nana; specialist morphology and BONAP range deferred.",
-      "sha256": "a8a34182e714195790eee1d0ecf6856da821505b4eb90c6eed4a58baa84a2795"
+      "sha256": "a8a34182e714195790eee1d0ecf6856da821505b4eb90c6eed4a58baa84a2795",
+      "display_sha256": "9bc84f7c8d5ed7b4e422c42e44be5d697de5ef25344c1e9ba7d03503155e2a43",
+      "display_blob_sha": "168bd57287b43c8628e0e2e3e8b5bb0d7dd91b55",
+      "display_original_site_sha256": "a8a34182e714195790eee1d0ecf6856da821505b4eb90c6eed4a58baa84a2795",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hedeoma-nana/inat-620996090.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d16bf5bed19f85253fa17f890ade23ea5989489f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -66,7 +71,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341160007, photo 620996090, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e9822295063d078c1b33f8353d77239c086cdfaf05c2f1a2a083a826d14269bf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Hedeoma nana maps to indexed species hedeoma-nana; specialist morphology and BONAP range deferred.",
-      "sha256": "e9822295063d078c1b33f8353d77239c086cdfaf05c2f1a2a083a826d14269bf"
+      "sha256": "e9822295063d078c1b33f8353d77239c086cdfaf05c2f1a2a083a826d14269bf",
+      "display_sha256": "6396a4dc9a4e382bfe56d0d916ef9f66f82afc24c909912f64d0b5b7b331fce9",
+      "display_blob_sha": "4c5bbcab78caf77e3169e87bd5285a8077afecb5",
+      "display_original_site_sha256": "e9822295063d078c1b33f8353d77239c086cdfaf05c2f1a2a083a826d14269bf",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hedeoma-nana/inat-622177594.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3ff6def5da5ea39324ca430d94d8e579e5f47179",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +114,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344594096, photo 627889833, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0f55ef67f96dfdc8d3c1e9d3360dc538b7d2b873a33151dd5f35982489a92636. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Hedeoma nana maps to indexed species hedeoma-nana; specialist morphology and BONAP range deferred.",
-      "sha256": "0f55ef67f96dfdc8d3c1e9d3360dc538b7d2b873a33151dd5f35982489a92636"
+      "sha256": "0f55ef67f96dfdc8d3c1e9d3360dc538b7d2b873a33151dd5f35982489a92636",
+      "display_sha256": "338e5c7975e959898cafcaf888889f08638edd061e9faae3f62bb850f1e985c7",
+      "display_blob_sha": "9d99c4842e94fb723be85e1e39ef29ed7c850ab6",
+      "display_original_site_sha256": "0f55ef67f96dfdc8d3c1e9d3360dc538b7d2b873a33151dd5f35982489a92636",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

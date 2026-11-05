@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d56da11450ef797a18416f0af9e6e3fc74580604",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 350408887 and photo 639342991 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 66dbead5f9127785dd0a26afa84692a48f9fdad9b6f7d4cf5e935bf2b36a7373; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/639342991/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Catalpa bignonioides' matches this assigned family species card catalpa-bignonioides. Specialist morphology/field characters deferred.",
-      "sha256": "66dbead5f9127785dd0a26afa84692a48f9fdad9b6f7d4cf5e935bf2b36a7373"
+      "sha256": "66dbead5f9127785dd0a26afa84692a48f9fdad9b6f7d4cf5e935bf2b36a7373",
+      "display_sha256": "9d99e4654376edd128d0d77aae2504a7cde08340e0ad685e71b02bd4688829f1",
+      "display_blob_sha": "cc71e5509b75eedff7527f2d6a528b104b50e950",
+      "display_original_site_sha256": "66dbead5f9127785dd0a26afa84692a48f9fdad9b6f7d4cf5e935bf2b36a7373",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/catalpa-bignonioides/inat-643915944.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "99c7c16a67b337439eff18eaeccb84e775d00de7",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 352861093 and photo 643915944 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 c490b68d9afda2092ae5d918c652ae50aae840251f722957434022cfd8c35f9f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/643915944/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Catalpa bignonioides' matches this assigned family species card catalpa-bignonioides. Specialist morphology/field characters deferred.",
-      "sha256": "c490b68d9afda2092ae5d918c652ae50aae840251f722957434022cfd8c35f9f"
+      "sha256": "c490b68d9afda2092ae5d918c652ae50aae840251f722957434022cfd8c35f9f",
+      "display_sha256": "5038c1a33b875b5432e24ff9d8c952daf00c85902754cb14c2508183b41395fe",
+      "display_blob_sha": "007961549cc60f7096b2d55841a91a598e95551c",
+      "display_original_site_sha256": "c490b68d9afda2092ae5d918c652ae50aae840251f722957434022cfd8c35f9f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/catalpa-bignonioides/inat-648366509.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a352859a786241653d4fd36596183cfb37858b0",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 355524021 and photo 648366509 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 65e16d833d322242c836ba27cf6b056663017a501f4fb61d7cd422445b476bdb; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/648366509/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Catalpa bignonioides' matches this assigned family species card catalpa-bignonioides. Specialist morphology/field characters deferred.",
-      "sha256": "65e16d833d322242c836ba27cf6b056663017a501f4fb61d7cd422445b476bdb"
+      "sha256": "65e16d833d322242c836ba27cf6b056663017a501f4fb61d7cd422445b476bdb",
+      "display_sha256": "5b07c6cc57c4086b9f27d26e172eab179f02c67ad1237109fda6f08d82c473e6",
+      "display_blob_sha": "884dcc6e4e3dfda18dd83d5a235ecc05a4374fbd",
+      "display_original_site_sha256": "65e16d833d322242c836ba27cf6b056663017a501f4fb61d7cd422445b476bdb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/catalpa-bignonioides/inat-652401827.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c7c5cff63638c97686fea4731a998fc467fe3f0b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 357665166 and photo 652401827 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ef30a54239037d9cda697bd2b4795de6cad05e01d8c9b79bc0113722f2d4f22c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/652401827/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Catalpa bignonioides' matches this assigned family species card catalpa-bignonioides. Specialist morphology/field characters deferred.",
-      "sha256": "ef30a54239037d9cda697bd2b4795de6cad05e01d8c9b79bc0113722f2d4f22c"
+      "sha256": "ef30a54239037d9cda697bd2b4795de6cad05e01d8c9b79bc0113722f2d4f22c",
+      "display_sha256": "1f69f21ff5b9ba9a3567ed5f870154264662281251739e44c12fa3d73b1a39b1",
+      "display_blob_sha": "598a9b7d831e5d88b9adab73b33289cfa6ecab09",
+      "display_original_site_sha256": "ef30a54239037d9cda697bd2b4795de6cad05e01d8c9b79bc0113722f2d4f22c",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/catalpa-bignonioides/inat-662124228.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e246c317b57e21f370a28199d9c0509ca2bc02da",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 362761485 and photo 662124228 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 27d7c2c3792a69e8c6c3e5c5ed44bd27e8746990c495a1c322c06cfadc090a05; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/662124228/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Catalpa bignonioides' matches this assigned family species card catalpa-bignonioides. Specialist morphology/field characters deferred.",
-      "sha256": "27d7c2c3792a69e8c6c3e5c5ed44bd27e8746990c495a1c322c06cfadc090a05"
+      "sha256": "27d7c2c3792a69e8c6c3e5c5ed44bd27e8746990c495a1c322c06cfadc090a05",
+      "display_sha256": "fa08f5bfb2900dfa5531a59e704ed6e17831460edbefdb058e2ed3b378dfc568",
+      "display_blob_sha": "afec9002fce74af3ab9bc7f3223794e3c4e9870d",
+      "display_original_site_sha256": "27d7c2c3792a69e8c6c3e5c5ed44bd27e8746990c495a1c322c06cfadc090a05",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -57,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e1aa94a4011651419798cc5ae2f4a6c7f8cbbe2b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -65,7 +65,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 219799244, photo 389081218, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f74c9ae9484c6187cdb5cacce1027fcd44215ca49add08ddb9a3d0aeb4482f9b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia azurea maps to indexed species salvia-azurea; specialist morphology and BONAP range deferred.",
-      "sha256": "f74c9ae9484c6187cdb5cacce1027fcd44215ca49add08ddb9a3d0aeb4482f9b"
+      "sha256": "f74c9ae9484c6187cdb5cacce1027fcd44215ca49add08ddb9a3d0aeb4482f9b",
+      "display_sha256": "5d346bb3658f70310bc2b620826a00f926d29c627f5b4f373f38b16b0f542540",
+      "display_blob_sha": "2d0657dad12abad1089c471af05b7023ca46d2bd",
+      "display_original_site_sha256": "f74c9ae9484c6187cdb5cacce1027fcd44215ca49add08ddb9a3d0aeb4482f9b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-azurea/inat-523480510.jpg",
@@ -76,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8adf83abea33acbcee70cbac1d45ffe627b4087e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -84,7 +89,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 290971741, photo 523480510, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e5cb649f195b8dba630c719e7f96dfff90425f0c2111f3f55621d3e1c6098f17. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia azurea maps to indexed species salvia-azurea; specialist morphology and BONAP range deferred.",
-      "sha256": "e5cb649f195b8dba630c719e7f96dfff90425f0c2111f3f55621d3e1c6098f17"
+      "sha256": "e5cb649f195b8dba630c719e7f96dfff90425f0c2111f3f55621d3e1c6098f17",
+      "display_sha256": "5a53d5313292901d9dd6d253c20325608a4c9b1ae4930338baf1837edfc62538",
+      "display_blob_sha": "d5b32a274338b4a4050f59a98e289031523485c1",
+      "display_original_site_sha256": "e5cb649f195b8dba630c719e7f96dfff90425f0c2111f3f55621d3e1c6098f17",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-azurea/inat-704695466.jpg",
@@ -95,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a7c77c84665ab0903ad4ae1a7c1db5b9df8e1e15",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -103,7 +113,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 384946211, photo 704695466, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a96fd8d8e13f1bc6144e8b620a4a48a85e366ba8aebc4961f66fd92b04a31063. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia azurea maps to indexed species salvia-azurea; specialist morphology and BONAP range deferred.",
-      "sha256": "a96fd8d8e13f1bc6144e8b620a4a48a85e366ba8aebc4961f66fd92b04a31063"
+      "sha256": "a96fd8d8e13f1bc6144e8b620a4a48a85e366ba8aebc4961f66fd92b04a31063",
+      "display_sha256": "862bf9444efbc65935be8a56cfe3ed0223f29856406b6b6c8b7c65e8bb067163",
+      "display_blob_sha": "2f4cfc6bb6ff593d538d675648873d6803f8ab1c",
+      "display_original_site_sha256": "a96fd8d8e13f1bc6144e8b620a4a48a85e366ba8aebc4961f66fd92b04a31063",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-azurea/inat-706872120.jpg",
@@ -114,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0125502b48a3d52ec25e22c196bdd974495388c4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -122,7 +137,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 386085314, photo 706872120, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 432cc4467cf90c0d0e7e486fc9f77e1950a966d25964cf0bbfe8d7e9e9a01c4b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia azurea maps to indexed species salvia-azurea; specialist morphology and BONAP range deferred.",
-      "sha256": "432cc4467cf90c0d0e7e486fc9f77e1950a966d25964cf0bbfe8d7e9e9a01c4b"
+      "sha256": "432cc4467cf90c0d0e7e486fc9f77e1950a966d25964cf0bbfe8d7e9e9a01c4b",
+      "display_sha256": "528c4b3440e54d53a67b74912c708e60f28e85f4d8eb3ad3a176813190ca6373",
+      "display_blob_sha": "09a5c565d6e654c12c1dbf7ccc7660f9efe309b2",
+      "display_original_site_sha256": "432cc4467cf90c0d0e7e486fc9f77e1950a966d25964cf0bbfe8d7e9e9a01c4b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-azurea/inat-706872375.jpg",
@@ -133,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fc2185a0356a35de623f61797a77661d5a078d9c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -141,7 +161,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 386085510, photo 706872375, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 51b1dace477d3cd256103d91db94bf63da4a20ef30452be3c59df57e754455b0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia azurea maps to indexed species salvia-azurea; specialist morphology and BONAP range deferred.",
-      "sha256": "51b1dace477d3cd256103d91db94bf63da4a20ef30452be3c59df57e754455b0"
+      "sha256": "51b1dace477d3cd256103d91db94bf63da4a20ef30452be3c59df57e754455b0",
+      "display_sha256": "b673163cc1cddf3515e13f5ae233c62b75883f2a3393de7f669d99508721d430",
+      "display_blob_sha": "a9f302e57b3f4ed71b4de0f214da6f9b6ecd1c0a",
+      "display_original_site_sha256": "51b1dace477d3cd256103d91db94bf63da4a20ef30452be3c59df57e754455b0",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-azurea/01-habit-flowering-axis.jpg",

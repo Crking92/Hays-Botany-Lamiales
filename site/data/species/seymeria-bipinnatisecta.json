@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "984b0db6cbc474e54cc87455b5f2e7479f6abf5a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -47,7 +47,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 154294104, photo 266587617, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e217d9d953132d7f4e8e9e51e824c0cc756625836e1c8150f6ceec5078208218. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Seymeria texana maps to indexed species seymeria-bipinnatisecta; specialist morphology and BONAP range deferred.",
-      "sha256": "e217d9d953132d7f4e8e9e51e824c0cc756625836e1c8150f6ceec5078208218"
+      "sha256": "e217d9d953132d7f4e8e9e51e824c0cc756625836e1c8150f6ceec5078208218",
+      "display_sha256": "467b7ad78c40ecc7d75a8f3fd4ce96044328b333043755f20e3f2866baded083",
+      "display_blob_sha": "03c1b05d78e7ab8e8ef1ca0bf50ce2d7e88d92b5",
+      "display_original_site_sha256": "e217d9d953132d7f4e8e9e51e824c0cc756625836e1c8150f6ceec5078208218",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/seymeria-bipinnatisecta/inat-411220663.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f514ee1b2007dd223ad8efe38ba1be37756d9886",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -66,7 +71,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 231525063, photo 411220663, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ca0da8987797cc04d469d1d3c142258aefa67e1c26fbaa965b0ad847b90ea4fb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Seymeria texana maps to indexed species seymeria-bipinnatisecta; specialist morphology and BONAP range deferred.",
-      "sha256": "ca0da8987797cc04d469d1d3c142258aefa67e1c26fbaa965b0ad847b90ea4fb"
+      "sha256": "ca0da8987797cc04d469d1d3c142258aefa67e1c26fbaa965b0ad847b90ea4fb",
+      "display_sha256": "e0e4ba59a268486c90e30ad31797bf6b28c1b5ee61d639e8e17646c146ee120a",
+      "display_blob_sha": "cfcdea604f9df9c8208cd92373bc477d89bb58e9",
+      "display_original_site_sha256": "ca0da8987797cc04d469d1d3c142258aefa67e1c26fbaa965b0ad847b90ea4fb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/seymeria-bipinnatisecta/inat-516200447.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "308a402a702202934dbb88b200dfaf7f6e4565ee",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -85,7 +95,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 287101026, photo 516200447, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7cd963065e13576819a3b46112efd864a6fba0fca77a387b8b3c5d883a5f6604. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Seymeria texana maps to indexed species seymeria-bipinnatisecta; specialist morphology and BONAP range deferred.",
-      "sha256": "7cd963065e13576819a3b46112efd864a6fba0fca77a387b8b3c5d883a5f6604"
+      "sha256": "7cd963065e13576819a3b46112efd864a6fba0fca77a387b8b3c5d883a5f6604",
+      "display_sha256": "422d132df640ef95e15a813546c30da048a1f7c6586ed106cf5440aedd159ca0",
+      "display_blob_sha": "c65f2c9da0481b30e89abdf4e749055f3429306b",
+      "display_original_site_sha256": "7cd963065e13576819a3b46112efd864a6fba0fca77a387b8b3c5d883a5f6604",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/seymeria-bipinnatisecta/inat-553551021.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7dc32a9d6fe541377909ec58e28062f4268360a8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -104,7 +119,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 306926436, photo 553551021, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4d76b90fe8a069b8805dff9404115bbb9eca8ef7d7121b0cf251d0a8bf42e70b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Seymeria texana maps to indexed species seymeria-bipinnatisecta; specialist morphology and BONAP range deferred.",
-      "sha256": "4d76b90fe8a069b8805dff9404115bbb9eca8ef7d7121b0cf251d0a8bf42e70b"
+      "sha256": "4d76b90fe8a069b8805dff9404115bbb9eca8ef7d7121b0cf251d0a8bf42e70b",
+      "display_sha256": "950ebaeab7cbb753e8813344b8e0d9af8e9556814699572337a762f3ff703dcd",
+      "display_blob_sha": "bb65ab00e8d49e13f47716c0bf2be69bad36d782",
+      "display_original_site_sha256": "4d76b90fe8a069b8805dff9404115bbb9eca8ef7d7121b0cf251d0a8bf42e70b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/seymeria-bipinnatisecta/inat-7201544.jpeg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c6659ff712c60bd17e0045e3f71fee3dc1f708f2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -123,7 +143,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 5795246, photo 7201544, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8d543e498dd3e4dc866d4ef355b39e4973d62aed13ce20569d096c644550cf6b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Seymeria texana maps to indexed species seymeria-bipinnatisecta; specialist morphology and BONAP range deferred.",
-      "sha256": "8d543e498dd3e4dc866d4ef355b39e4973d62aed13ce20569d096c644550cf6b"
+      "sha256": "8d543e498dd3e4dc866d4ef355b39e4973d62aed13ce20569d096c644550cf6b",
+      "display_sha256": "9ab0df3c7cdddc5e65d51b7958a3113179abf017c59bf73aa2403db91500fdd7",
+      "display_blob_sha": "fb70c330cbe0537df6b4e7ca977537d43c420ab2",
+      "display_original_site_sha256": "8d543e498dd3e4dc866d4ef355b39e4973d62aed13ce20569d096c644550cf6b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

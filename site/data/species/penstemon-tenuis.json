@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5d4cfa48ec6d7bb7e440b3dcea11a03017c84c56",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -95,7 +95,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 271314688, photo 488018714, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ce30c26c35feda57fd730caf3ae2e0bf019c78373ccbaca706be64aa60ca9fbc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon tenuis maps to indexed species penstemon-tenuis; specialist morphology and BONAP range deferred.",
-      "sha256": "ce30c26c35feda57fd730caf3ae2e0bf019c78373ccbaca706be64aa60ca9fbc"
+      "sha256": "ce30c26c35feda57fd730caf3ae2e0bf019c78373ccbaca706be64aa60ca9fbc",
+      "display_sha256": "bc9e7a55681e25bb03669ae61499f8ba0d6f82eb014d61e0965d3a677ff4c1fb",
+      "display_blob_sha": "292eb3afe6aebb1eede09468dd422efec989b5e3",
+      "display_original_site_sha256": "ce30c26c35feda57fd730caf3ae2e0bf019c78373ccbaca706be64aa60ca9fbc",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-tenuis/inat-496374891.jpeg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ebc32e9fea6eb5e7338d4be0434f34d2df2428a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -114,7 +119,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 276401256, photo 496374891, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 34069985087f62e2b9a415396aa4c9edf7dfc1d7021af025f1054669042025d5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon tenuis maps to indexed species penstemon-tenuis; specialist morphology and BONAP range deferred.",
-      "sha256": "34069985087f62e2b9a415396aa4c9edf7dfc1d7021af025f1054669042025d5"
+      "sha256": "34069985087f62e2b9a415396aa4c9edf7dfc1d7021af025f1054669042025d5",
+      "display_sha256": "685a8a7ab1325b5bf87a4189025c36c999d47c9be1309fa18378ba4ebe837b98",
+      "display_blob_sha": "6664f8574bb2e47ca20680e7db72f8ed01a93a6f",
+      "display_original_site_sha256": "34069985087f62e2b9a415396aa4c9edf7dfc1d7021af025f1054669042025d5",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-tenuis/inat-648786801.jpg",
@@ -125,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6bf9b4bf25120de8457061c0a5db7c9f28b09daa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -133,7 +143,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 355765548, photo 648786801, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad6b7c7ac49b500d6c175efc1a718b2589121d16b9af6ff66d673d93ee312903. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon tenuis maps to indexed species penstemon-tenuis; specialist morphology and BONAP range deferred.",
-      "sha256": "ad6b7c7ac49b500d6c175efc1a718b2589121d16b9af6ff66d673d93ee312903"
+      "sha256": "ad6b7c7ac49b500d6c175efc1a718b2589121d16b9af6ff66d673d93ee312903",
+      "display_sha256": "a25da194b57d550287346caa6bdd8a99c6448877f3c83add6c04a848a34a26ef",
+      "display_blob_sha": "e6c605f9ef61986f1c5356c98e0e6c62cc802600",
+      "display_original_site_sha256": "ad6b7c7ac49b500d6c175efc1a718b2589121d16b9af6ff66d673d93ee312903",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-tenuis/archived-b99ada8876980cb6.jpg",

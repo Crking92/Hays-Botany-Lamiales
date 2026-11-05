@@ -76,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd007c8346f266d43864c6fb90e8f83e8acd8dfb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -84,7 +84,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 112825244, photo 190602432, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8ec5598a8591f48bb03d8c9a263650351f10628ac8c00a3262a5cede338cc04d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus pennsylvanica maps to indexed species fraxinus-pennsylvanica; specialist morphology and BONAP range deferred.",
-      "sha256": "8ec5598a8591f48bb03d8c9a263650351f10628ac8c00a3262a5cede338cc04d"
+      "sha256": "8ec5598a8591f48bb03d8c9a263650351f10628ac8c00a3262a5cede338cc04d",
+      "display_sha256": "5a405c3ec83b9739141b6dbff9c9a15e01c942a56c48d4393dae2431b1590147",
+      "display_blob_sha": "fdf86414533dbcccfc17a85081ba94a7af6e0798",
+      "display_original_site_sha256": "8ec5598a8591f48bb03d8c9a263650351f10628ac8c00a3262a5cede338cc04d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-pennsylvanica/inat-264854682.jpg",
@@ -95,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fe4ab78d9279e5d33a3a4ff0953cc47ee8177f76",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -103,7 +108,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 153353631, photo 264854682, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c0f49d73357907520a36455677a88ccfa83461daaa34c2b68c13a958876b73c2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus pennsylvanica maps to indexed species fraxinus-pennsylvanica; specialist morphology and BONAP range deferred.",
-      "sha256": "c0f49d73357907520a36455677a88ccfa83461daaa34c2b68c13a958876b73c2"
+      "sha256": "c0f49d73357907520a36455677a88ccfa83461daaa34c2b68c13a958876b73c2",
+      "display_sha256": "2ce69b63b34acef0b507973e1f7acd1eea0c01bbd934b0026ea19e284c3e14d5",
+      "display_blob_sha": "233c66ec4588bd31d3be7167c59ad0a8aea90487",
+      "display_original_site_sha256": "c0f49d73357907520a36455677a88ccfa83461daaa34c2b68c13a958876b73c2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-pennsylvanica/inat-269398370.jpg",
@@ -133,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "823d7e54e2fb33e1c8483d2801500f98bd8dfe3f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -141,7 +151,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 275928571, photo 495651230, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 27ad70e0e080e2ad2230ccd93599038de36d47ac1771fda0b333435c959902a9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus pennsylvanica maps to indexed species fraxinus-pennsylvanica; specialist morphology and BONAP range deferred.",
-      "sha256": "27ad70e0e080e2ad2230ccd93599038de36d47ac1771fda0b333435c959902a9"
+      "sha256": "27ad70e0e080e2ad2230ccd93599038de36d47ac1771fda0b333435c959902a9",
+      "display_sha256": "a7f37c80f5bb3e14d0d809d7c5f4db194c9d498db299c364973355160b469cf0",
+      "display_blob_sha": "cd49d4036039d43ab3d0014abf369df176186e2b",
+      "display_original_site_sha256": "27ad70e0e080e2ad2230ccd93599038de36d47ac1771fda0b333435c959902a9",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-pennsylvanica/source-acf3e30a05ef.jpg",

@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "744931961aae77b64b9d2fa8a492fa0f17617364",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -76,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 340978962 and photo 620623208 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 4b341930c49e6e985764ce349329cdd552003e17e616571369e01a9798d91a34; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620623208/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Bignonia capreolata' matches this assigned family species card bignonia-capreolata. Specialist morphology/field characters deferred.",
-      "sha256": "4b341930c49e6e985764ce349329cdd552003e17e616571369e01a9798d91a34"
+      "sha256": "4b341930c49e6e985764ce349329cdd552003e17e616571369e01a9798d91a34",
+      "display_sha256": "53d09883ec34309dce096f0a40ad459f16a4caca9cd657b2c053f0908dffa1a4",
+      "display_blob_sha": "fb9c1f47a23cc93894c2bd273cf543fb71043321",
+      "display_original_site_sha256": "4b341930c49e6e985764ce349329cdd552003e17e616571369e01a9798d91a34",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bignonia-capreolata/inat-621502171.jpg",
@@ -87,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ef6cfbe2141eaa83e84306e2495b4417ef0cda5d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -95,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 341417650 and photo 621502171 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d23416ab7d33b16d5c426459f129ecade58859d445c6a203313826c38f386fc2; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/621502171/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Bignonia capreolata' matches this assigned family species card bignonia-capreolata. Specialist morphology/field characters deferred.",
-      "sha256": "d23416ab7d33b16d5c426459f129ecade58859d445c6a203313826c38f386fc2"
+      "sha256": "d23416ab7d33b16d5c426459f129ecade58859d445c6a203313826c38f386fc2",
+      "display_sha256": "bd8516d24fe15f138f15b485540ad0dd3cca253ace3d9297b369df84d6cc9dca",
+      "display_blob_sha": "90030b63a709ad72d8f2d65b45d3d2b6cff5484a",
+      "display_original_site_sha256": "d23416ab7d33b16d5c426459f129ecade58859d445c6a203313826c38f386fc2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bignonia-capreolata/inat-621938349.jpg",
@@ -106,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1da8507d03bca5346bf11fd7bf6cb34b8936a46b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -114,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 341617002 and photo 621938349 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 71e1962bd47215c76fc2d7042c19230b6c79f5f92e2781aa8b6dc62bf523d5d7; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/621938349/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Bignonia capreolata' matches this assigned family species card bignonia-capreolata. Specialist morphology/field characters deferred.",
-      "sha256": "71e1962bd47215c76fc2d7042c19230b6c79f5f92e2781aa8b6dc62bf523d5d7"
+      "sha256": "71e1962bd47215c76fc2d7042c19230b6c79f5f92e2781aa8b6dc62bf523d5d7",
+      "display_sha256": "18256d300e45383288f4b818fe74d8f1c8b34c5b01ec3f99ae467ec0c7a79aed",
+      "display_blob_sha": "8f305827fbb1658eec74a0ecb1c6f48279c3af66",
+      "display_original_site_sha256": "71e1962bd47215c76fc2d7042c19230b6c79f5f92e2781aa8b6dc62bf523d5d7",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bignonia-capreolata/inat-623310952.jpg",
@@ -125,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d896793c13832e8c3973448720c8aaec89339bbf",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -133,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342297105 and photo 623310952 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 98380b6f0468206a277587a208326e107f9fc0485866b5ce16aec2124442166b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623310952/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Bignonia capreolata' matches this assigned family species card bignonia-capreolata. Specialist morphology/field characters deferred.",
-      "sha256": "98380b6f0468206a277587a208326e107f9fc0485866b5ce16aec2124442166b"
+      "sha256": "98380b6f0468206a277587a208326e107f9fc0485866b5ce16aec2124442166b",
+      "display_sha256": "373fe9ab01c358ae8325ca591733b16663c3b8a422e69524371e7a784dc634ee",
+      "display_blob_sha": "45b15245a361cd8a864875adebf63e6fe0ad2757",
+      "display_original_site_sha256": "98380b6f0468206a277587a208326e107f9fc0485866b5ce16aec2124442166b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bignonia-capreolata/inat-623595081.jpg",
@@ -144,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d656c7c6bcd1c8175cb760d64ae8d0c71b9c44b0",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -152,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342436712 and photo 623595081 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 41b1fe1e5a31ff49224f86a75f2bbc6b993305384ebd1be8dcab54f5311f5c77; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623595081/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Bignonia capreolata' matches this assigned family species card bignonia-capreolata. Specialist morphology/field characters deferred.",
-      "sha256": "41b1fe1e5a31ff49224f86a75f2bbc6b993305384ebd1be8dcab54f5311f5c77"
+      "sha256": "41b1fe1e5a31ff49224f86a75f2bbc6b993305384ebd1be8dcab54f5311f5c77",
+      "display_sha256": "c795b3acd5114c9257c88d23904ba52f1d323ca98f0cebc137f227db3b4554d9",
+      "display_blob_sha": "aad0e7a54103e2af8fefe3f2aa7d73f6d5635b86",
+      "display_original_site_sha256": "41b1fe1e5a31ff49224f86a75f2bbc6b993305384ebd1be8dcab54f5311f5c77",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bignonia-capreolata/source-c3010f010805.jpg",

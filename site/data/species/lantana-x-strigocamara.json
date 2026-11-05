@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "75264329b45ab38219f291b6a0e7eccb9fbf28cd",
       "role": "Yellow and pink flower head (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 348414869 contains photo 635426525; live photo license cc-by-nc; photographer '(c) Daniela Garza, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 348414869 live source species lantana strigocamara aligns with lantana-x-strigocamara; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "f0b08122abd1e75a66d977be197e64eebfff9e52d6c4ef9ce768be3187fa914a"
+      "sha256": "f0b08122abd1e75a66d977be197e64eebfff9e52d6c4ef9ce768be3187fa914a",
+      "display_sha256": "9e5d18d21ccd34271fb319f26e344f94b52377743b3ba039629ecffc719e7057",
+      "display_blob_sha": "5f7326e3e7a269058b5cf4290ff169ed5a968106",
+      "display_original_site_sha256": "f0b08122abd1e75a66d977be197e64eebfff9e52d6c4ef9ce768be3187fa914a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lantana-x-strigocamara/inat-636127057.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2931fe947e14476f78dafbf8ad491543346fc72a",
       "role": "Spreading plant and foliage (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 348769184 contains photo 636127057; live photo license cc-by-nc; photographer '(c) daviddeleon, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 348769184 live source species lantana strigocamara aligns with lantana-x-strigocamara; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "967040a48da00c23abaa6c26b77f0ce48a8bb9af583f0ebcee477460c2e9dbe9"
+      "sha256": "967040a48da00c23abaa6c26b77f0ce48a8bb9af583f0ebcee477460c2e9dbe9",
+      "display_sha256": "fcb41b17fec97237be293dbd870200a9df4e9ed398483f0e61f91546aabdd864",
+      "display_blob_sha": "be04c6a7dadef746f474e4c8d4de018048f55d51",
+      "display_original_site_sha256": "967040a48da00c23abaa6c26b77f0ce48a8bb9af583f0ebcee477460c2e9dbe9",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lantana-x-strigocamara/inat-636148698.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2b6afeac38657dbd7cb1910e6fb1099d1bb8a520",
       "role": "Shrub foliage and flowering branches (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 348778522 contains photo 636148698; live photo license cc-by-nc; photographer '(c) TJ Bolen, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 348778522 live source species lantana strigocamara aligns with lantana-x-strigocamara; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "9c0cf4694e1a7a0d776bf35bf4a824ccfe065c07d5aeef5384dfa470ed32861a"
+      "sha256": "9c0cf4694e1a7a0d776bf35bf4a824ccfe065c07d5aeef5384dfa470ed32861a",
+      "display_sha256": "f6c5a25e38d53c953019e003b00f29ad2f19b0fd95ecd70d23e659c375213007",
+      "display_blob_sha": "af0c80dc152528fc4df36f72914a9061a42ab8af",
+      "display_original_site_sha256": "9c0cf4694e1a7a0d776bf35bf4a824ccfe065c07d5aeef5384dfa470ed32861a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lantana-x-strigocamara/inat-637328303.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2787abe442ca6728fbee2413600113b2a28ddd63",
       "role": "Pink flower heads and foliage (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 349381469 contains photo 637328303; live photo license cc-by-nc; photographer '(c) Daniela Garza, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 349381469 live source species lantana strigocamara aligns with lantana-x-strigocamara; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "bcfd44cc84819751047621a1ee4bb7f44770e9452ba5d49132c4ba799aacb34d"
+      "sha256": "bcfd44cc84819751047621a1ee4bb7f44770e9452ba5d49132c4ba799aacb34d",
+      "display_sha256": "bcd59a012ad7f4be7ce3a95fe7bcca517c60a19c6c7b689fc89995b09a73637d",
+      "display_blob_sha": "7daddaf5b9843282e32a15399d7c889ebd800ae4",
+      "display_original_site_sha256": "bcfd44cc84819751047621a1ee4bb7f44770e9452ba5d49132c4ba799aacb34d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lantana-x-strigocamara/inat-637332919.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b5992a75e5590a9e326f22f95d7e1fe8607bb257",
       "role": "Pink and yellow flowers with rough leaves (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -104,7 +124,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 349383770 contains photo 637332919; live photo license cc-by-nc; photographer '(c) Daniela Garza, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 349383770 live source species lantana strigocamara aligns with lantana-x-strigocamara; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "d723568e32ebd1234e536991c581bdcf603d060c2076b5965dd709420500beaf"
+      "sha256": "d723568e32ebd1234e536991c581bdcf603d060c2076b5965dd709420500beaf",
+      "display_sha256": "e1f45a489c67fb7b1ed5a2aca80c38ba2f937225b40f38d15e1b6c6ac054a6eb",
+      "display_blob_sha": "43a35ee79dfedda3416c4c2129f22dfac37ecfce",
+      "display_original_site_sha256": "d723568e32ebd1234e536991c581bdcf603d060c2076b5965dd709420500beaf",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lantana-x-strigocamara/archived-d3ce66a0411df06e.jpg",

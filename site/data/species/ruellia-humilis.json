@@ -53,7 +53,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ba51f716728b2da1a1467735fd3919109cdfaad4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +61,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350151087, photo 638836821, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43a9fa4f4b802c6546649b1975a8d0dd91c46e485c6acb30046a40210e5b94cc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia humilis maps to indexed species ruellia-humilis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "43a9fa4f4b802c6546649b1975a8d0dd91c46e485c6acb30046a40210e5b94cc"
+      "sha256": "43a9fa4f4b802c6546649b1975a8d0dd91c46e485c6acb30046a40210e5b94cc",
+      "display_sha256": "06b4b4dedf0ed97128f11f7cfa64084581700e3fee89738b0f2a84e44d26492b",
+      "display_blob_sha": "28607a3071c93ac2a89e80a1015fd0c78a26bd13",
+      "display_original_site_sha256": "43a9fa4f4b802c6546649b1975a8d0dd91c46e485c6acb30046a40210e5b94cc",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-humilis/inat-646963236.jpg",
@@ -72,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fe31a2f5ef683e03e2813012ed0eea9cdfa67dab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354668258, photo 646963236, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 907aac16bf2b004913d76f2c1244d20b4b2491264385aa7779e9867b49f08315. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia humilis maps to indexed species ruellia-humilis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "907aac16bf2b004913d76f2c1244d20b4b2491264385aa7779e9867b49f08315"
+      "sha256": "907aac16bf2b004913d76f2c1244d20b4b2491264385aa7779e9867b49f08315",
+      "display_sha256": "1cabef36d780d6b30fddf4bf70af169d255331807a8ec791529d97da8ea9a2d3",
+      "display_blob_sha": "020fecf379f806a622cd03bd8b2789195e56261a",
+      "display_original_site_sha256": "907aac16bf2b004913d76f2c1244d20b4b2491264385aa7779e9867b49f08315",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-humilis/inat-657613633.jpg",
@@ -110,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b19dcb702cd74cb0c3d0f4916d48f725e159e7d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 361429245, photo 659607415, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4f8218f509895a50bab94f85eec73dc2d4e9d0d18957f16829ef9adcc50266f5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia humilis maps to indexed species ruellia-humilis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "4f8218f509895a50bab94f85eec73dc2d4e9d0d18957f16829ef9adcc50266f5"
+      "sha256": "4f8218f509895a50bab94f85eec73dc2d4e9d0d18957f16829ef9adcc50266f5",
+      "display_sha256": "ae2d5f61493660dfec033d6a6c16614d10f63f106ba0848b319d16ff7675954e",
+      "display_blob_sha": "15c755d45155b3e433ce3e4d5323ed3ff3081b02",
+      "display_original_site_sha256": "4f8218f509895a50bab94f85eec73dc2d4e9d0d18957f16829ef9adcc50266f5",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-humilis/inat-739111165.jpg",
@@ -129,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2ccf02201e4588da29c0854ba0842d6a4e5fb108",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 402605735, photo 739111165, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d4a6b693243a0837f96d838aa49c457e9ec758c7bfc5a169910bb4db016a21ab. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia humilis maps to indexed species ruellia-humilis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d4a6b693243a0837f96d838aa49c457e9ec758c7bfc5a169910bb4db016a21ab"
+      "sha256": "d4a6b693243a0837f96d838aa49c457e9ec758c7bfc5a169910bb4db016a21ab",
+      "display_sha256": "0a6634689c42a2aa9ee48df9e5896c9417e3d2fa0e1b561942c05eccb8f4d583",
+      "display_blob_sha": "0d33e89c078a4903ce50fc92ea1cc64857351d1e",
+      "display_original_site_sha256": "d4a6b693243a0837f96d838aa49c457e9ec758c7bfc5a169910bb4db016a21ab",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-humilis/01-habit-flower.jpg",

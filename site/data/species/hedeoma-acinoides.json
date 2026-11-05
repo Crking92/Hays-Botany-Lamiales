@@ -102,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7d6bf1211663ef2a56dc5f09df9ee6f081ccde12",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -110,7 +110,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343885437, photo 626503093, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 82816843bc42cd85e5cfeeca9bd0315b44846111b1dd9a5b01711e7d7cb1a951. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Hedeoma acinoides maps to indexed species hedeoma-acinoides; specialist morphology and BONAP range deferred.",
-      "sha256": "82816843bc42cd85e5cfeeca9bd0315b44846111b1dd9a5b01711e7d7cb1a951"
+      "sha256": "82816843bc42cd85e5cfeeca9bd0315b44846111b1dd9a5b01711e7d7cb1a951",
+      "display_sha256": "e62f1fd3e8b8934ac21b261ab3e380ebc5d297dd91764b1f1872624d75c9dfa4",
+      "display_blob_sha": "cc9749c1fb5ba401132be010a1c20f1f5c59b4df",
+      "display_original_site_sha256": "82816843bc42cd85e5cfeeca9bd0315b44846111b1dd9a5b01711e7d7cb1a951",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hedeoma-acinoides/inat-626552066.jpg",
@@ -121,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b6d2b58a99a51764353c10766844baf569cb5640",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -129,7 +134,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343909426, photo 626552066, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f9de2a569902ee729db85e3d30171ecd7836345903dbda6e1760fdfafcc2e4a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Hedeoma acinoides maps to indexed species hedeoma-acinoides; specialist morphology and BONAP range deferred.",
-      "sha256": "9f9de2a569902ee729db85e3d30171ecd7836345903dbda6e1760fdfafcc2e4a"
+      "sha256": "9f9de2a569902ee729db85e3d30171ecd7836345903dbda6e1760fdfafcc2e4a",
+      "display_sha256": "4ed0e0399b06cdf4051b2ee7e528220b5921412b9b3f842aed59672403a9f7fb",
+      "display_blob_sha": "268e822dd1ae554e886d7ca2f09a5315625b34f6",
+      "display_original_site_sha256": "9f9de2a569902ee729db85e3d30171ecd7836345903dbda6e1760fdfafcc2e4a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hedeoma-acinoides/inat-630252169.jpg",
@@ -140,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "04c733de46948393ac24fecab1772a560efce7a6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -148,7 +158,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345804119, photo 630252169, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 16b21efb962ca435a594e5580ea95e22fa7af16b02b75c04ab2417874ad6c433. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Hedeoma acinoides maps to indexed species hedeoma-acinoides; specialist morphology and BONAP range deferred.",
-      "sha256": "16b21efb962ca435a594e5580ea95e22fa7af16b02b75c04ab2417874ad6c433"
+      "sha256": "16b21efb962ca435a594e5580ea95e22fa7af16b02b75c04ab2417874ad6c433",
+      "display_sha256": "35e7de7ae6c6a1bd7f0af588ef6ef0a21c7641c7642810b2f4644889fab91b4d",
+      "display_blob_sha": "ff5db3ca34259952ba6b6e30e8dbc907e508b02d",
+      "display_original_site_sha256": "16b21efb962ca435a594e5580ea95e22fa7af16b02b75c04ab2417874ad6c433",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hedeoma-acinoides/inat-630268567.jpg",
@@ -178,7 +193,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7ca570bba8ea9c59ab7d92b12f1d134de001f494",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -186,7 +201,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345825205, photo 630295810, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 95533392fb28d037318d2e0551727ebd514de21932320eeac4e3a47782532d93. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Hedeoma acinoides maps to indexed species hedeoma-acinoides; specialist morphology and BONAP range deferred.",
-      "sha256": "95533392fb28d037318d2e0551727ebd514de21932320eeac4e3a47782532d93"
+      "sha256": "95533392fb28d037318d2e0551727ebd514de21932320eeac4e3a47782532d93",
+      "display_sha256": "77ebc7f0c30b354aa195c99d6e2d8e1fe764dac7c647b76a15d3b98fa23cd792",
+      "display_blob_sha": "0e0cfa1830c43fcbf604ebecf17cc08c1e033af4",
+      "display_original_site_sha256": "95533392fb28d037318d2e0551727ebd514de21932320eeac4e3a47782532d93",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

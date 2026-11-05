@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "babb3b329997fd09e490e7cdea8188b210b5fe52",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 119264227, photo 201591136, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5bec994416ccecc930649f59d656ce0ddc7976ba937f90f04e759e9433f23efa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Leucospora multifida maps to indexed species leucospora-multifida; specialist morphology and BONAP range deferred.",
-      "sha256": "5bec994416ccecc930649f59d656ce0ddc7976ba937f90f04e759e9433f23efa"
+      "sha256": "5bec994416ccecc930649f59d656ce0ddc7976ba937f90f04e759e9433f23efa",
+      "display_sha256": "35debd9144a02624ce0364c71ae7b4e67e97db60ffc3eaed1f0bc8cf1ecb8db8",
+      "display_blob_sha": "4ce6614114e6d5128e149843cf0f3a437cad5a72",
+      "display_original_site_sha256": "5bec994416ccecc930649f59d656ce0ddc7976ba937f90f04e759e9433f23efa",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucospora-multifida/inat-269168770.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "784775848a13519c8fe94d55769a2ba9d2580180",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 155698675, photo 269168770, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a0a53507b617c94b9c68a543c3625fd2d5edf8bc7d9479126b551f8d89ebc964. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Leucospora multifida maps to indexed species leucospora-multifida; specialist morphology and BONAP range deferred.",
-      "sha256": "a0a53507b617c94b9c68a543c3625fd2d5edf8bc7d9479126b551f8d89ebc964"
+      "sha256": "a0a53507b617c94b9c68a543c3625fd2d5edf8bc7d9479126b551f8d89ebc964",
+      "display_sha256": "de253c6851c4dd5e5a5124ec21b4ea4e5878d566e0ffc9823698d457bc9127fd",
+      "display_blob_sha": "d184fa67576871617d17b20fadebaae47d9d15de",
+      "display_original_site_sha256": "a0a53507b617c94b9c68a543c3625fd2d5edf8bc7d9479126b551f8d89ebc964",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucospora-multifida/inat-285394548.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0dc785f4bd60754d53d64a48fd27439f17806fef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 164909670, photo 285394548, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1fe297524ea80ae51313591e9493ddff77affaa3315efb0194322a3ad4372ee2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Leucospora multifida maps to indexed species leucospora-multifida; specialist morphology and BONAP range deferred.",
-      "sha256": "1fe297524ea80ae51313591e9493ddff77affaa3315efb0194322a3ad4372ee2"
+      "sha256": "1fe297524ea80ae51313591e9493ddff77affaa3315efb0194322a3ad4372ee2",
+      "display_sha256": "f338956ca7889d44346cd5e0a1c799877548710e06b1bd06d2342dec450030de",
+      "display_blob_sha": "449f5d21c8f6d439a870f5cc0c45a00573f410ba",
+      "display_original_site_sha256": "1fe297524ea80ae51313591e9493ddff77affaa3315efb0194322a3ad4372ee2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucospora-multifida/inat-379481357.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f0ab8419e17ae5a720cee3481ea58472ef622c95",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 273078116, photo 491228161, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e285021ea7bd2f6d8700eb55779ec8d423e1ce34154948afe058fe3386cded42. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hygrophila lacustris maps to indexed species hygrophila-costata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e285021ea7bd2f6d8700eb55779ec8d423e1ce34154948afe058fe3386cded42"
+      "sha256": "e285021ea7bd2f6d8700eb55779ec8d423e1ce34154948afe058fe3386cded42",
+      "display_sha256": "65c9f5f6761ce6bfba7855ea8028cd0e04a0c46769778758d3ece999597f8a40",
+      "display_blob_sha": "cc525b9ac18e67110887a427b969373434103647",
+      "display_original_site_sha256": "e285021ea7bd2f6d8700eb55779ec8d423e1ce34154948afe058fe3386cded42",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hygrophila-costata/inat-629297289.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "747afee4be6abc3d09f496213c37470596da42f8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353093191, photo 644311094, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 58ed40137c61d59473813b02d16b9296f45a49656f5423519fae0ffd23dba869. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hygrophila lacustris maps to indexed species hygrophila-costata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "58ed40137c61d59473813b02d16b9296f45a49656f5423519fae0ffd23dba869"
+      "sha256": "58ed40137c61d59473813b02d16b9296f45a49656f5423519fae0ffd23dba869",
+      "display_sha256": "494ea02d6bda57d416488807dfae2b542e6be15568d5d65f243a839d4a7745cd",
+      "display_blob_sha": "405f7312e0fd21925652848b84ad2dfa54474543",
+      "display_original_site_sha256": "58ed40137c61d59473813b02d16b9296f45a49656f5423519fae0ffd23dba869",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hygrophila-costata/inat-646109767.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a3903cdf2fa758374b87b45eb3a53ef8ffd8829",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354146484, photo 646109767, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 010ee6fa0773fcd68b76e7e6d02ba4445b018117e69133692f3644478541bbb3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hygrophila lacustris maps to indexed species hygrophila-costata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "010ee6fa0773fcd68b76e7e6d02ba4445b018117e69133692f3644478541bbb3"
+      "sha256": "010ee6fa0773fcd68b76e7e6d02ba4445b018117e69133692f3644478541bbb3",
+      "display_sha256": "d12e76f2d57fa4d0dbe258d448511f847d4390a28c7f3fee6fbe5f208c41a017",
+      "display_blob_sha": "379f2026f2bfb488ac15316bbbee850ab155fe79",
+      "display_original_site_sha256": "010ee6fa0773fcd68b76e7e6d02ba4445b018117e69133692f3644478541bbb3",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hygrophila-costata/inat-663253686.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1eddee7a56adc756aa9594cfa7805c7525705bbb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 363350822, photo 663253686, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f39967414ba672597e91ccae4d20976984b55e09408568d4aed4a1f4be50c4e1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hygrophila lacustris maps to indexed species hygrophila-costata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f39967414ba672597e91ccae4d20976984b55e09408568d4aed4a1f4be50c4e1"
+      "sha256": "f39967414ba672597e91ccae4d20976984b55e09408568d4aed4a1f4be50c4e1",
+      "display_sha256": "d1a74c87d5351e33d0cd52e22735e38579c6a3869e670197a662d9fc968a713f",
+      "display_blob_sha": "60619e6296b510477e4bc296b8268ceee68f5ce8",
+      "display_original_site_sha256": "f39967414ba672597e91ccae4d20976984b55e09408568d4aed4a1f4be50c4e1",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

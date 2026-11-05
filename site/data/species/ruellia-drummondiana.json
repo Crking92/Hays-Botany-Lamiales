@@ -76,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a88f4ceef9cea278a61686b58e43ea7afc48d9e2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -84,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 357162214, photo 651393041, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0b95b3c9c9e3577b0b35147f2a297a0f53aa5efd8c586403c4e05e239aa59bcb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia drummondiana maps to indexed species ruellia-drummondiana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "0b95b3c9c9e3577b0b35147f2a297a0f53aa5efd8c586403c4e05e239aa59bcb"
+      "sha256": "0b95b3c9c9e3577b0b35147f2a297a0f53aa5efd8c586403c4e05e239aa59bcb",
+      "display_sha256": "4a8185d3a9d1e9a4af94a3c31d062954565d33d94105a6239b4b4043e28c6499",
+      "display_blob_sha": "90353dd60ccc12742bbf8398558e8ef29786471c",
+      "display_original_site_sha256": "0b95b3c9c9e3577b0b35147f2a297a0f53aa5efd8c586403c4e05e239aa59bcb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-drummondiana/inat-660295763.jpg",
@@ -95,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5b41dd5ce1bba978010c65cb994382fcfec6b52b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -103,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 361792869, photo 660295763, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5e827984cea828f68b5b120011f6ad123847e41be9919b8de69c450c772d3c40. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia drummondiana maps to indexed species ruellia-drummondiana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5e827984cea828f68b5b120011f6ad123847e41be9919b8de69c450c772d3c40"
+      "sha256": "5e827984cea828f68b5b120011f6ad123847e41be9919b8de69c450c772d3c40",
+      "display_sha256": "26eb3b673d3031efdd01fc229c0c9d41ed54c323eef6a6d6b8c3bd338eb10911",
+      "display_blob_sha": "d5f828a05a3ecaea3f15a12c8b7954dd7bc07e5f",
+      "display_original_site_sha256": "5e827984cea828f68b5b120011f6ad123847e41be9919b8de69c450c772d3c40",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-drummondiana/inat-660978138.jpg",
@@ -114,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "bc2e71363cdf0b3403d4a5a0bc06488bf54323ee",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 362156885, photo 660978138, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: ed8ff61c856fdd2337da15938dcae0e1eda9266e65c632311a15070544f21bbe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia drummondiana maps to indexed species ruellia-drummondiana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ed8ff61c856fdd2337da15938dcae0e1eda9266e65c632311a15070544f21bbe"
+      "sha256": "ed8ff61c856fdd2337da15938dcae0e1eda9266e65c632311a15070544f21bbe",
+      "display_sha256": "ab6d3bd283eac7a7be4ddefc7b19cf1af14cf8fdd521af64dc9e6c5fb5ec4463",
+      "display_blob_sha": "ae632bda1d77d09f6864240b552f5e2b86190cb2",
+      "display_original_site_sha256": "ed8ff61c856fdd2337da15938dcae0e1eda9266e65c632311a15070544f21bbe",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-drummondiana/inat-665387839.jpg",
@@ -152,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "49c16e7158dac2c1e6380e33fee52756fbd633f1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +175,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 364719889, photo 665830309, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 172ce9f51967c2b65b40e46fd244d559a580ca290093f1910047d799f34c9b52. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia drummondiana maps to indexed species ruellia-drummondiana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "172ce9f51967c2b65b40e46fd244d559a580ca290093f1910047d799f34c9b52"
+      "sha256": "172ce9f51967c2b65b40e46fd244d559a580ca290093f1910047d799f34c9b52",
+      "display_sha256": "2b9b11c0120f26812d5d38bcc2a2855c9dd51c2d99c296684946b5071f4f949c",
+      "display_blob_sha": "d1034ab81af4cef22b96dfd004080da24b21c437",
+      "display_original_site_sha256": "172ce9f51967c2b65b40e46fd244d559a580ca290093f1910047d799f34c9b52",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-drummondiana/ruellia-drummondiana-provisional-face.jpg",

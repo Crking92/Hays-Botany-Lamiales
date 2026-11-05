@@ -95,7 +95,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3ee4fce89176e77103d8458a92b7be44169ab1e2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -103,7 +103,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 345903344, photo 630453029, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 94883766c43e450339bce1beb24da27b542e33bec0aeb26123c519df366907e6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia nudiflora maps to indexed species ruellia-ciliatiflora (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "94883766c43e450339bce1beb24da27b542e33bec0aeb26123c519df366907e6"
+      "sha256": "94883766c43e450339bce1beb24da27b542e33bec0aeb26123c519df366907e6",
+      "display_sha256": "5dfd03a17adefa65ef08da23e5cdda1fccd375684993a7d48610c9e51da6a675",
+      "display_blob_sha": "c6ab314838e587c5a8f09e972cb38e439515bd01",
+      "display_original_site_sha256": "94883766c43e450339bce1beb24da27b542e33bec0aeb26123c519df366907e6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-ciliatiflora/inat-639259362.jpg",
@@ -114,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ec3a70b91e96a67211e06632375875d09be66326",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +127,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350366849, photo 639259362, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3aa98320ad7dd0e9e5928c6cbac0c91e5fa370f2f5e3d63b0230ef050e5d8a3d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia nudiflora maps to indexed species ruellia-ciliatiflora (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "3aa98320ad7dd0e9e5928c6cbac0c91e5fa370f2f5e3d63b0230ef050e5d8a3d"
+      "sha256": "3aa98320ad7dd0e9e5928c6cbac0c91e5fa370f2f5e3d63b0230ef050e5d8a3d",
+      "display_sha256": "4407a0cc56cfddb64732a17273f2531b094cd13ffc5b981bc5bad34d572bbd41",
+      "display_blob_sha": "88926446f39af8f3ed5b765b7ab51637d763d1ef",
+      "display_original_site_sha256": "3aa98320ad7dd0e9e5928c6cbac0c91e5fa370f2f5e3d63b0230ef050e5d8a3d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-ciliatiflora/inat-640257951.jpg",
@@ -133,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "49aa0ef3c05a6cb8215e9a393013fc186732fca4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +151,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350881978, photo 640257951, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a5d07f52cd4adcb0bfcd265d918112f2e20cf122ed1c502808b588db598f609b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia nudiflora maps to indexed species ruellia-ciliatiflora (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a5d07f52cd4adcb0bfcd265d918112f2e20cf122ed1c502808b588db598f609b"
+      "sha256": "a5d07f52cd4adcb0bfcd265d918112f2e20cf122ed1c502808b588db598f609b",
+      "display_sha256": "69680b6563693a9a192fa70bbc276023c174c9400ad8b1784e606bf1b6fba974",
+      "display_blob_sha": "ba528d09cb722a12cf3712d277b1c12cf40190e6",
+      "display_original_site_sha256": "a5d07f52cd4adcb0bfcd265d918112f2e20cf122ed1c502808b588db598f609b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-ciliatiflora/inat-642148638.jpg",
@@ -152,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3cd23ccbc7a7a6fb9486d3337eed6da2ca699fe0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +175,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 351856998, photo 642148638, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9d7b199d7ca1ac8975fce844580b434b7d1cd6232ac411148d5bd16594e73208. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia nudiflora maps to indexed species ruellia-ciliatiflora (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9d7b199d7ca1ac8975fce844580b434b7d1cd6232ac411148d5bd16594e73208"
+      "sha256": "9d7b199d7ca1ac8975fce844580b434b7d1cd6232ac411148d5bd16594e73208",
+      "display_sha256": "78369fd10d2df906fa120101cb5c568b0cede34f73acede841c08f0e3fd23d70",
+      "display_blob_sha": "dab184e546aba1564d0365caf96d7690523fbf57",
+      "display_original_site_sha256": "9d7b199d7ca1ac8975fce844580b434b7d1cd6232ac411148d5bd16594e73208",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-ciliatiflora/inat-648275107.jpg",
@@ -171,7 +191,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a72975f93d0f7ecab28944d88f80bc09e0d24f3f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -179,7 +199,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355466720, photo 648275107, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fe918e49df410f1f9eefedb0837f4bf10a4a0afe4fd599a1b0aebd418804212a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia occidentalis maps to indexed species ruellia-ciliatiflora (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "fe918e49df410f1f9eefedb0837f4bf10a4a0afe4fd599a1b0aebd418804212a"
+      "sha256": "fe918e49df410f1f9eefedb0837f4bf10a4a0afe4fd599a1b0aebd418804212a",
+      "display_sha256": "e6449f59c7328a9cbaba02b5990c51fdde5725e5c3286b9b8898f9f858e62540",
+      "display_blob_sha": "f128847ff1bfbea3f8f881038b4f6f8281e0c59d",
+      "display_original_site_sha256": "fe918e49df410f1f9eefedb0837f4bf10a4a0afe4fd599a1b0aebd418804212a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

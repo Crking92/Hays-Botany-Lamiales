@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27a4dd1c7b7e1701397071d720cf2199a2e6ee9e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -57,7 +57,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 199575210, photo 351974070, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c3cb71cd4c79f442e5ee7d47371fa430c470388bc754bfe1773637ca01e3602f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium purpureum maps to indexed species lamium-purpureum; specialist morphology and BONAP range deferred.",
-      "sha256": "c3cb71cd4c79f442e5ee7d47371fa430c470388bc754bfe1773637ca01e3602f"
+      "sha256": "c3cb71cd4c79f442e5ee7d47371fa430c470388bc754bfe1773637ca01e3602f",
+      "display_sha256": "a0d53618fe500fb122c4fa90ee1e9fdb738f0dc495aec93ba0ef622e84cb79db",
+      "display_blob_sha": "f48a8984efdea5b53bf221da8a5794413116d5e0",
+      "display_original_site_sha256": "c3cb71cd4c79f442e5ee7d47371fa430c470388bc754bfe1773637ca01e3602f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-purpureum/inat-351974071.jpeg",
@@ -68,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0d1db2820059e856b5cfc3970b2056be3ddf7062",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -76,7 +81,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 199575211, photo 351974071, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e7270197324c703ec5eced70e0c65dd69f03f46a50c65ab2076ce5fd9125160d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium purpureum maps to indexed species lamium-purpureum; specialist morphology and BONAP range deferred.",
-      "sha256": "e7270197324c703ec5eced70e0c65dd69f03f46a50c65ab2076ce5fd9125160d"
+      "sha256": "e7270197324c703ec5eced70e0c65dd69f03f46a50c65ab2076ce5fd9125160d",
+      "display_sha256": "bad31963e0e2d3149d36fd147bd1a3893123f5a453394771f025646ba2564342",
+      "display_blob_sha": "7cebcae4b1c16125feccc0fdedd8732df9935325",
+      "display_original_site_sha256": "e7270197324c703ec5eced70e0c65dd69f03f46a50c65ab2076ce5fd9125160d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-purpureum/inat-476875737.jpeg",
@@ -87,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bddcf38d5d1372f71fc8cbf399f197d46e8495ea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -95,7 +105,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 265485451, photo 476875737, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec159d6d44521c9751a9ba04d7eba63e2ce19a8059f692bc7af15bea49ad8e66. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium purpureum maps to indexed species lamium-purpureum; specialist morphology and BONAP range deferred.",
-      "sha256": "ec159d6d44521c9751a9ba04d7eba63e2ce19a8059f692bc7af15bea49ad8e66"
+      "sha256": "ec159d6d44521c9751a9ba04d7eba63e2ce19a8059f692bc7af15bea49ad8e66",
+      "display_sha256": "d0dcb3358c234aed5eb819b44871abc74b5f790bdd9b4ee07392aa3b3bc510a0",
+      "display_blob_sha": "5a30382d8003e6cccf17b4e19133a74b72ed2d58",
+      "display_original_site_sha256": "ec159d6d44521c9751a9ba04d7eba63e2ce19a8059f692bc7af15bea49ad8e66",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-purpureum/inat-61738382.jpg",
@@ -106,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "28273194c1919ed318e68faf0c308da75cd3817c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -114,7 +129,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 38810475, photo 61738382, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6adc7c81ec34c66990c4f022bcf5b2127d22c25cc83e8a1d7b4a819634f3e4e1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium purpureum maps to indexed species lamium-purpureum; specialist morphology and BONAP range deferred.",
-      "sha256": "6adc7c81ec34c66990c4f022bcf5b2127d22c25cc83e8a1d7b4a819634f3e4e1"
+      "sha256": "6adc7c81ec34c66990c4f022bcf5b2127d22c25cc83e8a1d7b4a819634f3e4e1",
+      "display_sha256": "a82408ea7b912365c81e070b9d68b3ff35d22a47980a4998c386271eaea9bee4",
+      "display_blob_sha": "f012f2661e57da6c32e89efcb7b30ba58c18ecee",
+      "display_original_site_sha256": "6adc7c81ec34c66990c4f022bcf5b2127d22c25cc83e8a1d7b4a819634f3e4e1",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-purpureum/inat-61953216.jpeg",
@@ -125,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6bb84f391d268a63736b3148800be38d8194668a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -133,7 +153,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 39045590, photo 61953216, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ced15edfae00cde10b834c601a9a84783b10a7727b8bd4353f267435f347858d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium purpureum maps to indexed species lamium-purpureum; specialist morphology and BONAP range deferred.",
-      "sha256": "ced15edfae00cde10b834c601a9a84783b10a7727b8bd4353f267435f347858d"
+      "sha256": "ced15edfae00cde10b834c601a9a84783b10a7727b8bd4353f267435f347858d",
+      "display_sha256": "76bdca70622437f2a65aecb419d8016bf7c7bc17c00528ec0a384b514d080fa4",
+      "display_blob_sha": "162775d5e59cfb21f5acfc34b03f872160357bf2",
+      "display_original_site_sha256": "ced15edfae00cde10b834c601a9a84783b10a7727b8bd4353f267435f347858d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-purpureum/source-d0d9389cae6c.jpg",

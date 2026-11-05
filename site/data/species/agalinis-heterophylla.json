@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8319bb8d0bee2561564e6e46b679481909f8592f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -41,7 +41,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 31288107, photo 48956378, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 539889497f1134ee37ed4444c29085c6462aa681f3f6d9004f0eef5f1b0ead71. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis heterophylla maps to indexed species agalinis-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "539889497f1134ee37ed4444c29085c6462aa681f3f6d9004f0eef5f1b0ead71"
+      "sha256": "539889497f1134ee37ed4444c29085c6462aa681f3f6d9004f0eef5f1b0ead71",
+      "display_sha256": "61a496adb866469ba5638d3bf95fc552812af5f75188589a0726ea7bc9fe1a4b",
+      "display_blob_sha": "e8cb3df1def5d42006c206b46e4762d6b2cf7fae",
+      "display_original_site_sha256": "539889497f1134ee37ed4444c29085c6462aa681f3f6d9004f0eef5f1b0ead71",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-heterophylla/inat-735466017.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fb0aff6e76e651989e2d010461215a8062bc6655",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -60,7 +65,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 400755664, photo 735466017, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 84bb229bb165ef215cc28d6af032ba2edf6ecdaad2db22f3c9b304eac8bc1b19. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis heterophylla maps to indexed species agalinis-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "84bb229bb165ef215cc28d6af032ba2edf6ecdaad2db22f3c9b304eac8bc1b19"
+      "sha256": "84bb229bb165ef215cc28d6af032ba2edf6ecdaad2db22f3c9b304eac8bc1b19",
+      "display_sha256": "ffe6aaff011e2f1f84a210f1f6fcb66f4370060033b1353a94633060c0737315",
+      "display_blob_sha": "5ecbce47bae2cbed462dba0d3917e0adf4b15310",
+      "display_original_site_sha256": "84bb229bb165ef215cc28d6af032ba2edf6ecdaad2db22f3c9b304eac8bc1b19",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-heterophylla/inat-741566305.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2a6a200d8eebb891f70c4c94cb0ab0ef5292db08",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -79,7 +89,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 403856524, photo 741566305, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75ae05fd3352b95428b2b35c755f5646941691d0e719e3d9e9d146465ca4f22c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis heterophylla maps to indexed species agalinis-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "75ae05fd3352b95428b2b35c755f5646941691d0e719e3d9e9d146465ca4f22c"
+      "sha256": "75ae05fd3352b95428b2b35c755f5646941691d0e719e3d9e9d146465ca4f22c",
+      "display_sha256": "16e5657dd6239c7860e50d57e4fa8a8ae5269360aee1a35d58399a5fc1e18b0f",
+      "display_blob_sha": "96f7e547e14c95346c969616c898d990631d56d6",
+      "display_original_site_sha256": "75ae05fd3352b95428b2b35c755f5646941691d0e719e3d9e9d146465ca4f22c",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-heterophylla/inat-745457095.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63c3e2d38245e4f98fcccea1b512add9d2295d65",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -98,7 +113,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 405810795, photo 745457095, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 046442b8f3f78a6e9ffa4bb5429ad243e6f95247c1f565d5884591bc6c30f9bb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis heterophylla maps to indexed species agalinis-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "046442b8f3f78a6e9ffa4bb5429ad243e6f95247c1f565d5884591bc6c30f9bb"
+      "sha256": "046442b8f3f78a6e9ffa4bb5429ad243e6f95247c1f565d5884591bc6c30f9bb",
+      "display_sha256": "d229e63be3db4d59a2bb0b98d14a4cafcf472466d393c3b501570a8ed799c78d",
+      "display_blob_sha": "314530ec9b0e341cbdf2bd6725d4cf1c64738249",
+      "display_original_site_sha256": "046442b8f3f78a6e9ffa4bb5429ad243e6f95247c1f565d5884591bc6c30f9bb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-heterophylla/inat-745535140.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5d1fd3d2b3781df8b7e1d026dd8e7bac28cfdd73",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -117,7 +137,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 405849069, photo 745535140, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a801f1325c48e2b898fe2580b7a5fcd340fd4c127bec84628a243bdcd0e50144. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis heterophylla maps to indexed species agalinis-heterophylla; specialist morphology and BONAP range deferred.",
-      "sha256": "a801f1325c48e2b898fe2580b7a5fcd340fd4c127bec84628a243bdcd0e50144"
+      "sha256": "a801f1325c48e2b898fe2580b7a5fcd340fd4c127bec84628a243bdcd0e50144",
+      "display_sha256": "9f7ce434715c7af29f2ba9214d8ae9a8d0cf036f0d1aa1ab1680c87dc30621ba",
+      "display_blob_sha": "e6c9f1c18fbbcde4088c9be8338bbbe7e64fe198",
+      "display_original_site_sha256": "a801f1325c48e2b898fe2580b7a5fcd340fd4c127bec84628a243bdcd0e50144",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-heterophylla/source-2fc34fee58aa.jpg",

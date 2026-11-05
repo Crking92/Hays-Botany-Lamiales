@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5c106c809f7cbee739d93596f1e90d07bf1c1397",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -80,7 +80,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353482466, photo 645011490, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a42a669e2ba9aa39074b44faed0ab35eaea8111c1af5e95af0258c91ca82305b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria ovata maps to indexed species scutellaria-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "a42a669e2ba9aa39074b44faed0ab35eaea8111c1af5e95af0258c91ca82305b"
+      "sha256": "a42a669e2ba9aa39074b44faed0ab35eaea8111c1af5e95af0258c91ca82305b",
+      "display_sha256": "5140a79b9dc2dee161c473932c51685d69159b7db11c345f7a740f32e3aaaf6c",
+      "display_blob_sha": "6177aa78651617f8a520900b58ea12796781a99b",
+      "display_original_site_sha256": "a42a669e2ba9aa39074b44faed0ab35eaea8111c1af5e95af0258c91ca82305b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/scutellaria-ovata/inat-645085334.jpg",
@@ -91,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6cee20e365eb9e52d76ace66479aa6295b24685b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -99,7 +104,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353558562, photo 645085334, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2ead0742e30dc0f363e92c50f82dcdfaca76e2c4ea6bc39987d1945bd503964. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria ovata maps to indexed species scutellaria-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "f2ead0742e30dc0f363e92c50f82dcdfaca76e2c4ea6bc39987d1945bd503964"
+      "sha256": "f2ead0742e30dc0f363e92c50f82dcdfaca76e2c4ea6bc39987d1945bd503964",
+      "display_sha256": "ffb5bb40d965b466bcc500d7a0b6b8a67f7b56f1d78940551b19e72aa48c22ce",
+      "display_blob_sha": "78bfe60ca6f262c48f3cee66cc6e0e5a332e3733",
+      "display_original_site_sha256": "f2ead0742e30dc0f363e92c50f82dcdfaca76e2c4ea6bc39987d1945bd503964",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/scutellaria-ovata/inat-645708011.jpg",
@@ -110,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a6734583cda4d611473eb1919ff2a079a6095e7b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -118,7 +128,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353924663, photo 645708011, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6273a1efdcea23455316d176a9891189d0748b5de9d928cbbc65a7a9e36fc8cd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria ovata maps to indexed species scutellaria-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "6273a1efdcea23455316d176a9891189d0748b5de9d928cbbc65a7a9e36fc8cd"
+      "sha256": "6273a1efdcea23455316d176a9891189d0748b5de9d928cbbc65a7a9e36fc8cd",
+      "display_sha256": "c8c30846c68fea14dc33e0f714cab9e1d8a88f8a72eb7eda02d7499293531a14",
+      "display_blob_sha": "1b9f956555a9da231f370516b0fd4ca2ab58ae09",
+      "display_original_site_sha256": "6273a1efdcea23455316d176a9891189d0748b5de9d928cbbc65a7a9e36fc8cd",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/scutellaria-ovata/inat-645813401.jpg",
@@ -129,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05e2f2cc090d65c6d89860a0a86feeb674ec7c96",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -137,7 +152,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353982564, photo 645813401, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b4e798d12ad7affd549514ace0bf0679e9bb73add4aac38e85362b2d5ef32155. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria ovata maps to indexed species scutellaria-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "b4e798d12ad7affd549514ace0bf0679e9bb73add4aac38e85362b2d5ef32155"
+      "sha256": "b4e798d12ad7affd549514ace0bf0679e9bb73add4aac38e85362b2d5ef32155",
+      "display_sha256": "0c474be23502334c77a4d06a8d3062a4c8ce6277239b5d28506c89ac92c2ac24",
+      "display_blob_sha": "5d68185e536e8bd1e6e703fccf40a7f54d815da9",
+      "display_original_site_sha256": "b4e798d12ad7affd549514ace0bf0679e9bb73add4aac38e85362b2d5ef32155",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/scutellaria-ovata/inat-648278359.jpg",
@@ -148,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "581bfc491dc197047f7900ab0f8713b6c8733f4f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -156,7 +176,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 355462852, photo 648278359, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 830035b4da102140bcbee114cb6211e6d7ea2e069ac892afcd76a6648081261e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Scutellaria ovata maps to indexed species scutellaria-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "830035b4da102140bcbee114cb6211e6d7ea2e069ac892afcd76a6648081261e"
+      "sha256": "830035b4da102140bcbee114cb6211e6d7ea2e069ac892afcd76a6648081261e",
+      "display_sha256": "30987733e457fdc4d593f44460b84464d35d7d79b322df689608653f2de28d9d",
+      "display_blob_sha": "fc3f524c66845ecada4624812fec4fc5e93a96a1",
+      "display_original_site_sha256": "830035b4da102140bcbee114cb6211e6d7ea2e069ac892afcd76a6648081261e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/scutellaria-ovata/source-b8ea4a12409b.jpg",

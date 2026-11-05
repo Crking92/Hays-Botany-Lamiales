@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5b391b762ceb658c837c79458301840033cbb546",
       "role": "White-pink flowering spike and leaves (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -80,7 +80,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 29314705 contains photo 45773769; live photo license cc-by-nc; photographer '(c) CompanyInk, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 29314705 live source species verbena scabra aligns with verbena-scabra; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "e3d2062561522f22147661837603974fbf703001b8c0618a09c5ccbf18e9d224"
+      "sha256": "e3d2062561522f22147661837603974fbf703001b8c0618a09c5ccbf18e9d224",
+      "display_sha256": "6886c9c87fd4487471a7c54e4a8a5a259f899a45dc78d8143dbff19852c78596",
+      "display_blob_sha": "4ad0bf14a4afbd1aed0c329523ed21fec188db4b",
+      "display_original_site_sha256": "e3d2062561522f22147661837603974fbf703001b8c0618a09c5ccbf18e9d224",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/verbena-scabra/archival-gbif-2807601996.jpg",
@@ -91,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "183dd34924aefe4c15696ff4c7d97b4ebb2e9b61",
       "role": "Pressed branching verbena stems and multiple slender flowering spikes",
-      "modified": "Unmodified original byte-for-byte match to preserved ZIP.",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original byte-for-byte match to preserved ZIP.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Original ZIP visual inspection and automated live GBIF media-license/sha256 verification",
@@ -99,7 +104,12 @@
       "photo_approval_note": "Owner standing photo-first license/credit/source checks completed for exact archived original; detailed taxonomy deferred.",
       "source_review_evidence": "Exact GBIF media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp65276481891275289907.att.jpg with image-level license https://creativecommons.org/licenses/by/4.0/ and creator  The University of Texas at Austin ; downloaded source SHA256 e2b55cb15bde731d49f84adde57a2cc237021862234b6084e27055457df8ecb6 matches archived ZIP record on 2026-11-02T21:01:46.015446+00:00",
       "taxon_review_evidence": "Source specimen accepted as Verbena scabra in GBIF occurrence 2807601996; original archive contact sheet visually checked for plausible corresponding collected material. Specialist plant determination not claimed.",
-      "sha256": "e2b55cb15bde731d49f84adde57a2cc237021862234b6084e27055457df8ecb6"
+      "sha256": "e2b55cb15bde731d49f84adde57a2cc237021862234b6084e27055457df8ecb6",
+      "display_sha256": "a373572d6031beb231127571c52af0d10050a48a4c1f9ffd7af214c7132be614",
+      "display_blob_sha": "9d4544600eb96c78e46d79b76bbae0927914c3da",
+      "display_original_site_sha256": "e2b55cb15bde731d49f84adde57a2cc237021862234b6084e27055457df8ecb6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/verbena-scabra/archival-gbif-2807620226.jpg",
@@ -110,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "378df15e3303c0187f694b0aedad9677b986f5cc",
       "role": "Pressed rough vervain with leafy stems and terminal flowering spikes",
-      "modified": "Unmodified original byte-for-byte match to preserved ZIP.",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original byte-for-byte match to preserved ZIP.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Original ZIP visual inspection and automated live GBIF media-license/sha256 verification",
@@ -118,7 +128,12 @@
       "photo_approval_note": "Owner standing photo-first license/credit/source checks completed for exact archived original; detailed taxonomy deferred.",
       "source_review_evidence": "Exact GBIF media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp67248439840336797408.att.jpg with image-level license https://creativecommons.org/licenses/by/4.0/ and creator  The University of Texas at Austin ; downloaded source SHA256 cc097e879aa022c4938880dca2d042ffb2776da0297d5c58880dc634b5b6f8ef matches archived ZIP record on 2026-11-02T21:01:46.015446+00:00",
       "taxon_review_evidence": "Source specimen accepted as Verbena scabra in GBIF occurrence 2807620226; original archive contact sheet visually checked for plausible corresponding collected material. Specialist plant determination not claimed.",
-      "sha256": "cc097e879aa022c4938880dca2d042ffb2776da0297d5c58880dc634b5b6f8ef"
+      "sha256": "cc097e879aa022c4938880dca2d042ffb2776da0297d5c58880dc634b5b6f8ef",
+      "display_sha256": "2a047777365d05f79923e6b5a47f793398a3b62392bee04b288860ae5419919a",
+      "display_blob_sha": "0ed063f0b784b382d298e8ad52bb38393292c863",
+      "display_original_site_sha256": "cc097e879aa022c4938880dca2d042ffb2776da0297d5c58880dc634b5b6f8ef",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/verbena-scabra/archival-gbif-2807654766.jpg",
@@ -129,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f96c781c854791b2c2fae3bdd5fa30a3b087a39a",
       "role": "Pressed rough vervain showing broad, toothed leaves and flowering branch",
-      "modified": "Unmodified original byte-for-byte match to preserved ZIP.",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original byte-for-byte match to preserved ZIP.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Original ZIP visual inspection and automated live GBIF media-license/sha256 verification",
@@ -137,7 +152,12 @@
       "photo_approval_note": "Owner standing photo-first license/credit/source checks completed for exact archived original; detailed taxonomy deferred.",
       "source_review_evidence": "Exact GBIF media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp62059319254358404838.att.jpg with image-level license https://creativecommons.org/licenses/by/4.0/ and creator  The University of Texas at Austin ; downloaded source SHA256 63957e6d242fb554b6a13199870945d0a23110ca32c3153cfc7f6bd2c34fb480 matches archived ZIP record on 2026-11-02T21:01:46.015446+00:00",
       "taxon_review_evidence": "Source specimen accepted as Verbena scabra in GBIF occurrence 2807654766; original archive contact sheet visually checked for plausible corresponding collected material. Specialist plant determination not claimed.",
-      "sha256": "63957e6d242fb554b6a13199870945d0a23110ca32c3153cfc7f6bd2c34fb480"
+      "sha256": "63957e6d242fb554b6a13199870945d0a23110ca32c3153cfc7f6bd2c34fb480",
+      "display_sha256": "e5ca811c657ee5128ddba04df21f79fc3aec501d02e3c84761fef2d242faa886",
+      "display_blob_sha": "7514ff9003a80dc72b8bb220d2f1601ff7a082fd",
+      "display_original_site_sha256": "63957e6d242fb554b6a13199870945d0a23110ca32c3153cfc7f6bd2c34fb480",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/verbena-scabra/archived-93e429e2f7c8d095.jpg",

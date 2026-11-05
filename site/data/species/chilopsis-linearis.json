@@ -45,7 +45,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ffdc2f847c7f6f76565ac0d0704076320054a082",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -53,7 +53,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 271093152 and photo 487602740 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 87512932638e7ef27d930e821fcb458d92fd6aef193a0a57bca8bc52d3c3c688; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/487602740/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Chilopsis linearis' matches this assigned family species card chilopsis-linearis. Specialist morphology/field characters deferred.",
-      "sha256": "87512932638e7ef27d930e821fcb458d92fd6aef193a0a57bca8bc52d3c3c688"
+      "sha256": "87512932638e7ef27d930e821fcb458d92fd6aef193a0a57bca8bc52d3c3c688",
+      "display_sha256": "acf764455223f3cc433636a2100268158542532dc238a21b69877f58ac4607da",
+      "display_blob_sha": "9f163a4341ee1b15ba875fdf51f1a1f4d84290bc",
+      "display_original_site_sha256": "87512932638e7ef27d930e821fcb458d92fd6aef193a0a57bca8bc52d3c3c688",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chilopsis-linearis/inat-492677845.jpg",
@@ -64,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4c7fbd797c1a87050b10a5798b61f733879d629b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -72,7 +77,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 274007895 and photo 492677845 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 80fddae49ceca115cffd14df621e8ba5f77bf817b2ac8dd5cd1fff7ad90eaa10; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/492677845/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Chilopsis linearis' matches this assigned family species card chilopsis-linearis. Specialist morphology/field characters deferred.",
-      "sha256": "80fddae49ceca115cffd14df621e8ba5f77bf817b2ac8dd5cd1fff7ad90eaa10"
+      "sha256": "80fddae49ceca115cffd14df621e8ba5f77bf817b2ac8dd5cd1fff7ad90eaa10",
+      "display_sha256": "467bb6f32d7752f6a2a7aefd135cdf8832f5568f43245d28731d5bfa8512d72b",
+      "display_blob_sha": "fc75e9bffa60629cdf498f432db9084d39d8c1e8",
+      "display_original_site_sha256": "80fddae49ceca115cffd14df621e8ba5f77bf817b2ac8dd5cd1fff7ad90eaa10",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chilopsis-linearis/inat-634816728.jpg",
@@ -83,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b825d5964bd9bd9f91fd5a1b72ebe5783fbe68c9",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -91,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 348107923 and photo 634816728 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 1e5d8eaacc031f149380b739044cfa9bd416f25c2f354c1690febe6cac930e26; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/634816728/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Chilopsis linearis' matches this assigned family species card chilopsis-linearis. Specialist morphology/field characters deferred.",
-      "sha256": "1e5d8eaacc031f149380b739044cfa9bd416f25c2f354c1690febe6cac930e26"
+      "sha256": "1e5d8eaacc031f149380b739044cfa9bd416f25c2f354c1690febe6cac930e26",
+      "display_sha256": "87faf6c9df6d8e7dbb9e80fb9520aab71c231aad3440681f1e383119ac451ddf",
+      "display_blob_sha": "bdc0db2d3f0fa07165c9a9440d7840dcd7e57543",
+      "display_original_site_sha256": "1e5d8eaacc031f149380b739044cfa9bd416f25c2f354c1690febe6cac930e26",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chilopsis-linearis/inat-656360829.jpg",
@@ -102,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e892453d6cce981dcf3b8a019aaa60f2423fe20d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -110,7 +125,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 359733003 and photo 656360829 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 98ebc478285d83e51f8c8bfae6b189c943bf6ce6a9c27f9d51457b2249d85c5d; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/656360829/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Chilopsis linearis' matches this assigned family species card chilopsis-linearis. Specialist morphology/field characters deferred.",
-      "sha256": "98ebc478285d83e51f8c8bfae6b189c943bf6ce6a9c27f9d51457b2249d85c5d"
+      "sha256": "98ebc478285d83e51f8c8bfae6b189c943bf6ce6a9c27f9d51457b2249d85c5d",
+      "display_sha256": "f02ba708aed096e4c14bcc64114d9c7b4fecae0ae01c57ddf57826c7e8270753",
+      "display_blob_sha": "7dc13a3f9cc42aff144d42cc68340da03dbf493d",
+      "display_original_site_sha256": "98ebc478285d83e51f8c8bfae6b189c943bf6ce6a9c27f9d51457b2249d85c5d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chilopsis-linearis/inat-664191174.jpg",
@@ -121,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f6ecbf2da6338b49267c57490880a8ef99b40a0c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -129,7 +149,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 363844736 and photo 664191174 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 819d9f3598b0fdd0f3a81d201ff8c591eb4d1f6cc8539a7699cb930bd9c02a6f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/664191174/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Chilopsis linearis' matches this assigned family species card chilopsis-linearis. Specialist morphology/field characters deferred.",
-      "sha256": "819d9f3598b0fdd0f3a81d201ff8c591eb4d1f6cc8539a7699cb930bd9c02a6f"
+      "sha256": "819d9f3598b0fdd0f3a81d201ff8c591eb4d1f6cc8539a7699cb930bd9c02a6f",
+      "display_sha256": "9419f296de3c8459ecec8cd45195a108f8f114181bd2ac12a816417a8738c4ec",
+      "display_blob_sha": "c2867c0b67aece44fb6000d68b326e7e6b5548f1",
+      "display_original_site_sha256": "819d9f3598b0fdd0f3a81d201ff8c591eb4d1f6cc8539a7699cb930bd9c02a6f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chilopsis-linearis/source-b39a45b3aef8.jpg",

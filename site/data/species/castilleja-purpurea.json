@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "48d5f9b9bf8dbf0b5c21d493f608a8a56d790581",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -57,7 +57,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 191210982, photo 335382046, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3554f0489af562f49e94bb73aa905479d72497b946c1dcf7dabcccea23185f93. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja purpurea maps to indexed species castilleja-purpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "3554f0489af562f49e94bb73aa905479d72497b946c1dcf7dabcccea23185f93"
+      "sha256": "3554f0489af562f49e94bb73aa905479d72497b946c1dcf7dabcccea23185f93",
+      "display_sha256": "c1a5661fbb7ebd88ea036650a4e39601ee61e94b8f852d140f18b7226df6485a",
+      "display_blob_sha": "bef09c70ef715f74624cd60c3d09431a0a434941",
+      "display_original_site_sha256": "3554f0489af562f49e94bb73aa905479d72497b946c1dcf7dabcccea23185f93",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-purpurea/inat-37355961.jpeg",
@@ -87,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "775c7621bfd0cecd6db7ccf6d3eb3c158ce8f26b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -95,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342783688, photo 624279266, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 47b231e8849b0a8eee6d0295d53d09f15f2a41f04e35e8bb1337ebef4ca09035. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja purpurea maps to indexed species castilleja-purpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "47b231e8849b0a8eee6d0295d53d09f15f2a41f04e35e8bb1337ebef4ca09035"
+      "sha256": "47b231e8849b0a8eee6d0295d53d09f15f2a41f04e35e8bb1337ebef4ca09035",
+      "display_sha256": "5c8eb97fed392a6e03aa28d6a172570c10bed311424c918f21d2d04bf9797885",
+      "display_blob_sha": "2d935b4ef543569b55d12563f6714d6e7d4cc918",
+      "display_original_site_sha256": "47b231e8849b0a8eee6d0295d53d09f15f2a41f04e35e8bb1337ebef4ca09035",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-purpurea/inat-626835037.jpg",
@@ -106,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7154bf0309a9bbd2e29165c58d7d19afeea97e82",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -114,7 +124,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344049657, photo 626835037, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 845bf100e7b17ed6345cd6bdd0f754f5e0eada0d35e977568e4a8181b2c8381b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja purpurea maps to indexed species castilleja-purpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "845bf100e7b17ed6345cd6bdd0f754f5e0eada0d35e977568e4a8181b2c8381b"
+      "sha256": "845bf100e7b17ed6345cd6bdd0f754f5e0eada0d35e977568e4a8181b2c8381b",
+      "display_sha256": "d0280b39bace7d29d1ee928c4ad077bcb0b64a552395f7a0a48a9b9cfd6e58d0",
+      "display_blob_sha": "4f74f942ab517d230bf9def8e32d81850fade324",
+      "display_original_site_sha256": "845bf100e7b17ed6345cd6bdd0f754f5e0eada0d35e977568e4a8181b2c8381b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-purpurea/inat-629965243.jpg",
@@ -125,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e9c4091377286f49b6ac4fbed66bbf82cc161bfb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -133,7 +148,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345655397, photo 629965243, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 689fb2f49bd1b0cfe76441f691d4680279a93d810faa520f110add19ce0fc159. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja purpurea maps to indexed species castilleja-purpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "689fb2f49bd1b0cfe76441f691d4680279a93d810faa520f110add19ce0fc159"
+      "sha256": "689fb2f49bd1b0cfe76441f691d4680279a93d810faa520f110add19ce0fc159",
+      "display_sha256": "284f67d8fd215c0df8387cfbe11351a42c194d7929e412819e6aa092b8dfebcd",
+      "display_blob_sha": "dbd3635e0af26674cbfa646f3bda22464857343f",
+      "display_original_site_sha256": "689fb2f49bd1b0cfe76441f691d4680279a93d810faa520f110add19ce0fc159",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-purpurea/source-4305bb330641.jpg",

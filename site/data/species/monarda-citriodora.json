@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9b560675c8b01edb0b57314aff00096a4451f408",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +85,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342500723, photo 623726146, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 475bc93f1537a073dfd77378ac111bd5ae258cd02058b8690c1f3669aad9867b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda citriodora maps to indexed species monarda-citriodora; specialist morphology and BONAP range deferred.",
-      "sha256": "475bc93f1537a073dfd77378ac111bd5ae258cd02058b8690c1f3669aad9867b"
+      "sha256": "475bc93f1537a073dfd77378ac111bd5ae258cd02058b8690c1f3669aad9867b",
+      "display_sha256": "be624d6ef85f2217341b326067477b18b52b98c396f504ac471caf3a14b0c39c",
+      "display_blob_sha": "a2b855e66793d670a90ffb465568e2682cebb157",
+      "display_original_site_sha256": "475bc93f1537a073dfd77378ac111bd5ae258cd02058b8690c1f3669aad9867b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-citriodora/inat-628065111.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e3a08eee93589c6df0ea0ab567597518c8036d02",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +109,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344683620, photo 628065111, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eb13b76f3f020950800615c4aa682f0605523ecfc7b977721b744137f35c607d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda citriodora maps to indexed species monarda-citriodora; specialist morphology and BONAP range deferred.",
-      "sha256": "eb13b76f3f020950800615c4aa682f0605523ecfc7b977721b744137f35c607d"
+      "sha256": "eb13b76f3f020950800615c4aa682f0605523ecfc7b977721b744137f35c607d",
+      "display_sha256": "10b032e797e727e408cf11fe0de7d37ac7af3f45c354455c84ca213a1e8dc5b0",
+      "display_blob_sha": "cef63a3a01f90e7e12fd49ea714e88c371f6a1a1",
+      "display_original_site_sha256": "eb13b76f3f020950800615c4aa682f0605523ecfc7b977721b744137f35c607d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-citriodora/inat-630324914.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ee5640244a6807c601bb039daf28fb0363d9a74f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -123,7 +133,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345763323, photo 630324914, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bd8405a2533ef91a96affdc74e425d7f642d731f2e3fa7a186b7e9c7c2b3e63f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda citriodora maps to indexed species monarda-citriodora; specialist morphology and BONAP range deferred.",
-      "sha256": "bd8405a2533ef91a96affdc74e425d7f642d731f2e3fa7a186b7e9c7c2b3e63f"
+      "sha256": "bd8405a2533ef91a96affdc74e425d7f642d731f2e3fa7a186b7e9c7c2b3e63f",
+      "display_sha256": "daffb9f909e9f21cb3186b6df8feb0dee47463fefc969fec4f1aabfec49dd3a2",
+      "display_blob_sha": "5fd2ee3785a5bf5235a5025e4019611e75970321",
+      "display_original_site_sha256": "bd8405a2533ef91a96affdc74e425d7f642d731f2e3fa7a186b7e9c7c2b3e63f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-citriodora/inat-632623001.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c7b08af1c0b99c2657e69e9df6006e75c74911e4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -161,7 +176,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 358518453, photo 654037397, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c1b8738be55ec6d0258a39064e78907d978076bbaebe94b0c897bf7c3311c0aa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda citriodora maps to indexed species monarda-citriodora; specialist morphology and BONAP range deferred.",
-      "sha256": "c1b8738be55ec6d0258a39064e78907d978076bbaebe94b0c897bf7c3311c0aa"
+      "sha256": "c1b8738be55ec6d0258a39064e78907d978076bbaebe94b0c897bf7c3311c0aa",
+      "display_sha256": "9b92c6ca0163b4a7fc7b1550d2d25031da058526a1f3a6f0b6f97d47d21ab73a",
+      "display_blob_sha": "de43ecf2c8b1090333d04ac210253a648a78b800",
+      "display_original_site_sha256": "c1b8738be55ec6d0258a39064e78907d978076bbaebe94b0c897bf7c3311c0aa",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-citriodora/01-reference.jpg",

@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fcf63160cecf18822fbbd0bd043e0da90f38e673",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -91,7 +91,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341158159, photo 620992596, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 96588c1cf3dd3749531128c70a878e789c77bac13204c0b0e8332023ac5fffc8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus greggii maps to indexed species fraxinus-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "96588c1cf3dd3749531128c70a878e789c77bac13204c0b0e8332023ac5fffc8"
+      "sha256": "96588c1cf3dd3749531128c70a878e789c77bac13204c0b0e8332023ac5fffc8",
+      "display_sha256": "9007632c6121806379dc8f238d89f2a7ebe57eaee287de92afda95c3975e4b2f",
+      "display_blob_sha": "fe196bc62112bd5bd006aeb13d991c964ef9782a",
+      "display_original_site_sha256": "96588c1cf3dd3749531128c70a878e789c77bac13204c0b0e8332023ac5fffc8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-greggii/inat-624817519.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "9194f33d7e659a67f37a3fc5a413b7ccadf4d93d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -110,7 +115,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343050735, photo 624817519, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 80bc870bac2ec9a3972499c63ec9253192314785a430c38d125bfa5e997a0130. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus greggii maps to indexed species fraxinus-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "80bc870bac2ec9a3972499c63ec9253192314785a430c38d125bfa5e997a0130"
+      "sha256": "80bc870bac2ec9a3972499c63ec9253192314785a430c38d125bfa5e997a0130",
+      "display_sha256": "5aea7db88acaf651372fa0534ef2f4553eaa50dbe6e8bb9ff49fb3ca352e73a9",
+      "display_blob_sha": "c2437957dcc4017503cbb4e9d89272d069b5bc1b",
+      "display_original_site_sha256": "80bc870bac2ec9a3972499c63ec9253192314785a430c38d125bfa5e997a0130",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-greggii/inat-626492886.jpg",
@@ -121,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "122607bf370a26d101194dbd040e0ad62dd8a169",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -129,7 +139,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343880098, photo 626492886, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43358a9f4b002653e886a8ccb944932e63bbfd8f296268ebae14b186b3cf674f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus greggii maps to indexed species fraxinus-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "43358a9f4b002653e886a8ccb944932e63bbfd8f296268ebae14b186b3cf674f"
+      "sha256": "43358a9f4b002653e886a8ccb944932e63bbfd8f296268ebae14b186b3cf674f",
+      "display_sha256": "71144d6d6f10180ca7a7b630ff9b2e320a9eebd6c349b12efe6bb07e10231b3e",
+      "display_blob_sha": "392b385a6da4fe58c79a6a60bfc2f3a8832136e1",
+      "display_original_site_sha256": "43358a9f4b002653e886a8ccb944932e63bbfd8f296268ebae14b186b3cf674f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-greggii/inat-628682812.jpg",
@@ -140,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a692f538d618c7471769979f6c5a5c666d9d2665",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -148,7 +163,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345007010, photo 628682812, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 296631693f75c068a9670f7c776901e4350bc3147ee32056bc459828d0b66dfb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus greggii maps to indexed species fraxinus-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "296631693f75c068a9670f7c776901e4350bc3147ee32056bc459828d0b66dfb"
+      "sha256": "296631693f75c068a9670f7c776901e4350bc3147ee32056bc459828d0b66dfb",
+      "display_sha256": "ccbeb6ea6b7a245cf0912f1e74df7919aaf8fffcbff5dff679ea896e0f155928",
+      "display_blob_sha": "76be2187ef5ec92f3785d51a9987e948b8ef35cd",
+      "display_original_site_sha256": "296631693f75c068a9670f7c776901e4350bc3147ee32056bc459828d0b66dfb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-greggii/inat-631973264.jpg",
@@ -159,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2073f6d26fbb481bbbd90bab8028551999df8d8d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -167,7 +187,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346675648, photo 631973264, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 26e88370801b7ed9d60af18c592f9644e82ec48f037f7fdc11fa328e503889be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus greggii maps to indexed species fraxinus-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "26e88370801b7ed9d60af18c592f9644e82ec48f037f7fdc11fa328e503889be"
+      "sha256": "26e88370801b7ed9d60af18c592f9644e82ec48f037f7fdc11fa328e503889be",
+      "display_sha256": "d8478216587ba8f46c739f1a9e3b6a72457dd5596ec5d80bc2cfd644838afeb3",
+      "display_blob_sha": "ad226e3f9fb10fd025a2d1619be86cfa33970ff4",
+      "display_original_site_sha256": "26e88370801b7ed9d60af18c592f9644e82ec48f037f7fdc11fa328e503889be",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

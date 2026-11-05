@@ -84,7 +84,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "66aac82364df517203bf92c98e478abd642b52c8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -92,7 +92,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 270274133, photo 486037680, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 450758eba05b81e5556cd644cf0c0ecaef3bb0676df7b7d557fdf049ea2e0097. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia greggii maps to indexed species salvia-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "450758eba05b81e5556cd644cf0c0ecaef3bb0676df7b7d557fdf049ea2e0097"
+      "sha256": "450758eba05b81e5556cd644cf0c0ecaef3bb0676df7b7d557fdf049ea2e0097",
+      "display_sha256": "46a79185935c47258dc114eb5dd6850528f69711ab36a8ce31288636edf61042",
+      "display_blob_sha": "081071e19605bf5117717581c74a3dbeb28ad18f",
+      "display_original_site_sha256": "450758eba05b81e5556cd644cf0c0ecaef3bb0676df7b7d557fdf049ea2e0097",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-greggii/inat-500494247.jpg",
@@ -103,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5046210f0fae03179bea275057ea98c3248ce52f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -111,7 +116,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 278731264, photo 500494247, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 31f37ae7cbd909e5d5343c62a0feb1dc8f999222cfe0dbcbdffa994a61537cb4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia greggii maps to indexed species salvia-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "31f37ae7cbd909e5d5343c62a0feb1dc8f999222cfe0dbcbdffa994a61537cb4"
+      "sha256": "31f37ae7cbd909e5d5343c62a0feb1dc8f999222cfe0dbcbdffa994a61537cb4",
+      "display_sha256": "8420119e2c988e86153121cc06e88f38373f8c0e2157268da34d620b07a4fb28",
+      "display_blob_sha": "74601d1d65b1afa4528e431a8609b57121d11518",
+      "display_original_site_sha256": "31f37ae7cbd909e5d5343c62a0feb1dc8f999222cfe0dbcbdffa994a61537cb4",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-greggii/01-flower-habit.jpg",

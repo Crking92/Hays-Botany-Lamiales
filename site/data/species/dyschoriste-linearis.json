@@ -102,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0ada02ddd43f4f30fc078cd45d0108d757024334",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +110,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341745866, photo 622197814, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 28e40f6a7a9a40f47887a92e8189b5800425f81b2e70ee96febf1aee89de54b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dyschoriste linearis maps to indexed species dyschoriste-linearis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "28e40f6a7a9a40f47887a92e8189b5800425f81b2e70ee96febf1aee89de54b1"
+      "sha256": "28e40f6a7a9a40f47887a92e8189b5800425f81b2e70ee96febf1aee89de54b1",
+      "display_sha256": "cbed1213f8cc2ea2bf685ae35c9c280c01fd06a2bf38df0cdbb52f479991f2c4",
+      "display_blob_sha": "8ecfc168b0e61e0cc0e844613113de737dc66ffb",
+      "display_original_site_sha256": "28e40f6a7a9a40f47887a92e8189b5800425f81b2e70ee96febf1aee89de54b1",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dyschoriste-linearis/inat-634546710.jpg",
@@ -121,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7465f82f27f9c25ddd01a3060514111955eb600d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +134,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 347970080, photo 634546710, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f1f4c17d03727feff138427cfbd17f658c43367ec291a1cd39fabb3d1a927665. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dyschoriste linearis maps to indexed species dyschoriste-linearis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f1f4c17d03727feff138427cfbd17f658c43367ec291a1cd39fabb3d1a927665"
+      "sha256": "f1f4c17d03727feff138427cfbd17f658c43367ec291a1cd39fabb3d1a927665",
+      "display_sha256": "3004cecc3810581542eacdd12917ba75adb85c6cd3cf8709e65a461a6d100cd6",
+      "display_blob_sha": "075a682f89afd30d8aedf4352d30314616a77720",
+      "display_original_site_sha256": "f1f4c17d03727feff138427cfbd17f658c43367ec291a1cd39fabb3d1a927665",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dyschoriste-linearis/inat-635429720.jpg",
@@ -140,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da065275f3282ed1263330da6f7043022e963a58",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 348416425, photo 635429720, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9da6d1336a217f6cf1efd64fc1d8c53706b3274cbfd516e5b4258a00221935ee. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dyschoriste linearis maps to indexed species dyschoriste-linearis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9da6d1336a217f6cf1efd64fc1d8c53706b3274cbfd516e5b4258a00221935ee"
+      "sha256": "9da6d1336a217f6cf1efd64fc1d8c53706b3274cbfd516e5b4258a00221935ee",
+      "display_sha256": "2e3fa43c39b370c6a35070b081b3a4a178f5ff4ba84f2049c4c2d7c765603e16",
+      "display_blob_sha": "a138929d4955d6ea5a8a3aa159be5de312cbc26a",
+      "display_original_site_sha256": "9da6d1336a217f6cf1efd64fc1d8c53706b3274cbfd516e5b4258a00221935ee",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dyschoriste-linearis/inat-639834740.jpg",
@@ -159,7 +174,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ab6cadcedcee655d00b2bb98731d6f926295367e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -167,7 +182,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350659441, photo 639834740, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e3d5335ac03c10edd6e6599d6414e5577626930554235d0616cd126e374c2dd7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dyschoriste linearis maps to indexed species dyschoriste-linearis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e3d5335ac03c10edd6e6599d6414e5577626930554235d0616cd126e374c2dd7"
+      "sha256": "e3d5335ac03c10edd6e6599d6414e5577626930554235d0616cd126e374c2dd7",
+      "display_sha256": "9884d1fe5672cfa20a6bd603434858369aeb36e6850587333f07cbac15d9784d",
+      "display_blob_sha": "b7d8d71892ea10aef63f997edec3d18cefebe3b7",
+      "display_original_site_sha256": "e3d5335ac03c10edd6e6599d6414e5577626930554235d0616cd126e374c2dd7",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dyschoriste-linearis/inat-644290449.jpg",
@@ -178,7 +198,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f23c3c3e673b25a5b7dc46a98667a7710276b163",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -186,7 +206,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353081197, photo 644290449, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8665378578c1cbebc45e88794056207cd27c059dfe692eea0d5ee72e12ead539. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dyschoriste linearis maps to indexed species dyschoriste-linearis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8665378578c1cbebc45e88794056207cd27c059dfe692eea0d5ee72e12ead539"
+      "sha256": "8665378578c1cbebc45e88794056207cd27c059dfe692eea0d5ee72e12ead539",
+      "display_sha256": "85d63a79db37a668d456f90913223e3a42b701b92e644317ecf60120f6790b07",
+      "display_blob_sha": "965a83fc0310aa3619edf59465a8d278d249aadf",
+      "display_original_site_sha256": "8665378578c1cbebc45e88794056207cd27c059dfe692eea0d5ee72e12ead539",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

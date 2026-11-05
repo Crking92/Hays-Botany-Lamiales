@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3eab3ed000577d12dd795e4bfec19924a229e19b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +85,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 157393910, photo 272146369, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 51f367b5404df525c4c8b4f8cc08fed38a082f967d790adbfe845a4e0ff037e8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda punctata maps to indexed species monarda-punctata; specialist morphology and BONAP range deferred.",
-      "sha256": "51f367b5404df525c4c8b4f8cc08fed38a082f967d790adbfe845a4e0ff037e8"
+      "sha256": "51f367b5404df525c4c8b4f8cc08fed38a082f967d790adbfe845a4e0ff037e8",
+      "display_sha256": "62f4758933de305f0ea9234c0f6bf34a886b2a4a1057d46db10ea09340273359",
+      "display_blob_sha": "8637197b72fb72304cd545da848e1e05b51aac4e",
+      "display_original_site_sha256": "51f367b5404df525c4c8b4f8cc08fed38a082f967d790adbfe845a4e0ff037e8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-punctata/inat-650425233.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "38e0186917dfce13d2ca3233c3d9d7f7719614a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +109,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 356657797, photo 650425233, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c60ab2c3ef85af594f21531c638dab548f2755596bf0445dce3a92e67ed5bc83. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda punctata maps to indexed species monarda-punctata; specialist morphology and BONAP range deferred.",
-      "sha256": "c60ab2c3ef85af594f21531c638dab548f2755596bf0445dce3a92e67ed5bc83"
+      "sha256": "c60ab2c3ef85af594f21531c638dab548f2755596bf0445dce3a92e67ed5bc83",
+      "display_sha256": "558a04a763e092e649e81f9eea6c1bcc1d75546dfcb38ba31711ea59dee8e7f5",
+      "display_blob_sha": "8571a3a57592f92236efab63f33351d47ef02c75",
+      "display_original_site_sha256": "c60ab2c3ef85af594f21531c638dab548f2755596bf0445dce3a92e67ed5bc83",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-punctata/inat-650466376.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b30c209a0bfd5d2c6a5701ad14663137855f508",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -123,7 +133,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 356678796, photo 650466376, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fbca80f542faa0d76c0ab85b0550a09b517955f670a03eb294d4dfab4c754a89. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Monarda punctata maps to indexed species monarda-punctata; specialist morphology and BONAP range deferred.",
-      "sha256": "fbca80f542faa0d76c0ab85b0550a09b517955f670a03eb294d4dfab4c754a89"
+      "sha256": "fbca80f542faa0d76c0ab85b0550a09b517955f670a03eb294d4dfab4c754a89",
+      "display_sha256": "d3796a2e7c71d5583b114ac5f1110bb20fb1a73e18feebb2898512faef2c2dee",
+      "display_blob_sha": "f6e880fe9905da9ff511f295076751b84e54e3fa",
+      "display_original_site_sha256": "fbca80f542faa0d76c0ab85b0550a09b517955f670a03eb294d4dfab4c754a89",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/monarda-punctata/01-reference.jpg",

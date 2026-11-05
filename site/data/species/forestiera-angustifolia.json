@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "25f2081f69299416c3100f52ba65ea7d7415b3fa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -95,7 +95,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 267141361, photo 480040762, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 82c4b762089040a0a8105655e30dc84f8a052d576c5256633de8e390fd97b5a8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera angustifolia maps to indexed species forestiera-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "82c4b762089040a0a8105655e30dc84f8a052d576c5256633de8e390fd97b5a8"
+      "sha256": "82c4b762089040a0a8105655e30dc84f8a052d576c5256633de8e390fd97b5a8",
+      "display_sha256": "97a4fc1164289a2f4a862ae99fd49af1c6c0c56417ba47987ee293b4d3e29053",
+      "display_blob_sha": "c2d96ec81f704f7ade858b8ad4b3b058cf619cdb",
+      "display_original_site_sha256": "82c4b762089040a0a8105655e30dc84f8a052d576c5256633de8e390fd97b5a8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/forestiera-angustifolia/inat-480042170.jpg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c55188365242042b37401ddf80338d2d2e23896c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -114,7 +119,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 267142092, photo 480042170, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa2dd52fcf9ebc2b92540eb0bc902e1eec66737ab712966fe224896bb011688e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera angustifolia maps to indexed species forestiera-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "fa2dd52fcf9ebc2b92540eb0bc902e1eec66737ab712966fe224896bb011688e"
+      "sha256": "fa2dd52fcf9ebc2b92540eb0bc902e1eec66737ab712966fe224896bb011688e",
+      "display_sha256": "4b20e8e74f6934400e177e333688472ddd91f88a676d326d3bdc151ed08d0510",
+      "display_blob_sha": "2e5f8755975f619b4147b455f32ded2d7e0cfd75",
+      "display_original_site_sha256": "fa2dd52fcf9ebc2b92540eb0bc902e1eec66737ab712966fe224896bb011688e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/forestiera-angustifolia/inat-644230886.jpg",
@@ -125,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "47bea304565f64a599787fc029cadb7e1de7f256",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -133,7 +143,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353047460, photo 644230886, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d692d1942ce34fd26b33662a35a8d0e1680cf6c5bb0f8e4bda153942d4d30fc9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera angustifolia maps to indexed species forestiera-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "d692d1942ce34fd26b33662a35a8d0e1680cf6c5bb0f8e4bda153942d4d30fc9"
+      "sha256": "d692d1942ce34fd26b33662a35a8d0e1680cf6c5bb0f8e4bda153942d4d30fc9",
+      "display_sha256": "c6b2b9b044c117d5d7a26d2bf5687d01a59946581591b924a83d60b326ff3b07",
+      "display_blob_sha": "5f23c5d1d4bba03b2fce2936b4c53b2ed8b69b72",
+      "display_original_site_sha256": "d692d1942ce34fd26b33662a35a8d0e1680cf6c5bb0f8e4bda153942d4d30fc9",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/forestiera-angustifolia/inat-651000353.jpg",
@@ -144,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "af7f84e821c670b19e640323313faf06a19a69d6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -152,7 +167,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 356959620, photo 651000353, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e88e039a5e47e67a7186d7be55c968a12ba4b22a03e123b2c7c543ec87c21ec8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera angustifolia maps to indexed species forestiera-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "e88e039a5e47e67a7186d7be55c968a12ba4b22a03e123b2c7c543ec87c21ec8"
+      "sha256": "e88e039a5e47e67a7186d7be55c968a12ba4b22a03e123b2c7c543ec87c21ec8",
+      "display_sha256": "e524aebf70995f238b1ddae5e7410ea36ff30b894ca9b45db5651be1a5562782",
+      "display_blob_sha": "ee62d162faf72b725d00fc88345bd19e10ac5ee5",
+      "display_original_site_sha256": "e88e039a5e47e67a7186d7be55c968a12ba4b22a03e123b2c7c543ec87c21ec8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/forestiera-angustifolia/inat-655730754.jpg",
@@ -163,7 +183,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4862eb378860aaf5727e13e76bbb5413438eb217",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -171,7 +191,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 359398985, photo 655730754, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6485a042b19718bb28191e7b525294417f29ca14ddb7ddf9811768b64c2a0100. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera angustifolia maps to indexed species forestiera-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "6485a042b19718bb28191e7b525294417f29ca14ddb7ddf9811768b64c2a0100"
+      "sha256": "6485a042b19718bb28191e7b525294417f29ca14ddb7ddf9811768b64c2a0100",
+      "display_sha256": "15af9159f9e2854a11b274e3004fd455282ca48016dea7c762a0c20984ffcb23",
+      "display_blob_sha": "4646f6ecd9980d92704a36215dc858cbfa07d2e5",
+      "display_original_site_sha256": "6485a042b19718bb28191e7b525294417f29ca14ddb7ddf9811768b64c2a0100",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/forestiera-angustifolia/source-d078a05d4405.jpg",

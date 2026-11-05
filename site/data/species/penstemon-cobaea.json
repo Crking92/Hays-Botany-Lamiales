@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9da1f1a7876f99b078c48e4243830719b498532d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -80,7 +80,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347969844, photo 634546102, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8243f79a91a448c53056b7f99513c7567178ac9591e2d924885a7106ac9dd03a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon cobaea maps to indexed species penstemon-cobaea; specialist morphology and BONAP range deferred.",
-      "sha256": "8243f79a91a448c53056b7f99513c7567178ac9591e2d924885a7106ac9dd03a"
+      "sha256": "8243f79a91a448c53056b7f99513c7567178ac9591e2d924885a7106ac9dd03a",
+      "display_sha256": "d2aa03e349fea936819267f3eb7b1796ccc7fbea398b4fd4729c24e903daed7b",
+      "display_blob_sha": "b67706457b8c075d82abfacfa003743b92f7526a",
+      "display_original_site_sha256": "8243f79a91a448c53056b7f99513c7567178ac9591e2d924885a7106ac9dd03a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-cobaea/inat-634936560.jpg",
@@ -91,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e712f610897cbc0ab779af81d5176319576b269",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -99,7 +104,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 348168633, photo 634936560, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2d5d7813567c85fdc788fc8cce28417786d2ca5b1657140e0ce7e35eede177a8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon cobaea maps to indexed species penstemon-cobaea; specialist morphology and BONAP range deferred.",
-      "sha256": "2d5d7813567c85fdc788fc8cce28417786d2ca5b1657140e0ce7e35eede177a8"
+      "sha256": "2d5d7813567c85fdc788fc8cce28417786d2ca5b1657140e0ce7e35eede177a8",
+      "display_sha256": "e242dcb8baf0d8125910ca14cd3275734be85ef23c738bb41b835df7f25b112e",
+      "display_blob_sha": "af227f18526bb193e351fc894945fc98ff7972ae",
+      "display_original_site_sha256": "2d5d7813567c85fdc788fc8cce28417786d2ca5b1657140e0ce7e35eede177a8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-cobaea/inat-640364149.jpg",
@@ -110,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bb8a8bfde7e743524642b99786cdfa520eaac1c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -118,7 +128,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 350937073, photo 640364149, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f146581e5ea77ec1af93474096bd1e6fbee619035b2bda5d06fcce669257862. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon cobaea maps to indexed species penstemon-cobaea; specialist morphology and BONAP range deferred.",
-      "sha256": "3f146581e5ea77ec1af93474096bd1e6fbee619035b2bda5d06fcce669257862"
+      "sha256": "3f146581e5ea77ec1af93474096bd1e6fbee619035b2bda5d06fcce669257862",
+      "display_sha256": "16b4d217f9b186de7e7c9783c82504e39655baa2b095e621e54d2753fd27bc68",
+      "display_blob_sha": "69eda3c958c3dffb86d5c45b4c0da9f011be3cb0",
+      "display_original_site_sha256": "3f146581e5ea77ec1af93474096bd1e6fbee619035b2bda5d06fcce669257862",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-cobaea/inat-644291242.jpg",
@@ -129,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2875affaeea602a3e707a06148d40ea6a6e86493",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -137,7 +152,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353081533, photo 644291242, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6194994d6a2a5ce0cc7512b7071678c5e852fe97c9b24b9d1daaa920d00ac551. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon cobaea maps to indexed species penstemon-cobaea; specialist morphology and BONAP range deferred.",
-      "sha256": "6194994d6a2a5ce0cc7512b7071678c5e852fe97c9b24b9d1daaa920d00ac551"
+      "sha256": "6194994d6a2a5ce0cc7512b7071678c5e852fe97c9b24b9d1daaa920d00ac551",
+      "display_sha256": "8de3d5c4e8a2f14a038585477a3041ed2bf28ed4391e5ba588f5495dc809f55a",
+      "display_blob_sha": "ca575f8e8dcffcc3d320d55924903ea5cfb0caf1",
+      "display_original_site_sha256": "6194994d6a2a5ce0cc7512b7071678c5e852fe97c9b24b9d1daaa920d00ac551",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-cobaea/archived-b06424f83df2a78e.jpg",

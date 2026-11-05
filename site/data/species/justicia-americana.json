@@ -45,7 +45,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ba0709642a198f70398cfff6f398c3bd8bf4b5f0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -53,7 +53,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 346489535, photo 631606307, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d456baf86982e96f4972e045adb6e939dd6a1291b078a9a2237f08d35c47704a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia americana maps to indexed species justicia-americana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d456baf86982e96f4972e045adb6e939dd6a1291b078a9a2237f08d35c47704a"
+      "sha256": "d456baf86982e96f4972e045adb6e939dd6a1291b078a9a2237f08d35c47704a",
+      "display_sha256": "187cb1f656813289eed2910dba45cf949cf497bbd580ec3a58f8ad385a087de7",
+      "display_blob_sha": "54edb0f4313d0765643f48cd1c5c1af5d4561ef1",
+      "display_original_site_sha256": "d456baf86982e96f4972e045adb6e939dd6a1291b078a9a2237f08d35c47704a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-americana/inat-632876973.jpg",
@@ -64,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5916a77e6b442b1547a44f6e789867fffca9fcce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -72,7 +77,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 347129402, photo 632876973, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8cf7d904f414888da7365ba165d5eff27d3473d8be14e454bfc2db43e5b90e37. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia americana maps to indexed species justicia-americana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8cf7d904f414888da7365ba165d5eff27d3473d8be14e454bfc2db43e5b90e37"
+      "sha256": "8cf7d904f414888da7365ba165d5eff27d3473d8be14e454bfc2db43e5b90e37",
+      "display_sha256": "08c51c6e888715b0d7a91515db8f7b84544447045f270e1ab6856a774587c3c1",
+      "display_blob_sha": "a1732ce4c1d59fcd4214ac4cfd5fcba326dc828c",
+      "display_original_site_sha256": "8cf7d904f414888da7365ba165d5eff27d3473d8be14e454bfc2db43e5b90e37",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-americana/inat-636306710.jpg",
@@ -83,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2fe6d8e0eb39ce1596c31dccc94e90243cb57b9f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 348856284, photo 636306710, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f557f291df8c84aee8d0e180d89677e426e903f8a2e3146aed11bce865d9b582. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia americana maps to indexed species justicia-americana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f557f291df8c84aee8d0e180d89677e426e903f8a2e3146aed11bce865d9b582"
+      "sha256": "f557f291df8c84aee8d0e180d89677e426e903f8a2e3146aed11bce865d9b582",
+      "display_sha256": "d3c3e0b8273f702fc1556355f8a3f771554340781227131dba5bb43726512d1d",
+      "display_blob_sha": "d1708ecd137d1cae19a15efa93985df6bd752cd1",
+      "display_original_site_sha256": "f557f291df8c84aee8d0e180d89677e426e903f8a2e3146aed11bce865d9b582",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-americana/inat-637765154.jpg",
@@ -102,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e56cfba78ce12f63cb16776637aae3c90181b87",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +125,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 349599247, photo 637765154, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 356df3faa395686d50cff253a3b7f4926af85b5d5de0af63f7177a2c52200a18. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia americana maps to indexed species justicia-americana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "356df3faa395686d50cff253a3b7f4926af85b5d5de0af63f7177a2c52200a18"
+      "sha256": "356df3faa395686d50cff253a3b7f4926af85b5d5de0af63f7177a2c52200a18",
+      "display_sha256": "3876381bcd21384fe34cfddea809b21bf27f425a03094d83dd42228c8dfe20d1",
+      "display_blob_sha": "c8b880311240dd9eaa3b4de959e2f6443db4d4c5",
+      "display_original_site_sha256": "356df3faa395686d50cff253a3b7f4926af85b5d5de0af63f7177a2c52200a18",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-americana/inat-640292223.jpg",
@@ -121,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "efab1d5faad4e686e4afa13b1873fc1b83fbeb66",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +149,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350901155, photo 640292223, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 78d785695289bc07b91827e697627f0e5acc7936f455aa4bdef99e13ce69aaf2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia americana maps to indexed species justicia-americana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "78d785695289bc07b91827e697627f0e5acc7936f455aa4bdef99e13ce69aaf2"
+      "sha256": "78d785695289bc07b91827e697627f0e5acc7936f455aa4bdef99e13ce69aaf2",
+      "display_sha256": "04eee169ef3175aa684f29a472c9aa56f6467ca384a7cada9953dcbdb05bb4e2",
+      "display_blob_sha": "e1128b53d051aa9fe88623854c5aeb92a7877f3a",
+      "display_original_site_sha256": "78d785695289bc07b91827e697627f0e5acc7936f455aa4bdef99e13ce69aaf2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-americana/source-716eee975127.jpg",

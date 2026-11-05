@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7576d92449828a973311f0e5e08d7ab53e56f5a8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -57,7 +57,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 352734783, photo 643719018, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 270619e2ccd949e9cd5ad55debb502808e8a03c95d09800aa455944a4a1bc737. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Callicarpa americana maps to indexed species callicarpa-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "270619e2ccd949e9cd5ad55debb502808e8a03c95d09800aa455944a4a1bc737"
+      "sha256": "270619e2ccd949e9cd5ad55debb502808e8a03c95d09800aa455944a4a1bc737",
+      "display_sha256": "ea39128d76fe986ab726e6211855fa60d4d57cd48616acaa8d999811d378cff0",
+      "display_blob_sha": "53fdd6b09bfc39e1ddb0262dee1c96a98589c528",
+      "display_original_site_sha256": "270619e2ccd949e9cd5ad55debb502808e8a03c95d09800aa455944a4a1bc737",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callicarpa-americana/inat-645018087.jpg",
@@ -68,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "586d65b2f3e60d02632b539c73f4d922bda2aa56",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -76,7 +81,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353517680, photo 645018087, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea02db4c54ddde796d03d9eaec7fa596f4bdae615692c6a8c4b6ad6a5239f83d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Callicarpa americana maps to indexed species callicarpa-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "ea02db4c54ddde796d03d9eaec7fa596f4bdae615692c6a8c4b6ad6a5239f83d"
+      "sha256": "ea02db4c54ddde796d03d9eaec7fa596f4bdae615692c6a8c4b6ad6a5239f83d",
+      "display_sha256": "eaf905f5d2ef08d73383463739db2aeaf761a47d8589bd62e721879da6546131",
+      "display_blob_sha": "2719cd6f0a1c1474db77a76cb01c17580cb8271c",
+      "display_original_site_sha256": "ea02db4c54ddde796d03d9eaec7fa596f4bdae615692c6a8c4b6ad6a5239f83d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callicarpa-americana/inat-645261497.jpg",
@@ -87,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f61b2403216b8d243a2bf791a0813fbe9948b03b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -95,7 +105,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353670129, photo 645261497, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2b787a6c4a045fe1c3725d53af978838b653b453b0b7638a433960a2ebfd160. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Callicarpa americana maps to indexed species callicarpa-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "f2b787a6c4a045fe1c3725d53af978838b653b453b0b7638a433960a2ebfd160"
+      "sha256": "f2b787a6c4a045fe1c3725d53af978838b653b453b0b7638a433960a2ebfd160",
+      "display_sha256": "b8ae82255598076cee485f2dfe4af236be09856cc8969c120e78ca4dce23cab6",
+      "display_blob_sha": "fa49047111b51e13e2fe785f10e36b0af8f23f62",
+      "display_original_site_sha256": "f2b787a6c4a045fe1c3725d53af978838b653b453b0b7638a433960a2ebfd160",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callicarpa-americana/inat-645349860.jpg",
@@ -106,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a26fc9716c75250f812963ad9855121a7a578001",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -114,7 +129,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353722514, photo 645349860, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0f09a76750073e2c775e07ff233024fed30c0c8bd8f84384f146a83c92051120. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Callicarpa americana maps to indexed species callicarpa-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "0f09a76750073e2c775e07ff233024fed30c0c8bd8f84384f146a83c92051120"
+      "sha256": "0f09a76750073e2c775e07ff233024fed30c0c8bd8f84384f146a83c92051120",
+      "display_sha256": "9f4b654ad86f2e7fc04a29d7424b2c6005e31df2093e94f8a01aae3efc80d5a4",
+      "display_blob_sha": "f434b27a75f40bbbc753dd5806f1b2fdf16faf83",
+      "display_original_site_sha256": "0f09a76750073e2c775e07ff233024fed30c0c8bd8f84384f146a83c92051120",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callicarpa-americana/inat-645401731.jpg",
@@ -125,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a2c30c4df2aa0a859e4592b41b1d89ef59b3606f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -133,7 +153,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353752264, photo 645401731, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 730e0408b40a3e871d54c399fbb5356c23e1649614a3f3de825366d10e3325c6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Callicarpa americana maps to indexed species callicarpa-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "730e0408b40a3e871d54c399fbb5356c23e1649614a3f3de825366d10e3325c6"
+      "sha256": "730e0408b40a3e871d54c399fbb5356c23e1649614a3f3de825366d10e3325c6",
+      "display_sha256": "07b6cac1a2497786b9bb0374d06a56a8c5aff8f0d4f99463e43f2b06e522eff8",
+      "display_blob_sha": "c994e72a989baa5501c14e4a1fffe920e5425959",
+      "display_original_site_sha256": "730e0408b40a3e871d54c399fbb5356c23e1649614a3f3de825366d10e3325c6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

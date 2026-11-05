@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3150b537fef3149533c30b7bdd96fb5acc9213f2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -57,7 +57,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341274701, photo 621231953, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9edae5ea65a62934651dccb274e2bc43b3f8c941e07e1cd108f3a3621aedc9d2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja indivisa maps to indexed species castilleja-indivisa; specialist morphology and BONAP range deferred.",
-      "sha256": "9edae5ea65a62934651dccb274e2bc43b3f8c941e07e1cd108f3a3621aedc9d2"
+      "sha256": "9edae5ea65a62934651dccb274e2bc43b3f8c941e07e1cd108f3a3621aedc9d2",
+      "display_sha256": "b2a3be2eec56b0ab31528672eb8e7fdc142e1e27da2047f76cc493cc54b9b483",
+      "display_blob_sha": "22adc76f1487463f8ee4ad2ec37c73a30c4b038f",
+      "display_original_site_sha256": "9edae5ea65a62934651dccb274e2bc43b3f8c941e07e1cd108f3a3621aedc9d2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-indivisa/inat-622464358.jpg",
@@ -68,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "45c2398599b7cd317ef889addd5859fbee320b51",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -76,7 +81,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341875957, photo 622464358, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6c8c4a567ac6d79a1230e3dfdb16cf7f4916f18d13352b6a902041700c6165bc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja indivisa maps to indexed species castilleja-indivisa; specialist morphology and BONAP range deferred.",
-      "sha256": "6c8c4a567ac6d79a1230e3dfdb16cf7f4916f18d13352b6a902041700c6165bc"
+      "sha256": "6c8c4a567ac6d79a1230e3dfdb16cf7f4916f18d13352b6a902041700c6165bc",
+      "display_sha256": "f356d1f09ee321d82ae5b4cef6e583364afbbf9ad3b2b62ef385900ccbbd8eaf",
+      "display_blob_sha": "ded6ac96eb0fd92c80a0419353900b7bc8f20fa7",
+      "display_original_site_sha256": "6c8c4a567ac6d79a1230e3dfdb16cf7f4916f18d13352b6a902041700c6165bc",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-indivisa/inat-625042992.jpg",
@@ -87,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a0758cd79269375ccb128afd70a452a0e538fa20",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -95,7 +105,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343163415, photo 625042992, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0f91a3771b970bbb03f2371dc2b3aee5566ffd350a3c211c5de90deb164251e8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja indivisa maps to indexed species castilleja-indivisa; specialist morphology and BONAP range deferred.",
-      "sha256": "0f91a3771b970bbb03f2371dc2b3aee5566ffd350a3c211c5de90deb164251e8"
+      "sha256": "0f91a3771b970bbb03f2371dc2b3aee5566ffd350a3c211c5de90deb164251e8",
+      "display_sha256": "4610bff6589b2c05747525ad523f493c77a988a64442ff2dab4900de14716ed1",
+      "display_blob_sha": "dd7c3d5496ebf2ad351946a9a48b459427330baf",
+      "display_original_site_sha256": "0f91a3771b970bbb03f2371dc2b3aee5566ffd350a3c211c5de90deb164251e8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-indivisa/inat-625166080.jpg",
@@ -106,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fa9c964996b0a491e4a4d830a1f919165b6be898",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -114,7 +129,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343222755, photo 625166080, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d549524ec622bad2315834379c8286d39a7f6c4e5d401c8f25968a4dbddbceec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Castilleja indivisa maps to indexed species castilleja-indivisa; specialist morphology and BONAP range deferred.",
-      "sha256": "d549524ec622bad2315834379c8286d39a7f6c4e5d401c8f25968a4dbddbceec"
+      "sha256": "d549524ec622bad2315834379c8286d39a7f6c4e5d401c8f25968a4dbddbceec",
+      "display_sha256": "0279be7d82d2a478edc96e91db5a1c07dd6a93e310a0ca02fc5d079d68861728",
+      "display_blob_sha": "6ac3176ca0039cb0c439819fdd55eb53a5fc5b48",
+      "display_original_site_sha256": "d549524ec622bad2315834379c8286d39a7f6c4e5d401c8f25968a4dbddbceec",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/castilleja-indivisa/inat-631008776.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7b3029de1503f0f00fb6dbd3279c6d61bb9540f2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -47,7 +47,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 7983849, photo 10557007, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6e250c6926f63a74db6afaa9bd7dceacce3fd0b2f0aac81ddd1de7b620f40815. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Menodora longiflora maps to indexed species menodora-longiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "6e250c6926f63a74db6afaa9bd7dceacce3fd0b2f0aac81ddd1de7b620f40815"
+      "sha256": "6e250c6926f63a74db6afaa9bd7dceacce3fd0b2f0aac81ddd1de7b620f40815",
+      "display_sha256": "1535dbd88c1d98d81fca1c8a2af8209538a04aeebbed65dc0249520f92f6f394",
+      "display_blob_sha": "4865e66fe730e498ab6f8d7ac7a0e9934d7c5672",
+      "display_original_site_sha256": "6e250c6926f63a74db6afaa9bd7dceacce3fd0b2f0aac81ddd1de7b620f40815",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/menodora-longiflora/inat-697211902.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4a496935e8a6eb83f8307f18730d5617bd209101",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -66,7 +71,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 381060657, photo 697211902, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d4fcfeff7faf235b5bcdcd89481f818a760b191873b2b653434bf299018d64eb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Menodora longiflora maps to indexed species menodora-longiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "d4fcfeff7faf235b5bcdcd89481f818a760b191873b2b653434bf299018d64eb"
+      "sha256": "d4fcfeff7faf235b5bcdcd89481f818a760b191873b2b653434bf299018d64eb",
+      "display_sha256": "afdeb408f2f6f76c64c710f35d224ab9c8224abd6ed4bba7c6187e19c31aec5c",
+      "display_blob_sha": "56c4344696c6928a263514ec162f8c4ea6c8d7d1",
+      "display_original_site_sha256": "d4fcfeff7faf235b5bcdcd89481f818a760b191873b2b653434bf299018d64eb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

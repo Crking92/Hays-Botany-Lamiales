@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c82af35d1cce7845562f1a846f5f4f5ec8ae037b",
       "role": "Small spreading plant among rocks (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -85,7 +85,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 341019337 contains photo 620704009; live photo license cc-by-nc; photographer '(c) Russell Sanders, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 341019337 live source species glandularia pumila aligns with glandularia-pumila; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "d852397a08ba9bf959655cc2720e7beaede5b8954286d24a4aca388cff37a5c6"
+      "sha256": "d852397a08ba9bf959655cc2720e7beaede5b8954286d24a4aca388cff37a5c6",
+      "display_sha256": "54601c4241dec98bdffe4e3c16699fb5bc68da6c3ee89db8254bd7ec32d8c126",
+      "display_blob_sha": "0bc8350edad88fb9b549e775a8357283a3d49971",
+      "display_original_site_sha256": "d852397a08ba9bf959655cc2720e7beaede5b8954286d24a4aca388cff37a5c6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/glandularia-pumila/inat-622753373.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b088d026b2cd0f8f5be3343195a317a05e4140f1",
       "role": "Leaf shape and small pink flowers (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -104,7 +109,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 342019959 contains photo 622753373; live photo license cc-by-nc; photographer '(c) Saunders Drukker, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 342019959 live source species glandularia pumila aligns with glandularia-pumila; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "05d442bb732b7db59228282429934c7f05042ca16f1802b98cd1df434834cec4"
+      "sha256": "05d442bb732b7db59228282429934c7f05042ca16f1802b98cd1df434834cec4",
+      "display_sha256": "ba20358c0120dc46542da50b520003103d65a476b83298e8116e4f9432bf7390",
+      "display_blob_sha": "934e0acfc24fc644bed95fc2391c1096a47d148e",
+      "display_original_site_sha256": "05d442bb732b7db59228282429934c7f05042ca16f1802b98cd1df434834cec4",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/glandularia-pumila/inat-623688722.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a4600d58eeaaeca0f8bb15420bfc8835f632307",
       "role": "Foliage and low habit (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -123,7 +133,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 342482652 contains photo 623688722; live photo license cc-by-nc; photographer '(c) kembletwhite, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 342482652 live source species glandularia pumila aligns with glandularia-pumila; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "b66e4e19bff220f0845031d627588f12175e7e847ec48bddf2f5b37f14b349aa"
+      "sha256": "b66e4e19bff220f0845031d627588f12175e7e847ec48bddf2f5b37f14b349aa",
+      "display_sha256": "032640f178def84ed0251b3df1a9f781719177142335e14964c17b288439306b",
+      "display_blob_sha": "4cee8b0b33f06c7131da7c1cc993c476ee023af1",
+      "display_original_site_sha256": "b66e4e19bff220f0845031d627588f12175e7e847ec48bddf2f5b37f14b349aa",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/glandularia-pumila/inat-626773264.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3c7068c55837265d28a1bbf8fc9e9a4a806db72f",
       "role": "Flowering habit and lobed foliage (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -142,7 +157,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 344022332 contains photo 626773264; live photo license cc-by-nc; photographer '(c) Russell Sanders, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 344022332 live source species glandularia pumila aligns with glandularia-pumila; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "ed8942e4dffabb1ba37bf9308b4a01879ef6b96b27bc10473cfe5279e7a7c4de"
+      "sha256": "ed8942e4dffabb1ba37bf9308b4a01879ef6b96b27bc10473cfe5279e7a7c4de",
+      "display_sha256": "526ae98cd0db4435f1faa8dad60fc6b7ceb7b2b45764ff79140a779f418244f9",
+      "display_blob_sha": "cfa41185bd0074deddf2f0bc4e9bcb987196f7a1",
+      "display_original_site_sha256": "ed8942e4dffabb1ba37bf9308b4a01879ef6b96b27bc10473cfe5279e7a7c4de",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/glandularia-pumila/inat-628219888.jpg",
@@ -153,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "47554ff0778af4062833799819bea80cf864e0e2",
       "role": "Small pink flowers and leaves (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -161,7 +181,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 344768622 contains photo 628219888; live photo license cc-by-nc; photographer '(c) ezzzini, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 344768622 live source species glandularia pumila aligns with glandularia-pumila; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "b1c12fd991d0cd5b6982afe3fd5a18adfea6d0ef7e35a1f62f1d7a83eb6d570c"
+      "sha256": "b1c12fd991d0cd5b6982afe3fd5a18adfea6d0ef7e35a1f62f1d7a83eb6d570c",
+      "display_sha256": "1eafe25dc8cdd4f413c415ff7b8bb39cfaa93e2da27c94b791e5971b4edac892",
+      "display_blob_sha": "a7058897dc7efd3fa2633a44e7b4a298f9a749eb",
+      "display_original_site_sha256": "b1c12fd991d0cd5b6982afe3fd5a18adfea6d0ef7e35a1f62f1d7a83eb6d570c",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/glandularia-pumila/archived-55c37187d79db677.jpg",

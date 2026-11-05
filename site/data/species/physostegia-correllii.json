@@ -106,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f1df6d7dfd0ca6a062bc7fbf2cae4f227ec90b32",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -114,7 +114,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 131677705, photo 224117571, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 16ec7483ae89805e33f9b6dbaf64737be5a03470f747947f968906405ca0cc38. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Physostegia correllii maps to indexed species physostegia-correllii; specialist morphology and BONAP range deferred.",
-      "sha256": "16ec7483ae89805e33f9b6dbaf64737be5a03470f747947f968906405ca0cc38"
+      "sha256": "16ec7483ae89805e33f9b6dbaf64737be5a03470f747947f968906405ca0cc38",
+      "display_sha256": "251dcd0c22bb992c9d84f49f7440d3b242844aa48f1f612aa188d6d280ce16ca",
+      "display_blob_sha": "98e988cd3f44944ef18d128c10161b0e630b18d5",
+      "display_original_site_sha256": "16ec7483ae89805e33f9b6dbaf64737be5a03470f747947f968906405ca0cc38",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physostegia-correllii/inat-224130382.jpg",
@@ -125,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6e453676e651e8b7b73a1bf8953e197122cfdab3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -133,7 +138,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 131683225, photo 224130382, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c8a54df380daab7bb5fa24cadcc78a0798ad3cc58ac17b63ad3c607d4f30412. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Physostegia correllii maps to indexed species physostegia-correllii; specialist morphology and BONAP range deferred.",
-      "sha256": "5c8a54df380daab7bb5fa24cadcc78a0798ad3cc58ac17b63ad3c607d4f30412"
+      "sha256": "5c8a54df380daab7bb5fa24cadcc78a0798ad3cc58ac17b63ad3c607d4f30412",
+      "display_sha256": "11f6ed0ae4a4503307bc984215b52f5ec6a6dc1e8e6873ac27d77c3def92c25e",
+      "display_blob_sha": "3829ca74f3b92cf11daf750f77ca4742215d9771",
+      "display_original_site_sha256": "5c8a54df380daab7bb5fa24cadcc78a0798ad3cc58ac17b63ad3c607d4f30412",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physostegia-correllii/inat-54716287.jpeg",
@@ -144,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "42c4e0a3c5228e12d1a4601a5f8a147e8e3b369c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -152,7 +162,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 34742930, photo 54716287, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 45bf89af837446394eda13201bc3376fa571acdb8ccefb501e8d3090db31f47a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Physostegia correllii maps to indexed species physostegia-correllii; specialist morphology and BONAP range deferred.",
-      "sha256": "45bf89af837446394eda13201bc3376fa571acdb8ccefb501e8d3090db31f47a"
+      "sha256": "45bf89af837446394eda13201bc3376fa571acdb8ccefb501e8d3090db31f47a",
+      "display_sha256": "f555572b1c851af70f74e651a6bb2ae00733ed13d4d36ea3f94f3306f2ad05d8",
+      "display_blob_sha": "658acefb182289d20505f29d434198e7582046f8",
+      "display_original_site_sha256": "45bf89af837446394eda13201bc3376fa571acdb8ccefb501e8d3090db31f47a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

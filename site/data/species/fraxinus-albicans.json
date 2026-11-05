@@ -99,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e4d9b30ff680329be1ce1be0258846cd80020294",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -107,7 +107,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341745544, photo 622197226, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b5b234ee851837a0ab3f94f76edbe8870dd8b86bcc3a992baca30a21c883d20a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus albicans maps to indexed species fraxinus-albicans; specialist morphology and BONAP range deferred.",
-      "sha256": "b5b234ee851837a0ab3f94f76edbe8870dd8b86bcc3a992baca30a21c883d20a"
+      "sha256": "b5b234ee851837a0ab3f94f76edbe8870dd8b86bcc3a992baca30a21c883d20a",
+      "display_sha256": "4ceb218a9043b267818d9e30a22b8d494c56571af501087a106299a4180ee8b8",
+      "display_blob_sha": "b95ba59d151cfae59e4d41b2792c484c5d71a177",
+      "display_original_site_sha256": "b5b234ee851837a0ab3f94f76edbe8870dd8b86bcc3a992baca30a21c883d20a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-albicans/inat-622689372.jpg",
@@ -118,7 +123,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bd058dcd2271a3b011f5f0bb82fce5684bf68c38",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -126,7 +131,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341989279, photo 622689372, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: affa076acbec9a6e13f21e7bb8d8796a4d49b9d4f5cce49dc20d9aedba9c8780. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus albicans maps to indexed species fraxinus-albicans; specialist morphology and BONAP range deferred.",
-      "sha256": "affa076acbec9a6e13f21e7bb8d8796a4d49b9d4f5cce49dc20d9aedba9c8780"
+      "sha256": "affa076acbec9a6e13f21e7bb8d8796a4d49b9d4f5cce49dc20d9aedba9c8780",
+      "display_sha256": "ce175ce345a0fedfaf8e49236a902852efa8aa988f066d533e4cfa91e5148e28",
+      "display_blob_sha": "0df18736c62d1755d9af7d7a41ee07a689c09bd7",
+      "display_original_site_sha256": "affa076acbec9a6e13f21e7bb8d8796a4d49b9d4f5cce49dc20d9aedba9c8780",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-albicans/inat-630292333.jpg",
@@ -137,7 +147,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "df2ec11a1cb1711c68161e2ba1f7a5c188fd703b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -145,7 +155,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345823587, photo 630292333, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9630bb367bc2abfad44180254ae3c584c976173e231c9fc4c0203ddb3b3b2586. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus albicans maps to indexed species fraxinus-albicans; specialist morphology and BONAP range deferred.",
-      "sha256": "9630bb367bc2abfad44180254ae3c584c976173e231c9fc4c0203ddb3b3b2586"
+      "sha256": "9630bb367bc2abfad44180254ae3c584c976173e231c9fc4c0203ddb3b3b2586",
+      "display_sha256": "4ca4d74891e92b212a3f81bdc0e53014cd41b1007d8c459a4f4fa8d0a628dee8",
+      "display_blob_sha": "ab7242a50207bdbfb29d7eed10ef0b89b3fab2a0",
+      "display_original_site_sha256": "9630bb367bc2abfad44180254ae3c584c976173e231c9fc4c0203ddb3b3b2586",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-albicans/inat-630606280.jpg",
@@ -156,7 +171,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8f4abae54be53be302ff655ab91cbb8f7c282526",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -164,7 +179,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345984072, photo 630606280, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e4d893af774031c29e74b41f84206f914eb6363e2aeaea244a704d0cd0477d44. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus albicans maps to indexed species fraxinus-albicans; specialist morphology and BONAP range deferred.",
-      "sha256": "e4d893af774031c29e74b41f84206f914eb6363e2aeaea244a704d0cd0477d44"
+      "sha256": "e4d893af774031c29e74b41f84206f914eb6363e2aeaea244a704d0cd0477d44",
+      "display_sha256": "386fa754b847fda1984349c77e1b92ff6a9d29f90d4bcd0461bef73d1f57ca54",
+      "display_blob_sha": "7cbc697cbe241f09d95aa595399a471cbf5e6129",
+      "display_original_site_sha256": "e4d893af774031c29e74b41f84206f914eb6363e2aeaea244a704d0cd0477d44",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-albicans/inat-634043020.jpg",
@@ -175,7 +195,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2934bebba95b31056c5204457a09048fa05c3e56",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -183,7 +203,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347717385, photo 634043020, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b80878e7b9502d599b4ada13bad18e2261a2f6eec4c72c56adaffc95ca69417f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Fraxinus albicans maps to indexed species fraxinus-albicans; specialist morphology and BONAP range deferred.",
-      "sha256": "b80878e7b9502d599b4ada13bad18e2261a2f6eec4c72c56adaffc95ca69417f"
+      "sha256": "b80878e7b9502d599b4ada13bad18e2261a2f6eec4c72c56adaffc95ca69417f",
+      "display_sha256": "cda037e4dc292f3baf32627562f8a78083208d07b79907488c77b069fd9a5f97",
+      "display_blob_sha": "0f5fe1836e1093bd307716f700955d46a94ce140",
+      "display_original_site_sha256": "b80878e7b9502d599b4ada13bad18e2261a2f6eec4c72c56adaffc95ca69417f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fraxinus-albicans/source-9e77d4fb8afe.jpg",

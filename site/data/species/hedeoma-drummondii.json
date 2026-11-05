@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "607481ac369a783bce18124679e272a6094efaa8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -47,7 +47,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 119471156, photo 201961076, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1eeed485fb9d34cc4319ec19fad91e4c2682308818a33056fee2295499bde1d3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Hedeoma drummondii maps to indexed species hedeoma-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "1eeed485fb9d34cc4319ec19fad91e4c2682308818a33056fee2295499bde1d3"
+      "sha256": "1eeed485fb9d34cc4319ec19fad91e4c2682308818a33056fee2295499bde1d3",
+      "display_sha256": "94c7a1a6d76a466cb1446d4e25b470cf16b9698aa36102cc17ae2ca114b97050",
+      "display_blob_sha": "88aea148cae2aeb369fb1044560c7174619532ed",
+      "display_original_site_sha256": "1eeed485fb9d34cc4319ec19fad91e4c2682308818a33056fee2295499bde1d3",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hedeoma-drummondii/inat-279325160.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6e436e442c6a5deb320a7e3bd5946c08e02fdc08",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -66,7 +71,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 161594575, photo 279325160, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f113e4218546653de7992c41cf5fdcf772e2caf7369292068cca6815e4bb1b22. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Hedeoma drummondii maps to indexed species hedeoma-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "f113e4218546653de7992c41cf5fdcf772e2caf7369292068cca6815e4bb1b22"
+      "sha256": "f113e4218546653de7992c41cf5fdcf772e2caf7369292068cca6815e4bb1b22",
+      "display_sha256": "c338502a435204638451eee3450e4f946bea6e4c5c40cc32967c0bc7332b0329",
+      "display_blob_sha": "3a1749d982477d59f55a94f0f15d6644cb99e0f7",
+      "display_original_site_sha256": "f113e4218546653de7992c41cf5fdcf772e2caf7369292068cca6815e4bb1b22",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

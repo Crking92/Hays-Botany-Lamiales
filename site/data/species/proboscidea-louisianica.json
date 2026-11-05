@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8d34e3ff7a7a07bafaa34b48403fbdd1553ba45a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 363706592, photo 663928009, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 55c75fae3df704ca3470cfa705f912fb55442026b9c983b6894417a9c518c3d4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Proboscidea louisianica maps to indexed species proboscidea-louisianica; specialist morphology and BONAP range deferred.",
-      "sha256": "55c75fae3df704ca3470cfa705f912fb55442026b9c983b6894417a9c518c3d4"
+      "sha256": "55c75fae3df704ca3470cfa705f912fb55442026b9c983b6894417a9c518c3d4",
+      "display_sha256": "6c6db94437a86c51e053723f621ab39e8f31d0dd84aa3ab443e047855216b2fd",
+      "display_blob_sha": "72eb71c868cc3e1775d1e9690caebb3b8c1563ae",
+      "display_original_site_sha256": "55c75fae3df704ca3470cfa705f912fb55442026b9c983b6894417a9c518c3d4",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/proboscidea-louisianica/inat-667761497.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9d53b6477602d3b8ff90c81ee99f1226c45becfd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 365733142, photo 667761497, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 05c248d627fae211fe9d9025d55b55681ddc1f081f5091fa8136fba33b6c17fa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Proboscidea louisianica maps to indexed species proboscidea-louisianica; specialist morphology and BONAP range deferred.",
-      "sha256": "05c248d627fae211fe9d9025d55b55681ddc1f081f5091fa8136fba33b6c17fa"
+      "sha256": "05c248d627fae211fe9d9025d55b55681ddc1f081f5091fa8136fba33b6c17fa",
+      "display_sha256": "b61d12c25583a4dcb661c419a11b977f5965122c79ff475280992f7b14a11c5f",
+      "display_blob_sha": "1272fd58ce44ef1bc5b3ca3d206b9cf82bda61ea",
+      "display_original_site_sha256": "05c248d627fae211fe9d9025d55b55681ddc1f081f5091fa8136fba33b6c17fa",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/proboscidea-louisianica/inat-670353054.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fbc8d075d2e03d2c2423f2a1555ca5d6473abca4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 367091984, photo 670353054, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 01ad3ea47bdf4dd528d5531980d257ffd76d73ad942e8636f92571fba2287c91. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Proboscidea louisianica maps to indexed species proboscidea-louisianica; specialist morphology and BONAP range deferred.",
-      "sha256": "01ad3ea47bdf4dd528d5531980d257ffd76d73ad942e8636f92571fba2287c91"
+      "sha256": "01ad3ea47bdf4dd528d5531980d257ffd76d73ad942e8636f92571fba2287c91",
+      "display_sha256": "5519821688d34049f933689fa01c3f5502edcafbd8d3e5aaf49774e1959e205b",
+      "display_blob_sha": "086315e01bff7f9bfaa24e1c7e268b60ee886e5c",
+      "display_original_site_sha256": "01ad3ea47bdf4dd528d5531980d257ffd76d73ad942e8636f92571fba2287c91",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/proboscidea-louisianica/inat-670540225.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9be534142d05900f2eec185f5b2d178a5b8a0f55",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 367195107, photo 670540225, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48139b6cf8479ae098b435519b2ce0ec42c9243b54e9694dc26649fae8b06f1e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Proboscidea louisianica maps to indexed species proboscidea-louisianica; specialist morphology and BONAP range deferred.",
-      "sha256": "48139b6cf8479ae098b435519b2ce0ec42c9243b54e9694dc26649fae8b06f1e"
+      "sha256": "48139b6cf8479ae098b435519b2ce0ec42c9243b54e9694dc26649fae8b06f1e",
+      "display_sha256": "b0af71cfb7e8c186082ac7ff794d334cbce0f9abd45b3a5e2ee2c46bd194a5fa",
+      "display_blob_sha": "fdc4dce415f2d19b7fe24881e9932c607e244512",
+      "display_original_site_sha256": "48139b6cf8479ae098b435519b2ce0ec42c9243b54e9694dc26649fae8b06f1e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/proboscidea-louisianica/inat-670571090.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a7386c180defcb9d623be84289138b90470570e1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -104,7 +124,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 367208499, photo 670571090, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c1d027503397a237efe822941588a045fb935bd1ea2efe773de953255ff62104. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Proboscidea louisianica maps to indexed species proboscidea-louisianica; specialist morphology and BONAP range deferred.",
-      "sha256": "c1d027503397a237efe822941588a045fb935bd1ea2efe773de953255ff62104"
+      "sha256": "c1d027503397a237efe822941588a045fb935bd1ea2efe773de953255ff62104",
+      "display_sha256": "d06c59a35899c59ddbf8e9ba4265de68bcc74c45ecc25386a596db3078d2066e",
+      "display_blob_sha": "bebd23256aebcf1ac4f256111da38c9fb17e4de8",
+      "display_original_site_sha256": "c1d027503397a237efe822941588a045fb935bd1ea2efe773de953255ff62104",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/proboscidea-louisianica/source-efaaf4a86085.jpg",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7256bb788934fde6b45399c5c43074804c01fac2",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 234441166 and photo 416771880 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 0ad76177ea59164cfb5aaf674b7ec2395d64552a4341e333b3c051a8c73ebf54; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/416771880/original.jpeg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Tecoma stans' matches this assigned family species card tecoma-stans. Specialist morphology/field characters deferred.",
-      "sha256": "0ad76177ea59164cfb5aaf674b7ec2395d64552a4341e333b3c051a8c73ebf54"
+      "sha256": "0ad76177ea59164cfb5aaf674b7ec2395d64552a4341e333b3c051a8c73ebf54",
+      "display_sha256": "21ea213b00f02735caa0f922a506fa5eea97a6fd8399fcfbb45d6c3abd3a8a46",
+      "display_blob_sha": "2501874d71cf29d8470a562d91b814b8fd2baf7b",
+      "display_original_site_sha256": "0ad76177ea59164cfb5aaf674b7ec2395d64552a4341e333b3c051a8c73ebf54",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tecoma-stans/source-a4b5390ae406.jpg",

@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c623dd7b242ec7805e8917eeb9bc5f3a8999d77a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +85,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 93380561, photo 154763287, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d76143c1a5d8548b1fb9f11fb1797191f61186d684bc5388613d2bb489c95603. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Perilla frutescens maps to indexed species perilla-frutescens; specialist morphology and BONAP range deferred.",
-      "sha256": "d76143c1a5d8548b1fb9f11fb1797191f61186d684bc5388613d2bb489c95603"
+      "sha256": "d76143c1a5d8548b1fb9f11fb1797191f61186d684bc5388613d2bb489c95603",
+      "display_sha256": "6f1e30d7a92ada839d008f513f00b2507f764c506efe5a49f5df3ce0c02bbd1f",
+      "display_blob_sha": "36247ef17f5240b3a9be875aab807cebd1309d07",
+      "display_original_site_sha256": "d76143c1a5d8548b1fb9f11fb1797191f61186d684bc5388613d2bb489c95603",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/perilla-frutescens/inat-369206705.jpeg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7b4b1c21cbb2e3c03f8d865ddd1b892bf7b1c1ee",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +109,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 208657913, photo 369206705, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a9de48318e46af556bfb1133e566cd04cc2be64269f8b6283dd5cf2b13db3501. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Perilla frutescens maps to indexed species perilla-frutescens; specialist morphology and BONAP range deferred.",
-      "sha256": "a9de48318e46af556bfb1133e566cd04cc2be64269f8b6283dd5cf2b13db3501"
+      "sha256": "a9de48318e46af556bfb1133e566cd04cc2be64269f8b6283dd5cf2b13db3501",
+      "display_sha256": "73685edf7ee7f1287e093bfb9ab4fe4ab875fcbeed13677efc47e84e0a0df34b",
+      "display_blob_sha": "b79aa9d403a3cb2f6bc01eaebbd639e08f00b5c7",
+      "display_original_site_sha256": "a9de48318e46af556bfb1133e566cd04cc2be64269f8b6283dd5cf2b13db3501",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/perilla-frutescens/inat-630784873.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2382ee079a402cd9806bdc3590443a82647e367b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -123,7 +133,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346074845, photo 630784873, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2c74caf56e5d3fbece148edbad6b7b910b5b9d0fe93dc45b8824345aef0b25cf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Perilla frutescens maps to indexed species perilla-frutescens; specialist morphology and BONAP range deferred.",
-      "sha256": "2c74caf56e5d3fbece148edbad6b7b910b5b9d0fe93dc45b8824345aef0b25cf"
+      "sha256": "2c74caf56e5d3fbece148edbad6b7b910b5b9d0fe93dc45b8824345aef0b25cf",
+      "display_sha256": "e5d2232cbb70f586e55918714675cca7b93213ea71f42b75c0774764509e951b",
+      "display_blob_sha": "a62b14c339e934e778ddb5a67f8bcd8a36a88aa5",
+      "display_original_site_sha256": "2c74caf56e5d3fbece148edbad6b7b910b5b9d0fe93dc45b8824345aef0b25cf",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/perilla-frutescens/inat-645128618.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08612eafa3eef3dcfe665abaf260be4957bed10e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -142,7 +157,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353587781, photo 645128618, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 51d3eb0184d9cf4985cedc167182e28aee560ae6f1ec08a0c59e00605e67de8a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Perilla frutescens maps to indexed species perilla-frutescens; specialist morphology and BONAP range deferred.",
-      "sha256": "51d3eb0184d9cf4985cedc167182e28aee560ae6f1ec08a0c59e00605e67de8a"
+      "sha256": "51d3eb0184d9cf4985cedc167182e28aee560ae6f1ec08a0c59e00605e67de8a",
+      "display_sha256": "1ec4993c7a931b9cf9f053623e26240d343af8439dc261ec8ee561f0934c0367",
+      "display_blob_sha": "69a8f7f36556ad40d4b4a68f565cdbf5605ac537",
+      "display_original_site_sha256": "51d3eb0184d9cf4985cedc167182e28aee560ae6f1ec08a0c59e00605e67de8a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/perilla-frutescens/inat-693515509.jpg",
@@ -153,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2bb45731fda982353913b35cc9048bb2d8baafae",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -161,7 +181,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 379152242, photo 693515509, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 829d605aba35a2bc12cf93c52b29767ddc65c38e07fc0f4105e283ae0c87a2c1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Perilla frutescens maps to indexed species perilla-frutescens; specialist morphology and BONAP range deferred.",
-      "sha256": "829d605aba35a2bc12cf93c52b29767ddc65c38e07fc0f4105e283ae0c87a2c1"
+      "sha256": "829d605aba35a2bc12cf93c52b29767ddc65c38e07fc0f4105e283ae0c87a2c1",
+      "display_sha256": "2911ca7d3762e89e1076f282354efc6edd09705a28c441d46b648330eb499d04",
+      "display_blob_sha": "c865d9a27f21f2b72c557235becef35cedf91ce0",
+      "display_original_site_sha256": "829d605aba35a2bc12cf93c52b29767ddc65c38e07fc0f4105e283ae0c87a2c1",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

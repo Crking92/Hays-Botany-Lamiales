@@ -69,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9b5b8e079a6bfce3be44901a033fae09d97e7819",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -77,7 +77,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 348160653, photo 634920624, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 161a683aaa5731bea4129b2d004cd4f1d5e910995a512e9dee7279e00bc97ce8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia ballotiflora maps to indexed species salvia-ballotiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "161a683aaa5731bea4129b2d004cd4f1d5e910995a512e9dee7279e00bc97ce8"
+      "sha256": "161a683aaa5731bea4129b2d004cd4f1d5e910995a512e9dee7279e00bc97ce8",
+      "display_sha256": "9dbead62438934d1d3ab85af40f6f62ce2a33395db6c65dc942418e2147b9958",
+      "display_blob_sha": "b90ee4cd1ccccb91ecd8ff7cb3a00f3de9cf58cd",
+      "display_original_site_sha256": "161a683aaa5731bea4129b2d004cd4f1d5e910995a512e9dee7279e00bc97ce8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-ballotiflora/inat-643203007.jpg",
@@ -88,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1060e486cd8ff5ca2e1c5f1078952d0681c80240",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -96,7 +101,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 352419693, photo 643203007, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d85f0497d55859ddc3cd871712de4c163d992cff6ab3ef8f5b118621d8f78c18. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia ballotiflora maps to indexed species salvia-ballotiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "d85f0497d55859ddc3cd871712de4c163d992cff6ab3ef8f5b118621d8f78c18"
+      "sha256": "d85f0497d55859ddc3cd871712de4c163d992cff6ab3ef8f5b118621d8f78c18",
+      "display_sha256": "163b490691aa51b1244107c1de14d58784b59875e67b4e5150cfc48ef799dee1",
+      "display_blob_sha": "a27eb1f19497d601f9f6b9782133010e09c0282e",
+      "display_original_site_sha256": "d85f0497d55859ddc3cd871712de4c163d992cff6ab3ef8f5b118621d8f78c18",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-ballotiflora/inat-646945513.jpg",
@@ -107,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "db6baf3c7db8ebe82ff201dc359a95f06cac9733",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -115,7 +125,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 354658152, photo 646945513, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 09022fcac81b62d1c540dce6fc99d69ed20278858748ef91e77ee3edb7300090. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia ballotiflora maps to indexed species salvia-ballotiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "09022fcac81b62d1c540dce6fc99d69ed20278858748ef91e77ee3edb7300090"
+      "sha256": "09022fcac81b62d1c540dce6fc99d69ed20278858748ef91e77ee3edb7300090",
+      "display_sha256": "4266312ba4e8a52eb4af4f6d14be91a7eb88ca96e6deb502a98679bb173f9572",
+      "display_blob_sha": "b7a7b6f666d60aca2301e896ebab3352d5ac34a7",
+      "display_original_site_sha256": "09022fcac81b62d1c540dce6fc99d69ed20278858748ef91e77ee3edb7300090",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-ballotiflora/inat-655141268.jpg",
@@ -126,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b149f49045ff3196fce7a3c451eee9506c31d220",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -134,7 +149,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 359093943, photo 655141268, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8cdb5880eb8e75ded6fff8add490117ec7f12ebe814b9f430e6e89aa438e45d6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia ballotiflora maps to indexed species salvia-ballotiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "8cdb5880eb8e75ded6fff8add490117ec7f12ebe814b9f430e6e89aa438e45d6"
+      "sha256": "8cdb5880eb8e75ded6fff8add490117ec7f12ebe814b9f430e6e89aa438e45d6",
+      "display_sha256": "fff0ca629345a0f51ca2551eeb94d3ef3a4772e6b6e9498ac6a6979e9fce31e7",
+      "display_blob_sha": "dc72ce20805dbe86b2c93d3ba29d9cab1b3f9182",
+      "display_original_site_sha256": "8cdb5880eb8e75ded6fff8add490117ec7f12ebe814b9f430e6e89aa438e45d6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-ballotiflora/inat-659847498.jpg",
@@ -145,7 +165,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9e51ae81bde9caa2b5af0611d459568a205489f1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -153,7 +173,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 361555612, photo 659847498, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e98f9fa289f6ea361dae473a2339ef52789645496dd52d4208a485902ba51e08. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia ballotiflora maps to indexed species salvia-ballotiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "e98f9fa289f6ea361dae473a2339ef52789645496dd52d4208a485902ba51e08"
+      "sha256": "e98f9fa289f6ea361dae473a2339ef52789645496dd52d4208a485902ba51e08",
+      "display_sha256": "b21c057787c7477c9195f408375892d8080df3e10d035ce15aaf7534b78294ef",
+      "display_blob_sha": "3798525a92ec66d08a7f129f8308c17ff71555af",
+      "display_original_site_sha256": "e98f9fa289f6ea361dae473a2339ef52789645496dd52d4208a485902ba51e08",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-ballotiflora/archived-c463ba7a61da4aa2.jpg",

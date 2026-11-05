@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "92ee071dbcaea0d447463dfbd2a62a12b094b707",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347311529, photo 633236016, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 097c0a587012eb6d88cb6d27c3f42263112d8b1e0f47762658eb964a7157f08b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium cubense maps to indexed species teucrium-cubense; specialist morphology and BONAP range deferred.",
-      "sha256": "097c0a587012eb6d88cb6d27c3f42263112d8b1e0f47762658eb964a7157f08b"
+      "sha256": "097c0a587012eb6d88cb6d27c3f42263112d8b1e0f47762658eb964a7157f08b",
+      "display_sha256": "d8dea514142bfb40224b2afc4aa0a299691bb9601a36a5516591d00d0b1cbfde",
+      "display_blob_sha": "bf2b086399f7a1fbbda8b1d2722fc0521f2fa7f5",
+      "display_original_site_sha256": "097c0a587012eb6d88cb6d27c3f42263112d8b1e0f47762658eb964a7157f08b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-cubense/inat-639567298.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e61dafff1d47ac66b45911472a85c71d63826dca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 350522626, photo 639567298, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f4d0a2ec6731e5076916d3d472d9d14a924629be8e98432ec343768e2e38c68a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium cubense maps to indexed species teucrium-cubense; specialist morphology and BONAP range deferred.",
-      "sha256": "f4d0a2ec6731e5076916d3d472d9d14a924629be8e98432ec343768e2e38c68a"
+      "sha256": "f4d0a2ec6731e5076916d3d472d9d14a924629be8e98432ec343768e2e38c68a",
+      "display_sha256": "b9d289401586e3eb1f18391501eabeea9a25095c9dfdf6fa683f5a8305cce497",
+      "display_blob_sha": "e7c3e7fed48f19af1be20e9d45f62c1c8fab8818",
+      "display_original_site_sha256": "f4d0a2ec6731e5076916d3d472d9d14a924629be8e98432ec343768e2e38c68a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-cubense/inat-641372514.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0cb26374312d94981d54aa306d7c1cd890babdd2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 351456187, photo 641372514, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 49fc65707847e24d64b61ad237518106de70788f3c6da266f93584685ababddb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium cubense maps to indexed species teucrium-cubense; specialist morphology and BONAP range deferred.",
-      "sha256": "49fc65707847e24d64b61ad237518106de70788f3c6da266f93584685ababddb"
+      "sha256": "49fc65707847e24d64b61ad237518106de70788f3c6da266f93584685ababddb",
+      "display_sha256": "3e8c077b88f86db28ad29ebf8394bc77f85d49f58c823b773c1e109c234f45c4",
+      "display_blob_sha": "d50e965a0cad8d274e84f1efbc79b24ce37b7add",
+      "display_original_site_sha256": "49fc65707847e24d64b61ad237518106de70788f3c6da266f93584685ababddb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-cubense/inat-645328816.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79e2bfa228461b5c50c122cfeb7157fa4cf16c12",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353709311, photo 645328816, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 173d5833b4bb54a216584ddc8ef0d54ec61ad5d0338b84083ae9e4353629d74e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium cubense maps to indexed species teucrium-cubense; specialist morphology and BONAP range deferred.",
-      "sha256": "173d5833b4bb54a216584ddc8ef0d54ec61ad5d0338b84083ae9e4353629d74e"
+      "sha256": "173d5833b4bb54a216584ddc8ef0d54ec61ad5d0338b84083ae9e4353629d74e",
+      "display_sha256": "03db47fc824c29ac4539a9aefe32222ee4a8d900553b3d569defd8e525a1ccd0",
+      "display_blob_sha": "318a81d12d984245163b2ffc7ab4dffeaf968a23",
+      "display_original_site_sha256": "173d5833b4bb54a216584ddc8ef0d54ec61ad5d0338b84083ae9e4353629d74e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-cubense/inat-645420680.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dbc6833f8f7cb3b1a2cd8e663e1cbd4a759003a6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +124,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353763094, photo 645420680, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 692ccccd61126061c77d7b7621a2e0925df46b2397787ddbbd32a0948c0e3754. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium cubense maps to indexed species teucrium-cubense; specialist morphology and BONAP range deferred.",
-      "sha256": "692ccccd61126061c77d7b7621a2e0925df46b2397787ddbbd32a0948c0e3754"
+      "sha256": "692ccccd61126061c77d7b7621a2e0925df46b2397787ddbbd32a0948c0e3754",
+      "display_sha256": "f15670155f28da28980fafd0b58f3627af977469504c6389d80fc771d1e0e02f",
+      "display_blob_sha": "a2cca5a5ca09a43f8d581139b8047d516b33bef2",
+      "display_original_site_sha256": "692ccccd61126061c77d7b7621a2e0925df46b2397787ddbbd32a0948c0e3754",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-cubense/source-9cd4c7ff50e6.jpg",

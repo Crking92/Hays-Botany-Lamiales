@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9b6104b1676185c02323c2c92f20b8f3d749eab5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341697335, photo 622101992, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf7b2b5360bfa86198a51cc82b6588e160705849415ef73d8fa8008175195b20. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica persica maps to indexed species veronica-persica; specialist morphology and BONAP range deferred.",
-      "sha256": "cf7b2b5360bfa86198a51cc82b6588e160705849415ef73d8fa8008175195b20"
+      "sha256": "cf7b2b5360bfa86198a51cc82b6588e160705849415ef73d8fa8008175195b20",
+      "display_sha256": "743184c0475d75499be1c18672fad8a29a80c4b8053d5e1bf82d3f50e0556a51",
+      "display_blob_sha": "93f4f79430e9b07df5af6debb8d79aaed6397279",
+      "display_original_site_sha256": "cf7b2b5360bfa86198a51cc82b6588e160705849415ef73d8fa8008175195b20",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-persica/inat-622921006.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "78b76f6e70ac9bec430f71e64e27eb1cc2da74d4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342103739, photo 622921006, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0a93af87e4f8d8f3ad502c80135ce61363bc09d240d10d5cd474964dc41196a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica persica maps to indexed species veronica-persica; specialist morphology and BONAP range deferred.",
-      "sha256": "0a93af87e4f8d8f3ad502c80135ce61363bc09d240d10d5cd474964dc41196a6"
+      "sha256": "0a93af87e4f8d8f3ad502c80135ce61363bc09d240d10d5cd474964dc41196a6",
+      "display_sha256": "c7077021e88fef349096b525ee4e1f46792321fac868d89593f9d8602db5aed2",
+      "display_blob_sha": "8af37d03f658371b390469af9a95ed3314bd73b1",
+      "display_original_site_sha256": "0a93af87e4f8d8f3ad502c80135ce61363bc09d240d10d5cd474964dc41196a6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-persica/inat-623271749.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1318b601bf186eb078327f1bc1d06398ce92ca23",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342278457, photo 623271749, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d5c6dfb9980e7a07039e19455424e1cb6bcababa85986f7a607d5d3c50588f3b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica persica maps to indexed species veronica-persica; specialist morphology and BONAP range deferred.",
-      "sha256": "d5c6dfb9980e7a07039e19455424e1cb6bcababa85986f7a607d5d3c50588f3b"
+      "sha256": "d5c6dfb9980e7a07039e19455424e1cb6bcababa85986f7a607d5d3c50588f3b",
+      "display_sha256": "f2ce6dceaa0fd922b51418759053981999971bad61d8c52ef2ee803ea8a76117",
+      "display_blob_sha": "b6f9e59015a40de7f850e23671ac28f0fa43eaad",
+      "display_original_site_sha256": "d5c6dfb9980e7a07039e19455424e1cb6bcababa85986f7a607d5d3c50588f3b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-persica/inat-631867862.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f94425c655aaf64116c26ea13b94f4374391802f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346622371, photo 631867862, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 983522c63a889349d098fd6b3c90e63527a83838b79c94b56c316944b539b52c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica persica maps to indexed species veronica-persica; specialist morphology and BONAP range deferred.",
-      "sha256": "983522c63a889349d098fd6b3c90e63527a83838b79c94b56c316944b539b52c"
+      "sha256": "983522c63a889349d098fd6b3c90e63527a83838b79c94b56c316944b539b52c",
+      "display_sha256": "9c1dbf64c587dd34c0237eac64ce004f0ba106a0b4c3c51fbd4b006ea3f7f30b",
+      "display_blob_sha": "e0f08774ca70d95b507151004e8fa6de93509420",
+      "display_original_site_sha256": "983522c63a889349d098fd6b3c90e63527a83838b79c94b56c316944b539b52c",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-persica/inat-634406998.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b1ad33108090e9592ceddff79484b294729c86dd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -104,7 +124,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347901022, photo 634406998, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: abe413f6ea0e4a9f89632709ef7ba9a2f852bdd0380ee4dfb055c9362422d84b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica persica maps to indexed species veronica-persica; specialist morphology and BONAP range deferred.",
-      "sha256": "abe413f6ea0e4a9f89632709ef7ba9a2f852bdd0380ee4dfb055c9362422d84b"
+      "sha256": "abe413f6ea0e4a9f89632709ef7ba9a2f852bdd0380ee4dfb055c9362422d84b",
+      "display_sha256": "455c82c7c0abc7a75cfc9a3495eeefa8ebdb6db8e7ce00b253148ab43f265f19",
+      "display_blob_sha": "c1960564eaebd40e08f486983ba2bd1e7df12f84",
+      "display_original_site_sha256": "abe413f6ea0e4a9f89632709ef7ba9a2f852bdd0380ee4dfb055c9362422d84b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-persica/source-25bc8c18f758.jpg",

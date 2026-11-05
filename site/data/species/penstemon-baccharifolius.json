@@ -53,7 +53,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "93f8171127e1717da9ee4a5da96bc0c1a227ee12",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -61,7 +61,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 289316947, photo 520360524, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c83b7e533084083bd3d307499c5163c8141d66dcb867daeef3052787e2f1323d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon baccharifolius maps to indexed species penstemon-baccharifolius; specialist morphology and BONAP range deferred.",
-      "sha256": "c83b7e533084083bd3d307499c5163c8141d66dcb867daeef3052787e2f1323d"
+      "sha256": "c83b7e533084083bd3d307499c5163c8141d66dcb867daeef3052787e2f1323d",
+      "display_sha256": "5e3d4d62afe4839df1d0f5b577ec7d4fcc085bc5c2baeb1225f5b72d7a92316b",
+      "display_blob_sha": "ba7d3b4661b49c6472f6b7a0037f12cc80d46a61",
+      "display_original_site_sha256": "c83b7e533084083bd3d307499c5163c8141d66dcb867daeef3052787e2f1323d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-baccharifolius/inat-535455202.jpg",
@@ -72,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "dea7ad9cb3d2d62ffdddcaac2c9f96d2563e3f58",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -80,7 +85,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 297324621, photo 535455202, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f15cea4676415570da8620fcf11207216eec7a75ca06808e0da8792b507fb31. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon baccharifolius maps to indexed species penstemon-baccharifolius; specialist morphology and BONAP range deferred.",
-      "sha256": "5f15cea4676415570da8620fcf11207216eec7a75ca06808e0da8792b507fb31"
+      "sha256": "5f15cea4676415570da8620fcf11207216eec7a75ca06808e0da8792b507fb31",
+      "display_sha256": "a76d14b4877dc341c20fe1fbdaebcbc2c2622c1b5920615c33f6e501558709ad",
+      "display_blob_sha": "15c7fa81eba550186dce7cbde1ad61ff29d7e60b",
+      "display_original_site_sha256": "5f15cea4676415570da8620fcf11207216eec7a75ca06808e0da8792b507fb31",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-baccharifolius/inat-543475313.jpg",
@@ -91,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f7e2ffc145f609576432895a9f1165bae915cdbe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -99,7 +109,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 301593278, photo 543475313, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 11ba0ad6dc51787d3295e3887a9fec6890ccbc6b289a0cf724e29d92f3dd5ea2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon baccharifolius maps to indexed species penstemon-baccharifolius; specialist morphology and BONAP range deferred.",
-      "sha256": "11ba0ad6dc51787d3295e3887a9fec6890ccbc6b289a0cf724e29d92f3dd5ea2"
+      "sha256": "11ba0ad6dc51787d3295e3887a9fec6890ccbc6b289a0cf724e29d92f3dd5ea2",
+      "display_sha256": "302414aff24110a1c3632afae120b9a22d3f6028a3bf7be9907932ea57093b59",
+      "display_blob_sha": "bbdd37b8d1a2867a62ac04d9194ad5d3b22391b6",
+      "display_original_site_sha256": "11ba0ad6dc51787d3295e3887a9fec6890ccbc6b289a0cf724e29d92f3dd5ea2",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-baccharifolius/inat-684443395.jpg",

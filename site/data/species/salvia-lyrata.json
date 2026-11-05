@@ -61,7 +61,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2a766a51f9a9f21ec867b6176212b58e2dc59040",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -69,7 +69,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343870187, photo 626471100, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 563977cc7b65cd2c1e367d7fa3360610950248275fe748d14a1f208f42b40abe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia lyrata maps to indexed species salvia-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "563977cc7b65cd2c1e367d7fa3360610950248275fe748d14a1f208f42b40abe"
+      "sha256": "563977cc7b65cd2c1e367d7fa3360610950248275fe748d14a1f208f42b40abe",
+      "display_sha256": "0b81f7a75bbf47a01776ad1753d2e3325afb47f0ef79a29c4f0535028eaca354",
+      "display_blob_sha": "8fb0e018487a1e2ede1f73e2c0f62e0e405980ad",
+      "display_original_site_sha256": "563977cc7b65cd2c1e367d7fa3360610950248275fe748d14a1f208f42b40abe",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-lyrata/inat-628612607.jpg",
@@ -80,7 +85,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "34362bae65701ea45f94ecb771d702f78a91b115",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -88,7 +93,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344972114, photo 628612607, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dffa7fb83a7bb0ff05b5a5840dec1b7dcfca9c279bd25cc797ee68fe66a6e698. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia lyrata maps to indexed species salvia-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "dffa7fb83a7bb0ff05b5a5840dec1b7dcfca9c279bd25cc797ee68fe66a6e698"
+      "sha256": "dffa7fb83a7bb0ff05b5a5840dec1b7dcfca9c279bd25cc797ee68fe66a6e698",
+      "display_sha256": "e3079cd02c37abaf08c51caf62857725e31ebfb594505dab28c5d40444203cab",
+      "display_blob_sha": "9f9945c13f8be747c76859fe7d59e726a2843ed3",
+      "display_original_site_sha256": "dffa7fb83a7bb0ff05b5a5840dec1b7dcfca9c279bd25cc797ee68fe66a6e698",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-lyrata/inat-635360206.jpg",
@@ -99,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "370da697c572c7f732a1e5661da970a8636047ee",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -107,7 +117,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 348382706, photo 635360206, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 76cfad12cad6ff2871c44489a6297f5f3fb30d708c03c77694a0914857c80e45. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia lyrata maps to indexed species salvia-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "76cfad12cad6ff2871c44489a6297f5f3fb30d708c03c77694a0914857c80e45"
+      "sha256": "76cfad12cad6ff2871c44489a6297f5f3fb30d708c03c77694a0914857c80e45",
+      "display_sha256": "12cd20a677a1c875cb00bda9c196179f914d3a0d3c59066c8bbfe8dc24dd1d77",
+      "display_blob_sha": "6cd50b37c25569115922c79931054c5b68f73ea1",
+      "display_original_site_sha256": "76cfad12cad6ff2871c44489a6297f5f3fb30d708c03c77694a0914857c80e45",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-lyrata/inat-636128917.jpg",
@@ -118,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b04426a7b77dd22ec44215b6d17909a1afe20d19",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -126,7 +141,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 348768836, photo 636128917, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 10e0e08cb20f8e5163546e7d01fb5dfad4c2cd1ac1ec5b88b27096f0777cabd7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia lyrata maps to indexed species salvia-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "10e0e08cb20f8e5163546e7d01fb5dfad4c2cd1ac1ec5b88b27096f0777cabd7"
+      "sha256": "10e0e08cb20f8e5163546e7d01fb5dfad4c2cd1ac1ec5b88b27096f0777cabd7",
+      "display_sha256": "89739b58d97a25530ade1b9cc9e13feae4cedf237cddc1da6238267d4e90fcb2",
+      "display_blob_sha": "1e7c2bca32c448b9d89e0a0cf8e557e78cd66bd5",
+      "display_original_site_sha256": "10e0e08cb20f8e5163546e7d01fb5dfad4c2cd1ac1ec5b88b27096f0777cabd7",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-lyrata/inat-645784512.jpg",
@@ -137,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f3263b0d3aa207f2dda1530d3ad4c869280665b1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -145,7 +165,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353966439, photo 645784512, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2a2d94bb399e59a664fc5e70ec96fe2fbce196048b3c74881f60c5c21322cdc0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia lyrata maps to indexed species salvia-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "2a2d94bb399e59a664fc5e70ec96fe2fbce196048b3c74881f60c5c21322cdc0"
+      "sha256": "2a2d94bb399e59a664fc5e70ec96fe2fbce196048b3c74881f60c5c21322cdc0",
+      "display_sha256": "80e16c720af69277f34c241822e089495da2cdf17873770ca6b1fc804b175820",
+      "display_blob_sha": "d2b1fe90e6660a0f404a7cb2d7c68fb4d1df03d4",
+      "display_original_site_sha256": "2a2d94bb399e59a664fc5e70ec96fe2fbce196048b3c74881f60c5c21322cdc0",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-lyrata/01-rosette-flowering-habit.jpg",

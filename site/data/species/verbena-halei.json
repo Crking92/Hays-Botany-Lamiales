@@ -53,7 +53,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "093d3fd771ff49251d76ee5ef01f896d332d0b18",
       "role": "Slender flower spikes (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -61,7 +61,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 344028512 contains photo 626785996; live photo license cc-by-nc; photographer '(c) tobiadve, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 344028512 live source species verbena halei aligns with verbena-halei; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "d68bf56d909f65815f86ded2224fe26c581273672f652cd17ef23244464dc812"
+      "sha256": "d68bf56d909f65815f86ded2224fe26c581273672f652cd17ef23244464dc812",
+      "display_sha256": "0836af10183d78909420522b1fdae4b93fac83f150375959b402f200105efbbd",
+      "display_blob_sha": "24c723f3a028668034f49d0f1092a74ce5ffb5d8",
+      "display_original_site_sha256": "d68bf56d909f65815f86ded2224fe26c581273672f652cd17ef23244464dc812",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/verbena-halei/inat-627739410.jpg",
@@ -72,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3c1dcecf3509747f7edbb5d6203cfe87216e9291",
       "role": "Flowering spike close-up (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -80,7 +85,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 344518366 contains photo 627739410; live photo license cc-by-nc; photographer '(c) c0raline, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 344518366 live source species verbena halei aligns with verbena-halei; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "07a6f3a211bb2542ab9b8a308d583cde2d92345995a1361925d3762f312be0e4"
+      "sha256": "07a6f3a211bb2542ab9b8a308d583cde2d92345995a1361925d3762f312be0e4",
+      "display_sha256": "2dea468293c51e0fa4b4968cbf02f7f4e8d48257528c42fb38b3567f508f383d",
+      "display_blob_sha": "83efee2821d441cb01e5d131a86d6421b23edcb4",
+      "display_original_site_sha256": "07a6f3a211bb2542ab9b8a308d583cde2d92345995a1361925d3762f312be0e4",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/verbena-halei/inat-630463948.jpg",
@@ -91,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d0b8e6ba2c613a24c1b947d945762bc0ac9d66fd",
       "role": "Slender flowering branches (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -99,7 +109,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 345719471 contains photo 630463948; live photo license cc-by-nc; photographer '(c) kmorton123, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 345719471 live source species verbena halei aligns with verbena-halei; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "5f38d4212389dddcc60e33a7f8cc491f5f9f1211f078576fd54fef979eb7a173"
+      "sha256": "5f38d4212389dddcc60e33a7f8cc491f5f9f1211f078576fd54fef979eb7a173",
+      "display_sha256": "b7f14da8ad99f570c9dbfd932905e3a703dba881972a681ff99fcb837265b1d9",
+      "display_blob_sha": "ca008792a3ba2bba32dfe3c70c3972bbffd9f86e",
+      "display_original_site_sha256": "5f38d4212389dddcc60e33a7f8cc491f5f9f1211f078576fd54fef979eb7a173",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/verbena-halei/inat-631162515.jpg",
@@ -110,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b4c39060553b935caf5bf879fbd39595143d4e25",
       "role": "Open habitat flowering habit (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -118,7 +133,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 346264925 contains photo 631162515; live photo license cc-by-nc; photographer '(c) milosmith, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 346264925 live source species verbena halei aligns with verbena-halei; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "0d5089879e2c764a9091b344cbf056cc432c02045f8662ef5029675ba1c0fece"
+      "sha256": "0d5089879e2c764a9091b344cbf056cc432c02045f8662ef5029675ba1c0fece",
+      "display_sha256": "f8ddc62a9c971c223e81c4015f14d48f71f9c5a17a54f48c60d001c574cea6c8",
+      "display_blob_sha": "0148eed63cbf1360f09b86d118cf2f707d884765",
+      "display_original_site_sha256": "0d5089879e2c764a9091b344cbf056cc432c02045f8662ef5029675ba1c0fece",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/verbena-halei/inat-631757508.jpg",
@@ -129,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3b7f448918bbcfc77851fc48aab03f70181805b8",
       "role": "Whole plant with lavender spikes (general field photograph)",
-      "modified": "Original source JPEG unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany verified original ZIP visual review and independent source media API",
@@ -137,7 +157,12 @@
       "photo_approval_note": "Original ZIP and actual photographer/photo-specific CC BY-NC source verified for educational noncommercial general-gallery publication. No anatomy proof asserted.",
       "source_review_evidence": "Exact iNaturalist observation 346564705 contains photo 631757508; live photo license cc-by-nc; photographer '(c) Katie S, some rights reserved (CC BY-NC)'; remote original SHA256 exactly matches user-supplied original ZIP.",
       "taxon_review_evidence": "Uploaded contact sheet inspected for obvious mixups; iNaturalist observation 346564705 live source species verbena halei aligns with verbena-halei; detailed morphological study and BONAP range separately deferred.",
-      "sha256": "8fd8f750736e932518387c40f61ae4eeeb0cdda8eab7559390acc1faa4cbfbbe"
+      "sha256": "8fd8f750736e932518387c40f61ae4eeeb0cdda8eab7559390acc1faa4cbfbbe",
+      "display_sha256": "3da5b6df2ecc3592038cad042097943ad6cd4f2bd4f94cfc7ea24af15463fd5c",
+      "display_blob_sha": "83686b62b30fb543adf31fef55faac9a0d81a1d8",
+      "display_original_site_sha256": "8fd8f750736e932518387c40f61ae4eeeb0cdda8eab7559390acc1faa4cbfbbe",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/verbena-halei/archived-phase2-192e4a7ffa9e4d4c.jpg",

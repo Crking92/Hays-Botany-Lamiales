@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6e14c33256415ba3695bb5d6cff91c36d98519d5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 267605182, photo 480926922, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b39c71137cab6186ebbc7d6f7b89a111a6e13e608730f5a512a2c94a8e808371. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Mecardonia procumbens maps to indexed species mecardonia-procumbens; specialist morphology and BONAP range deferred.",
-      "sha256": "b39c71137cab6186ebbc7d6f7b89a111a6e13e608730f5a512a2c94a8e808371"
+      "sha256": "b39c71137cab6186ebbc7d6f7b89a111a6e13e608730f5a512a2c94a8e808371",
+      "display_sha256": "ea7d6f79cc997b45cb5c947e472f63650ddd298af896531c66127b50a87c85d0",
+      "display_blob_sha": "008d09ffe34b774c727e850efb0f1c805ae1be9a",
+      "display_original_site_sha256": "b39c71137cab6186ebbc7d6f7b89a111a6e13e608730f5a512a2c94a8e808371",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mecardonia-procumbens/inat-481861450.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "037a2de9b03ee85a022b3544f6e7576c768fc405",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 268095244, photo 481861450, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4151bd486ce8a8d39c46b0ef34f75c55474207aa139c0223fe62d41bf118ff22. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Mecardonia procumbens maps to indexed species mecardonia-procumbens; specialist morphology and BONAP range deferred.",
-      "sha256": "4151bd486ce8a8d39c46b0ef34f75c55474207aa139c0223fe62d41bf118ff22"
+      "sha256": "4151bd486ce8a8d39c46b0ef34f75c55474207aa139c0223fe62d41bf118ff22",
+      "display_sha256": "c01c41d294b3e6eff77a3c12e9da20b1811d0b213ddbf31db48d9a8e3f239e0a",
+      "display_blob_sha": "4466c67278d7e887958f290a9df9fc854c6a2db8",
+      "display_original_site_sha256": "4151bd486ce8a8d39c46b0ef34f75c55474207aa139c0223fe62d41bf118ff22",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mecardonia-procumbens/inat-624780649.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "61a93188ad7b3693293da2eb26eac5b38a91f6d6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343033067, photo 624780649, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c6990863ee16ad37b6ed102a66e8fd741d2900c08406cced22f86f7870070140. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Mecardonia procumbens maps to indexed species mecardonia-procumbens; specialist morphology and BONAP range deferred.",
-      "sha256": "c6990863ee16ad37b6ed102a66e8fd741d2900c08406cced22f86f7870070140"
+      "sha256": "c6990863ee16ad37b6ed102a66e8fd741d2900c08406cced22f86f7870070140",
+      "display_sha256": "b95e3251b5451c1061700d104c1b3cb8944b469fadd432f244e070b4ed443cd5",
+      "display_blob_sha": "442e62c35b222ae81c290f225d60a95eb2e87f32",
+      "display_original_site_sha256": "c6990863ee16ad37b6ed102a66e8fd741d2900c08406cced22f86f7870070140",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mecardonia-procumbens/inat-626877427.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a41222cbf9f0d6abd60c18e0fc7825cdb61ef0c5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344074936, photo 626877427, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c69d2dc5e40dd2776ea7532e73209f78e0ccf6b8632c12a0d171ffd40acb0185. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Mecardonia procumbens maps to indexed species mecardonia-procumbens; specialist morphology and BONAP range deferred.",
-      "sha256": "c69d2dc5e40dd2776ea7532e73209f78e0ccf6b8632c12a0d171ffd40acb0185"
+      "sha256": "c69d2dc5e40dd2776ea7532e73209f78e0ccf6b8632c12a0d171ffd40acb0185",
+      "display_sha256": "edd0e8fdccc9c57d0d2c6afa8793950200572d686bac34fe5e9510965b7b71a3",
+      "display_blob_sha": "989fcdd344bed342e274d2077a8bbf9444431113",
+      "display_original_site_sha256": "c69d2dc5e40dd2776ea7532e73209f78e0ccf6b8632c12a0d171ffd40acb0185",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mecardonia-procumbens/inat-628810075.jpg",

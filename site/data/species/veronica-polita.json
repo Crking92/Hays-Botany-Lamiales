@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e25c7b996a5ea6fe073b96f58f9c985fa9e58c69",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 265056332, photo 476030656, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dfc1e7e1f0d365cfd6901c7aa2f6b86cb475a7acf10fb72c1747e209f4fa21b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica polita maps to indexed species veronica-polita; specialist morphology and BONAP range deferred.",
-      "sha256": "dfc1e7e1f0d365cfd6901c7aa2f6b86cb475a7acf10fb72c1747e209f4fa21b1"
+      "sha256": "dfc1e7e1f0d365cfd6901c7aa2f6b86cb475a7acf10fb72c1747e209f4fa21b1",
+      "display_sha256": "6d7ecafa35d681eda7d37bb1e51779e546455114753409fee207afbf79f3510c",
+      "display_blob_sha": "fa977f2b2969112b72fa3c819d36d168a97c5cc5",
+      "display_original_site_sha256": "dfc1e7e1f0d365cfd6901c7aa2f6b86cb475a7acf10fb72c1747e209f4fa21b1",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-polita/inat-482473181.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79cd38b77af873164eaa77725ea15b2adbab1d9a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -85,7 +90,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 350096648, photo 638728780, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24f67e852e18be731fdd799c88619c3e4c028bf807dcbcfe4a2427b58b141d3e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica polita maps to indexed species veronica-polita; specialist morphology and BONAP range deferred.",
-      "sha256": "24f67e852e18be731fdd799c88619c3e4c028bf807dcbcfe4a2427b58b141d3e"
+      "sha256": "24f67e852e18be731fdd799c88619c3e4c028bf807dcbcfe4a2427b58b141d3e",
+      "display_sha256": "7d8fdaf04a3adba5f9f3c4965657d09c10369a04bb97e66b072b74981658901b",
+      "display_blob_sha": "af1c4d6392b3ca434effb0828755a4aab69647d1",
+      "display_original_site_sha256": "24f67e852e18be731fdd799c88619c3e4c028bf807dcbcfe4a2427b58b141d3e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-polita/inat-640395809.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "858447a6cdf7ca43ee19b61f34227d3bb9ce85e7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -104,7 +114,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 350955613, photo 640395809, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a69c9211b685c57e2d9b7436fec22d1d826576727eaa1a4be53c1675df012ec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Veronica polita maps to indexed species veronica-polita; specialist morphology and BONAP range deferred.",
-      "sha256": "5a69c9211b685c57e2d9b7436fec22d1d826576727eaa1a4be53c1675df012ec"
+      "sha256": "5a69c9211b685c57e2d9b7436fec22d1d826576727eaa1a4be53c1675df012ec",
+      "display_sha256": "2c00e824e6c79a3039dd8b02a5eddf45aec4a25a2c5d2d8fba81b7b6e81d2bc9",
+      "display_blob_sha": "1aefc303aa827f89a9cbb68aa60d6b22d1b83f6f",
+      "display_original_site_sha256": "5a69c9211b685c57e2d9b7436fec22d1d826576727eaa1a4be53c1675df012ec",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/veronica-polita/source-0ae56e7fc874.jpg",

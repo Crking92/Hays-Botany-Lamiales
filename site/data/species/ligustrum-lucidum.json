@@ -41,7 +41,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dc1a923886c6f238812a167065c4282645334b6c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -49,7 +49,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341024781, photo 620715355, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7295f01c55dc1c09682e35a98f89f0418bac30c6183c1102c96fbe18ae7059c9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum lucidum maps to indexed species ligustrum-lucidum; specialist morphology and BONAP range deferred.",
-      "sha256": "7295f01c55dc1c09682e35a98f89f0418bac30c6183c1102c96fbe18ae7059c9"
+      "sha256": "7295f01c55dc1c09682e35a98f89f0418bac30c6183c1102c96fbe18ae7059c9",
+      "display_sha256": "a0cd60e62ba1fb8cfb00f219fbe8cd61616552bcd7a7b83e6fe81c6d0f28bd76",
+      "display_blob_sha": "0c655f15f1b38ac7b7f926f5b0eb46212fe0a1f8",
+      "display_original_site_sha256": "7295f01c55dc1c09682e35a98f89f0418bac30c6183c1102c96fbe18ae7059c9",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-lucidum/inat-620957703.jpg",
@@ -60,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7ca033817c62125c5fe806f7ecb6cbd3615bd244",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -68,7 +73,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341141967, photo 620957703, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0a88960000e167fe28717bee172b7947b054ef02836b9ccca49bd5638d2cd82a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum lucidum maps to indexed species ligustrum-lucidum; specialist morphology and BONAP range deferred.",
-      "sha256": "0a88960000e167fe28717bee172b7947b054ef02836b9ccca49bd5638d2cd82a"
+      "sha256": "0a88960000e167fe28717bee172b7947b054ef02836b9ccca49bd5638d2cd82a",
+      "display_sha256": "d46024047a50f19de6111ba8a1a63038d64f9554107fc61d1feb8257a817b61f",
+      "display_blob_sha": "22df4162d8034bf22ae074a3f5c92dda9ce2c7ed",
+      "display_original_site_sha256": "0a88960000e167fe28717bee172b7947b054ef02836b9ccca49bd5638d2cd82a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-lucidum/inat-622230429.jpg",
@@ -79,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "03d9d95cf5a79b522f446a9d66a291a39c1d832f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -87,7 +97,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341762772, photo 622230429, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b626f342c5f4d94176eb016d9a9ba2ab742a8116bd213c0cdec530fc02e0af79. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum lucidum maps to indexed species ligustrum-lucidum; specialist morphology and BONAP range deferred.",
-      "sha256": "b626f342c5f4d94176eb016d9a9ba2ab742a8116bd213c0cdec530fc02e0af79"
+      "sha256": "b626f342c5f4d94176eb016d9a9ba2ab742a8116bd213c0cdec530fc02e0af79",
+      "display_sha256": "515ae5aa21e39e0427a78cfcbc3055729c793daf2db7e3ae41251f7eb0ee68aa",
+      "display_blob_sha": "459ab7e70925834fac4ce86c688a359d6bf86845",
+      "display_original_site_sha256": "b626f342c5f4d94176eb016d9a9ba2ab742a8116bd213c0cdec530fc02e0af79",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-lucidum/inat-623731745.jpg",
@@ -98,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "91416c5ac41178f7e0d5fd03b11f91c7380cefd4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -106,7 +121,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342503280, photo 623731745, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6dfc4bb1ea5d5c22433b541e29cad7b6415be12f569df0508f0d0e6b382a8f6c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum lucidum maps to indexed species ligustrum-lucidum; specialist morphology and BONAP range deferred.",
-      "sha256": "6dfc4bb1ea5d5c22433b541e29cad7b6415be12f569df0508f0d0e6b382a8f6c"
+      "sha256": "6dfc4bb1ea5d5c22433b541e29cad7b6415be12f569df0508f0d0e6b382a8f6c",
+      "display_sha256": "ab753f0fd9c3453441be0d545dfbbf052958f1080eab45a7d6445bec077b2f16",
+      "display_blob_sha": "51c853b411c2f25a332913c3f13a876bd018e3a8",
+      "display_original_site_sha256": "6dfc4bb1ea5d5c22433b541e29cad7b6415be12f569df0508f0d0e6b382a8f6c",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-lucidum/inat-624746666.jpg",
@@ -117,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d9d7053f86fb64dc06c173307d7bddc2300d1999",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -125,7 +145,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343016569, photo 624746666, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c545c5f014da23c0c7c987d0877a7eef7f594324c1f6baa27800c977795bc920. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum lucidum maps to indexed species ligustrum-lucidum; specialist morphology and BONAP range deferred.",
-      "sha256": "c545c5f014da23c0c7c987d0877a7eef7f594324c1f6baa27800c977795bc920"
+      "sha256": "c545c5f014da23c0c7c987d0877a7eef7f594324c1f6baa27800c977795bc920",
+      "display_sha256": "6252ffe3f391b9ecbbc7bdb1f1286d1532a4b628c5427cdfaf12134aab1a860c",
+      "display_blob_sha": "826a39be49d7a85d7334c8ad31bfd69a08d96e76",
+      "display_original_site_sha256": "c545c5f014da23c0c7c987d0877a7eef7f594324c1f6baa27800c977795bc920",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-lucidum/source-2dd81067786e.jpg",

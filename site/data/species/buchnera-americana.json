@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c5c0d32c24074a00fe02394767103d545c53fe06",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -66,7 +66,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 360003358, photo 656877759, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0e3f2a14d76b60c1f92536b30bfca6c4a65ec2b668fba11942bfa4e79060aa08. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Buchnera americana maps to indexed species buchnera-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "0e3f2a14d76b60c1f92536b30bfca6c4a65ec2b668fba11942bfa4e79060aa08"
+      "sha256": "0e3f2a14d76b60c1f92536b30bfca6c4a65ec2b668fba11942bfa4e79060aa08",
+      "display_sha256": "8ef66e13b73b15ef0becc2b7262c4eb8e1df1cd60b351020e633a94fecbe4461",
+      "display_blob_sha": "84aef1a60c89146074bdbbd99b84dca6effb4546",
+      "display_original_site_sha256": "0e3f2a14d76b60c1f92536b30bfca6c4a65ec2b668fba11942bfa4e79060aa08",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

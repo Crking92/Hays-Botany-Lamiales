@@ -79,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3b2d86c18b651a9e049671dfda5f804a3c745770",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -87,7 +87,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342103766, photo 622921049, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a51b4c14b6d4f94bae52b00caeb656ca7f6c9b1e7e1fd76576aae9d8024ddef9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum quihoui maps to indexed species ligustrum-quihoui; specialist morphology and BONAP range deferred.",
-      "sha256": "a51b4c14b6d4f94bae52b00caeb656ca7f6c9b1e7e1fd76576aae9d8024ddef9"
+      "sha256": "a51b4c14b6d4f94bae52b00caeb656ca7f6c9b1e7e1fd76576aae9d8024ddef9",
+      "display_sha256": "7c43baf6ee83d59427c821b08517f2001d0bea6b09ef5b353b4b80cc4a77c543",
+      "display_blob_sha": "6c1042574d1f44776d47dc7b64ef0f0fe2397124",
+      "display_original_site_sha256": "a51b4c14b6d4f94bae52b00caeb656ca7f6c9b1e7e1fd76576aae9d8024ddef9",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-quihoui/inat-628686683.jpg",
@@ -117,7 +122,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5bfef5795721cce7b678f4654c1c882dd454bbe1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -125,7 +130,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345468096, photo 629595946, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5ffd709c638a1ee239daaab3ba80fc63b367e53d9727ce95cf9c001fdf296e28. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum quihoui maps to indexed species ligustrum-quihoui; specialist morphology and BONAP range deferred.",
-      "sha256": "5ffd709c638a1ee239daaab3ba80fc63b367e53d9727ce95cf9c001fdf296e28"
+      "sha256": "5ffd709c638a1ee239daaab3ba80fc63b367e53d9727ce95cf9c001fdf296e28",
+      "display_sha256": "1d0a7ea7bd3521987c515dead70bd0c5ccf941005e74f4656ce28ca9b33e1b88",
+      "display_blob_sha": "d20379f1d50467a3d443fc65d8e215ef749fcddb",
+      "display_original_site_sha256": "5ffd709c638a1ee239daaab3ba80fc63b367e53d9727ce95cf9c001fdf296e28",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-quihoui/inat-629596035.jpg",
@@ -136,7 +146,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d9cd51ac60ab35a5706b39ea90a8316105552827",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -144,7 +154,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345468141, photo 629596035, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2dfc5c64c81c56bde6b8e4df778b9b9dae59ba10106a1edcd0f4129feb021ed6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum quihoui maps to indexed species ligustrum-quihoui; specialist morphology and BONAP range deferred.",
-      "sha256": "2dfc5c64c81c56bde6b8e4df778b9b9dae59ba10106a1edcd0f4129feb021ed6"
+      "sha256": "2dfc5c64c81c56bde6b8e4df778b9b9dae59ba10106a1edcd0f4129feb021ed6",
+      "display_sha256": "8af7f861dd9124e87322c9ad05b14f1c0bbdf43589e605f43a92bb24cd965a93",
+      "display_blob_sha": "5d42688579d98273bcef95dda9ac462a4241844d",
+      "display_original_site_sha256": "2dfc5c64c81c56bde6b8e4df778b9b9dae59ba10106a1edcd0f4129feb021ed6",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-quihoui/inat-631925565.jpg",
@@ -155,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6d475a33795039bcdf5b4950865f7dbf66249f48",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -163,7 +178,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346651787, photo 631925565, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d52c0b80fbbe182135f4daf8211df970c0639eb7c06dd361b8e1e8bbd4c4dd2b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Ligustrum quihoui maps to indexed species ligustrum-quihoui; specialist morphology and BONAP range deferred.",
-      "sha256": "d52c0b80fbbe182135f4daf8211df970c0639eb7c06dd361b8e1e8bbd4c4dd2b"
+      "sha256": "d52c0b80fbbe182135f4daf8211df970c0639eb7c06dd361b8e1e8bbd4c4dd2b",
+      "display_sha256": "0ac6340711d84f6485bb234bf11cd58de739e823e4ada85a4f2a7100852aedcd",
+      "display_blob_sha": "5ae5776975e974af497ad8f7b576ad44195c7c96",
+      "display_original_site_sha256": "d52c0b80fbbe182135f4daf8211df970c0639eb7c06dd361b8e1e8bbd4c4dd2b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ligustrum-quihoui/source-57c739e3b767.jpg",

@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4a6b14ae9f1498beffedab6e06604631558d77e5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +85,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347969899, photo 634546180, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 782fecda5e54c76ce18e8937e361b6013846e7280e2db990157b344e5d0b8969. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia engelmannii maps to indexed species salvia-engelmannii; specialist morphology and BONAP range deferred.",
-      "sha256": "782fecda5e54c76ce18e8937e361b6013846e7280e2db990157b344e5d0b8969"
+      "sha256": "782fecda5e54c76ce18e8937e361b6013846e7280e2db990157b344e5d0b8969",
+      "display_sha256": "46176637675321c633ab583eaf2e5d01f448f7ee7aa5d8796abbed4537eb494e",
+      "display_blob_sha": "2028e4a08ac687cbe4b560d02afc868915002550",
+      "display_original_site_sha256": "782fecda5e54c76ce18e8937e361b6013846e7280e2db990157b344e5d0b8969",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-engelmannii/inat-635200106.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "59b6cb52989e6024dbca1ac24bf77383af4d36b7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +109,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 348300548, photo 635200106, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 593c77ea2a9950f116b67de268a061a5da1cd83905738697aa12372e9b4b6cb9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia engelmannii maps to indexed species salvia-engelmannii; specialist morphology and BONAP range deferred.",
-      "sha256": "593c77ea2a9950f116b67de268a061a5da1cd83905738697aa12372e9b4b6cb9"
+      "sha256": "593c77ea2a9950f116b67de268a061a5da1cd83905738697aa12372e9b4b6cb9",
+      "display_sha256": "fd883c9cd4eba1e507e7ab1f45a98ca4c3f304888ca1457c2f871491cda7a606",
+      "display_blob_sha": "5b3780a95e413de71c9d902acdc24f25641e990a",
+      "display_original_site_sha256": "593c77ea2a9950f116b67de268a061a5da1cd83905738697aa12372e9b4b6cb9",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-engelmannii/inat-641438847.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c862b9768f3e012299b59903bb73f391501cbd62",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -123,7 +133,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 351491428, photo 641438847, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eb11bbef2bf1bd075d4ea4f463d44b67f9f62d1890b05d431834cc27c2ae0f09. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia engelmannii maps to indexed species salvia-engelmannii; specialist morphology and BONAP range deferred.",
-      "sha256": "eb11bbef2bf1bd075d4ea4f463d44b67f9f62d1890b05d431834cc27c2ae0f09"
+      "sha256": "eb11bbef2bf1bd075d4ea4f463d44b67f9f62d1890b05d431834cc27c2ae0f09",
+      "display_sha256": "a7bc97d259fc729732b4099f0aede60033a7d92df4f80e3f0ec3e45f9f9a29ac",
+      "display_blob_sha": "3d2c3a9376384dbe336e4c3fdfdb37a546dcfb01",
+      "display_original_site_sha256": "eb11bbef2bf1bd075d4ea4f463d44b67f9f62d1890b05d431834cc27c2ae0f09",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-engelmannii/inat-642947027.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5a3ac76e1e252e7171322ac87d73a7b865c8fb2b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -142,7 +157,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 352268367, photo 642947027, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 91d3a2514f050324444f6569aa27deb6bde807ba6d2dc8d75bb87e3fd85f9f67. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia engelmannii maps to indexed species salvia-engelmannii; specialist morphology and BONAP range deferred.",
-      "sha256": "91d3a2514f050324444f6569aa27deb6bde807ba6d2dc8d75bb87e3fd85f9f67"
+      "sha256": "91d3a2514f050324444f6569aa27deb6bde807ba6d2dc8d75bb87e3fd85f9f67",
+      "display_sha256": "d85b4b5b5e42041bf9c044cbb3611d306916ae8e9cb005c91364f2bd301c0429",
+      "display_blob_sha": "556ee5e9ed41f857eaf4ce7f2698f07b19ece35d",
+      "display_original_site_sha256": "91d3a2514f050324444f6569aa27deb6bde807ba6d2dc8d75bb87e3fd85f9f67",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-engelmannii/inat-648222077.jpg",
@@ -153,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b7c1721d03daecd1de65f8732881e3fff0a78c5e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -161,7 +181,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 355432626, photo 648222077, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8f4f5ca82f644853f15924a2e26a0746b555bb799552a7efbc005f73ab090da3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia engelmannii maps to indexed species salvia-engelmannii; specialist morphology and BONAP range deferred.",
-      "sha256": "8f4f5ca82f644853f15924a2e26a0746b555bb799552a7efbc005f73ab090da3"
+      "sha256": "8f4f5ca82f644853f15924a2e26a0746b555bb799552a7efbc005f73ab090da3",
+      "display_sha256": "d8aa6ed18fc16a6b547b61efff7ceb9ef9c30b51b6078cb868214162fefaddd0",
+      "display_blob_sha": "cd27c4e52fafaa3f4d4254d415c065ac21600193",
+      "display_original_site_sha256": "8f4f5ca82f644853f15924a2e26a0746b555bb799552a7efbc005f73ab090da3",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-engelmannii/source-5752c76b34f8.jpg",

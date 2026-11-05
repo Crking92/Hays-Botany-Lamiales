@@ -45,7 +45,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "839a557c882e3e0ea8f4ea57e8f5612fcfbfcaf0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -53,7 +53,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341137383, photo 620948176, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: c522e01307f44fba00a25653a8b76bb13b22a98c68af96ff93180f819c3b6f2e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia pilosella maps to indexed species justicia-pilosella (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c522e01307f44fba00a25653a8b76bb13b22a98c68af96ff93180f819c3b6f2e"
+      "sha256": "c522e01307f44fba00a25653a8b76bb13b22a98c68af96ff93180f819c3b6f2e",
+      "display_sha256": "d6de8b0f9c3613c2fca9fc35915585db183d5f7d596f5c2511e7caf871da9f06",
+      "display_blob_sha": "4a37614d32af9054d84a3cafd992858dcf26e49d",
+      "display_original_site_sha256": "c522e01307f44fba00a25653a8b76bb13b22a98c68af96ff93180f819c3b6f2e",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-pilosella/inat-621897746.jpg",
@@ -64,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9348c7ebc0103b3ee1bb67ab7bdfebf7538f040d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -72,7 +77,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341598657, photo 621897746, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8da376eacb951bc6f0358ef89a571486d2c875ca24811d536d96c545dffd1d85. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia pilosella maps to indexed species justicia-pilosella (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8da376eacb951bc6f0358ef89a571486d2c875ca24811d536d96c545dffd1d85"
+      "sha256": "8da376eacb951bc6f0358ef89a571486d2c875ca24811d536d96c545dffd1d85",
+      "display_sha256": "62ce80de3e23535aa3f33aef4fc005fa366923c0d15b1846784dd332de817b74",
+      "display_blob_sha": "bb25a49cca7f894004e41d2acfec66d1ec973bb3",
+      "display_original_site_sha256": "8da376eacb951bc6f0358ef89a571486d2c875ca24811d536d96c545dffd1d85",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-pilosella/inat-624783269.jpg",
@@ -83,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c29c3d15e93730e9b733d8d5da1cfa5b395a1537",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343034465, photo 624783269, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 990e5541849dcfce3b63e3700d7bae832da5657e45fad355498fd94d0419a72c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia pilosella maps to indexed species justicia-pilosella (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "990e5541849dcfce3b63e3700d7bae832da5657e45fad355498fd94d0419a72c"
+      "sha256": "990e5541849dcfce3b63e3700d7bae832da5657e45fad355498fd94d0419a72c",
+      "display_sha256": "659831579730b4af87b8916e3f7d080caf9449fd75cce77225b8f4cc85a0ffdd",
+      "display_blob_sha": "b5c071151886ec7f01e0157e357219d1fa58ec5c",
+      "display_original_site_sha256": "990e5541849dcfce3b63e3700d7bae832da5657e45fad355498fd94d0419a72c",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-pilosella/inat-625035687.jpg",
@@ -102,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e87b89591d1dfd1a441398f0d408235a5ff78cd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +125,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343159865, photo 625035687, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cca6f3a23adefc92f34304bfc02da6350968e766ecbcca55f8a68ebabaa374fa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia pilosella maps to indexed species justicia-pilosella (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "cca6f3a23adefc92f34304bfc02da6350968e766ecbcca55f8a68ebabaa374fa"
+      "sha256": "cca6f3a23adefc92f34304bfc02da6350968e766ecbcca55f8a68ebabaa374fa",
+      "display_sha256": "1725443e8b6f38929db1fbb5b7e371fa7e85088b64bca9c42e605b0600737c8e",
+      "display_blob_sha": "0d193afbbfde4a0c9f02506ed50cc9ab68d314a0",
+      "display_original_site_sha256": "cca6f3a23adefc92f34304bfc02da6350968e766ecbcca55f8a68ebabaa374fa",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-pilosella/inat-625046656.jpg",
@@ -121,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d12bcd9420f2fd7fcc2f12831cfc22ba0bd39b69",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +149,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343165307, photo 625046656, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d0078267b37e52d5005b674564cd3117e2aeddde814343f374779fd7bbf806fb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Justicia pilosella maps to indexed species justicia-pilosella (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d0078267b37e52d5005b674564cd3117e2aeddde814343f374779fd7bbf806fb"
+      "sha256": "d0078267b37e52d5005b674564cd3117e2aeddde814343f374779fd7bbf806fb",
+      "display_sha256": "2776b1b30a8c0640ba87dcf560bbd9b16ded0f0c586c7482357d5fe636afcbeb",
+      "display_blob_sha": "e29251cd74380279807cc854cff6010253aaecf9",
+      "display_original_site_sha256": "d0078267b37e52d5005b674564cd3117e2aeddde814343f374779fd7bbf806fb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/justicia-pilosella/source-f2b075006fc4.jpg",

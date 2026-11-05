@@ -65,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8b0f971766e2fe59a1d7367989fd7bf9b2ead15d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -73,7 +73,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341087851, photo 620850401, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 14891a801f0772f39ebeffdb842cf1a8c040c9b1dd866eb1ebaf46ffcfcdebb3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia farinacea maps to indexed species salvia-farinacea; specialist morphology and BONAP range deferred.",
-      "sha256": "14891a801f0772f39ebeffdb842cf1a8c040c9b1dd866eb1ebaf46ffcfcdebb3"
+      "sha256": "14891a801f0772f39ebeffdb842cf1a8c040c9b1dd866eb1ebaf46ffcfcdebb3",
+      "display_sha256": "dcd41a7871058c6bc52298a2f69fcea4e14130fa195820bbc223c16ecfb3e167",
+      "display_blob_sha": "48aab55aa4ba3d3c824a65f2ad84be7cf930763c",
+      "display_original_site_sha256": "14891a801f0772f39ebeffdb842cf1a8c040c9b1dd866eb1ebaf46ffcfcdebb3",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-farinacea/inat-628173465.jpg",
@@ -84,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "074f7bbb07a81a5ade1e53a3f36ad21db250b964",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -92,7 +97,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344740445, photo 628173465, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: acbdc42c6b7219d36556226bb6f5724a146136a639fb50fcac0dddaaa1b15836. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia farinacea maps to indexed species salvia-farinacea; specialist morphology and BONAP range deferred.",
-      "sha256": "acbdc42c6b7219d36556226bb6f5724a146136a639fb50fcac0dddaaa1b15836"
+      "sha256": "acbdc42c6b7219d36556226bb6f5724a146136a639fb50fcac0dddaaa1b15836",
+      "display_sha256": "c6cc44be015873de3b1df63d2666d42071208155189d567ebea4e14219636d1a",
+      "display_blob_sha": "020ee4e7639c522e4527f8677ffda1a98a66cac4",
+      "display_original_site_sha256": "acbdc42c6b7219d36556226bb6f5724a146136a639fb50fcac0dddaaa1b15836",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-farinacea/inat-628583666.jpg",
@@ -103,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "44745b2bafdc285435e982ab485d6b446d29c9fd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -111,7 +121,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344957115, photo 628583666, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e624f598238d37890ce04e3e4a971eb1ba6cbb40f43436f88ab8c60b9caf779b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia farinacea maps to indexed species salvia-farinacea; specialist morphology and BONAP range deferred.",
-      "sha256": "e624f598238d37890ce04e3e4a971eb1ba6cbb40f43436f88ab8c60b9caf779b"
+      "sha256": "e624f598238d37890ce04e3e4a971eb1ba6cbb40f43436f88ab8c60b9caf779b",
+      "display_sha256": "1e90210c488a071e659c812e47bb163ff1159dd7ccb70ac579a86a339b3fbd19",
+      "display_blob_sha": "9fe48cb8665f556d6af1302c2f175b36c5634abf",
+      "display_original_site_sha256": "e624f598238d37890ce04e3e4a971eb1ba6cbb40f43436f88ab8c60b9caf779b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-farinacea/inat-630632420.jpg",
@@ -122,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9254817231ca9c3d62a9ac587d5acb0b322b7bf5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -130,7 +145,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345997762, photo 630632420, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c061f93ce8d619cdffc42177be0cf89c55638ed183d906d0b1d9bfe598a16619. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia farinacea maps to indexed species salvia-farinacea; specialist morphology and BONAP range deferred.",
-      "sha256": "c061f93ce8d619cdffc42177be0cf89c55638ed183d906d0b1d9bfe598a16619"
+      "sha256": "c061f93ce8d619cdffc42177be0cf89c55638ed183d906d0b1d9bfe598a16619",
+      "display_sha256": "ed9cfe6457d18ef2c61e8314d587c4813e7731659cfb3452673c56e91eeb611c",
+      "display_blob_sha": "f094b019e18e5c04d887ee1ebad78f41a79c0da1",
+      "display_original_site_sha256": "c061f93ce8d619cdffc42177be0cf89c55638ed183d906d0b1d9bfe598a16619",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-farinacea/inat-631030671.jpg",
@@ -141,7 +161,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "85ef81b7593ab874e45b5ffe1b97a2b2457b53b3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -149,7 +169,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 346199082, photo 631030671, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8da389df7a4abafc38aa096c705b0002e67f24079cbf8582c93d8ff8736d298b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Salvia farinacea maps to indexed species salvia-farinacea; specialist morphology and BONAP range deferred.",
-      "sha256": "8da389df7a4abafc38aa096c705b0002e67f24079cbf8582c93d8ff8736d298b"
+      "sha256": "8da389df7a4abafc38aa096c705b0002e67f24079cbf8582c93d8ff8736d298b",
+      "display_sha256": "6d4f5a36d62c069a9454537bcc38fa72790e6d9c99d4ad3008cc71234303d19f",
+      "display_blob_sha": "622eed56b5c00550ddf8b9db3401053351588fec",
+      "display_original_site_sha256": "8da389df7a4abafc38aa096c705b0002e67f24079cbf8582c93d8ff8736d298b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/salvia-farinacea/01-flowers-leaves.jpg",

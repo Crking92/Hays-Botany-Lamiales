@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f90b00469c23565232b60138aa26c64edea32038",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -96,7 +96,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 349119629, photo 636814450, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 051004185651701e4ee9a6de6e47377d720e46ff3a3dada58fb3982a2a6573ed. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Bacopa monnieri maps to indexed species bacopa-monnieri; specialist morphology and BONAP range deferred.",
-      "sha256": "051004185651701e4ee9a6de6e47377d720e46ff3a3dada58fb3982a2a6573ed"
+      "sha256": "051004185651701e4ee9a6de6e47377d720e46ff3a3dada58fb3982a2a6573ed",
+      "display_sha256": "7e7fc089cc5b3b515467b9795a050889f3b369e8bf8eec8dff5ccdd33e9a3c5d",
+      "display_blob_sha": "799b688ac6031536e4ca662d59c9ca77562a15c6",
+      "display_original_site_sha256": "051004185651701e4ee9a6de6e47377d720e46ff3a3dada58fb3982a2a6573ed",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bacopa-monnieri/inat-647281252.jpg",
@@ -107,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a3fe54b357b0387fdb5d916f6e45d55c62cd22b4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -115,7 +120,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 354849817, photo 647281252, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6693f4109af7d0e8ece5bf133216551e2bcbcb6d15c9ee3b79c3f3bd0fe9dd71. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Bacopa monnieri maps to indexed species bacopa-monnieri; specialist morphology and BONAP range deferred.",
-      "sha256": "6693f4109af7d0e8ece5bf133216551e2bcbcb6d15c9ee3b79c3f3bd0fe9dd71"
+      "sha256": "6693f4109af7d0e8ece5bf133216551e2bcbcb6d15c9ee3b79c3f3bd0fe9dd71",
+      "display_sha256": "bbc3c9a9268c3d139ce92c0f9c9ffd0f7864dbe84e8e919be9efd21cc601cd61",
+      "display_blob_sha": "0f769bd0e1bf1a47d49f5476acc01f106f2ab07f",
+      "display_original_site_sha256": "6693f4109af7d0e8ece5bf133216551e2bcbcb6d15c9ee3b79c3f3bd0fe9dd71",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bacopa-monnieri/inat-670449065.jpg",
@@ -126,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bf1ad0948140cf2607bec428930deca37bb249bf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -134,7 +144,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 367141846, photo 670449065, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3595ac32b9c8be3e8eb57ee2b0af3d54fe2a90dd126f8132c190fc996f4b19a8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Bacopa monnieri maps to indexed species bacopa-monnieri; specialist morphology and BONAP range deferred.",
-      "sha256": "3595ac32b9c8be3e8eb57ee2b0af3d54fe2a90dd126f8132c190fc996f4b19a8"
+      "sha256": "3595ac32b9c8be3e8eb57ee2b0af3d54fe2a90dd126f8132c190fc996f4b19a8",
+      "display_sha256": "14d6bb772e38ce4a2765967cf0975e2cdc66bbba642fb7a9023a28381da6e486",
+      "display_blob_sha": "abc1f076d4c1204a9de606925af112e37d43e3fb",
+      "display_original_site_sha256": "3595ac32b9c8be3e8eb57ee2b0af3d54fe2a90dd126f8132c190fc996f4b19a8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bacopa-monnieri/inat-671566731.jpg",
@@ -145,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ee20e364709fb5dc5617a86ea8c9f999e581c269",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -153,7 +168,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 367723639, photo 671566731, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9c426d82f12168ba03d8b040dcf16332b6445be12b364f3233c055007f45d0e7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Bacopa monnieri maps to indexed species bacopa-monnieri; specialist morphology and BONAP range deferred.",
-      "sha256": "9c426d82f12168ba03d8b040dcf16332b6445be12b364f3233c055007f45d0e7"
+      "sha256": "9c426d82f12168ba03d8b040dcf16332b6445be12b364f3233c055007f45d0e7",
+      "display_sha256": "ca216ea7142348101fb505cf9497f9a3a9213fa82050a04deb3d6d304e150a03",
+      "display_blob_sha": "0144eba55036a5540a54c5044e74cd662c011d73",
+      "display_original_site_sha256": "9c426d82f12168ba03d8b040dcf16332b6445be12b364f3233c055007f45d0e7",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

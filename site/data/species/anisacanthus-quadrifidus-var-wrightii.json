@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d822bf6e088d45dc245021e93d979fd3811b9724",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -72,7 +72,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 121821211, photo 206191050, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c686617698e255ab018c69af1e193d2f44d540a1ce8badc844dc3534474326fd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Anisacanthus quadrifidus wrightii maps to indexed species anisacanthus-quadrifidus-var-wrightii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c686617698e255ab018c69af1e193d2f44d540a1ce8badc844dc3534474326fd"
+      "sha256": "c686617698e255ab018c69af1e193d2f44d540a1ce8badc844dc3534474326fd",
+      "display_sha256": "220a24762aef5b8644b52389e5bcd31da988419dbe187c539f78250603bc6572",
+      "display_blob_sha": "a9f9fcabbaf8f4f7c639921d5dcdeeb698a9e1fd",
+      "display_original_site_sha256": "c686617698e255ab018c69af1e193d2f44d540a1ce8badc844dc3534474326fd",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anisacanthus-quadrifidus-var-wrightii/inat-53526648.jpg",
@@ -83,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a697480d01792805620672dfde446dc838db930",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 34040552, photo 53526648, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f4e4cab58a2adeba36dcae385a39bfdcbe9dc54787e9a07c4e183fc7b37d1a15. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Anisacanthus quadrifidus wrightii maps to indexed species anisacanthus-quadrifidus-var-wrightii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f4e4cab58a2adeba36dcae385a39bfdcbe9dc54787e9a07c4e183fc7b37d1a15"
+      "sha256": "f4e4cab58a2adeba36dcae385a39bfdcbe9dc54787e9a07c4e183fc7b37d1a15",
+      "display_sha256": "ea9fe5dd87521d2d55a38da96ff24df190a496aae30fdd71cddd7b6e60baf5c0",
+      "display_blob_sha": "924b74d8d6849881e0d81b8b3608af260caf307f",
+      "display_original_site_sha256": "f4e4cab58a2adeba36dcae385a39bfdcbe9dc54787e9a07c4e183fc7b37d1a15",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anisacanthus-quadrifidus-var-wrightii/inat-54754486.jpeg",
@@ -102,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e6f4d8dd8c1242a9d4a5e301db10b5f4e3a0eb8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 34765722, photo 54754486, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 364b75a23e0f7f2ccb075d114883a9d3e8dbe7d325487c77a4aabf593c3b81b9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Anisacanthus quadrifidus wrightii maps to indexed species anisacanthus-quadrifidus-var-wrightii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "364b75a23e0f7f2ccb075d114883a9d3e8dbe7d325487c77a4aabf593c3b81b9"
+      "sha256": "364b75a23e0f7f2ccb075d114883a9d3e8dbe7d325487c77a4aabf593c3b81b9",
+      "display_sha256": "e3e3aef9bb1633375d56717ff7a7ef8a5d9567e3e47c840b37c869faecd0fbee",
+      "display_blob_sha": "36067b84e9f133c4eae7c8abc3c06afd46008d50",
+      "display_original_site_sha256": "364b75a23e0f7f2ccb075d114883a9d3e8dbe7d325487c77a4aabf593c3b81b9",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

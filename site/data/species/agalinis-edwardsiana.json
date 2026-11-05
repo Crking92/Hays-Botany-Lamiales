@@ -71,7 +71,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8fdee8ae5d068c696d785db4533ffb4c68b50427",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -79,7 +79,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 314135428, photo 567356745, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c6cec9c4ba67bf9dde1550ba6b0cc1903a1dcef5a82eae748261d0f59789bb19. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis edwardsiana maps to indexed species agalinis-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "c6cec9c4ba67bf9dde1550ba6b0cc1903a1dcef5a82eae748261d0f59789bb19"
+      "sha256": "c6cec9c4ba67bf9dde1550ba6b0cc1903a1dcef5a82eae748261d0f59789bb19",
+      "display_sha256": "8be6ab163844198eec0d3e3f70be6b47d3a8e141df068e3a934b9f77ea53c4c1",
+      "display_blob_sha": "e50c79336fac4cdac244b7cc50272680eaecfccb",
+      "display_original_site_sha256": "c6cec9c4ba67bf9dde1550ba6b0cc1903a1dcef5a82eae748261d0f59789bb19",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-edwardsiana/inat-650504521.jpg",
@@ -90,7 +95,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "0d24c23f8a47050882c7ee0dc37edc20a80d9d2b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -98,7 +103,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 356698440, photo 650504521, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: ffd0b6ee39d9595e145b8873d4bb439e19f69b2e0ec19973ef752e2fe98b960b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis edwardsiana maps to indexed species agalinis-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "ffd0b6ee39d9595e145b8873d4bb439e19f69b2e0ec19973ef752e2fe98b960b"
+      "sha256": "ffd0b6ee39d9595e145b8873d4bb439e19f69b2e0ec19973ef752e2fe98b960b",
+      "display_sha256": "7948a7198cb121fab1f9294ef828961f323b9f25f791e27257dbc884dd516c2f",
+      "display_blob_sha": "8effdaaed44f2ec1480c7c097b489fc9f5404698",
+      "display_original_site_sha256": "ffd0b6ee39d9595e145b8873d4bb439e19f69b2e0ec19973ef752e2fe98b960b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-edwardsiana/inat-739949490.jpg",
@@ -109,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "998ba57e5581a584eca82b766c213956ab5b1e5e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -117,7 +127,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 403037615, photo 739949490, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 819a832d4af0bb77ed2169151abefaed26305b1cb2fd0e4631d7ab253dde2b0f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis edwardsiana maps to indexed species agalinis-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "819a832d4af0bb77ed2169151abefaed26305b1cb2fd0e4631d7ab253dde2b0f"
+      "sha256": "819a832d4af0bb77ed2169151abefaed26305b1cb2fd0e4631d7ab253dde2b0f",
+      "display_sha256": "ba70b995d6d8fa65d7ef8d13fdcc2b5cbb1d4e760629533ba7e90dfe581d767f",
+      "display_blob_sha": "a6d1ef0bb1773bc8b01ceff30c3fe89f5fd289cb",
+      "display_original_site_sha256": "819a832d4af0bb77ed2169151abefaed26305b1cb2fd0e4631d7ab253dde2b0f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-edwardsiana/inat-743623862.jpg",
@@ -128,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "762892e0699b7865e1cd818aac7119c2539eac89",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -136,7 +151,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 404893695, photo 743623862, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7ca7e6f2c3743179449a4fb3626148a1fe2d89a4fa9fc282174fab39787e2adc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis edwardsiana maps to indexed species agalinis-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "7ca7e6f2c3743179449a4fb3626148a1fe2d89a4fa9fc282174fab39787e2adc"
+      "sha256": "7ca7e6f2c3743179449a4fb3626148a1fe2d89a4fa9fc282174fab39787e2adc",
+      "display_sha256": "278b3d13fa0f93ef9186ce320c95ed73e9fefe9dd9aa8907e17672e60ce4fe22",
+      "display_blob_sha": "c996f6f1e0d9e481df2414af4b03d9e978629f2f",
+      "display_original_site_sha256": "7ca7e6f2c3743179449a4fb3626148a1fe2d89a4fa9fc282174fab39787e2adc",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-edwardsiana/inat-745872549.jpg",
@@ -147,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4c8f9375e8b4bd04d2279d59192966564ac01057",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
@@ -155,7 +175,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 405765590, photo 745872549, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f31fd7a4cb044e0025724046fd050a320fe55b8e87c25ac158e8d4e4211430f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Agalinis edwardsiana maps to indexed species agalinis-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "3f31fd7a4cb044e0025724046fd050a320fe55b8e87c25ac158e8d4e4211430f"
+      "sha256": "3f31fd7a4cb044e0025724046fd050a320fe55b8e87c25ac158e8d4e4211430f",
+      "display_sha256": "3d833791d8b7632820fd6e4a5d1de5350fa8fc32f242d5d619be6e126d2f54f3",
+      "display_blob_sha": "a4b3063f65258ea1c8361b081c85ff14021d30aa",
+      "display_original_site_sha256": "3f31fd7a4cb044e0025724046fd050a320fe55b8e87c25ac158e8d4e4211430f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/agalinis-edwardsiana/source-fe67b604c523.jpg",

@@ -45,7 +45,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "713fe1a50fb36275d355fe655610b41d60fb7998",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -53,7 +53,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341019526, photo 620704540, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6455dcf326d6c10558f5a0992ee0ee72d1b7650d0f3474ea7e06b15ba17e7f57. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera pubescens maps to indexed species forestiera-pubescens; specialist morphology and BONAP range deferred.",
-      "sha256": "6455dcf326d6c10558f5a0992ee0ee72d1b7650d0f3474ea7e06b15ba17e7f57"
+      "sha256": "6455dcf326d6c10558f5a0992ee0ee72d1b7650d0f3474ea7e06b15ba17e7f57",
+      "display_sha256": "8e8f8a615ac81d102e119015b399460fa53e41b6660e5b612cebf4b347413280",
+      "display_blob_sha": "98222024fc30258eda7ecf0d0b5e8a1bbd4855ae",
+      "display_original_site_sha256": "6455dcf326d6c10558f5a0992ee0ee72d1b7650d0f3474ea7e06b15ba17e7f57",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/forestiera-pubescens/inat-622237590.jpg",
@@ -64,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aa3987a92b74ee0dc2228ebb1dc106830b5316d3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -72,7 +77,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 341766394, photo 622237590, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 14be1826c6a7e31b23636930fda92a14dd656cdc0a29ff0a8675b65e376f12ce. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera pubescens maps to indexed species forestiera-pubescens; specialist morphology and BONAP range deferred.",
-      "sha256": "14be1826c6a7e31b23636930fda92a14dd656cdc0a29ff0a8675b65e376f12ce"
+      "sha256": "14be1826c6a7e31b23636930fda92a14dd656cdc0a29ff0a8675b65e376f12ce",
+      "display_sha256": "5a3919c0ae7b71e341099b9821debc49bc885e8edd870709b6a01d2be12ac03c",
+      "display_blob_sha": "b270cf767126076e71ba0827c433f529ca1bc65f",
+      "display_original_site_sha256": "14be1826c6a7e31b23636930fda92a14dd656cdc0a29ff0a8675b65e376f12ce",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/forestiera-pubescens/inat-623890844.jpg",
@@ -83,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a662e1395037168a043842bbfe2dada0a3c5cef0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -91,7 +101,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342581473, photo 623890844, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 41f2fad8765f34e3db15ef776432bc84f8219cf13625f4601a1c1a11d24cd9bd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera pubescens maps to indexed species forestiera-pubescens; specialist morphology and BONAP range deferred.",
-      "sha256": "41f2fad8765f34e3db15ef776432bc84f8219cf13625f4601a1c1a11d24cd9bd"
+      "sha256": "41f2fad8765f34e3db15ef776432bc84f8219cf13625f4601a1c1a11d24cd9bd",
+      "display_sha256": "6f3c819603c9ca8f4f31bd9519acf19ba62ee46e7152e412944404d27c56262d",
+      "display_blob_sha": "28e6e5b1de8a3398bf8f4cad959620c7cae040cf",
+      "display_original_site_sha256": "41f2fad8765f34e3db15ef776432bc84f8219cf13625f4601a1c1a11d24cd9bd",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/forestiera-pubescens/inat-624747340.jpg",
@@ -102,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a7e28bb018b89fc3240b46df3444f4674b468b9a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -110,7 +125,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343017123, photo 624747340, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43018569a70b1e2b78c44312e9872dc2b6028579d2f69271d3bf212a0d1bc1f7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera pubescens maps to indexed species forestiera-pubescens; specialist morphology and BONAP range deferred.",
-      "sha256": "43018569a70b1e2b78c44312e9872dc2b6028579d2f69271d3bf212a0d1bc1f7"
+      "sha256": "43018569a70b1e2b78c44312e9872dc2b6028579d2f69271d3bf212a0d1bc1f7",
+      "display_sha256": "7b95e74da54b7151a743d4c56dd3551dc18d3eb0959c66461df8c83e2c10df22",
+      "display_blob_sha": "ee99f292c635ced53736bd6db75e9753e97f0c64",
+      "display_original_site_sha256": "43018569a70b1e2b78c44312e9872dc2b6028579d2f69271d3bf212a0d1bc1f7",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/forestiera-pubescens/inat-626773071.jpg",
@@ -121,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c16b588e91ad2194111844e1b196815b610ab057",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
@@ -129,7 +149,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 344022265, photo 626773071, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3bb379bce17d735c1fdf4c4ef399da87c3b6103e1c629306fbd8acd0ef37dd79. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Forestiera pubescens maps to indexed species forestiera-pubescens; specialist morphology and BONAP range deferred.",
-      "sha256": "3bb379bce17d735c1fdf4c4ef399da87c3b6103e1c629306fbd8acd0ef37dd79"
+      "sha256": "3bb379bce17d735c1fdf4c4ef399da87c3b6103e1c629306fbd8acd0ef37dd79",
+      "display_sha256": "30e03d664b5155e4889967cdb7fe4a2e1173c3c701d68a14310a954d6f0af756",
+      "display_blob_sha": "aa08dca2ba8dd582126473aedaac6dc11ea8c8aa",
+      "display_original_site_sha256": "3bb379bce17d735c1fdf4c4ef399da87c3b6103e1c629306fbd8acd0ef37dd79",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

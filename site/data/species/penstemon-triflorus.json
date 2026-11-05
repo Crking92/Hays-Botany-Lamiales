@@ -57,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2c3d2b01c8170b509cb53c7119701ebc203e5088",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -65,7 +65,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 202759020, photo 358138853, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0ebcd6525e59d3fa83fdfccbc9d51c11e6597265139cbaf1f2ef59902e4e6748. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon triflorus maps to indexed species penstemon-triflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "0ebcd6525e59d3fa83fdfccbc9d51c11e6597265139cbaf1f2ef59902e4e6748"
+      "sha256": "0ebcd6525e59d3fa83fdfccbc9d51c11e6597265139cbaf1f2ef59902e4e6748",
+      "display_sha256": "ce93229cd53ef713ee6b0748d7b6c281bb7d640cd4490703853fa17f6cad788a",
+      "display_blob_sha": "8d45be119b0218d8098af258ae62ae137227bd68",
+      "display_original_site_sha256": "0ebcd6525e59d3fa83fdfccbc9d51c11e6597265139cbaf1f2ef59902e4e6748",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-triflorus/inat-365194894.jpg",
@@ -76,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "dcfd2d28d5ea80f38ec647421906e000f1d4a71c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -84,7 +89,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 206484261, photo 365194894, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0bca39af60a8da21b8395cb5f37b8a7aa167b5aa60fe422ba96c6283f5bc3d61. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon triflorus maps to indexed species penstemon-triflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "0bca39af60a8da21b8395cb5f37b8a7aa167b5aa60fe422ba96c6283f5bc3d61"
+      "sha256": "0bca39af60a8da21b8395cb5f37b8a7aa167b5aa60fe422ba96c6283f5bc3d61",
+      "display_sha256": "0edbaa10b435a49b2a770788a8c7a6b6cf9edd8e0e62026078cc30ded8a80c65",
+      "display_blob_sha": "19b0591925b3d9588b00b771faa5a5cdd91cab64",
+      "display_original_site_sha256": "0bca39af60a8da21b8395cb5f37b8a7aa167b5aa60fe422ba96c6283f5bc3d61",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-triflorus/inat-366521360.jpeg",
@@ -95,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e442494748260ffabc2f1278b2c42c621da18660",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -103,7 +113,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 207228546, photo 366521360, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d895b991b3bef99edf457ae5fd44fe6abc586710e6fa6c1d56260b3e413b4e1b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon triflorus maps to indexed species penstemon-triflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "d895b991b3bef99edf457ae5fd44fe6abc586710e6fa6c1d56260b3e413b4e1b"
+      "sha256": "d895b991b3bef99edf457ae5fd44fe6abc586710e6fa6c1d56260b3e413b4e1b",
+      "display_sha256": "a2a42d65ab15ec3ca96610f2570eb26defcc186cbc7ca964f1c6dd24ef0239e9",
+      "display_blob_sha": "89e5b4d9fe96dfd6c8454691015c2fa31b1634d5",
+      "display_original_site_sha256": "d895b991b3bef99edf457ae5fd44fe6abc586710e6fa6c1d56260b3e413b4e1b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-triflorus/inat-367567364.jpg",
@@ -114,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "535a9a08419948da2228a877ef80e89494f8fc3e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -122,7 +137,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 207782375, photo 367567364, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9eaf004888d2a2aaed49b0a34bf891ef509153f66f8ac3da6466c70d87d5e76f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon triflorus maps to indexed species penstemon-triflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "9eaf004888d2a2aaed49b0a34bf891ef509153f66f8ac3da6466c70d87d5e76f"
+      "sha256": "9eaf004888d2a2aaed49b0a34bf891ef509153f66f8ac3da6466c70d87d5e76f",
+      "display_sha256": "bafd921da3e4251f39d5e23cc8f484ccff737d9bcf235a4521df92e89adcbeda",
+      "display_blob_sha": "e061b56bc2c007b2b555a51263acf65f3826c897",
+      "display_original_site_sha256": "9eaf004888d2a2aaed49b0a34bf891ef509153f66f8ac3da6466c70d87d5e76f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-triflorus/inat-488528627.jpg",
@@ -133,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "975341261f5370eb4ab92bbe25566da4aae1bb91",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -141,7 +161,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 271583550, photo 488528627, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d861165012e6514f474c82ebfd43ddfdd079efd77e52ee1a308c9b584bb4db6a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Penstemon triflorus maps to indexed species penstemon-triflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "d861165012e6514f474c82ebfd43ddfdd079efd77e52ee1a308c9b584bb4db6a"
+      "sha256": "d861165012e6514f474c82ebfd43ddfdd079efd77e52ee1a308c9b584bb4db6a",
+      "display_sha256": "e1e50e696a8f3b7c9a723342733322ddaa97070206ce97c802b7fbcd9a4a0eec",
+      "display_blob_sha": "dc5f94df6a73c943915128746dd779381f1a5972",
+      "display_original_site_sha256": "d861165012e6514f474c82ebfd43ddfdd079efd77e52ee1a308c9b584bb4db6a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/penstemon-triflorus/archived-0ad67507c610b938.jpg",

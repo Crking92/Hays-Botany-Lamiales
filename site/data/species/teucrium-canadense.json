@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f36e44b2a3b7961f2927d3fa0db4035fd34699cc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 342833338, photo 624378603, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3b943dba4d3f6c41638257d856db532b42907dce35d02096bb46dd1d65742d44. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium canadense maps to indexed species teucrium-canadense; specialist morphology and BONAP range deferred.",
-      "sha256": "3b943dba4d3f6c41638257d856db532b42907dce35d02096bb46dd1d65742d44"
+      "sha256": "3b943dba4d3f6c41638257d856db532b42907dce35d02096bb46dd1d65742d44",
+      "display_sha256": "01e35a9ead77a41cb9239c4c283b1665270c84acba12f857867eae5e230f4f92",
+      "display_blob_sha": "48cb3aa7ddd04705e6cec31e1cb74a6bcf0861ab",
+      "display_original_site_sha256": "3b943dba4d3f6c41638257d856db532b42907dce35d02096bb46dd1d65742d44",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-canadense/inat-633236999.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a356e309a756e7d6ce787587b03e3bbfa82d2e6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 347312093, photo 633236999, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 996a1c6a1482f6671cc08fae6596c877759b1f07cf02e5be0d57a5a86c166b37. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium canadense maps to indexed species teucrium-canadense; specialist morphology and BONAP range deferred.",
-      "sha256": "996a1c6a1482f6671cc08fae6596c877759b1f07cf02e5be0d57a5a86c166b37"
+      "sha256": "996a1c6a1482f6671cc08fae6596c877759b1f07cf02e5be0d57a5a86c166b37",
+      "display_sha256": "6dea6ddb9257745ef9eeb3b404d49e253ac95992490e603c22223a4a57d6e21d",
+      "display_blob_sha": "b2525c0e7b2e59909201fe1cac6d0d76c910b495",
+      "display_original_site_sha256": "996a1c6a1482f6671cc08fae6596c877759b1f07cf02e5be0d57a5a86c166b37",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-canadense/inat-645786156.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2253ffafd8ed63a60526adafa7fbff72de8b3b8f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 353967623, photo 645786156, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 390013b89209cb5cc970961124583dafb4e47291a0158defe37d12c2bf31941d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium canadense maps to indexed species teucrium-canadense; specialist morphology and BONAP range deferred.",
-      "sha256": "390013b89209cb5cc970961124583dafb4e47291a0158defe37d12c2bf31941d"
+      "sha256": "390013b89209cb5cc970961124583dafb4e47291a0158defe37d12c2bf31941d",
+      "display_sha256": "068e1878d0ef3931b12502c9fb99eb72b0a3a3b17d96161872aa3e24b85cf421",
+      "display_blob_sha": "3b266678be97bcbd128ef0c651c026874a6664be",
+      "display_original_site_sha256": "390013b89209cb5cc970961124583dafb4e47291a0158defe37d12c2bf31941d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-canadense/inat-648834375.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cf944d93021a5eacb1ca86c66767289f55a7fa62",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 355791268, photo 648834375, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e0db5441458bf57c4b15038087b63c5f3a0a537ec0f2ae7ac89cbd6080d387ea. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium canadense maps to indexed species teucrium-canadense; specialist morphology and BONAP range deferred.",
-      "sha256": "e0db5441458bf57c4b15038087b63c5f3a0a537ec0f2ae7ac89cbd6080d387ea"
+      "sha256": "e0db5441458bf57c4b15038087b63c5f3a0a537ec0f2ae7ac89cbd6080d387ea",
+      "display_sha256": "4f75b46f3641bac9f3fc565c9413379e202bd5e8a12acac8aa77e908c8fda528",
+      "display_blob_sha": "54167f0a16c82b578364a4f5ea3a848587b84c3d",
+      "display_original_site_sha256": "e0db5441458bf57c4b15038087b63c5f3a0a537ec0f2ae7ac89cbd6080d387ea",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-canadense/inat-656042589.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aaf32c20e6801d720916ba4d3dbace393a77d6ef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -104,7 +124,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 359565406, photo 656042589, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24291a22139775efe141078c94f5ea27e09d7d95d8b0b7d1644a1d635c99b3dd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Teucrium canadense maps to indexed species teucrium-canadense; specialist morphology and BONAP range deferred.",
-      "sha256": "24291a22139775efe141078c94f5ea27e09d7d95d8b0b7d1644a1d635c99b3dd"
+      "sha256": "24291a22139775efe141078c94f5ea27e09d7d95d8b0b7d1644a1d635c99b3dd",
+      "display_sha256": "ef14297009cb8a0a535589693d212896e2b5a667dbc3eb762d5e86e2b154192b",
+      "display_blob_sha": "1d49666e0f4fd8f7e255f97bd43325eed7012a4a",
+      "display_original_site_sha256": "24291a22139775efe141078c94f5ea27e09d7d95d8b0b7d1644a1d635c99b3dd",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/teucrium-canadense/source-f44ed5852b01.jpg",

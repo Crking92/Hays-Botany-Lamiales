@@ -91,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "773dace2e8b44d4877c2475c6f1b1ebf1caf7e23",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +99,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 302753849, photo 545631246, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ba64165286963919ad71aac2fe03f9bc853569a8ecae83cbb750642ca3947ddd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dicliptera brachiata maps to indexed species dicliptera-brachiata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ba64165286963919ad71aac2fe03f9bc853569a8ecae83cbb750642ca3947ddd"
+      "sha256": "ba64165286963919ad71aac2fe03f9bc853569a8ecae83cbb750642ca3947ddd",
+      "display_sha256": "48ca3618a760fb6bd55fe6445ab4391db395888844438f2a112319d4ad7f0beb",
+      "display_blob_sha": "b650f0196317eca4f0dbf6f011577141619b3f53",
+      "display_original_site_sha256": "ba64165286963919ad71aac2fe03f9bc853569a8ecae83cbb750642ca3947ddd",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dicliptera-brachiata/inat-689317226.jpg",
@@ -110,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b1a970ca5c3c4a711fc2bbb7a15b3067d8f34d3a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +123,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 376978372, photo 689317226, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0b898b6b7b2c0ab43d447727d65f970117c0c4b85db27cbbd95da7f2de8f3313. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dicliptera brachiata maps to indexed species dicliptera-brachiata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "0b898b6b7b2c0ab43d447727d65f970117c0c4b85db27cbbd95da7f2de8f3313"
+      "sha256": "0b898b6b7b2c0ab43d447727d65f970117c0c4b85db27cbbd95da7f2de8f3313",
+      "display_sha256": "cb147598b5e364c0d99420a928a098e0d5d53ed6389a1a07cc30ea78944ce91d",
+      "display_blob_sha": "a5669dfb8f1b456e43d12e8951017aad53c7a5a9",
+      "display_original_site_sha256": "0b898b6b7b2c0ab43d447727d65f970117c0c4b85db27cbbd95da7f2de8f3313",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dicliptera-brachiata/inat-689343706.jpg",
@@ -129,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cfe5b0cfd495b3876c1d42ab62068ef62ce06ab6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +147,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 376991313, photo 689343706, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 704a2c788108274c015ef563083a869d8d2a949987c226b30b2c78afe28a2723. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dicliptera brachiata maps to indexed species dicliptera-brachiata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "704a2c788108274c015ef563083a869d8d2a949987c226b30b2c78afe28a2723"
+      "sha256": "704a2c788108274c015ef563083a869d8d2a949987c226b30b2c78afe28a2723",
+      "display_sha256": "7b57475c4bb2ce2b6b6abf2043b7d392b5f0cf03cee58c1df26b2ba1fe0633b9",
+      "display_blob_sha": "73951f79a87e0e0dbd4d61a9aeb6a5b101964967",
+      "display_original_site_sha256": "704a2c788108274c015ef563083a869d8d2a949987c226b30b2c78afe28a2723",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dicliptera-brachiata/inat-723068626.jpg",
@@ -148,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c44ed3994191011fa0635a27d6d5362cacaa9321",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +171,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 394414601, photo 723068626, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d5ab27d59b3f182939a0525d3b9fb446ac0691c53cd69a2fa032b250a0f378fb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Dicliptera brachiata maps to indexed species dicliptera-brachiata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d5ab27d59b3f182939a0525d3b9fb446ac0691c53cd69a2fa032b250a0f378fb"
+      "sha256": "d5ab27d59b3f182939a0525d3b9fb446ac0691c53cd69a2fa032b250a0f378fb",
+      "display_sha256": "0cc9e73bdc4561ab4486761bfa72c79bb17a45e3d2fb1a73fec79417cfd3f259",
+      "display_blob_sha": "072312b200a2506f8eaa4dd015ac9ce82ebf2518",
+      "display_original_site_sha256": "d5ab27d59b3f182939a0525d3b9fb446ac0691c53cd69a2fa032b250a0f378fb",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dicliptera-brachiata/inat-732781163.jpg",

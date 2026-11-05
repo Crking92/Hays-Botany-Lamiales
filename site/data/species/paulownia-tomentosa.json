@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "21b013ff8bac7ede82d4018411a6c8ec1dbd24c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -28,7 +28,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 125483139, photo 212822970, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 30fa42d3d3e178485d2c5742f1d72101d4a9a328010259f4b23e787bd608849a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Paulownia tomentosa maps to indexed species paulownia-tomentosa; specialist morphology and BONAP range deferred.",
-      "sha256": "30fa42d3d3e178485d2c5742f1d72101d4a9a328010259f4b23e787bd608849a"
+      "sha256": "30fa42d3d3e178485d2c5742f1d72101d4a9a328010259f4b23e787bd608849a",
+      "display_sha256": "4fe5b6f2c66f5fbcc5f9437aabcf4d392707c26fced8fa1c0ed18c2ced980002",
+      "display_blob_sha": "7eeef3fdafdbbcac3106c90a6104eaa78bd5e0bb",
+      "display_original_site_sha256": "30fa42d3d3e178485d2c5742f1d72101d4a9a328010259f4b23e787bd608849a",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/paulownia-tomentosa/inat-215386980.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "89b3e9582545f0a661dc117d56662cb9e5763046",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -47,7 +52,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 126908708, photo 215386980, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aad4bb6a021ae6d887b486baaea2ee25137bcb58e17c89053474eb2940722709. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Paulownia tomentosa maps to indexed species paulownia-tomentosa; specialist morphology and BONAP range deferred.",
-      "sha256": "aad4bb6a021ae6d887b486baaea2ee25137bcb58e17c89053474eb2940722709"
+      "sha256": "aad4bb6a021ae6d887b486baaea2ee25137bcb58e17c89053474eb2940722709",
+      "display_sha256": "990614e0448c92c666b1aecf6ee1d03ffebf3dbc415e200fbcc0cd61e47a9138",
+      "display_blob_sha": "518f87784698dbc7a5c1bcc374beafb788bfa1da",
+      "display_original_site_sha256": "aad4bb6a021ae6d887b486baaea2ee25137bcb58e17c89053474eb2940722709",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/paulownia-tomentosa/inat-258756458.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "32fdea22a6d78144f36aa4b0af323ae76b834f7e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -66,7 +76,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 150101892, photo 258756458, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e691b91e08a482dd35adc30a870fdffe2df48105fc11d2fdd5d6776a7d2e22e8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Paulownia tomentosa maps to indexed species paulownia-tomentosa; specialist morphology and BONAP range deferred.",
-      "sha256": "e691b91e08a482dd35adc30a870fdffe2df48105fc11d2fdd5d6776a7d2e22e8"
+      "sha256": "e691b91e08a482dd35adc30a870fdffe2df48105fc11d2fdd5d6776a7d2e22e8",
+      "display_sha256": "fab87faf9e12ef15f7cdd843eb7fa7b793d89948addb46ae642e5bb5a7c55c66",
+      "display_blob_sha": "583b6e5edbd1b0a82dd5933fd9a4c4b4dc8ffd26",
+      "display_original_site_sha256": "e691b91e08a482dd35adc30a870fdffe2df48105fc11d2fdd5d6776a7d2e22e8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/paulownia-tomentosa/inat-301580999.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "19da3e91dae7ed92c6d238337267379b9fd3e6d4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -85,7 +100,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 173648646, photo 301580999, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 97f227a6827b596eb9fa0b8a09bf6d2fe3ea249503dd1f035c193f4eb464c92d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Paulownia tomentosa maps to indexed species paulownia-tomentosa; specialist morphology and BONAP range deferred.",
-      "sha256": "97f227a6827b596eb9fa0b8a09bf6d2fe3ea249503dd1f035c193f4eb464c92d"
+      "sha256": "97f227a6827b596eb9fa0b8a09bf6d2fe3ea249503dd1f035c193f4eb464c92d",
+      "display_sha256": "1efc612de0665c57d3065f502187aa893a60dfb89e4f507739810fd91cd9e569",
+      "display_blob_sha": "8be5c9caf11541d0bce6faf13f8db97aa6a97acc",
+      "display_original_site_sha256": "97f227a6827b596eb9fa0b8a09bf6d2fe3ea249503dd1f035c193f4eb464c92d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/paulownia-tomentosa/inat-38508143.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "18781214b36b3cac6b53317a065cc78e7e4cff33",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
@@ -104,7 +124,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 24894652, photo 38508143, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a004f48fa23e97f4e68f7fe35297f13b52cc754bdb54019e5ef59231ff1e907. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Paulownia tomentosa maps to indexed species paulownia-tomentosa; specialist morphology and BONAP range deferred.",
-      "sha256": "3a004f48fa23e97f4e68f7fe35297f13b52cc754bdb54019e5ef59231ff1e907"
+      "sha256": "3a004f48fa23e97f4e68f7fe35297f13b52cc754bdb54019e5ef59231ff1e907",
+      "display_sha256": "b89f60a2ed0888882cc6ba81e8675f14429ea4b827c71a052845d7bfe0f03284",
+      "display_blob_sha": "769e050350fd57033382b258f59bd5e0dbca5d44",
+      "display_original_site_sha256": "3a004f48fa23e97f4e68f7fe35297f13b52cc754bdb54019e5ef59231ff1e907",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/paulownia-tomentosa/archived-f2428749af8f96af.jpg",

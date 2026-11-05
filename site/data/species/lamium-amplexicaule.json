@@ -61,7 +61,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "638418bc7ea34b4768ac51fae057b0541a9bc64d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -69,7 +69,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343557859, photo 625849265, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f9447325ee8a59aab97461e6ba58d4c57d578cc8596b57c3a5338c9ff9fd21b7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium amplexicaule maps to indexed species lamium-amplexicaule; specialist morphology and BONAP range deferred.",
-      "sha256": "f9447325ee8a59aab97461e6ba58d4c57d578cc8596b57c3a5338c9ff9fd21b7"
+      "sha256": "f9447325ee8a59aab97461e6ba58d4c57d578cc8596b57c3a5338c9ff9fd21b7",
+      "display_sha256": "217a84abc9154706e2eca7086743d464b03fe013fa3e95dc7872c1254ae85a34",
+      "display_blob_sha": "587a8e34b2cc5df0ef16060b73ba1d1ce0a8dcd4",
+      "display_original_site_sha256": "f9447325ee8a59aab97461e6ba58d4c57d578cc8596b57c3a5338c9ff9fd21b7",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-amplexicaule/inat-626019642.jpg",
@@ -80,7 +85,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "defd2d844d2eb28c70c3d6857993f31fc93f937d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -88,7 +93,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343641314, photo 626019642, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5792dc04db9465234e140eedd99e9ce6a95cc490237cbbcb8d336716b82b7f01. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium amplexicaule maps to indexed species lamium-amplexicaule; specialist morphology and BONAP range deferred.",
-      "sha256": "5792dc04db9465234e140eedd99e9ce6a95cc490237cbbcb8d336716b82b7f01"
+      "sha256": "5792dc04db9465234e140eedd99e9ce6a95cc490237cbbcb8d336716b82b7f01",
+      "display_sha256": "3108b9fd66db5e7494799d6f46f561c8295391c36e6e99e34c4738dbe375b28a",
+      "display_blob_sha": "acd7ef9309f4104ed4edf8d7b44231c19c8dc8be",
+      "display_original_site_sha256": "5792dc04db9465234e140eedd99e9ce6a95cc490237cbbcb8d336716b82b7f01",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-amplexicaule/inat-626020105.jpg",
@@ -99,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8bb7e3add021318f1327c326c9564517f4d44a4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -107,7 +117,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 343641542, photo 626020105, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 17b2cb8d2b10f4822ef219891dd459b677050ae5549aafaf41d44d663abc17d7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium amplexicaule maps to indexed species lamium-amplexicaule; specialist morphology and BONAP range deferred.",
-      "sha256": "17b2cb8d2b10f4822ef219891dd459b677050ae5549aafaf41d44d663abc17d7"
+      "sha256": "17b2cb8d2b10f4822ef219891dd459b677050ae5549aafaf41d44d663abc17d7",
+      "display_sha256": "6d227aba3f134981de108b42cf9bb393e64f51e28c522f5f4c745ba9c44f8fad",
+      "display_blob_sha": "a2f05b7ad4894e19ad530199ae64b33d7fd1f3d3",
+      "display_original_site_sha256": "17b2cb8d2b10f4822ef219891dd459b677050ae5549aafaf41d44d663abc17d7",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-amplexicaule/inat-630272287.jpg",
@@ -118,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d91e8f2a13eb70731bc230fd741ee809ba61ed7b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -126,7 +141,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 345814067, photo 630272287, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d95b7d89b3ee0f95abe04e1ef3ded349c2a6bafab6e3da7392d888bc54cb7654. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium amplexicaule maps to indexed species lamium-amplexicaule; specialist morphology and BONAP range deferred.",
-      "sha256": "d95b7d89b3ee0f95abe04e1ef3ded349c2a6bafab6e3da7392d888bc54cb7654"
+      "sha256": "d95b7d89b3ee0f95abe04e1ef3ded349c2a6bafab6e3da7392d888bc54cb7654",
+      "display_sha256": "f581b49f86650923f088c9f669bdebe4d8ca90db9d2933602547490029abc91b",
+      "display_blob_sha": "9baab51e855c6339d13283d4fe47eda34cbd9186",
+      "display_original_site_sha256": "d95b7d89b3ee0f95abe04e1ef3ded349c2a6bafab6e3da7392d888bc54cb7654",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-amplexicaule/inat-646752561.jpg",
@@ -137,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a4a88ce37e7013385fe9d9ca6f3268b2f26067e0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -145,7 +165,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 354542598, photo 646752561, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c668aa8a543a601abb20fe7e2e78463eb1fd724e6fc91eaeea6112cabd03c48b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Lamium amplexicaule maps to indexed species lamium-amplexicaule; specialist morphology and BONAP range deferred.",
-      "sha256": "c668aa8a543a601abb20fe7e2e78463eb1fd724e6fc91eaeea6112cabd03c48b"
+      "sha256": "c668aa8a543a601abb20fe7e2e78463eb1fd724e6fc91eaeea6112cabd03c48b",
+      "display_sha256": "00c35213028b77297f066b8e73513be42f4e1f5f9ec03e6ba17b7c823d5b18d5",
+      "display_blob_sha": "0193ecc0b51940425cdf6623f532fa870085a9e4",
+      "display_original_site_sha256": "c668aa8a543a601abb20fe7e2e78463eb1fd724e6fc91eaeea6112cabd03c48b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lamium-amplexicaule/source-1c8b4ffae9c5.jpg",

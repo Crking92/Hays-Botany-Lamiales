@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cb938075c7499127b630edb1651651ccaa177d1e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 116956690, photo 197470142, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c682de49e914edd58e984bf35ddbf39090a9e4d53e5104b4308dfda238d2ceb8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia metziae maps to indexed species ruellia-metziae (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c682de49e914edd58e984bf35ddbf39090a9e4d53e5104b4308dfda238d2ceb8"
+      "sha256": "c682de49e914edd58e984bf35ddbf39090a9e4d53e5104b4308dfda238d2ceb8",
+      "display_sha256": "d7cfcb6723b6b0d27c3f57cf92e7c5738ef8cd4e1d23590c65025fa6a3aa60cc",
+      "display_blob_sha": "3093ef98b05c593f6fbe89f3963cb94ea39e5fc1",
+      "display_original_site_sha256": "c682de49e914edd58e984bf35ddbf39090a9e4d53e5104b4308dfda238d2ceb8",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-metziae/inat-501848152.jpeg",
@@ -87,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4808cf8a1d11c8cfa6b3473d8c8d03c90574a96b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 279467282, photo 501848152, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: debcfcbd8e10a078c95cdfb58e80ad43884e66401d4eefbcd677b455b8a66b5d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia metziae maps to indexed species ruellia-metziae (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "debcfcbd8e10a078c95cdfb58e80ad43884e66401d4eefbcd677b455b8a66b5d"
+      "sha256": "debcfcbd8e10a078c95cdfb58e80ad43884e66401d4eefbcd677b455b8a66b5d",
+      "display_sha256": "182c45cb5d26afe0699160ee528cc65962cce5d742abb89c94cc40ef5de91abe",
+      "display_blob_sha": "b69012d958f7ff45973a9b475431516a0fe747e0",
+      "display_original_site_sha256": "debcfcbd8e10a078c95cdfb58e80ad43884e66401d4eefbcd677b455b8a66b5d",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-metziae/inat-533247309.jpg",
@@ -106,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ea1c0fe6891f9079ef6ee06b75eb57d6b68632ef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 296162982, photo 533247309, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 68ed49e463c9237732e006042baef15ec1aae8a8cd6065cc21a12798dfbf7308. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia metziae maps to indexed species ruellia-metziae (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "68ed49e463c9237732e006042baef15ec1aae8a8cd6065cc21a12798dfbf7308"
+      "sha256": "68ed49e463c9237732e006042baef15ec1aae8a8cd6065cc21a12798dfbf7308",
+      "display_sha256": "2eb3fedc374c78cc2eeb6186e41f8aa28a56b862cded1111a546a2c87cad461c",
+      "display_blob_sha": "9f5504677cb92159638ce93bf032f56eae140be2",
+      "display_original_site_sha256": "68ed49e463c9237732e006042baef15ec1aae8a8cd6065cc21a12798dfbf7308",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-metziae/inat-661505011.jpg",
@@ -125,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "710cae721e1483f72959d2b2c74aac05503e4b38",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 362427699, photo 661505011, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b11949a440ab092f602e6870eaf025fabfb2dd8a614e266d31f8be58b5eb03fd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia metziae maps to indexed species ruellia-metziae (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "b11949a440ab092f602e6870eaf025fabfb2dd8a614e266d31f8be58b5eb03fd"
+      "sha256": "b11949a440ab092f602e6870eaf025fabfb2dd8a614e266d31f8be58b5eb03fd",
+      "display_sha256": "92b98edbcc86d737683f47ff0b2b1c25bef3b6d55481944f39c0d508598697cc",
+      "display_blob_sha": "498c454784f5c9b5cb1867ce24db8a53a5c93ed6",
+      "display_original_site_sha256": "b11949a440ab092f602e6870eaf025fabfb2dd8a614e266d31f8be58b5eb03fd",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-metziae/inat-666116462.jpg",
@@ -144,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f1f61c5fb8d4fe0af2f12f5ffaa0b24d91b03cda",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 364870924, photo 666116462, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1299e2e9f7b7c2110e639fb07e94af20d315a79f098080886203d4c74cde610b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ruellia metziae maps to indexed species ruellia-metziae (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "1299e2e9f7b7c2110e639fb07e94af20d315a79f098080886203d4c74cde610b"
+      "sha256": "1299e2e9f7b7c2110e639fb07e94af20d315a79f098080886203d4c74cde610b",
+      "display_sha256": "308a03ddf454b7e1cacac73fc01973a60161c61b8b3f902124761bfe7c478284",
+      "display_blob_sha": "2186871129a02fd0f25decc79247144221b12f17",
+      "display_original_site_sha256": "1299e2e9f7b7c2110e639fb07e94af20d315a79f098080886203d4c74cde610b",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ruellia-metziae/ruellia-metziae-provisional-face.jpg",

@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f0def777c73248343513565ca0f6d9c9c312ea8a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approved_by": "Owner standing policy; exact-photo checks: Hays Botany Lamiaceae photo-first original ZIP verifier",
@@ -72,7 +72,12 @@
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
       "source_review_evidence": "Live iNaturalist observation 6411860, photo 8090981, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ab393bc641ebca8015937aa8da82249f895d3b45d111aa4bca7a31e3ec6a5a59. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Lamiaceae contact sheets inspected for obvious off-target organisms. Live source name Physostegia angustifolia maps to indexed species physostegia-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "ab393bc641ebca8015937aa8da82249f895d3b45d111aa4bca7a31e3ec6a5a59"
+      "sha256": "ab393bc641ebca8015937aa8da82249f895d3b45d111aa4bca7a31e3ec6a5a59",
+      "display_sha256": "1e44e6ad58f99eb3d2bc69aad04a5b06d6712ad32e6885d31a3a1f449c39f0a1",
+      "display_blob_sha": "2f4f0798b12ab90b74d0d7b6e013ce3609b53339",
+      "display_original_site_sha256": "ab393bc641ebca8015937aa8da82249f895d3b45d111aa4bca7a31e3ec6a5a59",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physostegia-angustifolia/source-f2b987826a8e.jpg",

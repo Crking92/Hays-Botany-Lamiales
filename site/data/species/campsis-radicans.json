@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5a83f20fc77f0ed90303c7d9d3f5db96fdd23c23",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -57,7 +57,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 346048271 and photo 630731078 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d9f398e756e2cc2d1528c62718791d93be5b046dfd1ffec8532221300cdd3631; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/630731078/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Campsis radicans' matches this assigned family species card campsis-radicans. Specialist morphology/field characters deferred.",
-      "sha256": "d9f398e756e2cc2d1528c62718791d93be5b046dfd1ffec8532221300cdd3631"
+      "sha256": "d9f398e756e2cc2d1528c62718791d93be5b046dfd1ffec8532221300cdd3631",
+      "display_sha256": "3b5d8adeed7be83b70bc3acb86a63b42bf67d7488a8785b648e89cfd48291be5",
+      "display_blob_sha": "6d89775bbf2345a006440c3a80ba6fc0021771d1",
+      "display_original_site_sha256": "d9f398e756e2cc2d1528c62718791d93be5b046dfd1ffec8532221300cdd3631",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/campsis-radicans/inat-639624113.jpg",
@@ -68,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b732297a41ed2b87f5dfd2c792be00ecb078ff91",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -76,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 350552556 and photo 639624113 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 74ec1d5f1fbae9d2ae5090797da93d3ba1181eb19ab764cc12c3268a17b3fb54; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/639624113/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Campsis radicans' matches this assigned family species card campsis-radicans. Specialist morphology/field characters deferred.",
-      "sha256": "74ec1d5f1fbae9d2ae5090797da93d3ba1181eb19ab764cc12c3268a17b3fb54"
+      "sha256": "74ec1d5f1fbae9d2ae5090797da93d3ba1181eb19ab764cc12c3268a17b3fb54",
+      "display_sha256": "985f8c011917be75a7db938aa6129f312f093521cbd332dfb444e5e3cd949f63",
+      "display_blob_sha": "e66ed56d9c9376f907facf3bde3558a9e455fe99",
+      "display_original_site_sha256": "74ec1d5f1fbae9d2ae5090797da93d3ba1181eb19ab764cc12c3268a17b3fb54",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/campsis-radicans/inat-641434091.jpg",
@@ -87,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2db7eeffad4114bc49a8f24436d2b45d83de36e0",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -95,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 351488689 and photo 641434091 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 47b8851779fe73069594df6afbf93492c4ce0ce89fef17cce30d3abbc76d391f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/641434091/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Campsis radicans' matches this assigned family species card campsis-radicans. Specialist morphology/field characters deferred.",
-      "sha256": "47b8851779fe73069594df6afbf93492c4ce0ce89fef17cce30d3abbc76d391f"
+      "sha256": "47b8851779fe73069594df6afbf93492c4ce0ce89fef17cce30d3abbc76d391f",
+      "display_sha256": "419a523eb67a1ab6180e006e515d023850316325a3b34f5caef45499f6d8bccc",
+      "display_blob_sha": "b9436e4ebdd5c467ff43891675c41c0f5adc69d4",
+      "display_original_site_sha256": "47b8851779fe73069594df6afbf93492c4ce0ce89fef17cce30d3abbc76d391f",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/campsis-radicans/inat-642677499.jpg",
@@ -106,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "490348dc2d5b98a3be58dee7f01a853fa8847ed6",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -114,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 352129050 and photo 642677499 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 f68a426d147d38fc0d1ec5b53df68f9d0007512120d1b21213a9b948c97b03c9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/642677499/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Campsis radicans' matches this assigned family species card campsis-radicans. Specialist morphology/field characters deferred.",
-      "sha256": "f68a426d147d38fc0d1ec5b53df68f9d0007512120d1b21213a9b948c97b03c9"
+      "sha256": "f68a426d147d38fc0d1ec5b53df68f9d0007512120d1b21213a9b948c97b03c9",
+      "display_sha256": "85cebd13ea344f059f2c5f29795efb90fad8cce3da50d58923989c0ef2b0333e",
+      "display_blob_sha": "bd21674c5b79034b04abf4da7af543c5799a98c7",
+      "display_original_site_sha256": "f68a426d147d38fc0d1ec5b53df68f9d0007512120d1b21213a9b948c97b03c9",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/campsis-radicans/inat-643828029.jpg",
@@ -125,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ccd8cf101643cfcbd6b6796cd63458b762f1892e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -133,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 352805360 and photo 643828029 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 33a7b2b26899c21615ef48884f1d4f9a657232d1106eaf6721701c17661ca333; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/643828029/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Campsis radicans' matches this assigned family species card campsis-radicans. Specialist morphology/field characters deferred.",
-      "sha256": "33a7b2b26899c21615ef48884f1d4f9a657232d1106eaf6721701c17661ca333"
+      "sha256": "33a7b2b26899c21615ef48884f1d4f9a657232d1106eaf6721701c17661ca333",
+      "display_sha256": "b3d3e14b41fd3c1e0bd2c4f90128a6b9e9e36f138aac4e8bb8759854e8848dee",
+      "display_blob_sha": "c8aa80a7f3551ca4e3665e9f1655b244c1141544",
+      "display_original_site_sha256": "33a7b2b26899c21615ef48884f1d4f9a657232d1106eaf6721701c17661ca333",
+      "display_original_archive_commit": "d68aa1fd9189b48153c4885a4415e426c2e2ab6c",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/campsis-radicans/01-compound-serrate-leaf.jpg",
