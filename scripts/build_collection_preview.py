@@ -38,7 +38,7 @@ for sid,images in photos["species"].items():
             data=p.read_bytes()
             assert data.startswith((b"\xff\xd8\xff",b"\x89PNG\r\n\x1a\n")),src
             sha=hashlib.sha1(b"blob "+str(len(data)).encode()+b"\0"+data).hexdigest()
-            assert sha==img["source_blob_sha"],src
+            assert sha==(img.get("display_blob_sha") or img["source_blob_sha"]),src
             local+=1
         else:
             assert src.startswith(("https://commons.wikimedia.org/wiki/Special:Redirect/file/","https://upload.wikimedia.org/wikipedia/commons/")),src
