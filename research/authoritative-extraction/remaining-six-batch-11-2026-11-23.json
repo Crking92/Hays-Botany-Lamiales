@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "project": "Hays Botany Lamiales",
+  "batch_id": "2026-11-23-11-final-six",
+  "research_only": true,
+  "records": [
+    {
+      "id": "aloysia-virgata",
+      "family": "Verbenaceae",
+      "flora_name": "Aloysia virgata",
+      "source_type": "alternative_species_monograph",
+      "source_urls": [
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861090-1/general-information",
+        "https://plants.ces.ncsu.edu/plants/aloysia-virgata/"
+      ],
+      "habit": "Fast-growing arching woody shrub or small tree, horticultural 5–15 ft tall, long slender stems",
+      "leaves": "Opposite, ovate–elliptic, 4–9 × 1.5–6 cm; margins dentate, variable pubescence, green above and often paler beneath",
+      "inflorescence": "Lax, often flexuose axillary racemes, sometimes several per leaf axil; flowers small, white, strongly fragrant",
+      "habitat": "Native South American lowland scrub and disturbed habitats, not Texas-native",
+      "phenology": "July through frost in horticultural NC reference; not a universal native-range season",
+      "taxon_note": "Kew notes great variability in tooth pattern, size, and hairiness of leaves; avoid over-specific field key.",
+      "verification_status": "documented_morphology_secondary_review_BONAP_pending"
+    },
+    {
+      "id": "buddleja-racemosa",
+      "family": "Scrophulariaceae",
+      "flora_name": "Buddleja racemosa",
+      "source_type": "regional_taxon_profile",
+      "source_urls": [
+        "https://www.wildflower.org/plants/result.php?id_plant=BURAR",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:545866-1"
+      ],
+      "habit": "Perennial shrub; drooping stems to around five feet long in Wildflower Center treatment for subsp. racemosa",
+      "inflorescence": "Raceme",
+      "flowers": "White to yellow (subsp. racemosa Wildflower Center profile)",
+      "fruit": "Capsule",
+      "phenology": "May–Aug (subsp. racemosa regional profile)",
+      "habitat": "Dry, shaded habitat in Wildflower Center profile; Kew reports native range Texas Edwards Plateau",
+      "taxon_note": "Source subspecies racemosa only; species level can include other infraspecific taxa. Leaves and quantitative corolla characters held for primary FNA treatment.",
+      "verification_status": "partial_subspecies_bound_morphology_holds"
+    },
+    {
+      "id": "hedeoma-nana",
+      "family": "Lamiaceae",
+      "flora_name": "Hedeoma nana",
+      "source_type": "accepted_taxonomy_plus_field_description",
+      "source_urls": [
+        "https://powo.science.kew.org/taxon/51012153-1",
+        "https://www.americansouthwest.net/plants/wildflowers/hedeoma-nana.html"
+      ],
+      "habit": "Aromatic low, basally much-branched plant, arching stems to approximately 10 in (25 cm) in southwestern field account",
+      "leaves": "Small ovate to roundish leaves ca. 1/3 inch (8 mm) long, entire and often with pointed tips",
+      "flowers": "Whorls above leafy lower stems; purple calyx with upper 3 lobes partly fused and lower two free; pink-purple two-lipped corolla with white patch on lower lip",
+      "habitat": "Rocky canyons and limestone outcrops; field account describes 3,000–6,500 ft elevations in Southwest",
+      "phenology": "Apr–Jun according to field account",
+      "historical_names": [
+        "Hedeoma dentata var. nana",
+        "Hedeoma nanum"
+      ],
+      "taxon_note": "Kew accepts H. nana and recognizes subspecies; field account may reflect southwestern populations, not all Texas plants. Do not equate subspecies nana and californica measurements.",
+      "verification_status": "partial_field_description_infraspecific_hold"
+    },
+    {
+      "id": "lantana-x-strigocamara",
+      "family": "Verbenaceae",
+      "flora_name": "Lantana × strigocamara",
+      "source_type": "taxonomic_backbone_plus_extension_diagnosis",
+      "source_urls": [
+        "https://powo.science.kew.org/taxon/60444377-2",
+        "https://plant-directory.ifas.ufl.edu/plant-directory/lantana-camara/"
+      ],
+      "habit": "Woody, much branched spreading–upright shrub commonly 1–3 m, sometimes forming thickets",
+      "leaves": "Opposite simple ovate leaves, truncate base, coarse/blunt teeth; rough and aromatic foliage, frequently prickly stems",
+      "flowers": "Stalked flattened flowerheads with narrow-tubed four-lobed corollas of several colors, including yellow, orange, pink, white and red",
+      "fruit": "Rounded fleshy two-seeded drupes maturing dark purple to black",
+      "habitat": "Non-native ornamental escape associated with disturbed habitats and edges",
+      "phenology": "Flowering season varies by climate; Florida source records May–Dec in northern/central Florida and nearly year-round in south",
+      "taxon_note": "Kew accepts hybrid Lantana × strigocamara; University of Florida uses L. strigocamara without hybrid sign. The native TX L. urticoides and historical L. camara are not to be substituted.",
+      "verification_status": "hybrid_profile_source_verified_botanical_parentage_pending"
+    },
+    {
+      "id": "linaria-texana",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Nuttallanthus texanus",
+      "source_type": "1999_direct_treatment_and_key",
+      "source_urls": [
+        "https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf",
+        "https://powo.science.kew.org/taxon/279678-2",
+        "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=22290"
+      ],
+      "source_printed_page": 1004,
+      "source_treatment_page": 1006,
+      "habit": "Slender glabrous to minutely hairy annual/biennial herb to 70 cm (historical genus treatment)",
+      "leaves": "Alternate or subopposite, nearly sessile, linear and entire",
+      "inflorescence": "Terminal spike-like raceme",
+      "flowers": "Pale lavender-blue two-lipped corolla with whitish palate, including slender curved basal spur 14–22 mm long; spur 6–11 mm, lower lip 6–11 mm",
+      "fruit": "Capsules 2.5–3.5 mm; seeds densely tuberculate without longitudinal ridges (compare N. canadensis)",
+      "habitat": "Sandy open woods, old fields and roadsides",
+      "phenology": "Mar–May",
+      "synonyms": [
+        "Nuttallanthus texanus",
+        "Linaria canadensis var. texana"
+      ],
+      "taxon_note": "1999 flora uses Nuttallanthus texanus and directly cites Linaria texana. Kew POWO currently treats Linaria texana as accepted, whereas USDA GRIN and ITIS accept Nuttallanthus texanus. Preserve authority conflict; repository inventory Linaria texana is not an unrecognized taxon.",
+      "verification_status": "documented_morphology_secondary_review_BONAP_pending"
+    },
+    {
+      "id": "seymeria-bipinnatisecta",
+      "family": "Orobanchaceae",
+      "flora_name": "Seymeria bipinnatisecta",
+      "source_type": "taxonomy_only_plus_regional_status",
+      "source_urls": [
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:235347-2",
+        "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=505195"
+      ],
+      "habit": null,
+      "leaves": null,
+      "flowers": null,
+      "fruit": null,
+      "habitat": null,
+      "phenology": null,
+      "synonyms": [
+        "Seymeria havardii"
+      ],
+      "taxon_note": "Kew and ITIS recognize this species; ITIS identifies synonym S. havardii. No sufficiently detailed individual species morphology directly validated in available sources; hold rather than importing another Seymeria species' characters.",
+      "verification_status": "taxonomy_only_no_morphology_hold"
+    }
+  ],
+  "critical_holds": [
+    {
+      "species": "seymeria-bipinnatisecta",
+      "priority": "high",
+      "reason": "Taxonomy confirmed; source-backed individual species morphology missing"
+    },
+    {
+      "species": "buddleja-racemosa",
+      "priority": "medium",
+      "reason": "Current plant description only validated to ssp. racemosa, source morphometric treatment needed"
+    },
+    {
+      "species": "hedeoma-nana",
+      "priority": "medium",
+      "reason": "Subspecies-level Texas applicability of southwestern description unverified"
+    },
+    {
+      "species": "linaria-texana",
+      "priority": "high",
+      "reason": "Kew versus USDA GRIN accepted generic placement conflict"
+    }
+  ],
+  "source_policy": "Direct historical flora treatment when available, alternative named botanical sources otherwise, no invented values",
+  "county_bonap_status": "pending",
+  "photo_or_published_site_changes": false
+}
