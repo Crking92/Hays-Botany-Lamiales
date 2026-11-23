@@ -1,0 +1,3066 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-23",
+  "project": "Hays Botany Lamiales",
+  "record_count": 102,
+  "scope": "Research-only normalized fields. Original extraction JSON files remain unchanged and are authoritative source documents.",
+  "taxon_policy": "Original repository IDs unchanged; accepted names remain pending taxonomic review where flagged.",
+  "bonap_policy": "No county assignment until direct species-map verification.",
+  "records": [
+    {
+      "species_id": "agalinis-edwardsiana",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Agalinis edwardsiana",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 993,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Gerardia edwardsiana",
+        "Agalinis edwardsiana var. glabra"
+      ],
+      "characters": {
+        "growth_habit": "Root-hemiparasitic herb, 40–80 cm (genus treatment)",
+        "stems": "Often reddish-purple",
+        "leaves": null,
+        "inflorescence": null,
+        "flowers": "Pedicels to 30 mm, calyx lobes to 0.5 mm; pink/purple corolla 20–23 mm with two yellow throat lines and many small red-purple dots; source key short racemes 3–4 pairs of pedicels and internal narrow hair line below posterior sinus",
+        "fruit": "Capsules 6–7 mm",
+        "seeds": null,
+        "habitat": "Thin limestone soils, Edwards Plateau",
+        "flowering_period": "Aug–Oct"
+      },
+      "research_caveats": [
+        "Source states Texas endemic; independent county-level BONAP verification pending"
+      ],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "agalinis-heterophylla",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Agalinis heterophylla",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 993,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Gerardia heterophylla"
+      ],
+      "characters": {
+        "growth_habit": "Root-hemiparasitic herb 30–100 cm (genus treatment)",
+        "stems": null,
+        "leaves": "Mostly narrow/linear, sometimes basally lobed (key)",
+        "inflorescence": null,
+        "flowers": "Pedicels 1–3 mm; calyx tube 3.5–5 mm with acute lobes; corolla 20–32 mm, deep pink to white/lavender tinged, two yellow lines and small dark-purple throat spots; key calyx lobes as long or longer than tube",
+        "fruit": "Capsule 5–8 mm",
+        "seeds": null,
+        "habitat": "Prairies and open woodlands",
+        "flowering_period": "Jun–Oct"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "aloysia-gratissima",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Aloysia gratissima",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 1049,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Aloysia gratissima var. schulziae",
+        "Aloysia lycioides var. schulziae"
+      ],
+      "characters": {
+        "growth_habit": "Much-branched shrub to 3 m; young twigs minutely pubescent",
+        "stems": null,
+        "leaves": "Opposite green lanceolate/elliptic/narrow-oblong blades 3–27 × 2–8 mm, usually entire or 1–4 teeth each side; often smaller axillary leaf fascicles",
+        "inflorescence": null,
+        "flowers": "Sweet vanilla-scented flowers in peduncled upright dense spike-like racemes 2–7 cm; white or violet-tinged corolla with green-yellow eye, tube ca. 3.5 mm, limb 3.5 mm across",
+        "fruit": "Small dry 2-celled fruit",
+        "seeds": null,
+        "habitat": "Rocky or gravelly ground",
+        "flowering_period": "Mar–Oct depending on rains"
+      },
+      "research_caveats": [
+        "Flora treats species broadly while describing morphological differences for varieties gratissima and schulziae."
+      ],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "aloysia-virgata",
+      "family": "Verbenaceae",
+      "flora_family": null,
+      "flora_name": "Aloysia virgata",
+      "original_source_file": "research/authoritative-extraction/remaining-six-batch-11-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861090-1/general-information",
+        "https://plants.ces.ncsu.edu/plants/aloysia-virgata/"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Fast-growing arching woody shrub or small tree, horticultural 5–15 ft tall, long slender stems",
+        "stems": null,
+        "leaves": "Opposite, ovate–elliptic, 4–9 × 1.5–6 cm; margins dentate, variable pubescence, green above and often paler beneath",
+        "inflorescence": "Lax, often flexuose axillary racemes, sometimes several per leaf axil; flowers small, white, strongly fragrant",
+        "flowers": null,
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Native South American lowland scrub and disturbed habitats, not Texas-native",
+        "flowering_period": "July through frost in horticultural NC reference; not a universal native-range season"
+      },
+      "research_caveats": [
+        "Kew notes great variability in tooth pattern, size, and hairiness of leaves; avoid over-specific field key."
+      ],
+      "source_status": "documented_morphology_secondary_review_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "anisacanthus-quadrifidus-var-wrightii",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Anisacanthus quadrifidus var. wrightii",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-batch-01-2026-11-23.json",
+      "printed_page": 212,
+      "source_references": [
+        "Diggs et al. 1999"
+      ],
+      "historical_names": [
+        "Anisacanthus wrightii"
+      ],
+      "characters": {
+        "growth_habit": "Shrub to ca. 1.5 m",
+        "stems": null,
+        "leaves": "Blades to 5 cm × 2 cm; petioles to 1 cm",
+        "inflorescence": null,
+        "flowers": "Single or paired in terminal one-sided spike-like inflorescences; calyx ca. 5 mm; reddish two-lipped corolla 30–40 mm, upper lip nearly entire, lower 3-lobed; 2 stamens",
+        "fruit": "Capsule ca. 15 mm; 2(–4) seeds",
+        "seeds": null,
+        "habitat": "Native Edwards Plateau; planted and sometimes escapes",
+        "flowering_period": "Jun–Aug"
+      },
+      "research_caveats": [],
+      "source_status": "flora_treatment_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "bacopa-monnieri",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Bacopa monnieri",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 994,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Mat-forming succulent glabrous wetland perennial (source genus)",
+        "stems": null,
+        "leaves": "Opposite, sessile, spatulate, to ca. 20 mm, essentially entire; single prominent vein and wedge-shaped non-clasping base (key)",
+        "inflorescence": null,
+        "flowers": "Axillary single flower per node on stalks to 25 mm with two narrow bracts below calyx; white to pale blue or lilac corolla 8–10 mm; genus 4 stamens",
+        "fruit": "Capsule 5–7 mm, shorter than sepals",
+        "seeds": null,
+        "habitat": "Low wet ground, ditches, streams",
+        "flowering_period": "Apr–Sep"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "bignonia-capreolata",
+      "family": "Bignoniaceae",
+      "flora_family": null,
+      "flora_name": "Bignonia capreolata",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 442,
+      "source_references": [],
+      "historical_names": [
+        "Anisostichus capreolata"
+      ],
+      "characters": {
+        "growth_habit": "High-climbing woody evergreen vine",
+        "stems": null,
+        "leaves": "Usually two leaflets per leaf; disk-bearing branched tendril terminal, leaflet bases cordate, petiole 1–2 cm",
+        "inflorescence": null,
+        "flowers": "Axillary clusters; red-orange corolla lighter within, 4–5 cm long",
+        "fruit": "Flat linear capsules 10–17 cm",
+        "seeds": null,
+        "habitat": "Moist woods, especially eastern Texas; cultivated and sometimes spreads or escapes in north-central Texas",
+        "flowering_period": "Mar–Jul"
+      },
+      "research_caveats": [],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "buchnera-americana",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Buchnera americana",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 996,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Buchnera floridana"
+      ],
+      "characters": {
+        "growth_habit": "Slender scabrous-pilose root-hemiparasitic perennial to ca. 80 cm, usually unbranched erect stems",
+        "stems": null,
+        "leaves": "Opposite/subopposite sessile elliptic-linear-lanceolate blades to 10 cm, entire to coarsely few-toothed, dark green blackening in drying, larger three-ribbed",
+        "inflorescence": null,
+        "flowers": "Terminal nearly leafless spikes, purple/violet/lavender-pink rarely white four-unequal-lobed corolla with tube 7–15 mm and lobes 3–8 mm",
+        "fruit": "Capsules 5–7 mm",
+        "seeds": null,
+        "habitat": "Sandy soils, prairies, open woods, wet ground",
+        "flowering_period": null
+      },
+      "research_caveats": [
+        "No flowering time stated in individual 1999 treatment; leave null"
+      ],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "buddleja-racemosa",
+      "family": "Scrophulariaceae",
+      "flora_family": null,
+      "flora_name": "Buddleja racemosa",
+      "original_source_file": "research/authoritative-extraction/remaining-six-batch-11-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.wildflower.org/plants/result.php?id_plant=BURAR",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:545866-1"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial shrub; drooping stems to around five feet long in Wildflower Center treatment for subsp. racemosa",
+        "stems": null,
+        "leaves": null,
+        "inflorescence": "Raceme",
+        "flowers": "White to yellow (subsp. racemosa Wildflower Center profile)",
+        "fruit": "Capsule",
+        "seeds": null,
+        "habitat": "Dry, shaded habitat in Wildflower Center profile; Kew reports native range Texas Edwards Plateau",
+        "flowering_period": "May–Aug (subsp. racemosa regional profile)"
+      },
+      "research_caveats": [
+        "Source subspecies racemosa only; species level can include other infraspecific taxa. Leaves and quantitative corolla characters held for primary FNA treatment."
+      ],
+      "source_status": "partial_subspecies_bound_morphology_holds",
+      "review_flags": [
+        "taxonomic_priority"
+      ],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "callicarpa-americana",
+      "family": "Lamiaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Callicarpa americana",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 1049,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Soft-wooded, stellate-pubescent shrub 0.7–3 m with widely spreading branches",
+        "stems": null,
+        "leaves": "Petioles to 38 mm; aromatic elliptic–ovate blades 8–23 cm long, sharply toothed",
+        "inflorescence": null,
+        "flowers": "Axillary cymes; small funnel-shaped 4-lobed corollas lavender-pink to bluish, reddish or white; corolla tube 2.6–2.9 mm",
+        "fruit": "Drupaceous, strongly clustered, rose-pink through violet/red-purple, globose 3–6 mm diameter, spicy odor",
+        "seeds": null,
+        "habitat": "Woods, especially low ground",
+        "flowering_period": "Jun–Jul"
+      },
+      "research_caveats": [
+        "Modern repository assigns Lamiaceae; historical source places this genus in Verbenaceae."
+      ],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "campsis-radicans",
+      "family": "Bignoniaceae",
+      "flora_family": null,
+      "flora_name": "Campsis radicans",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 442,
+      "source_references": [],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Shrubby climber with aerial adventitious rootlets, to 10 m or more",
+        "stems": null,
+        "leaves": "Odd-pinnately compound",
+        "inflorescence": null,
+        "flowers": "Terminal panicles; calyx teeth ca. 1/5 of tube; orange to orange-red corolla 2–2.5 cm with 5 short recurved lobes",
+        "fruit": "Cylindrical-oblong capsule 8–12 cm",
+        "seeds": null,
+        "habitat": "Stream banks, disturbed areas, fence lines, cultivation; eastern half of Texas",
+        "flowering_period": "Jun–Aug"
+      },
+      "research_caveats": [
+        "Use exact source corolla measurement despite potential discrepancy with other floras; later crosscheck explicitly."
+      ],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "castilleja-indivisa",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Castilleja indivisa",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 996,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Hemiparasitic annual from slender taproot; pubescent (genus/key)",
+        "stems": null,
+        "leaves": "Sessile/subsessile, mostly entire except lowermost; bracts entire or with small apical lobes",
+        "inflorescence": null,
+        "flowers": "Dense terminal bracted spike with usually orange-red to red showy bract/calyx tips; corolla 20–28 mm, upper hood 6–9 mm",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Sandy or silty open woods, prairies, disturbed sites",
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [
+        "Flora describes rare light-yellow plants and reports natural hybridization/introgression with C. purpurea"
+      ],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "castilleja-lindheimeri",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Castilleja purpurea var. lindheimeri",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 998,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Root-hemiparasitic perennial with woody root (species group/key)",
+        "stems": null,
+        "leaves": "Narrow, usually lobed (source genus key)",
+        "inflorescence": null,
+        "flowers": "Corollas 25–40 mm, hood 9–13 mm (C. purpurea group), bract/calyx tips yellowish orange, brownish-orange, orangish-red or red; lower lip typically 1.5–3(–4) mm (variety key)",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Calcareous gravelly, sandy or clay soils",
+        "flowering_period": "Mar–May"
+      },
+      "research_caveats": [
+        "CRITICAL crosswalk: repository species Castilleja lindheimeri versus 1999 C. purpurea var. lindheimeri. The flora calls it weakly differentiated and reports a sharp geographic transition; do not assume current rank without verification."
+      ],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [
+        "taxonomic_priority"
+      ],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "castilleja-purpurea",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Castilleja purpurea",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 998,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Root-hemiparasitic perennial with woody root",
+        "stems": null,
+        "leaves": "Narrow lobed leaves (source key)",
+        "inflorescence": null,
+        "flowers": "Variable colored floral bracts and calyx tips; corollas 25–40 mm, hood 9–13 mm; source distinguishes vars. citrina, lindheimeri, purpurea by tip color and lower corolla lip size",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Calcareous prairie, rocky or sandy sites depending on variety",
+        "flowering_period": "Mar–May in vars. lindheimeri/purpurea; Apr–May in var. citrina"
+      },
+      "research_caveats": [
+        "Source is broad species covering three varieties; potential hybridization with C. indivisa and among varieties documented."
+      ],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "catalpa-bignonioides",
+      "family": "Bignoniaceae",
+      "flora_family": null,
+      "flora_name": "Catalpa bignonioides",
+      "original_source_file": "research/authoritative-extraction/remaining-families-batch-09-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30194969-2/general-information"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Tree to around 10 m with rounded crown, as described in Flora of Tropical East Africa",
+        "stems": null,
+        "leaves": "Large simple ovate leaf blades 7–30 × 7–30 cm, truncate to somewhat cordate base",
+        "inflorescence": null,
+        "flowers": "White corolla with purple and yellow markings",
+        "fruit": "Narrow cylindrical ridged capsule up to 40 cm",
+        "seeds": null,
+        "habitat": null,
+        "flowering_period": null
+      },
+      "research_caveats": [
+        "1999 local flora treats C. speciosa rather than this species. Measurements from separate Catalpa bignonioides treatment; no conflation."
+      ],
+      "source_status": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "catalpa-speciosa",
+      "family": "Bignoniaceae",
+      "flora_family": null,
+      "flora_name": "Catalpa speciosa",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 443,
+      "source_references": [],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Deciduous tree to 30 m",
+        "stems": null,
+        "leaves": "Ovate to ovate-oblong blades 15–30 cm, truncate to cordate base and acuminate tip; petioles to 15 cm",
+        "inflorescence": null,
+        "flowers": "Few-flowered showy panicle; white corollas ca. 50 mm with yellow lines and brown-purple internal markings",
+        "fruit": "Cylindrical capsule 20–45(–60) cm long, about 1.5 cm thick",
+        "seeds": "Flat, 30–40 mm long and 4–5(–8) mm wide",
+        "habitat": "Cultivated, roadsides, streams; historical escapes east Texas",
+        "flowering_period": "May"
+      },
+      "research_caveats": [],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "chilopsis-linearis",
+      "family": "Bignoniaceae",
+      "flora_family": null,
+      "flora_name": "Chilopsis linearis",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 443,
+      "source_references": [],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Shrub or small tree to 10 m",
+        "stems": null,
+        "leaves": "Opposite or alternate, narrow linear-lanceolate entire blades",
+        "inflorescence": null,
+        "flowers": "Terminal racemes to 30 cm; white/purple/yellow patterned corollas varying widely, some flowers sterile",
+        "fruit": "Capsules to 30 cm long, usually ca. 6 mm thick",
+        "seeds": null,
+        "habitat": "Cultivated highway and landscape plant, persists and sometimes escapes in north-central Texas; historically native farther west",
+        "flowering_period": "May–Sep"
+      },
+      "research_caveats": [],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "dicliptera-brachiata",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Dicliptera brachiata",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-batch-01-2026-11-23.json",
+      "printed_page": 212,
+      "source_references": [
+        "Diggs et al. 1999"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial herb to 0.7(–1) m",
+        "stems": null,
+        "leaves": "Blades to 12(–15) × (1.5–)2–7 cm; petioles (0.5–)2–7+ cm",
+        "inflorescence": null,
+        "flowers": "Axillary short-peduncled to subsessile clusters, involucre of 2–4 floral bracts; obovate bracts to 7 × 2–5 mm; pink to purple (rare white) corollas 15–20 mm, upper lip entire or shallow 2-lobed, lower usually entire",
+        "fruit": "Stipitate ovoid emarginate capsule 5–6 mm; 2–4 seeds",
+        "seeds": null,
+        "habitat": "Moist wooded stream bottoms and wet habitats",
+        "flowering_period": "Jun–Nov"
+      },
+      "research_caveats": [],
+      "source_status": "flora_treatment_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "dyschoriste-linearis",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Dyschoriste linearis",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-batch-01-2026-11-23.json",
+      "printed_page": 213,
+      "source_references": [
+        "Diggs et al. 1999"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Rhizomatous ± pubescent perennial; erect or partly decumbent stems 7–30 cm",
+        "stems": null,
+        "leaves": "Sessile linear to oblanceolate obtuse blades",
+        "inflorescence": null,
+        "flowers": "Sessile axillary flowers shorter than leaves, foliaceous bracts; sepals united ca. 1/4, acuminate lobes 9–13 mm; lavender corolla with dark throat dots 15–27 mm",
+        "fruit": "Capsules 2–4 seeded",
+        "seeds": null,
+        "habitat": "Rocky or sandy ground",
+        "flowering_period": "Apr–Jul; sporadically to Oct"
+      },
+      "research_caveats": [],
+      "source_status": "flora_treatment_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "forestiera-angustifolia",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Forestiera angustifolia",
+      "original_source_file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.npsot.org/posts/native-plant/forestiera-angustifolia/",
+        "https://www.gardenstylesanantonio.com/plants/desert-olive/"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Densely branched shrub or small tree; stiff lateral branchlets commonly branch nearly at right angles, elbow-like",
+        "stems": null,
+        "leaves": "Small narrow linear leaves in clusters along twigs; foliage variably semi-evergreen depending on region",
+        "inflorescence": null,
+        "flowers": "Inconspicuous separate male/female flowers on separate plants; early spring clusters before leaves",
+        "fruit": "Small dark, blackish single-seeded fruit",
+        "seeds": null,
+        "habitat": "Dry open sites, sandy well-drained soils and brush habitats",
+        "flowering_period": "Flowers usually January–April across referenced Texas sites"
+      },
+      "research_caveats": [
+        "Older names Forestiera puberula and F. texana reported by NPSOT; synonym status requires POWO check; do not conflate F. pubescens"
+      ],
+      "source_status": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "forestiera-pubescens",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Forestiera pubescens",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 848,
+      "source_references": [],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Deciduous shrub with looping, sometimes half-vining stems",
+        "stems": null,
+        "leaves": "Blades acute or obtuse, 2.5–4 cm, petioles 1–7 mm; glabrous in var. glabrifolia, pubescent in var. pubescens",
+        "inflorescence": null,
+        "flowers": "Sexes generally separate; flowers before leaves; female umbels/corymbs 3–12 flowers; filament 1–4 mm (source key)",
+        "fruit": "Dark glaucous drupes 5–7 mm",
+        "seeds": null,
+        "habitat": "Limestone outcrops, pastures, brushy prairies",
+        "flowering_period": "Jan–Mar"
+      },
+      "research_caveats": [
+        "1999 recognizes two varieties glabrifolia and pubescens; variety-specific pubescence must not be universalized."
+      ],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "fraxinus-albicans",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Fraxinus texensis",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 849,
+      "source_references": [],
+      "historical_names": [
+        "Fraxinus texensis",
+        "Fraxinus americana subsp. texensis",
+        "Fraxinus americana var. texensis"
+      ],
+      "characters": {
+        "growth_habit": "Small deciduous tree to ca. 16 m, glabrous",
+        "stems": null,
+        "leaves": "Leaflets mostly 5 (range 5–7), often drooping, suborbicular-ovate to obovate or narrowly elliptic; key usually <6(–8) cm, 1.75–2.5× as long as wide",
+        "inflorescence": null,
+        "flowers": "Early spring, corollas absent as in genus",
+        "fruit": "Winged samaras 1.5–2.7(–3) cm, wing not decurrent on body (key)",
+        "seeds": null,
+        "habitat": "Limestone slopes and bluffs",
+        "flowering_period": "Feb–Mar"
+      },
+      "research_caveats": [
+        "Kew POWO and USDA GRIN synonymize Fraxinus texensis under accepted F. albicans; 1999 flora treats F. texensis distinct but allied to F. americana. Crosswalk evidence recorded, and separate identity confirmation for actual plants still needed."
+      ],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "fraxinus-berlandieriana",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Fraxinus berlandieriana",
+      "original_source_file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=43"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Deciduous medium-sized tree to about 40 ft (12 m); broad dense rounded crown, drooping branches; trunk sometimes 2 ft (0.6 m) across",
+        "stems": "Gray to tan with narrow interwoven furrows/ridges",
+        "leaves": "Opposite, odd-pinnately compound leaves 6–10 in long, commonly five lanceolate leaflets, occasionally three or seven; leaflets 3–4 in, remotely toothed at least distally",
+        "inflorescence": null,
+        "flowers": "Dioecious; darker clustered male flowers often appear before leafout, loose female clusters with emerging leaves",
+        "fruit": "Tan slender samaras 1–1.5 in long, about 0.25 in wide",
+        "seeds": null,
+        "habitat": "Stream and river margins in South Texas; extensively planted elsewhere",
+        "flowering_period": null
+      },
+      "research_caveats": [
+        "Do not merge with F. pennsylvanica, historically problematic in ash complexes"
+      ],
+      "source_status": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "fraxinus-greggii",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Fraxinus greggii",
+      "original_source_file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://apps.cals.arizona.edu/arboretum/taxon.aspx?id=391"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Small shrub-like, nearly evergreen tree commonly to 16–20 ft (5–6 m)",
+        "stems": null,
+        "leaves": "Fine-textured dark-green pinnate foliage, individual compound leaves ca. 2 in long, lanceolate leaflets and fine marginal teeth according to University of Arizona arboretum",
+        "inflorescence": null,
+        "flowers": "Small petal-less clustered flowers in spring; typically dioecious",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Rocky limestone slopes, dry creek washes and canyons of southwest Texas and nearby Southwest",
+        "flowering_period": null
+      },
+      "research_caveats": [
+        "University source does not provide reliable samara dimensions; hold fruit measurements"
+      ],
+      "source_status": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "fraxinus-pennsylvanica",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Fraxinus pennsylvanica",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 849,
+      "source_references": [],
+      "historical_names": [
+        "Fraxinus pennsylvanica var. integerrima"
+      ],
+      "characters": {
+        "growth_habit": "Deciduous tree to 20 m, usually glabrous in north-central Texas",
+        "stems": null,
+        "leaves": "Opposite odd-pinnate with 5–7 leaflets; leaf bases decurrent, lateral petiolules 0–7 mm according to key",
+        "inflorescence": null,
+        "flowers": "Flowers in panicles before or with leaves, corolla absent; genus often dioecious",
+        "fruit": "Samara 3–7.5 cm, lanceolate to oblong-ovate; wing strongly decurrent along fruit body",
+        "seeds": null,
+        "habitat": "Stream-bottom woods and slopes",
+        "flowering_period": "Feb–Mar"
+      },
+      "research_caveats": [],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Glandularia bipinnatifida",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 1050,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Verbena bipinnatifida",
+        "Verbena ciliata"
+      ],
+      "characters": {
+        "growth_habit": "Perennial, ascending stems densely hispid-hirsute",
+        "stems": null,
+        "leaves": "Opposite, variable and 1–2 pinnatifid per flora key",
+        "inflorescence": null,
+        "flowers": "Bracts usually exceed calyces; calyx generally non-glandular pubescent or few glandular hairs; pink, lavender or purple salverform corolla; flora key tube usually 10–15 mm, limb 7–10(–15) mm; calyx 7–10 mm",
+        "fruit": "Genus treatment: four 1-seeded linear nutlets",
+        "seeds": null,
+        "habitat": "Disturbed areas, mainly western two-thirds of Texas",
+        "flowering_period": "Late Mar–Jun, less freely to Oct"
+      },
+      "research_caveats": [
+        "Generic placement historically contrasted with Verbena using nutlets and chromosome numbers."
+      ],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "glandularia-pumila",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Glandularia pumila",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 1052,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Verbena pumila"
+      ],
+      "characters": {
+        "growth_habit": "Low annual with decumbent/spreading to erect stems, hirsute and often finely glandular",
+        "stems": null,
+        "leaves": "Opposite, three-parted with incised divisions",
+        "inflorescence": null,
+        "flowers": "Spikes sessile or short-peduncled; pink to lavender or pale blue corolla, rarely white; key: corolla tube 8–10 mm, limb 3–5 mm across; calyx ca. 6 mm",
+        "fruit": "Genus 4 nutlets; key nutlet length 2–2.8 mm",
+        "seeds": null,
+        "habitat": "Sandy or gravelly soils",
+        "flowering_period": "Late Mar–May"
+      },
+      "research_caveats": [],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "hedeoma-acinoides",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Hedeoma acinoides",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": 758,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Delicate ephemeral annual, 5–30 cm",
+        "stems": null,
+        "leaves": "Basal leaves often purplish; petioles 1–4 mm; flora key gives ovate to elliptic 3.5–8 mm wide",
+        "inflorescence": null,
+        "flowers": "Calyx 5–6 mm, lower third of tube saccate; pink corolla 9–13 mm, not inflated; flora key notes corolla upper lip bent at right angle",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Rocky limestone soils",
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "hedeoma-drummondii",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Hedeoma drummondii",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": 758,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Annual or robust perennial, 15–45 cm",
+        "stems": null,
+        "leaves": "Usually essentially linear, 5–11 × 1–4 mm, entire",
+        "inflorescence": null,
+        "flowers": "Finely hirsute calyx 5–6 mm, tube saccate ca. 2/3; blue corolla 7–11 mm; key: peppermint aroma, strongly convergent upper/lower calyx teeth",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Disturbed habitats",
+        "flowering_period": "Jun–Sep"
+      },
+      "research_caveats": [
+        "Flora reports possible hybridization with H. reverchonii per Irving (1980)"
+      ],
+      "source_status": "1999_flora_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "hedeoma-nana",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Hedeoma nana",
+      "original_source_file": "research/authoritative-extraction/remaining-six-batch-11-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://powo.science.kew.org/taxon/51012153-1",
+        "https://www.americansouthwest.net/plants/wildflowers/hedeoma-nana.html"
+      ],
+      "historical_names": [
+        "Hedeoma dentata var. nana",
+        "Hedeoma nanum"
+      ],
+      "characters": {
+        "growth_habit": "Aromatic low, basally much-branched plant, arching stems to approximately 10 in (25 cm) in southwestern field account",
+        "stems": null,
+        "leaves": "Small ovate to roundish leaves ca. 1/3 inch (8 mm) long, entire and often with pointed tips",
+        "inflorescence": null,
+        "flowers": "Whorls above leafy lower stems; purple calyx with upper 3 lobes partly fused and lower two free; pink-purple two-lipped corolla with white patch on lower lip",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Rocky canyons and limestone outcrops; field account describes 3,000–6,500 ft elevations in Southwest",
+        "flowering_period": "Apr–Jun according to field account"
+      },
+      "research_caveats": [
+        "Kew accepts H. nana and recognizes subspecies; field account may reflect southwestern populations, not all Texas plants. Do not equate subspecies nana and californica measurements."
+      ],
+      "source_status": "partial_field_description_infraspecific_hold",
+      "review_flags": [
+        "taxonomic_priority"
+      ],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "hedeoma-reverchonii",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Hedeoma reverchonii var. reverchonii",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": 758,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Hedeoma drummondii var. reverchonii"
+      ],
+      "characters": {
+        "growth_habit": "Woody-based robust perennial 15–60 cm; prior-season shoots persist",
+        "stems": null,
+        "leaves": "Elliptic-oblong, 6–14 × 2.2–5 mm; gray-green in var. reverchonii",
+        "inflorescence": null,
+        "flowers": "Lemon-scented; calyx 6–7 mm; white or lavender corolla 10–15 mm with upward-expanded tube",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Open exposed calcareous outcrops",
+        "flowering_period": "Jun–Sep"
+      },
+      "research_caveats": [
+        "Do not automatically import characters of var. serpyllifolium into modern narrower H. reverchonii."
+      ],
+      "source_status": "1999_flora_extracted_at_variety_level",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "hedeoma-serpyllifolia",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Hedeoma reverchonii var. serpyllifolium",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": 758,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Hedeoma reverchonii var. serpyllifolium",
+        "Hedeoma drummondii var. serpyllifolium"
+      ],
+      "characters": {
+        "growth_habit": "Woody-based perennial; species group 15–60 cm",
+        "stems": null,
+        "leaves": "Elliptic-oblong 6–14 × 2.2–5 mm in species treatment; dark green for var. serpyllifolium",
+        "inflorescence": null,
+        "flowers": "Camphor-scented; calyx 5–6 mm; mainly white, occasionally lavender corolla 8–10 mm, tube only slightly dilated",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Open exposed calcareous outcrops",
+        "flowering_period": "Jun–Sep"
+      },
+      "research_caveats": [
+        "POWO accepts Hedeoma serpyllifolia at species rank; ITIS accepts H. reverchonii var. serpyllifolia; retained source's narrower variety characters."
+      ],
+      "source_status": "1999_flora_extracted_taxonomic_conflict",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "hygrophila-costata",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Hygrophila costata",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "PlantNET Flora of New South Wales, Hygrophila costata treatment; Kew POWO",
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Hygrophila~costata&page=nswfl"
+      ],
+      "historical_names": [
+        "Hygrophila brasiliensis"
+      ],
+      "characters": {
+        "growth_habit": "Herb up to 2 m",
+        "stems": "Bluntly 4-angled, often reddish, glabrous; lower nodes swollen and rooting on ground contact",
+        "leaves": null,
+        "inflorescence": null,
+        "flowers": "Axillary clusters of 3–4 sessile flowers; bracts 6–9 × 1.5–3 mm, sparsely hairy; calyx five equal linear lobes 5–9 mm in flower, to 12 mm in fruit; white corolla 5.5–10 mm",
+        "fruit": "Sessile glabrous narrowly oblong capsule 8–13 mm",
+        "seeds": null,
+        "habitat": "Wetland/riparian habitat reported by other authorities; not established from 1999 flora",
+        "flowering_period": null
+      },
+      "research_caveats": [
+        [
+          "No entry located in the supplied 1999 north-central Texas Acanthaceae treatment; Australian descriptive flora is not direct proof of Central Texas phenology or occurrence",
+          "BONAP target counties unchecked"
+        ]
+      ],
+      "source_status": "alternative_flora_extracted_not_1999",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "justicia-americana",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Justicia americana",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-batch-01-2026-11-23.json",
+      "printed_page": 213,
+      "source_references": [
+        "Diggs et al. 1999"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Glabrous rhizomatous colonial perennial; erect stems to ca. 100 cm",
+        "stems": null,
+        "leaves": "Sessile or nearly so; narrowly oblong-lanceolate to elliptic-lanceolate",
+        "inflorescence": null,
+        "flowers": "Axillary peduncled dense spikes to 3 cm; peduncles to 15 cm; sepals linear-lanceolate ca. 7 mm, nearly free; white or violet corollas 10–12 mm with red-purple spots; genus treatment describes two stamens and 3-lobed lower lip",
+        "fruit": "Capsule ca. 12 mm; genus treatment four-seeded",
+        "seeds": null,
+        "habitat": "Wet ground, stream and pond margins",
+        "flowering_period": "May–Jun"
+      },
+      "research_caveats": [],
+      "source_status": "flora_treatment_extracted_taxonomy_disagreement",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "justicia-pilosella",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Siphonoglossa pilosella",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": 218,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Siphonoglossa pilosella (Nees) Torr."
+      ],
+      "characters": {
+        "growth_habit": "Low suffrutescent perennial",
+        "stems": null,
+        "leaves": "Subsessile, ovate to oval blades to 4 cm long",
+        "inflorescence": null,
+        "flowers": "Solitary axillary or short-peduncled, peduncle <=4 mm, no floral bracts; calyx bractlets to 2.5 mm; lavender, rose or white corolla to 28 mm, slender cylindrical elongated tube, upper lip entire or 2-lobed, much larger 3-lobed lower lip with white patch and purple basal spots; stamens inserted near corolla mouth",
+        "fruit": "Capsule 8–9 mm",
+        "seeds": null,
+        "habitat": "Rocky, sandy or grassy ground",
+        "flowering_period": "Apr–Oct"
+      },
+      "research_caveats": [
+        "1999 source uses Siphonoglossa; Kew POWO and ITIS accept Justicia pilosella."
+      ],
+      "source_status": "1999_flora_extracted_modern_name_POWO_checked",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "lamium-amplexicaule",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Lamium amplexicaule",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": 759,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Low pubescent annual; stems decumbent basally, often rooting at lower nodes; flowering portion erect/flexuous, 10–45 cm (genus treatment)",
+        "stems": null,
+        "leaves": "Triangular-ovate, blunt coarsely crenate/lobed; upper floral leaf-like bracts sessile and clasping, often wider than long",
+        "inflorescence": null,
+        "flowers": "Dense whorls; densely villous calyces; 2-lipped hooded reddish-pubescent pinkish-purple corolla 10–20 mm (genus treatment), 4 stamens; closed cleistogamous flowers Nov–Feb",
+        "fruit": "Mericarps yellowish to olive-brown with white scaly mottling (genus treatment)",
+        "seeds": null,
+        "habitat": "Gardens, lawns, roadsides, disturbed areas",
+        "flowering_period": "Feb–May; sometimes year-round"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "lamium-purpureum",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Lamium purpureum",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": 759,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Low pubescent annual; stems basal decumbent and ascending above, 10–45 cm (genus treatment)",
+        "stems": null,
+        "leaves": "Petioled floral leaf-like bracts longer than wide, often reflexed; blades and bracts green often tinged purple; crenate rather than lobed",
+        "inflorescence": null,
+        "flowers": "Dense whorls; calyces glabrous or sparsely hairy; 2-lipped hooded purple corolla 10–20 mm (genus treatment), 4 stamens",
+        "fruit": "Mericarps yellowish to olive-brown with white scaly mottling (genus treatment)",
+        "seeds": null,
+        "habitat": "Disturbed ground",
+        "flowering_period": "Late Mar–Apr(–Sep)"
+      },
+      "research_caveats": [
+        "Var. purpureum vs var. incisum distinguished by shallow regular crenation vs deep irregular incisions in flora"
+      ],
+      "source_status": "1999_flora_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "lantana-camara",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Lantana camara",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 1052,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Unarmed or sparsely armed shrub to 2 m",
+        "stems": null,
+        "leaves": "Broad, cordate/triangular ovate, fine crenate teeth 0.5–1.5 mm; stem angles short recurved rather than long hispid hairs (key)",
+        "inflorescence": null,
+        "flowers": "Dense axillary heads on long peduncles; narrow triangular-lanceolate bractlets usually shed before fruit; corolla tube ca. 10 mm; genus 4 stamens",
+        "fruit": "Black drupaceous fruit",
+        "seeds": null,
+        "habitat": "Cultivated and escaped, particularly southern/central Texas; historically reported from Bell County",
+        "flowering_period": "Nearly throughout growing season"
+      },
+      "research_caveats": [
+        "Flora uses broad L. camara; horticultural hybrid Lantana × strigocamara is separately inventoried and should not be automatically synonymized or conflated."
+      ],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "lantana-urticoides",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Lantana urticoides",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 1053,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Lantana horrida sensu Moldenke"
+      ],
+      "characters": {
+        "growth_habit": "Armed or unarmed shrub to 2 m",
+        "stems": null,
+        "leaves": "Ovate to broadly ovate, upper surface strongly scabrous; coarse marginal teeth 2–5 mm (source key)",
+        "inflorescence": null,
+        "flowers": "Bractlets 4–9 × 1–2 mm, persistent, oblanceolate/spatulate (key); flowers yellow or orange changing red; corolla tube 7–10 mm, limb 5–9 mm wide",
+        "fruit": "Dark blue to black drupes",
+        "seeds": null,
+        "habitat": "Open areas, thickets, woods and roadsides; source says native central/southern Texas, but BONAP county proof pending",
+        "flowering_period": "Late Apr–Oct"
+      },
+      "research_caveats": [
+        "Flora warns potential hybridization with L. camara."
+      ],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "lantana-x-strigocamara",
+      "family": "Verbenaceae",
+      "flora_family": null,
+      "flora_name": "Lantana × strigocamara",
+      "original_source_file": "research/authoritative-extraction/remaining-six-batch-11-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://powo.science.kew.org/taxon/60444377-2",
+        "https://plant-directory.ifas.ufl.edu/plant-directory/lantana-camara/"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Woody, much branched spreading–upright shrub commonly 1–3 m, sometimes forming thickets",
+        "stems": null,
+        "leaves": "Opposite simple ovate leaves, truncate base, coarse/blunt teeth; rough and aromatic foliage, frequently prickly stems",
+        "inflorescence": null,
+        "flowers": "Stalked flattened flowerheads with narrow-tubed four-lobed corollas of several colors, including yellow, orange, pink, white and red",
+        "fruit": "Rounded fleshy two-seeded drupes maturing dark purple to black",
+        "seeds": null,
+        "habitat": "Non-native ornamental escape associated with disturbed habitats and edges",
+        "flowering_period": "Flowering season varies by climate; Florida source records May–Dec in northern/central Florida and nearly year-round in south"
+      },
+      "research_caveats": [
+        "Kew accepts hybrid Lantana × strigocamara; University of Florida uses L. strigocamara without hybrid sign. The native TX L. urticoides and historical L. camara are not to be substituted."
+      ],
+      "source_status": "hybrid_profile_source_verified_botanical_parentage_pending",
+      "review_flags": [
+        "taxonomic_priority"
+      ],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "leucophyllum-frutescens",
+      "family": "Scrophulariaceae",
+      "flora_family": null,
+      "flora_name": "Leucophyllum frutescens",
+      "original_source_file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.wildflower.org/plants/result.php?id_plant=LEFR3"
+      ],
+      "historical_names": [
+        "Terania frutescens"
+      ],
+      "characters": {
+        "growth_habit": "Dense, perennial evergreen shrub typically 2–5 ft (0.6–1.5 m), occasionally about 10 ft (3 m)",
+        "stems": null,
+        "leaves": "Simple elliptic to obovate blades mostly <=1 in (~2.5 cm), up to 1.25 in (~3.2 cm), entire and rounded apically, narrowed basally, dense silvery stellate pubescence",
+        "inflorescence": null,
+        "flowers": "Crowded solitary axillary, approximately bell-shaped violet/purple/pink-lavender corollas up to 1 in in diameter and length",
+        "fruit": "Small capsule",
+        "seeds": null,
+        "habitat": "Rocky, well-drained limestone slopes, dry ravines and hillsides",
+        "flowering_period": "Intermittent flowering spring through fall, often after rains; local season variable"
+      },
+      "research_caveats": [],
+      "source_status": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "leucospora-multifida",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Leucospora multifida",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 1000,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Capraria multifida",
+        "Conobea multifida",
+        "Stemodia multifida"
+      ],
+      "characters": {
+        "growth_habit": "Low annual 10–15(–20) cm, unbranched to much branched",
+        "stems": null,
+        "leaves": "Opposite petiolate blades triangular-ovate in outline, 1–3 cm long, pinnately to bipinnately parted",
+        "inflorescence": null,
+        "flowers": "Single or paired axillary flowers on pedicels 5–10 mm, pink/pale lavender tubular corollas 3–5 mm, shorter than to barely exceeding calyces; 4 didynamous stamens",
+        "fruit": "Ovoid capsule 3.5–4.5 mm",
+        "seeds": null,
+        "habitat": "Wet low ground and urban weedy sites",
+        "flowering_period": "Jun–Oct"
+      },
+      "research_caveats": [
+        "Source notes uncertain generic limits of Leucospora/Stemodia complex; modern status requires separate taxon check."
+      ],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "ligustrum-lucidum",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Ligustrum lucidum",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 850,
+      "source_references": [],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Evergreen shrub/small tree to ca. 10 m",
+        "stems": null,
+        "leaves": "Glossy glabrous blades (6–)10–15 cm, usually 6–8 distinct lateral veins per side, acuminate; petioles 10–20 mm (key)",
+        "inflorescence": null,
+        "flowers": "Dense terminal panicles of white flowers, corolla tube approximately equals lobes (key)",
+        "fruit": "Black-blue drupes (genus treatment)",
+        "seeds": null,
+        "habitat": "Cultivated and escaped",
+        "flowering_period": "Late summer"
+      },
+      "research_caveats": [],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "ligustrum-quihoui",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Ligustrum quihoui",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 850,
+      "source_references": [],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Shrub to ca. 2 m, branches almost horizontal",
+        "stems": null,
+        "leaves": "Very short-petioled dark-green lanceolate to oblanceolate glabrous blades; source key length generally 2–6(–7) cm and twigs pubescent",
+        "inflorescence": null,
+        "flowers": "Open panicle with separated whorl-like flower clusters on terminal and paired lateral branchlets; corolla tube equals lobes, stamens exserted",
+        "fruit": "Black-blue drupe (genus)",
+        "seeds": null,
+        "habitat": "Cultivated and naturalized",
+        "flowering_period": "Late May–Jul"
+      },
+      "research_caveats": [],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "ligustrum-sinense",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Ligustrum sinense",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 850,
+      "source_references": [],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Shrub to ca. 4 m",
+        "stems": null,
+        "leaves": "Short-petioled rhombic-elliptic to ovate leaves, usually hairs on abaxial midrib, typically 2–6(–7) cm by key; twigs pubescent",
+        "inflorescence": null,
+        "flowers": "Compact panicles; distinctly stalked flowers; corolla tube shorter than lobes, stamens exserted",
+        "fruit": "Black-blue drupe (genus)",
+        "seeds": null,
+        "habitat": "Cultivated and naturalized, invasive understorey in native habitats",
+        "flowering_period": "Late Apr–May"
+      },
+      "research_caveats": [],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "linaria-texana",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Nuttallanthus texanus",
+      "original_source_file": "research/authoritative-extraction/remaining-six-batch-11-2026-11-23.json",
+      "printed_page": 1004,
+      "source_references": [
+        "https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf",
+        "https://powo.science.kew.org/taxon/279678-2",
+        "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=22290"
+      ],
+      "historical_names": [
+        "Nuttallanthus texanus",
+        "Linaria canadensis var. texana"
+      ],
+      "characters": {
+        "growth_habit": "Slender glabrous to minutely hairy annual/biennial herb to 70 cm (historical genus treatment)",
+        "stems": null,
+        "leaves": "Alternate or subopposite, nearly sessile, linear and entire",
+        "inflorescence": "Terminal spike-like raceme",
+        "flowers": "Pale lavender-blue two-lipped corolla with whitish palate, including slender curved basal spur 14–22 mm long; spur 6–11 mm, lower lip 6–11 mm",
+        "fruit": "Capsules 2.5–3.5 mm; seeds densely tuberculate without longitudinal ridges (compare N. canadensis)",
+        "seeds": null,
+        "habitat": "Sandy open woods, old fields and roadsides",
+        "flowering_period": "Mar–May"
+      },
+      "research_caveats": [
+        "1999 flora uses Nuttallanthus texanus and directly cites Linaria texana. Kew POWO currently treats Linaria texana as accepted, whereas USDA GRIN and ITIS accept Nuttallanthus texanus. Preserve authority conflict; repository inventory Linaria texana is not an unrecognized taxon."
+      ],
+      "source_status": "documented_morphology_secondary_review_BONAP_pending",
+      "review_flags": [
+        "taxonomic_priority"
+      ],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "marrubium-vulgare",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Marrubium vulgare",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": 762,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Aromatic perennial 0.3–0.7(–1) m, conspicuous white tomentum often with stellate hairs; old plants woody-rooted",
+        "stems": null,
+        "leaves": "Broadly ovate to suborbicular 1.5–5 cm long, petiolate, toothed, wrinkled venation",
+        "inflorescence": null,
+        "flowers": "Spaced dense axillary clusters; calyx 4–5 mm usually with 10 teeth, some hooked; bilabiate white corolla 5–6 mm, often rose-purple spotted, 4 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Eroding or disturbed limestone soils, waste land, high-nitrogen livestock spots",
+        "flowering_period": "Apr–Jul, less freely later"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "maurandella-antirrhiniflora",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Maurandya antirrhiniflora",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 1002,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Maurandya antirrhiniflora",
+        "Asarina antirrhiniflora"
+      ],
+      "characters": {
+        "growth_habit": "Twining much-branched glabrous perennial herbaceous vine; leaf petioles coiling",
+        "stems": null,
+        "leaves": "Subopposite to generally alternate, hastate to sagittate blades 15–25 mm, entire, petioles 10–30 mm",
+        "inflorescence": null,
+        "flowers": "Solitary axillary flowers, pedicels 10–30(–47) mm, bilabiate corollas 20–25 mm, pale tube and violet/blue/purple lobes; 4 stamens and capsules ~6 mm per continuation",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Sandy/rocky disturbed sites, Burnet and Travis region (historical flora)",
+        "flowering_period": "Feb–Oct"
+      },
+      "research_caveats": [
+        "Historical authors explicitly rejected segregation into Maurandella despite Kartesz treatment. Repository now uses Maurandella; source's description under Maurandya."
+      ],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "mecardonia-procumbens",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Mecardonia procumbens",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 1003,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Mecardonia vandellioides auct. non (Kunth) Pennell"
+      ],
+      "characters": {
+        "growth_habit": "Often basal-branched glabrous procumbent to ascending wet-site perennial, stems four-angled to 40 cm",
+        "stems": null,
+        "leaves": "Opposite ovate to obovate blades 10–25 mm, serrate above middle; glandular-punctate",
+        "inflorescence": null,
+        "flowers": "Pedicels longer than subtending leaf; outer sepals over three times width of inner; yellow corollas 6–12 mm with dark venation; genus two bractlets at pedicel base",
+        "fruit": "Many-seeded capsule per genus",
+        "seeds": null,
+        "habitat": "Wet low ground or shallow water",
+        "flowering_period": "Mar–Nov"
+      },
+      "research_caveats": [
+        "Do not treat misapplied M. vandellioides usage as secure homotypic synonym."
+      ],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "menodora-heterophylla",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Menodora heterophylla",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 850,
+      "source_references": [],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Low mostly glabrous perennial to 25 cm, spreading in patches from creeping branching roots",
+        "stems": null,
+        "leaves": "Sessile/subsessile, narrow to elliptic-obovate, entire to deeply pinnatifid",
+        "inflorescence": null,
+        "flowers": "Solitary axillary/terminal, 5–8 mm pedicels recurved at fruiting, bright red unopened buds; corolla to 15 mm, yellow interior/red exterior",
+        "fruit": "Circumscissile two-loculed capsule 6–10 mm",
+        "seeds": null,
+        "habitat": "Rocky, silty or sandy ground",
+        "flowering_period": "Apr–Jun, sometimes Sep (possibly Jan farther south)"
+      },
+      "research_caveats": [],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "menodora-longiflora",
+      "family": "Oleaceae",
+      "flora_family": null,
+      "flora_name": "Menodora longiflora",
+      "original_source_file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "printed_page": 852,
+      "source_references": [],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Low herbaceous/near-herbaceous perennial inferred from Menodora family key; individual treatment does not supply height",
+        "stems": null,
+        "leaves": "Mostly entire, occasionally 2–3-lobed near base",
+        "inflorescence": null,
+        "flowers": "Numerous terminal flowers with bright yellow corollas 30–60 mm",
+        "fruit": "Pedicels erect in fruit (unlike recurved in M. heterophylla)",
+        "seeds": null,
+        "habitat": "Regional western/central Texas; habitat not separately specified in brief flora note",
+        "flowering_period": null
+      },
+      "research_caveats": [
+        "Short comparative note only; do not borrow M. heterophylla height, fruit size, flowering, or habitat."
+      ],
+      "source_status": "direct_treatment_extracted; additional_source_and_BONAP_review_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "monarda-citriodora",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Monarda citriodora",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "printed_page": 765,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Pubescent annual 15–80 cm",
+        "stems": null,
+        "leaves": "Aromatic, toothed and gland-dotted (genus treatment)",
+        "inflorescence": null,
+        "flowers": "Interrupted spikes of 2–7 floral heads (key); hispid-margined bracts and calyces; often-purple bract inner surfaces and 2–5 mm spinose bristle; calyx teeth bristle-tipped 2–7 mm; white/pink/lavender corolla with purple dots, tube 7–19 mm; genus: 2 stamens and bilabiate corolla",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Prairies, savannas, roadsides",
+        "flowering_period": "Mainly May–Jul"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "monarda-fistulosa",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Monarda fistulosa var. mollis",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 765,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Finely pubescent perennial, 70–150 cm tall",
+        "stems": null,
+        "leaves": null,
+        "inflorescence": null,
+        "flowers": "Terminal head-like cluster; calyx teeth acuminate 1–2 mm; lavender, rarely white corolla with tube 15–24 mm; genus: 2 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Stream banks, hillsides, prairies, open woods or open ground",
+        "flowering_period": "May–Jul"
+      },
+      "research_caveats": [
+        "Flora treatment explicitly applies to var. mollis; not necessarily all M. fistulosa. Kew recognizes var. mollis within species."
+      ],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "monarda-punctata",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Monarda punctata",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 766,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Annual or short-lived perennial, branched, to 100 cm",
+        "stems": null,
+        "leaves": "Aromatic gland-dotted and usually toothed (genus); varieties distinguished by pubescence, leaf widths and calyx-tooth shapes",
+        "inflorescence": null,
+        "flowers": "Yellow to cream, white or rarely pink corollas usually with reddish-brown dots; flower heads in interrupted spikes; calyx teeth short triangular not bristle-tipped (genus key)",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Sandy open woods and open ground",
+        "flowering_period": "Late May–Jul, occasionally Sep"
+      },
+      "research_caveats": [
+        "1999 flora describes vars. intermedia, lasiodonta, occidentalis with differing morphology. Record broad species treatment only pending varietal reconciliation."
+      ],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "paulownia-tomentosa",
+      "family": "Paulowniaceae",
+      "flora_family": null,
+      "flora_name": "Paulownia tomentosa",
+      "original_source_file": "research/authoritative-extraction/remaining-families-batch-09-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020800"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Deciduous tree to around 20 m according to Flora of China; broad crown",
+        "stems": null,
+        "leaves": "Large cordate blade around 40 cm, hairy beneath and sparsely hairy above, tip acute",
+        "inflorescence": null,
+        "flowers": "Purple funnel- to bell-shaped corolla 5–7.5 cm long, outside glandular, before or near spring leaf emergence",
+        "fruit": "Ovoid capsule 3–4.5 cm, viscid glandular pubescence, persistent calyx",
+        "seeds": null,
+        "habitat": null,
+        "flowering_period": null
+      },
+      "research_caveats": [
+        "Not individually treated in uploaded 1999 flora; secondary botanical flora used, not transferred from a similarly named species."
+      ],
+      "source_status": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "penstemon-baccharifolius",
+      "family": "Plantaginaceae",
+      "flora_family": null,
+      "flora_name": "Penstemon baccharifolius",
+      "original_source_file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.wildflower.org/plants/result.php?id_plant=peba"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Woody-based or almost shrubby perennial often about 1–1.5 ft tall, sometimes to 20 in (50 cm)",
+        "stems": null,
+        "leaves": "Dark-green, somewhat thick, toothed blades, varying in hairiness",
+        "inflorescence": null,
+        "flowers": "Cherry-red tubular flowers in clustered spikes on upper stems; attract hummingbirds",
+        "fruit": "Capsule",
+        "seeds": null,
+        "habitat": "Limestone crevices, bluffs and rocky slopes of central/west Texas",
+        "flowering_period": "April through October listed by wildflower center; flowering sporadic within range"
+      },
+      "research_caveats": [],
+      "source_status": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "penstemon-cobaea",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Penstemon cobaea",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 1007,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Finely densely pubescent perennial 20–50(–65) cm",
+        "stems": null,
+        "leaves": "Ovate-elliptic to obovate blades sharply toothed or subentire, mid-stem usually 25–50 mm wide",
+        "inflorescence": null,
+        "flowers": "Large white to lavender corollas with red-purple internal nectar guides; lanceolate to lance-ovate calyx lobes; genus staminode present",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Limestone prairies, rock outcrops and sandy open woods",
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "penstemon-tenuis",
+      "family": "Plantaginaceae",
+      "flora_family": null,
+      "flora_name": "Penstemon tenuis",
+      "original_source_file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.depts.ttu.edu/plantresources/Pages/directories/landscape-info-sheets/herbaceous-info/Penstemon_tenuis.php"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Rounded perennial herb, about 2–3 ft (0.6–0.9 m) including inflorescence",
+        "stems": null,
+        "leaves": "Opposite, broadly obovate, entire or toothed margins",
+        "inflorescence": null,
+        "flowers": "Panicles with tubular pink, lavender or sometimes reddish corollas",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Listed on dry rocky sites, crevices and bluffs by Texas Tech plant database; other habitats may differ",
+        "flowering_period": "Summer–fall per TTU plant database"
+      },
+      "research_caveats": [
+        "Flowering and site preferences vary among sources; compare FNA treatment rather than treating horticultural summaries as a species-wide range"
+      ],
+      "source_status": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "penstemon-triflorus",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Penstemon triflorus subsp. integrifolius",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 1008,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Penstemon helleri (sensu lumped)"
+      ],
+      "characters": {
+        "growth_habit": "Puberulent perennial 30–65 cm",
+        "stems": null,
+        "leaves": "Mid-stem toothed blades (10–)15–30 mm wide",
+        "inflorescence": null,
+        "flowers": "Corollas lavender/pink/rose or red, throat white with red stripes; source key corolla 30–35 mm and sepals 8–11 mm; staminode lightly yellow-bearded on terminal half in lumped taxon",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Calcareous soils of Edwards Plateau and southwestern north-central Texas",
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [
+        "1999 flora treats subsp. integrifolius and lumps P. helleri while citing possible distinctness; red-flowered P. triflorus versus lavender/pink P. helleri differentiated by staminode and corolla. No conflating subspecies/species-wide."
+      ],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "perilla-frutescens",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Perilla fructescens [spelling as printed]",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "printed_page": 768,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Aromatic coarse annual, stems 0.2–1 m, sometimes purple",
+        "stems": null,
+        "leaves": "Ovate to suborbicular 4–15 × 3–10 cm, coarse serrate/crenate, sometimes crinkled, acute/acuminate apex; tiny glands beneath, petioles 1–8 cm",
+        "inflorescence": null,
+        "flowers": "One-sided elongate racemes 5–15 cm of flowers singly at axils of tiny bracts; calyx 2–3 mm in bloom, elongating 8–12 mm in fruit, somewhat inflated and villous basally; white/lavender bilabiate 5-lobed corolla 2.5–3 mm; 4 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Wet areas, low woods, streams, low pastures",
+        "flowering_period": "Jul–Nov"
+      },
+      "research_caveats": [
+        "1999 flora spells epithet 'fructescens' in text, while plate and modern accepted usage are 'frutescens'; transcribed printed text faithfully and flagged probable orthographic error."
+      ],
+      "source_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "phyla-nodiflora",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Lippia nodiflora",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 1054,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Lippia nodiflora",
+        "Phyla incisa"
+      ],
+      "characters": {
+        "growth_habit": "Creeping or trailing to ascending perennial, rooting at nodes per family key",
+        "stems": null,
+        "leaves": "Oblanceolate widest near apex, length 10–72 mm, mostly toothed only near apex; key width 4–25 mm",
+        "inflorescence": null,
+        "flowers": "Flowers in short axillary heads on peduncles 1.5–4× adjacent leaf length; heads 6–10 mm thick elongating to 3 cm in fruit; corollas white to rose-purple often yellow-eyed; floral bracts small 2–3 mm",
+        "fruit": "Genus treatment fruits split into two nutlets at maturity",
+        "seeds": null,
+        "habitat": "Low moist disturbed ground",
+        "flowering_period": "May–Oct"
+      },
+      "research_caveats": [
+        "1999 flora explicitly chooses Lippia over segregate Phyla. Identification warning: Lippia/Phyla canescens should remain separate; bract and calyx hairs are diagnostic."
+      ],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "physostegia-angustifolia",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Physostegia angustifolia",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 769,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Physostegia edwardsiana"
+      ],
+      "characters": {
+        "growth_habit": "Perennial with short vertical rhizomes; stems to 2 m, usually shorter",
+        "stems": null,
+        "leaves": "Lower 1–4 nodes' petiolate leaves lost by anthesis; remaining narrowly linear to lanceolate/oblanceolate leaves usually <12 mm wide, sharply serrate, usually stem-clasping",
+        "inflorescence": null,
+        "flowers": "Usually pale lavender/whitish corollas 22–33 mm, purple streaks/spots internally; no sterile bracts below lowest flower (key)",
+        "fruit": "Nutlets usually 2–3 mm",
+        "seeds": null,
+        "habitat": "Low moist sites and roadside ditches",
+        "flowering_period": "Mid-May–Jun (Jul)"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "physostegia-correllii",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Physostegia correllii",
+      "original_source_file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.fws.gov/species/corrells-false-dragonhead-physostegia-correllii"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Rhizomatous perennial herb often about 3 ft (~0.9 m) or taller, stout upright flowering stems",
+        "stems": null,
+        "leaves": "Dark-green sessile leaves with toothed margins, widest near middle; stems may have dark purplish-red coloration when young",
+        "inflorescence": null,
+        "flowers": "Dense terminal spikes of tubular purple-pink speckled flowers during summer",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Wet riparian stream and river margins, near water, sometimes in ditches and disturbed alluvial substrates",
+        "flowering_period": "Summer flowering according to USFWS"
+      },
+      "research_caveats": [
+        "Rare conservation concern; do not map or disclose sensitive occurrence coordinates; no comparison with P. virginiana leaf widths without direct quantitative treatment"
+      ],
+      "source_status": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "physostegia-virginiana",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Physostegia virginiana subsp. praemorsa",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 770,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Physostegia praemorsa",
+        "Physostegia serotina"
+      ],
+      "characters": {
+        "growth_habit": "Perennial with short unbranched vertical rhizomes; stems to ca. 1.3 m",
+        "stems": null,
+        "leaves": "Lower petiolate leaves to 13 mm wide shed early; upper stem leaves to 6 mm wide, sharply serrate",
+        "inflorescence": null,
+        "flowers": "Up to 40 pairs of sterile floral bracts often below lowest flower; reddish-violet, lavender or white corolla usually purple-marked inside",
+        "fruit": "Nutlets 2.9–3.8 mm",
+        "seeds": null,
+        "habitat": "Prairies, limestone glades, roadside ditches",
+        "flowering_period": "Aug–Dec"
+      },
+      "research_caveats": [
+        "1999 description is subsp. praemorsa ONLY, not species-wide; the flora contrasts subsp. virginiana, with much wider stem leaves (3–55 mm)"
+      ],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "plantago-helleri",
+      "family": "Plantaginaceae",
+      "flora_family": "Plantaginaceae",
+      "flora_name": "Plantago helleri",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 884,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Annual",
+        "stems": "Flower stalks with conspicuously long spreading hairs",
+        "leaves": null,
+        "inflorescence": "Short stout spikes to ca. 4 cm long, 8–12 mm thick",
+        "flowers": "Conspicuous corolla lobes; source key 2.7–4 mm, spreading to reflexed after flowering, bracts at base not keeled or clasping",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Limestone outcrops",
+        "flowering_period": "Apr–Jun"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "plantago-rhodosperma",
+      "family": "Plantaginaceae",
+      "flora_family": "Plantaginaceae",
+      "flora_name": "Plantago rhodosperma",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 886,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Annual",
+        "stems": null,
+        "leaves": "Frequently toothed or lobed",
+        "inflorescence": "Dense spikes to 20 cm long and ca. 10 mm thick; flower stalk hairs spreading at right angles (key)",
+        "flowers": "Basal spike bracts keeled and clasping, bracts (2.2–)2.8–5.2(–5.4) mm; abaxial sepals acuminate with extended green midvein; corolla lobes 2–3 mm (key)",
+        "fruit": null,
+        "seeds": "Red to reddish-black, (1.7–)2–2.8 mm, with transparent margin (source key)",
+        "habitat": "Prairies, pastures, roadsides and disturbed sites",
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "proboscidea-louisianica",
+      "family": "Martyniaceae",
+      "flora_family": "Pedaliaceae",
+      "flora_name": "Proboscidea louisianica",
+      "original_source_file": "research/authoritative-extraction/remaining-families-batch-09-2026-11-23.json",
+      "printed_page": 880,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+        "Flora of North Central Texas-Fab-Zygo.pdf"
+      ],
+      "historical_names": [
+        "Martynia louisianica"
+      ],
+      "characters": {
+        "growth_habit": "Low, sticky glandular-hairy ill-scented annual",
+        "stems": null,
+        "leaves": "Alternate or opposite, ovate to suborbicular, heart-shaped at base; densely pubescent petioles to 20 cm",
+        "inflorescence": null,
+        "flowers": "Long-pedicelled terminal racemes; calyx with five unequal united sepals; corolla to 55 mm, weakly bilabiate, tubular at base then wide-bell-shaped, dull white to lavender with purple/yellow inner mottling; four didynamous stamens",
+        "fruit": "Capsule up to 10 cm long and 2–3 cm thick; matures into two curved hooked horns",
+        "seeds": null,
+        "habitat": "Loose sandy soil",
+        "flowering_period": "May–Sep"
+      },
+      "research_caveats": [
+        "Historical flora uses Pedaliaceae and explicitly notes segregation as Martyniaceae; modern repository Martyniaceae."
+      ],
+      "source_status": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "ruellia-ciliatiflora",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Ruellia nudiflora var. nudiflora",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-batch-01-2026-11-23.json",
+      "printed_page": 216,
+      "source_references": [
+        "Diggs et al. 1999"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Stems spreading-pilose becoming glabrate, to 0.7 m",
+        "stems": null,
+        "leaves": "Petiolate",
+        "inflorescence": null,
+        "flowers": "Flowers opening near sunrise and falling in afternoon; key distinguishes long-peduncled terminal panicle-like inflorescence; violet-lavender curved corolla ca. 4–5(–5.5) cm; calyx lobes 10–15 mm; sepals with gland-tipped hairs or hispid to slightly scabrous",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Sandy open woods",
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [],
+      "source_status": "flora_treatment_extracted_taxon_scope_review",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "ruellia-drummondiana",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Ruellia drummondiana",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-batch-01-2026-11-23.json",
+      "printed_page": 216,
+      "source_references": [
+        "Diggs et al. 1999"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial to ca. 0.75 m; densely pubescent with short spreading to appressed hairs",
+        "stems": null,
+        "leaves": null,
+        "inflorescence": null,
+        "flowers": "Flora key: sessile or short-peduncled axillary glomerules at multiple nodes, broader leaves; fruits minutely canescent ca. 10 mm",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Wooded riparian often rocky areas; Texas endemic per flora",
+        "flowering_period": "Aug–Sep"
+      },
+      "research_caveats": [],
+      "source_status": "flora_treatment_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "ruellia-humilis",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Ruellia humilis",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-batch-01-2026-11-23.json",
+      "printed_page": 216,
+      "source_references": [
+        "Diggs et al. 1999"
+      ],
+      "historical_names": [
+        "R. humilis var. depauperata",
+        "R. humilis var. expansa",
+        "R. humilis var. longiflora"
+      ],
+      "characters": {
+        "growth_habit": "Perennial to ca. 0.8 m; usually rather densely short-pilose",
+        "stems": null,
+        "leaves": "Lanceolate to ovate or broadly elliptic; sessile or subsessile with petioles to 3 mm, erect-ascending",
+        "inflorescence": null,
+        "flowers": "Flora key: axillary nearly sessile or short-peduncled clustered flowers; linear calyx lobes with slender tips",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Prairies and open woods",
+        "flowering_period": "May–Sep"
+      },
+      "research_caveats": [],
+      "source_status": "flora_treatment_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "ruellia-metziae",
+      "family": "Acanthaceae",
+      "flora_family": null,
+      "flora_name": "Ruellia metziae",
+      "original_source_file": "research/authoritative-extraction/acanthaceae-batch-01-2026-11-23.json",
+      "printed_page": 216,
+      "source_references": [
+        "Diggs et al. 1999"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial herb to ca. 0.6 m",
+        "stems": null,
+        "leaves": "Petiolate, oblong-lanceolate to narrowly ovate-oblong, 3–12 cm long, undulate to toothed",
+        "inflorescence": null,
+        "flowers": "Terminal long-peduncled panicle-like inflorescence; usually white sometimes pale bluish purple, corolla (5–)5.5–6.5 cm; calyx lobes 14–20 mm in flower; some early axillary cleistogamous flowers",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Limestone outcrops, gravel, thickets and open woods",
+        "flowering_period": "Apr–Jul"
+      },
+      "research_caveats": [],
+      "source_status": "flora_treatment_extracted",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-azurea",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia azurea var. grandiflora",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 774,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial herb, stems to 1.5 m; sometimes flowers at 15 cm; retrorsely pubescent",
+        "stems": null,
+        "leaves": "3–10 × 1–4 cm",
+        "inflorescence": null,
+        "flowers": "Calyx 4.5–10 mm; blue corolla 15–25 mm, usually whitish center; genus key shows whorled flowers and discernible calyx teeth; 2 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Rocky, clayey or sandy prairies",
+        "flowering_period": "Jun–Oct"
+      },
+      "research_caveats": [
+        "Kew synonymizes var. grandiflora under Salvia azurea; flora regional measurements may not apply throughout broad species"
+      ],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-ballotiflora",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia ballotiflora",
+      "original_source_file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.npsot.org/posts/native-plant/salvia-ballotiflora/"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Aromatic perennial branching shrub about 3–5 ft (0.9–1.5 m), square stems; deciduous depending on winter",
+        "stems": null,
+        "leaves": "Small aromatic hairy oval serrated blades",
+        "inflorescence": null,
+        "flowers": "Bluish-purple flowers in elongated clusters",
+        "fruit": "Nutlet (mint family)",
+        "seeds": null,
+        "habitat": "Rocky sandy or gravelly brush slopes and well-drained limestone or calcareous soils",
+        "flowering_period": "April–July according to Native Plant Society of Texas"
+      },
+      "research_caveats": [],
+      "source_status": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-coccinea",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia coccinea",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 774,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial, stems to 1 m",
+        "stems": null,
+        "leaves": "Blades to 7 × 5 cm; genus key: deltoid-ovate and truncate/cordate base, petioles 10–35 mm",
+        "inflorescence": null,
+        "flowers": "Calyx 6–9 mm, commonly reddish; lobes nearly half tube length; bright to deep red corolla 16.5–22 mm; genus: 2 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Sandy woodlands",
+        "flowering_period": "Feb–Nov"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-engelmannii",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia engelmannii",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 776,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial herb from woody root, stems to ca. 0.4 m",
+        "stems": null,
+        "leaves": "Linear-lanceolate to 8 × 1 cm, entire",
+        "inflorescence": null,
+        "flowers": "Gaping pale lavender-blue corolla to ca. 22 mm, darker throat veins and two basal white regions on lower lip; genus key: bracts exceeding calyx, dense white bristly throat ring, corolla upper lip 10–12 mm",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Shallow limestone prairies",
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-farinacea",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia farinacea",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 776,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Minutely pubescent perennial, 0.25–1 m; flowering in first year, woody root developing",
+        "stems": null,
+        "leaves": "Lanceolate to oblong-lanceolate, to 10 × 3 cm, shallowly toothed or entire",
+        "inflorescence": null,
+        "flowers": "Calyces densely matted/felty white to purple pubescence, teeth obscured; violet-blue/purple corolla to 25 mm; genus: 2 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Limestone prairies, rock outcrops",
+        "flowering_period": "Apr–Jul"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-greggii",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia greggii",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 776,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Much-branched shrubby perennial to 0.9 m",
+        "stems": null,
+        "leaves": "Small leathery obovate-elliptic 10–25 mm long",
+        "inflorescence": null,
+        "flowers": "Calyx 10–15 mm; red corolla 25–30 mm; genus: 2 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Rocky soils in central, western and southern Texas; ornamental persisted and escaped north of natural area",
+        "flowering_period": "Mar–May"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-lyrata",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia lyrata",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "printed_page": 776,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Pilose, usually scapose perennial 0.25–0.65(–0.8) m with basal rosette",
+        "stems": null,
+        "leaves": "Prominent basal leaves, sometimes deeply divided/lyrate; flowering stems with 1–2 pairs of reduced leaves",
+        "inflorescence": null,
+        "flowers": "Simple to few-branched inflorescence; light blue-lavender corolla 20–30 mm, darker blue markings; genus: 2 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Sandy woods and low ground",
+        "flowering_period": "Apr"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_treatment_extracted_modern_taxonomy_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-pentstemonoides",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia pentstemonoides",
+      "original_source_file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.fws.gov/species/big-red-sage-salvia-pentstemonoides"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Large herbaceous perennial from persistent rootstocks, basal rosette and 1–several square flowering stalks to 5 ft (~1.5 m)",
+        "stems": null,
+        "leaves": "Smooth thick dark-green basal leaves to about 5 in (~12 cm)",
+        "inflorescence": null,
+        "flowers": "Crimson/reddish-purple tubular flowers ca. 1.5 in (~4 cm); calyx initially green, becomes purple",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Shaded limestone canyons, seeps, streamside bluffs and ledges in Edwards Plateau",
+        "flowering_period": "Opportunistic blooming May–Nov depending on rainfall and soil moisture"
+      },
+      "research_caveats": [
+        "IMPORTANT SPELLING: USFWS identifies pentstemonoides (extra t) as correct and penstemonoides as a frequent misspelling; retain repo slug salvia-pentstemonoides, not a different species"
+      ],
+      "source_status": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-roemeriana",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia roemeriana",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "printed_page": 776,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Herbaceous perennial to ca. 0.7 m",
+        "stems": null,
+        "leaves": "Foliage often conspicuously white-hairy; upper leaves and lower terminal leaflets suborbicular to reniform-cordate, 2.5–5 cm wide, coarsely crenate or undulate",
+        "inflorescence": null,
+        "flowers": "Elongate racemes, calyces to 15 mm glabrous internally, corollas 25–35 mm; Salvia genus 2 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Limestone rocks, cedar brakes and woodland",
+        "flowering_period": "Mar–Aug"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "salvia-texana",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Salvia texana",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "printed_page": 776,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial 10–40 cm from woody root, stems spreading-pilose",
+        "stems": null,
+        "leaves": "Subsessile lanceolate, to 6 × 2 cm, entire or slightly toothed",
+        "inflorescence": null,
+        "flowers": "Floral bracts exceed calyx and calyx throat has white bristly ring (source key); calyces hispid-pilose outside; purplish-blue corolla ca. 16.5–21.5 mm; lower lip 6.5–8.5 mm with two prominent white basal areas",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Limestone prairies and rock outcrops",
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "scutellaria-drummondii",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Scutellaria drummondii",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "printed_page": 778,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Annual or short-lived perennial 20–30 cm, old plants small multi-stemmed bushy clumps, upper stems glandular-pubescent",
+        "stems": null,
+        "leaves": "1–3(–4) cm long; lower leaves with petioles 4–18 mm (key)",
+        "inflorescence": null,
+        "flowers": "Violet, 5–11(–13) mm corollas (key); conspicuously spreading often gland-tipped hairs on upper stems and calyces; Scutellaria calyx bears scutellum (genus)",
+        "fruit": "Dark nutlets with overlapping lamella-like projections",
+        "seeds": null,
+        "habitat": null,
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [
+        "1999 flora recognizes vars. drummondii and edwardsiana distinguished by gland-tipped versus mostly eglandular lower stem hairs; hybrid/intergrade evidence with S. wrightii cited. Avoid inferring variety from species alone."
+      ],
+      "source_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "scutellaria-ovata",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Scutellaria ovata",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "printed_page": 779,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial to ca. 85(–100) cm; stems often prominent spreading/recurved pubescence (key)",
+        "stems": null,
+        "leaves": "Cordate-ovate blades to 13 cm, crenate-serrate and long-petiolate; upper leaf surfaces pubescent; abrupt change to smaller floral bracts",
+        "inflorescence": null,
+        "flowers": "Racemes from upper nodes; bracts 4–9 × 3–6 mm; blue-violet corollas 17–23 mm with whitish lower lip; genus calyx scutellum",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Wooded or thicketed sandy or rocky slopes",
+        "flowering_period": "Apr–Jul"
+      },
+      "research_caveats": [
+        "1999 flora distinguishes subsp. bracteata from mexicana by glandular hairs on mid/lower stems; Lane 1986 questioned infraspecific divisions."
+      ],
+      "source_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "scutellaria-wrightii",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Scutellaria wrightii",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "printed_page": 780,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Scutellaria brevifolia",
+        "Scutellaria integrifolia var. brevifolia",
+        "Scutellaria resinosa var. brevifolia"
+      ],
+      "characters": {
+        "growth_habit": "Perennial ca. 15–20 cm; several stems from woody base; minute downcurved/appressed stem hairs requiring lens",
+        "stems": null,
+        "leaves": "Relatively small, with minute pubescence often downcurved; lower leaves sessile or with petioles to 4 mm (source key)",
+        "inflorescence": null,
+        "flowers": "Deep violet-blue corollas 12–23 mm; calyces short-pubescent, usually lacking gland-tipped hairs; genus has scutellum",
+        "fruit": "Black nutlets minutely evenly and closely tuberculate",
+        "seeds": null,
+        "habitat": "Calcareous areas or sandy loam, prairies, slopes, open woods",
+        "flowering_period": "Mar–Jul"
+      },
+      "research_caveats": [
+        "Flora recognizes S. wrightii separate from S. resinosa based especially on fine direction of stem hairs; some earlier authorities lumped them."
+      ],
+      "source_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "seymeria-bipinnatisecta",
+      "family": "Orobanchaceae",
+      "flora_family": null,
+      "flora_name": "Seymeria bipinnatisecta",
+      "original_source_file": "research/authoritative-extraction/remaining-six-batch-11-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:235347-2",
+        "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=505195"
+      ],
+      "historical_names": [
+        "Seymeria havardii"
+      ],
+      "characters": {
+        "growth_habit": null,
+        "stems": null,
+        "leaves": null,
+        "inflorescence": null,
+        "flowers": null,
+        "fruit": null,
+        "seeds": null,
+        "habitat": null,
+        "flowering_period": null
+      },
+      "research_caveats": [
+        "Kew and ITIS recognize this species; ITIS identifies synonym S. havardii. No sufficiently detailed individual species morphology directly validated in available sources; hold rather than importing another Seymeria species' characters."
+      ],
+      "source_status": "taxonomy_only_no_morphology_hold",
+      "review_flags": [
+        "missing_growth_habit",
+        "taxonomic_priority"
+      ],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "stachys-agraria",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Stachys crenata",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "printed_page": 780,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Slender pubescent annual or biennial to 30 cm; several erect or decumbent stems",
+        "stems": null,
+        "leaves": "Ovate or oblong-ovate blades to 4 cm; lower leaf petioles nearly as long as or longer than blade, gradually reduced above; margins crenate, apex obtuse (key)",
+        "inflorescence": null,
+        "flowers": "Few-flowered whorls with upper bracts smaller; calyx 3–5 mm; light lavender-pink, pink or bluish (rare white) corolla; 5–6 mm from key",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Ditches, damp woods, weedy areas",
+        "flowering_period": "Apr–May"
+      },
+      "research_caveats": [
+        "HIGH PRIORITY: 1999 flora explicitly says Stachys agraria of authors, not Cham. & Schltdl.; Kew POWO treats Stachys crenata Raf. as tentative synonym of Stachys agraria Schltdl. & Cham. and ITIS treats auct. non usage separately. Verify specimen/circumscription before transferring facts to accepted binomial."
+      ],
+      "source_status": "flora_extracted_name_application_hold",
+      "review_flags": [
+        "taxonomic_priority"
+      ],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "tecoma-stans",
+      "family": "Bignoniaceae",
+      "flora_family": null,
+      "flora_name": "Tecoma stans",
+      "original_source_file": "research/authoritative-extraction/remaining-families-batch-09-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://naturalhistory2.si.edu/botany/hawaiianflora/speciesdescr.cfm?genus=Tecoma&species=stans"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Shrub to small tree; height variable regionally; the 1999 flora describes a less-than-one-meter form near its Texas western range, not a universal height",
+        "stems": null,
+        "leaves": "Compound leaves with usually five to seven sharply serrate leaflets per Kew POWO Caribbean flora account; source range and variety may alter widths",
+        "inflorescence": null,
+        "flowers": "Terminal racemose flowers, yellow corollas typically 3.5–6 cm with reddish throat lines, cup-shaped five-toothed calyces; four stamens",
+        "fruit": "Long narrow capsule, about 7–21 cm long and 0.5–1 cm thick in secondary regional treatments",
+        "seeds": null,
+        "habitat": null,
+        "flowering_period": null
+      },
+      "research_caveats": [
+        "Species-wide record; narrow-leaved var. angustata separated below. Texas local nativity not established by flora region 4 citation."
+      ],
+      "source_status": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "tecoma-stans-var-angustata",
+      "family": "Bignoniaceae",
+      "flora_family": null,
+      "flora_name": "Tecoma stans var. angustata",
+      "original_source_file": "research/authoritative-extraction/remaining-families-batch-09-2026-11-23.json",
+      "printed_page": null,
+      "source_references": [
+        "https://www.worldfloraonline.org/taxon/wfo-0000780508",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:249863-2"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Woody shrub or small tree according to species, but variety-specific height not sourced",
+        "stems": null,
+        "leaves": "Narrower, more deeply and sharply serrate leaflets than typical T. stans, narrow lanceolate to near-linear, 1.6–7(–10) × 0.4–1.5(–1.9) cm, sometimes deeply pinnatifid and appearing partially bipinnate",
+        "inflorescence": null,
+        "flowers": null,
+        "fruit": null,
+        "seeds": null,
+        "habitat": null,
+        "flowering_period": null
+      },
+      "research_caveats": [
+        "Only variety-level foliage diagnostic asserted; flowers, fruit and phenology held pending variety-specific treatment; historical 1999 flora mentions T. stans without this variety."
+      ],
+      "source_status": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "teucrium-canadense",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Teucrium canadense",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "printed_page": 782,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Rhizomatous perennial 30–150 cm",
+        "stems": null,
+        "leaves": "Ovate to lanceolate 6–10 × 2–4 cm; lower surfaces silver-pubescent, toothed",
+        "inflorescence": null,
+        "flowers": "Terminal spike-like racemes with silvery appressed hairs; bracts approximately as long as calyces; subsessile or pedicels <=2 mm; calyx 5–9 mm, lavender (rare white) corolla 10–18 mm, dark spots (genus key), Teucrium distinctive near one-lipped corolla and 4 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Stream-bottom woods and low open ground",
+        "flowering_period": "Jun–Aug"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "teucrium-cubense",
+      "family": "Lamiaceae",
+      "flora_family": null,
+      "flora_name": "Teucrium cubense var. laevigatum",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "printed_page": 782,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial, possibly annual, bushy herb with several stems from taproot to 70 cm",
+        "stems": null,
+        "leaves": "Median leaves mostly 3–5 lobed nearly to midrib; floral bracts 3-parted nearly to base and often longer than calyx",
+        "inflorescence": null,
+        "flowers": "Pedicels 4–12 mm; flowering calyces 5–10 mm; corollas 6–15 mm; genus near one-lipped corolla with 4 stamens",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Low open ground",
+        "flowering_period": "Jun–Oct"
+      },
+      "research_caveats": [
+        "1999 treatment specific to var. laevigatum; var. cubense described separately with shallower median-leaf lobes and less-divided bracts. No species-wide conflation."
+      ],
+      "source_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "utricularia-gibba",
+      "family": "Lentibulariaceae",
+      "flora_family": "Lentibulariaceae",
+      "flora_name": "Utricularia gibba",
+      "original_source_file": "research/authoritative-extraction/remaining-families-batch-09-2026-11-23.json",
+      "printed_page": 787,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+        "Flora of North Central Texas-Fab-Zygo.pdf"
+      ],
+      "historical_names": [
+        "Utricularia biflora"
+      ],
+      "characters": {
+        "growth_habit": "Small glabrous perennial, aquatic/at water margin, forming mats in water or mud; minute bladder traps used for nutrient capture",
+        "stems": null,
+        "leaves": "Filiform divided vegetative organs, forked one to three times; source notes their homology as leaves versus stem portions is uncertain",
+        "inflorescence": null,
+        "flowers": "One to four flowers; yellow bilabiate corollas 6–12 mm tall and 6–8 mm wide per key, spur relatively inconspicuous; two stamens",
+        "fruit": null,
+        "seeds": "Smooth, broadly winged",
+        "habitat": "Shallow water and mud",
+        "flowering_period": "May–Aug"
+      },
+      "research_caveats": [
+        "Flora includes U. biflora within U. gibba; preserve historical name application."
+      ],
+      "source_status": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "verbascum-thapsus",
+      "family": "Scrophulariaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Verbascum thapsus",
+      "original_source_file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "printed_page": 1010,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Stout biennial 0.7–2 m, densely gray felted/woolly with stellate or tree-branched hairs",
+        "stems": null,
+        "leaves": "Largest rosette blades to 50 cm, progressively smaller up stem, stem leaves sessile and decurrent",
+        "inflorescence": null,
+        "flowers": "Terminal densely bracted spike, subsessile yellow corollas 12–30(–35) mm across; genus 5 stamens",
+        "fruit": "Capsules densely tomentose with branched hairs, numerous seeds (genus)",
+        "seeds": null,
+        "habitat": "Roadsides, pastures, disturbed ground",
+        "flowering_period": "May–Jul, sometimes later"
+      },
+      "research_caveats": [],
+      "source_status": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "verbena-brasiliensis",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena brasiliensis",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 1056,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Large stout perennial, distinctly four-sided erect stems 1–2.5 m",
+        "stems": null,
+        "leaves": "Elliptic to lanceolate",
+        "inflorescence": "Spikes 0.5–4 cm long",
+        "flowers": "Calyx 2.5–3.5 mm or more; purple or lilac corolla tube slightly longer than calyx, limb ca. 2.5 mm across",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Waste places and creek margins",
+        "flowering_period": "May–Oct"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "verbena-canescens",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena canescens",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 1056,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Verbena canescens var. roemeriana"
+      ],
+      "characters": {
+        "growth_habit": "Perennial from woody root, stems spreading to erect to 46 cm; foliage gray-pubescent",
+        "stems": null,
+        "leaves": "Lower blades typically narrow elongate oblong-lanceolate to spatulate, incised-dentate/pinnatifid; broadly margined or semi-clasping at base (flora key)",
+        "inflorescence": "Floral bracts ovate, acuminate, typically slightly longer than calyx (flora key)",
+        "flowers": "Calyx 2–3 mm; blue/lavender/purple corolla tube slightly longer than calyx; limb 4–6 mm across",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Limestone outcrops",
+        "flowering_period": "Apr–Oct"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "verbena-halei",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena halei",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 1056,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Verbena officinalis subsp. halei"
+      ],
+      "characters": {
+        "growth_habit": "Erect perennial flowering first year, to 1 m",
+        "stems": null,
+        "leaves": "Few, petiolate, oblanceolate or obovate, toothed or lobed",
+        "inflorescence": "Flowers becoming well spaced along axis",
+        "flowers": "Calyx 3–3.5 mm; lavender-blue corolla rarely white, tube slightly longer than calyx; limb 6–7 mm across",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Prairies and disturbed sites",
+        "flowering_period": "Apr–Oct"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "verbena-scabra",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena scabra",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 1058,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Perennial, erect stems 0.3–1(–1.5) m",
+        "stems": null,
+        "leaves": "Ovate and extremely scabrous above",
+        "inflorescence": null,
+        "flowers": "Slender elongate spikes; calyx 2.5–3 mm; corolla blue to pink/lavender, tube approximately equals calyx, limb ca. 2 mm wide",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Low ground; flora notes few TX specimens actually seen despite broad secondary reports",
+        "flowering_period": "Mar–Dec"
+      },
+      "research_caveats": [],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "verbena-xutha",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena xutha",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 1058,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Coarse pubescent perennial with stems to 2 m",
+        "stems": null,
+        "leaves": null,
+        "inflorescence": null,
+        "flowers": "Calyx 3–4 mm; blue-purple corolla with tube about as long as calyx and limb 5–8 mm across",
+        "fruit": null,
+        "seeds": null,
+        "habitat": "Stream bottoms and roadsides",
+        "flowering_period": "Jun–Oct"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "veronica-anagallis-aquatica",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Veronica anagallis-aquatica",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 1012,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Usually perennial; stems sprawling, decumbent or erect, to 100 cm",
+        "stems": null,
+        "leaves": "Opposite, sessile clasping oblong-lanceolate blades shallowly toothed",
+        "inflorescence": "Axillary peduncled racemes often over 30 flowers (source key)",
+        "flowers": "Pedicels 4–6(–8) mm; pale lavender to blue corolla 5–6 mm across",
+        "fruit": "Nearly orbicular capsule",
+        "seeds": null,
+        "habitat": "Wet ground and running water",
+        "flowering_period": "Apr–Jun"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "veronica-persica",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Veronica persica",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 1014,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Annual decumbent basally then ascending, up to 40 cm",
+        "stems": null,
+        "leaves": null,
+        "inflorescence": "Solitary axillary long-pedicelled flowers; pedicels 15–30 mm, often longer than leaves (source key)",
+        "flowers": "Violet-blue corolla, 8–12 mm across (key)",
+        "fruit": "Capsule lobes spreading outwards (source key)",
+        "seeds": null,
+        "habitat": "Lawns and waste places",
+        "flowering_period": "Feb–May"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "veronica-polita",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Veronica polita",
+      "original_source_file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "printed_page": 1014,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Annual with prostrate/reclining stems to 30 cm",
+        "stems": null,
+        "leaves": null,
+        "inflorescence": "Solitary axillary flowers; fruiting pedicels 5–12 mm",
+        "flowers": "Blue corollas 3–6 mm across; source key: usually blue throughout, unlike bicolored V. agrestis",
+        "fruit": "Capsule lobes erect, glandular and eglandular hairs; style exceeding capsule notch (source key)",
+        "seeds": null,
+        "habitat": "Lawns and waste places",
+        "flowering_period": "Feb–Mar"
+      },
+      "research_caveats": [],
+      "source_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "vitex-agnus-castus",
+      "family": "Lamiaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Vitex agnus-castus",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 1060,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [],
+      "characters": {
+        "growth_habit": "Aromatic shrub or small tree to 5 m",
+        "stems": null,
+        "leaves": "Opposite palmately compound leaves with (3–)5–9 leaflets, to ca. 12 cm long, dark above and white-puberulent beneath; petioles to 75 mm",
+        "inflorescence": null,
+        "flowers": "Dense inflorescences to 31 cm; calyx 2–2.5 mm, corolla tube 6–7 mm, limb to 13 mm wide; Vitex generic treatment has 4 stamens, bilabiate flowers",
+        "fruit": "Drupaceous and somewhat fleshy per genus treatment",
+        "seeds": null,
+        "habitat": "Introduced ornamental, escaping/naturalizing in moist habitats and waste places",
+        "flowering_period": "May–Oct"
+      },
+      "research_caveats": [
+        "Flora distinguishes varieties agnus-castus and caerulea mainly by flower color; source places genus in Verbenaceae; current family Lamiaceae."
+      ],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    },
+    {
+      "species_id": "warnockia-scutellarioides",
+      "family": "Lamiaceae",
+      "flora_family": "Lamiaceae",
+      "flora_name": "Warnockia scutellarioides",
+      "original_source_file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "printed_page": 784,
+      "source_references": [
+        "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+      ],
+      "historical_names": [
+        "Brazoria scutellarioides"
+      ],
+      "characters": {
+        "growth_habit": "Erect annual 7–45(–75) cm, simple or widely branched",
+        "stems": null,
+        "leaves": "Mostly sessile, slightly clasping oblong–oblanceolate blades to 70 × 23 mm, toothed toward apex",
+        "inflorescence": null,
+        "flowers": "Terminal spike-like racemes; bracts 3–6 mm, puberulent calyces 3–5 mm becoming to 7.9 mm and closed in fruit; pinkish to lavender corollas 8.5–12 mm with pale, purple-dotted throat; 4 stamens",
+        "fruit": "Conspicuously 3-angled nutlets yellow maturing brown and gold",
+        "seeds": null,
+        "habitat": "Gravelly or thin clay soils on limestone",
+        "flowering_period": "Mid-Apr–early Jun"
+      },
+      "research_caveats": [
+        "1999 authors acknowledge generic recognition versus possible placement within Brazoria."
+      ],
+      "source_status": "1999_treatment_extracted_modern_name_and_BONAP_pending",
+      "review_flags": [],
+      "bonap_county_status": "unverified",
+      "published_site_status": "not_integrated"
+    }
+  ]
+}
