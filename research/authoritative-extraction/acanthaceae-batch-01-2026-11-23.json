@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "collection": "lamiales",
+  "batch": "2026-11-23-acanthaceae-01",
+  "source": {
+    "citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "document": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "printed_pages": [
+      212,
+      213,
+      214,
+      216
+    ]
+  },
+  "authority_note": "Facts are condensed/paraphrased from the cited printed treatments and relevant keys; unmentioned morphology is not assumed absent. Source pagination is printed book pagination.",
+  "crosswalk_sources": [
+    {
+      "name": "POWO Dianthera americana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:78915-2"
+    },
+    {
+      "name": "POWO Ruellia ciliatiflora",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:53920-1"
+    },
+    {
+      "name": "ITIS Justicia americana",
+      "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=34352"
+    }
+  ],
+  "bonap": {
+    "scope": "Hays County plus west/north target counties",
+    "verification": "pending_individual_county_map_review",
+    "note": "Flora distribution is not a substitute for BONAP county nativity."
+  },
+  "records": [
+    {
+      "family": "Acanthaceae",
+      "id": "anisacanthus-quadrifidus-var-wrightii",
+      "reference_name": "Anisacanthus quadrifidus var. wrightii",
+      "page": 212,
+      "habit": "Shrub to ca. 1.5 m",
+      "leaves": "Blades to 5 cm × 2 cm; petioles to 1 cm",
+      "flowers": "Single or paired in terminal one-sided spike-like inflorescences; calyx ca. 5 mm; reddish two-lipped corolla 30–40 mm, upper lip nearly entire, lower 3-lobed; 2 stamens",
+      "fruit": "Capsule ca. 15 mm; 2(–4) seeds",
+      "habitat": "Native Edwards Plateau; planted and sometimes escapes",
+      "flowering": "Jun–Aug",
+      "synonyms": [
+        "Anisacanthus wrightii"
+      ],
+      "status": "flora_treatment_extracted",
+      "source": "Diggs et al. 1999",
+      "printed_page": 212,
+      "verification": "flora_treatment_extracted"
+    },
+    {
+      "family": "Acanthaceae",
+      "id": "dicliptera-brachiata",
+      "reference_name": "Dicliptera brachiata",
+      "page": 212,
+      "habit": "Perennial herb to 0.7(–1) m",
+      "leaves": "Blades to 12(–15) × (1.5–)2–7 cm; petioles (0.5–)2–7+ cm",
+      "flowers": "Axillary short-peduncled to subsessile clusters, involucre of 2–4 floral bracts; obovate bracts to 7 × 2–5 mm; pink to purple (rare white) corollas 15–20 mm, upper lip entire or shallow 2-lobed, lower usually entire",
+      "fruit": "Stipitate ovoid emarginate capsule 5–6 mm; 2–4 seeds",
+      "habitat": "Moist wooded stream bottoms and wet habitats",
+      "flowering": "Jun–Nov",
+      "status": "flora_treatment_extracted",
+      "source": "Diggs et al. 1999",
+      "printed_page": 212,
+      "verification": "flora_treatment_extracted"
+    },
+    {
+      "family": "Acanthaceae",
+      "id": "dyschoriste-linearis",
+      "reference_name": "Dyschoriste linearis",
+      "page": 213,
+      "habit": "Rhizomatous ± pubescent perennial; erect or partly decumbent stems 7–30 cm",
+      "leaves": "Sessile linear to oblanceolate obtuse blades",
+      "flowers": "Sessile axillary flowers shorter than leaves, foliaceous bracts; sepals united ca. 1/4, acuminate lobes 9–13 mm; lavender corolla with dark throat dots 15–27 mm",
+      "fruit": "Capsules 2–4 seeded",
+      "habitat": "Rocky or sandy ground",
+      "flowering": "Apr–Jul; sporadically to Oct",
+      "status": "flora_treatment_extracted",
+      "source": "Diggs et al. 1999",
+      "printed_page": 213,
+      "verification": "flora_treatment_extracted"
+    },
+    {
+      "family": "Acanthaceae",
+      "id": "justicia-americana",
+      "repository_name": "Dianthera americana",
+      "reference_name": "Justicia americana",
+      "page": 213,
+      "habit": "Glabrous rhizomatous colonial perennial; erect stems to ca. 100 cm",
+      "leaves": "Sessile or nearly so; narrowly oblong-lanceolate to elliptic-lanceolate",
+      "flowers": "Axillary peduncled dense spikes to 3 cm; peduncles to 15 cm; sepals linear-lanceolate ca. 7 mm, nearly free; white or violet corollas 10–12 mm with red-purple spots; genus treatment describes two stamens and 3-lobed lower lip",
+      "fruit": "Capsule ca. 12 mm; genus treatment four-seeded",
+      "habitat": "Wet ground, stream and pond margins",
+      "flowering": "May–Jun",
+      "nomenclature": "POWO accepts Dianthera americana; ITIS accepts Justicia americana; keep both taxonomic perspectives",
+      "status": "flora_treatment_extracted_taxonomy_disagreement",
+      "source": "Diggs et al. 1999",
+      "printed_page": 213,
+      "verification": "flora_treatment_extracted_taxonomy_disagreement"
+    },
+    {
+      "family": "Acanthaceae",
+      "id": "ruellia-drummondiana",
+      "reference_name": "Ruellia drummondiana",
+      "page": 216,
+      "habit": "Perennial to ca. 0.75 m; densely pubescent with short spreading to appressed hairs",
+      "flowers": "Flora key: sessile or short-peduncled axillary glomerules at multiple nodes, broader leaves; fruits minutely canescent ca. 10 mm",
+      "habitat": "Wooded riparian often rocky areas; Texas endemic per flora",
+      "flowering": "Aug–Sep",
+      "status": "flora_treatment_extracted",
+      "source": "Diggs et al. 1999",
+      "printed_page": 216,
+      "verification": "flora_treatment_extracted"
+    },
+    {
+      "family": "Acanthaceae",
+      "id": "ruellia-humilis",
+      "reference_name": "Ruellia humilis",
+      "page": 216,
+      "habit": "Perennial to ca. 0.8 m; usually rather densely short-pilose",
+      "leaves": "Lanceolate to ovate or broadly elliptic; sessile or subsessile with petioles to 3 mm, erect-ascending",
+      "flowers": "Flora key: axillary nearly sessile or short-peduncled clustered flowers; linear calyx lobes with slender tips",
+      "habitat": "Prairies and open woods",
+      "flowering": "May–Sep",
+      "synonyms": [
+        "R. humilis var. depauperata",
+        "R. humilis var. expansa",
+        "R. humilis var. longiflora"
+      ],
+      "status": "flora_treatment_extracted",
+      "source": "Diggs et al. 1999",
+      "printed_page": 216,
+      "verification": "flora_treatment_extracted"
+    },
+    {
+      "family": "Acanthaceae",
+      "id": "ruellia-metziae",
+      "reference_name": "Ruellia metziae",
+      "page": 216,
+      "habit": "Perennial herb to ca. 0.6 m",
+      "leaves": "Petiolate, oblong-lanceolate to narrowly ovate-oblong, 3–12 cm long, undulate to toothed",
+      "flowers": "Terminal long-peduncled panicle-like inflorescence; usually white sometimes pale bluish purple, corolla (5–)5.5–6.5 cm; calyx lobes 14–20 mm in flower; some early axillary cleistogamous flowers",
+      "habitat": "Limestone outcrops, gravel, thickets and open woods",
+      "flowering": "Apr–Jul",
+      "status": "flora_treatment_extracted",
+      "source": "Diggs et al. 1999",
+      "printed_page": 216,
+      "verification": "flora_treatment_extracted"
+    },
+    {
+      "family": "Acanthaceae",
+      "id": "ruellia-ciliatiflora",
+      "reference_name": "Ruellia nudiflora var. nudiflora",
+      "page": 216,
+      "habit": "Stems spreading-pilose becoming glabrate, to 0.7 m",
+      "leaves": "Petiolate",
+      "flowers": "Flowers opening near sunrise and falling in afternoon; key distinguishes long-peduncled terminal panicle-like inflorescence; violet-lavender curved corolla ca. 4–5(–5.5) cm; calyx lobes 10–15 mm; sepals with gland-tipped hairs or hispid to slightly scabrous",
+      "habitat": "Sandy open woods",
+      "flowering": "Apr–May",
+      "nomenclature": "POWO treats Ruellia nudiflora as synonym of Ruellia ciliatiflora; 1999 flora uses infraspecific name. Confirm circumscription before transferring all variety-level claims.",
+      "status": "flora_treatment_extracted_taxon_scope_review",
+      "source": "Diggs et al. 1999",
+      "printed_page": 216,
+      "verification": "flora_treatment_extracted_taxon_scope_review"
+    }
+  ]
+}
