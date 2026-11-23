@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "audit_date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "branch": "staging/original-source-transfer",
+  "inventory_count": 102,
+  "record_count": 102,
+  "unique_ids": 102,
+  "duplicate_ids": [],
+  "inventory_missing_records": [],
+  "record_ids_not_in_inventory": [],
+  "counts_by_batch": [
+    {
+      "file": "research/authoritative-extraction/acanthaceae-batch-01-2026-11-23.json",
+      "count": 8
+    },
+    {
+      "file": "research/authoritative-extraction/acanthaceae-lamiaceae-batch-02-2026-11-23.json",
+      "count": 10
+    },
+    {
+      "file": "research/authoritative-extraction/alternative-authorities-batch-10-2026-11-23.json",
+      "count": 9
+    },
+    {
+      "file": "research/authoritative-extraction/bignoniaceae-oleaceae-batch-08-2026-11-23.json",
+      "count": 12
+    },
+    {
+      "file": "research/authoritative-extraction/lamiaceae-batch-03-2026-11-23.json",
+      "count": 10
+    },
+    {
+      "file": "research/authoritative-extraction/lamiaceae-batch-04-2026-11-23.json",
+      "count": 9
+    },
+    {
+      "file": "research/authoritative-extraction/lamiaceae-verbenaceae-batch-05-2026-11-23.json",
+      "count": 10
+    },
+    {
+      "file": "research/authoritative-extraction/orobanchaceae-plantaginaceae-batch-07-2026-11-23.json",
+      "count": 12
+    },
+    {
+      "file": "research/authoritative-extraction/remaining-families-batch-09-2026-11-23.json",
+      "count": 6
+    },
+    {
+      "file": "research/authoritative-extraction/remaining-six-batch-11-2026-11-23.json",
+      "count": 6
+    },
+    {
+      "file": "research/authoritative-extraction/verbenaceae-plantaginaceae-batch-06-2026-11-23.json",
+      "count": 10
+    }
+  ],
+  "morphology_missing_habit": [
+    "seymeria-bipinnatisecta"
+  ],
+  "known_high_priority_review": [
+    "seymeria-bipinnatisecta: original species-specific morphological treatment missing",
+    "linaria-texana: Kew Linaria versus GRIN/ITIS Nuttallanthus treatment conflict",
+    "castilleja-lindheimeri: species versus historical variety rank",
+    "stachys-agraria: historical flora misapplication",
+    "lantana-x-strigocamara: hybrid boundaries versus historical L. camara",
+    "hedeoma-nana: subspecies morphology application",
+    "buddleja-racemosa: only subsp. racemosa measurements available"
+  ],
+  "schemas": "Batch records vary across id/species_id, printed_page/page/source references, phenology/flowering, and fruit/fruits fields. Build a normalized manifest before integration rather than bulk-copying fields blindly.",
+  "coverage_definition": "100% of inventory IDs have a research JSON record; this is NOT all morphology confirmed or ready to integrate.",
+  "source_review": "Each treatment's cited sources still require standardization and cross-source verification; some alternate-source records are horticultural field notes rather than full botanical monographs.",
+  "BONAP_county_verification": "pending_all",
+  "published_gallery_images_added": 0,
+  "photos_or_credits_modified": false,
+  "site_species_profiles_integrated": 0,
+  "audit_notes": "Computed against main site/data/species and research branch extraction JSON only. Records with incomplete morphology are still included in coverage but held separately."
+}
