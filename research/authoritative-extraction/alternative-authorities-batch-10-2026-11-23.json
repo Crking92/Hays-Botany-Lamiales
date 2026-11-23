@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "collection_id": "lamiales",
+  "batch_id": "2026-11-23-10-alternative-authorities",
+  "source_policy": "Each assertion backed by source urls within record; no unsupported measurement import; historical flora not claimed as source for these nine",
+  "records": [
+    {
+      "id": "forestiera-angustifolia",
+      "family": "Oleaceae",
+      "name": "Forestiera angustifolia",
+      "refs": [
+        "https://www.npsot.org/posts/native-plant/forestiera-angustifolia/",
+        "https://www.gardenstylesanantonio.com/plants/desert-olive/"
+      ],
+      "habit": "Densely branched shrub or small tree; stiff lateral branchlets commonly branch nearly at right angles, elbow-like",
+      "leaves": "Small narrow linear leaves in clusters along twigs; foliage variably semi-evergreen depending on region",
+      "flowers": "Inconspicuous separate male/female flowers on separate plants; early spring clusters before leaves",
+      "fruit": "Small dark, blackish single-seeded fruit",
+      "habitat": "Dry open sites, sandy well-drained soils and brush habitats",
+      "phenology": "Flowers usually January–April across referenced Texas sites",
+      "taxonomic_note": "Older names Forestiera puberula and F. texana reported by NPSOT; synonym status requires POWO check; do not conflate F. pubescens",
+      "verification": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "sources": [
+        {
+          "url": "https://www.npsot.org/posts/native-plant/forestiera-angustifolia/"
+        },
+        {
+          "url": "https://www.gardenstylesanantonio.com/plants/desert-olive/"
+        }
+      ]
+    },
+    {
+      "id": "fraxinus-berlandieriana",
+      "family": "Oleaceae",
+      "name": "Fraxinus berlandieriana",
+      "refs": [
+        "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=43"
+      ],
+      "habit": "Deciduous medium-sized tree to about 40 ft (12 m); broad dense rounded crown, drooping branches; trunk sometimes 2 ft (0.6 m) across",
+      "leaves": "Opposite, odd-pinnately compound leaves 6–10 in long, commonly five lanceolate leaflets, occasionally three or seven; leaflets 3–4 in, remotely toothed at least distally",
+      "flowers": "Dioecious; darker clustered male flowers often appear before leafout, loose female clusters with emerging leaves",
+      "fruit": "Tan slender samaras 1–1.5 in long, about 0.25 in wide",
+      "bark": "Gray to tan with narrow interwoven furrows/ridges",
+      "habitat": "Stream and river margins in South Texas; extensively planted elsewhere",
+      "taxonomic_note": "Do not merge with F. pennsylvanica, historically problematic in ash complexes",
+      "verification": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "sources": [
+        {
+          "url": "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=43"
+        }
+      ]
+    },
+    {
+      "id": "fraxinus-greggii",
+      "family": "Oleaceae",
+      "name": "Fraxinus greggii",
+      "refs": [
+        "https://apps.cals.arizona.edu/arboretum/taxon.aspx?id=391"
+      ],
+      "habit": "Small shrub-like, nearly evergreen tree commonly to 16–20 ft (5–6 m)",
+      "leaves": "Fine-textured dark-green pinnate foliage, individual compound leaves ca. 2 in long, lanceolate leaflets and fine marginal teeth according to University of Arizona arboretum",
+      "flowers": "Small petal-less clustered flowers in spring; typically dioecious",
+      "habitat": "Rocky limestone slopes, dry creek washes and canyons of southwest Texas and nearby Southwest",
+      "fruit": null,
+      "taxonomic_note": "University source does not provide reliable samara dimensions; hold fruit measurements",
+      "verification": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "sources": [
+        {
+          "url": "https://apps.cals.arizona.edu/arboretum/taxon.aspx?id=391"
+        }
+      ]
+    },
+    {
+      "id": "leucophyllum-frutescens",
+      "family": "Scrophulariaceae",
+      "name": "Leucophyllum frutescens",
+      "refs": [
+        "https://www.wildflower.org/plants/result.php?id_plant=LEFR3"
+      ],
+      "habit": "Dense, perennial evergreen shrub typically 2–5 ft (0.6–1.5 m), occasionally about 10 ft (3 m)",
+      "leaves": "Simple elliptic to obovate blades mostly <=1 in (~2.5 cm), up to 1.25 in (~3.2 cm), entire and rounded apically, narrowed basally, dense silvery stellate pubescence",
+      "flowers": "Crowded solitary axillary, approximately bell-shaped violet/purple/pink-lavender corollas up to 1 in in diameter and length",
+      "fruit": "Small capsule",
+      "habitat": "Rocky, well-drained limestone slopes, dry ravines and hillsides",
+      "phenology": "Intermittent flowering spring through fall, often after rains; local season variable",
+      "synonyms": [
+        "Terania frutescens"
+      ],
+      "verification": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "sources": [
+        {
+          "url": "https://www.wildflower.org/plants/result.php?id_plant=LEFR3"
+        }
+      ]
+    },
+    {
+      "id": "penstemon-baccharifolius",
+      "family": "Plantaginaceae",
+      "name": "Penstemon baccharifolius",
+      "refs": [
+        "https://www.wildflower.org/plants/result.php?id_plant=peba"
+      ],
+      "habit": "Woody-based or almost shrubby perennial often about 1–1.5 ft tall, sometimes to 20 in (50 cm)",
+      "leaves": "Dark-green, somewhat thick, toothed blades, varying in hairiness",
+      "flowers": "Cherry-red tubular flowers in clustered spikes on upper stems; attract hummingbirds",
+      "fruit": "Capsule",
+      "habitat": "Limestone crevices, bluffs and rocky slopes of central/west Texas",
+      "phenology": "April through October listed by wildflower center; flowering sporadic within range",
+      "verification": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "sources": [
+        {
+          "url": "https://www.wildflower.org/plants/result.php?id_plant=peba"
+        }
+      ]
+    },
+    {
+      "id": "penstemon-tenuis",
+      "family": "Plantaginaceae",
+      "name": "Penstemon tenuis",
+      "refs": [
+        "https://www.depts.ttu.edu/plantresources/Pages/directories/landscape-info-sheets/herbaceous-info/Penstemon_tenuis.php"
+      ],
+      "habit": "Rounded perennial herb, about 2–3 ft (0.6–0.9 m) including inflorescence",
+      "leaves": "Opposite, broadly obovate, entire or toothed margins",
+      "flowers": "Panicles with tubular pink, lavender or sometimes reddish corollas",
+      "habitat": "Listed on dry rocky sites, crevices and bluffs by Texas Tech plant database; other habitats may differ",
+      "phenology": "Summer–fall per TTU plant database",
+      "taxonomic_note": "Flowering and site preferences vary among sources; compare FNA treatment rather than treating horticultural summaries as a species-wide range",
+      "verification": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "sources": [
+        {
+          "url": "https://www.depts.ttu.edu/plantresources/Pages/directories/landscape-info-sheets/herbaceous-info/Penstemon_tenuis.php"
+        }
+      ]
+    },
+    {
+      "id": "physostegia-correllii",
+      "family": "Lamiaceae",
+      "name": "Physostegia correllii",
+      "refs": [
+        "https://www.fws.gov/species/corrells-false-dragonhead-physostegia-correllii"
+      ],
+      "habit": "Rhizomatous perennial herb often about 3 ft (~0.9 m) or taller, stout upright flowering stems",
+      "leaves": "Dark-green sessile leaves with toothed margins, widest near middle; stems may have dark purplish-red coloration when young",
+      "flowers": "Dense terminal spikes of tubular purple-pink speckled flowers during summer",
+      "habitat": "Wet riparian stream and river margins, near water, sometimes in ditches and disturbed alluvial substrates",
+      "phenology": "Summer flowering according to USFWS",
+      "taxonomy": "Rare conservation concern; do not map or disclose sensitive occurrence coordinates; no comparison with P. virginiana leaf widths without direct quantitative treatment",
+      "verification": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "sources": [
+        {
+          "url": "https://www.fws.gov/species/corrells-false-dragonhead-physostegia-correllii"
+        }
+      ]
+    },
+    {
+      "id": "salvia-ballotiflora",
+      "family": "Lamiaceae",
+      "name": "Salvia ballotiflora",
+      "refs": [
+        "https://www.npsot.org/posts/native-plant/salvia-ballotiflora/"
+      ],
+      "habit": "Aromatic perennial branching shrub about 3–5 ft (0.9–1.5 m), square stems; deciduous depending on winter",
+      "leaves": "Small aromatic hairy oval serrated blades",
+      "flowers": "Bluish-purple flowers in elongated clusters",
+      "fruit": "Nutlet (mint family)",
+      "habitat": "Rocky sandy or gravelly brush slopes and well-drained limestone or calcareous soils",
+      "phenology": "April–July according to Native Plant Society of Texas",
+      "verification": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "sources": [
+        {
+          "url": "https://www.npsot.org/posts/native-plant/salvia-ballotiflora/"
+        }
+      ]
+    },
+    {
+      "id": "salvia-pentstemonoides",
+      "family": "Lamiaceae",
+      "name": "Salvia pentstemonoides",
+      "refs": [
+        "https://www.fws.gov/species/big-red-sage-salvia-pentstemonoides"
+      ],
+      "habit": "Large herbaceous perennial from persistent rootstocks, basal rosette and 1–several square flowering stalks to 5 ft (~1.5 m)",
+      "leaves": "Smooth thick dark-green basal leaves to about 5 in (~12 cm)",
+      "flowers": "Crimson/reddish-purple tubular flowers ca. 1.5 in (~4 cm); calyx initially green, becomes purple",
+      "habitat": "Shaded limestone canyons, seeps, streamside bluffs and ledges in Edwards Plateau",
+      "phenology": "Opportunistic blooming May–Nov depending on rainfall and soil moisture",
+      "taxonomy": "IMPORTANT SPELLING: USFWS identifies pentstemonoides (extra t) as correct and penstemonoides as a frequent misspelling; retain repo slug salvia-pentstemonoides, not a different species",
+      "verification": "alternative_authoritative_source_extracted_secondary_crosscheck_BONAP_pending",
+      "sources": [
+        {
+          "url": "https://www.fws.gov/species/big-red-sage-salvia-pentstemonoides"
+        }
+      ]
+    }
+  ],
+  "held_species": [
+    "aloysia-virgata",
+    "buddleja-racemosa",
+    "hedeoma-nana",
+    "lantana-x-strigocamara",
+    "linaria-texana",
+    "seymeria-bipinnatisecta"
+  ],
+  "bonap_county_status": "NOT CHECKED",
+  "website_status": "research branch only, no live site/photos or credits updated"
+}
