@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-11-23",
+  "scope": "Research branch taxonomic reconciliation and BONAP readiness; no changes to live taxonomy",
+  "taxa": [
+    {
+      "species_id": "linaria-texana",
+      "repository_name": "Linaria texana Scheele",
+      "flora_name": "Nuttallanthus texanus (Scheele) D.A. Sutton",
+      "status": "accepted_under_repository_name_by_POWO; alternative ITIS treatment",
+      "evidence": [
+        {
+          "source": "Kew POWO",
+          "url": "https://powo.science.kew.org/taxon/279678-2",
+          "finding": "Linaria texana accepted, Nuttallanthus texanus synonym"
+        },
+        {
+          "source": "ITIS",
+          "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=503971",
+          "finding": "Nuttallanthus texanus accepted, Linaria texana synonym"
+        },
+        {
+          "source": "1999 Flora of North Central Texas",
+          "print_pages": "1004, 1006",
+          "finding": "Nuttallanthus texanus recognized with seed and spur diagnostics"
+        }
+      ],
+      "action": "Retain Linaria texana species ID; add alternative accepted genus/name in learner metadata after review",
+      "risk": "low for character equivalence, moderate for naming"
+    },
+    {
+      "species_id": "stachys-agraria",
+      "repository_name": "Stachys agraria",
+      "flora_name": "Stachys crenata Raf.",
+      "status": "name_application_circumscription_hold",
+      "evidence": [
+        {
+          "source": "Kew POWO",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:459447-1",
+          "finding": "Stachys crenata synonymized under Stachys agraria"
+        },
+        {
+          "source": "ITIS",
+          "url": "https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=505351",
+          "finding": "Recognizes Stachys crenata and misapplied Stachys agraria auct. non usage"
+        }
+      ],
+      "action": "Hold flora-derived species-level phenotype from publication pending name-application specimen crosswalk; do not auto-transfer generic agreement into photo identity",
+      "risk": "high"
+    },
+    {
+      "species_id": "hedeoma-nana",
+      "repository_name": "Hedeoma nana",
+      "status": "accepted_species_infraspecific_morphology_pending",
+      "evidence": [
+        {
+          "source": "Kew POWO",
+          "url": "https://powo.science.kew.org/taxon/51012153-1",
+          "finding": "Hedeoma nana accepted"
+        },
+        {
+          "source": "Kew POWO",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77168539-1",
+          "finding": "Hedeoma nana subsp. nana separately accepted"
+        },
+        {
+          "source": "Kew POWO",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60452706-2",
+          "finding": "Hedeoma nana subsp. mexicana separately accepted"
+        }
+      ],
+      "action": "Keep local subspecies traits on hold pending Texas specimen circumscription",
+      "risk": "moderate"
+    },
+    {
+      "species_id": "seymeria-bipinnatisecta",
+      "repository_name": "Seymeria bipinnatisecta",
+      "status": "taxonomy_supported_morphology_unverified",
+      "evidence": [
+        {
+          "source": "Kew POWO",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:235347-2",
+          "finding": "Taxon accepted"
+        },
+        {
+          "source": "ITIS",
+          "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=505195",
+          "finding": "Accepted name and Seymeria havardii synonym"
+        }
+      ],
+      "action": "Keep species-specific habit, leaf, flower, fruit dimensions blank pending FNA primary treatment; don't transfer related S. macrophylla descriptions",
+      "risk": "high"
+    },
+    {
+      "species_id": "castilleja-lindheimeri",
+      "repository_name": "Castilleja lindheimeri",
+      "flora_name": "Castilleja purpurea var. lindheimeri",
+      "status": "taxonomic_rank_review",
+      "action": "Determine contemporary accepted species versus varietal rank from POWO/FNA before learner publication",
+      "risk": "moderate"
+    },
+    {
+      "species_id": "lantana-x-strigocamara",
+      "repository_name": "Lantana × strigocamara",
+      "status": "hybrid_phenotype_review",
+      "action": "Retain hybrid record separately from Lantana camara and native L. urticoides, avoid generic identification traits as certain",
+      "risk": "moderate"
+    },
+    {
+      "species_id": "buddleja-racemosa",
+      "repository_name": "Buddleja racemosa",
+      "status": "subspecies_scope_review",
+      "action": "Do not generalize subsp. racemosa dimensions across species without primary species treatment",
+      "risk": "moderate"
+    }
+  ],
+  "bonap_verification_method": {
+    "authority": "BONAP NAPA county-level map",
+    "homepage": "https://bonap.net/NAPA/",
+    "county_map_index": "https://bonap.net/Napa/Family/Modern/County",
+    "species_count_verified": 0,
+    "target_area": "Hays County, Texas plus approved nearby western/northern counties, individual map polygon required",
+    "safeguard": "BONAP County/Zip query optionally includes adjacent counties; adjacent-only report is insufficient for Hays County presence. No Texas-wide nativity inference.",
+    "status": "pending_manual_or_reproducible_county_map_lookup"
+  },
+  "normalized_manifest": "research/authoritative-extraction/normalized-lamiales-manifest-2026-11-23.json",
+  "publication_policy": "No public species profile integrations until taxonomy, source confidence and county nativity status per species reviewed; photo-first gallery work remains separate"
+}
