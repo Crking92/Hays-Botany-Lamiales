@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "collection_id": "lamiales",
+  "batch_id": "2026-11-23-05-lamiaceae-verbenaceae",
+  "research_only": true,
+  "record_count": 10,
+  "records": [
+    {
+      "id": "callicarpa-americana",
+      "family": "Lamiaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Callicarpa americana",
+      "page": 1049,
+      "continuation_page": 1050,
+      "habit": "Soft-wooded, stellate-pubescent shrub 0.7–3 m with widely spreading branches",
+      "leaves": "Petioles to 38 mm; aromatic elliptic–ovate blades 8–23 cm long, sharply toothed",
+      "flowers": "Axillary cymes; small funnel-shaped 4-lobed corollas lavender-pink to bluish, reddish or white; corolla tube 2.6–2.9 mm",
+      "fruits": "Drupaceous, strongly clustered, rose-pink through violet/red-purple, globose 3–6 mm diameter, spicy odor",
+      "habitat": "Woods, especially low ground",
+      "flowering": "Jun–Jul",
+      "note": "Modern repository assigns Lamiaceae; historical source places this genus in Verbenaceae.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1049,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    },
+    {
+      "id": "vitex-agnus-castus",
+      "family": "Lamiaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Vitex agnus-castus",
+      "page": 1060,
+      "habit": "Aromatic shrub or small tree to 5 m",
+      "leaves": "Opposite palmately compound leaves with (3–)5–9 leaflets, to ca. 12 cm long, dark above and white-puberulent beneath; petioles to 75 mm",
+      "flowers": "Dense inflorescences to 31 cm; calyx 2–2.5 mm, corolla tube 6–7 mm, limb to 13 mm wide; Vitex generic treatment has 4 stamens, bilabiate flowers",
+      "fruits": "Drupaceous and somewhat fleshy per genus treatment",
+      "habitat": "Introduced ornamental, escaping/naturalizing in moist habitats and waste places",
+      "flowering": "May–Oct",
+      "note": "Flora distinguishes varieties agnus-castus and caerulea mainly by flower color; source places genus in Verbenaceae; current family Lamiaceae.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1060,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    },
+    {
+      "id": "warnockia-scutellarioides",
+      "family": "Lamiaceae",
+      "flora_family": "Lamiaceae",
+      "flora_name": "Warnockia scutellarioides",
+      "page": 784,
+      "habit": "Erect annual 7–45(–75) cm, simple or widely branched",
+      "leaves": "Mostly sessile, slightly clasping oblong–oblanceolate blades to 70 × 23 mm, toothed toward apex",
+      "flowers": "Terminal spike-like racemes; bracts 3–6 mm, puberulent calyces 3–5 mm becoming to 7.9 mm and closed in fruit; pinkish to lavender corollas 8.5–12 mm with pale, purple-dotted throat; 4 stamens",
+      "fruits": "Conspicuously 3-angled nutlets yellow maturing brown and gold",
+      "habitat": "Gravelly or thin clay soils on limestone",
+      "flowering": "Mid-Apr–early Jun",
+      "synonyms": [
+        "Brazoria scutellarioides"
+      ],
+      "note": "1999 authors acknowledge generic recognition versus possible placement within Brazoria.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 784,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    },
+    {
+      "id": "aloysia-gratissima",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Aloysia gratissima",
+      "page": 1049,
+      "habit": "Much-branched shrub to 3 m; young twigs minutely pubescent",
+      "leaves": "Opposite green lanceolate/elliptic/narrow-oblong blades 3–27 × 2–8 mm, usually entire or 1–4 teeth each side; often smaller axillary leaf fascicles",
+      "flowers": "Sweet vanilla-scented flowers in peduncled upright dense spike-like racemes 2–7 cm; white or violet-tinged corolla with green-yellow eye, tube ca. 3.5 mm, limb 3.5 mm across",
+      "fruits": "Small dry 2-celled fruit",
+      "habitat": "Rocky or gravelly ground",
+      "flowering": "Mar–Oct depending on rains",
+      "synonyms": [
+        "Aloysia gratissima var. schulziae",
+        "Aloysia lycioides var. schulziae"
+      ],
+      "note": "Flora treats species broadly while describing morphological differences for varieties gratissima and schulziae.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1049,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    },
+    {
+      "id": "glandularia-bipinnatifida",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Glandularia bipinnatifida",
+      "page": 1050,
+      "habit": "Perennial, ascending stems densely hispid-hirsute",
+      "leaves": "Opposite, variable and 1–2 pinnatifid per flora key",
+      "flowers": "Bracts usually exceed calyces; calyx generally non-glandular pubescent or few glandular hairs; pink, lavender or purple salverform corolla; flora key tube usually 10–15 mm, limb 7–10(–15) mm; calyx 7–10 mm",
+      "fruits": "Genus treatment: four 1-seeded linear nutlets",
+      "habitat": "Disturbed areas, mainly western two-thirds of Texas",
+      "flowering": "Late Mar–Jun, less freely to Oct",
+      "synonyms": [
+        "Verbena bipinnatifida",
+        "Verbena ciliata"
+      ],
+      "note": "Generic placement historically contrasted with Verbena using nutlets and chromosome numbers.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1050,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    },
+    {
+      "id": "glandularia-pumila",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Glandularia pumila",
+      "page": 1052,
+      "habit": "Low annual with decumbent/spreading to erect stems, hirsute and often finely glandular",
+      "leaves": "Opposite, three-parted with incised divisions",
+      "flowers": "Spikes sessile or short-peduncled; pink to lavender or pale blue corolla, rarely white; key: corolla tube 8–10 mm, limb 3–5 mm across; calyx ca. 6 mm",
+      "fruits": "Genus 4 nutlets; key nutlet length 2–2.8 mm",
+      "habitat": "Sandy or gravelly soils",
+      "flowering": "Late Mar–May",
+      "synonyms": [
+        "Verbena pumila"
+      ],
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1052,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    },
+    {
+      "id": "lantana-camara",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Lantana camara",
+      "page": 1052,
+      "continuation_page": 1053,
+      "habit": "Unarmed or sparsely armed shrub to 2 m",
+      "leaves": "Broad, cordate/triangular ovate, fine crenate teeth 0.5–1.5 mm; stem angles short recurved rather than long hispid hairs (key)",
+      "flowers": "Dense axillary heads on long peduncles; narrow triangular-lanceolate bractlets usually shed before fruit; corolla tube ca. 10 mm; genus 4 stamens",
+      "fruits": "Black drupaceous fruit",
+      "habitat": "Cultivated and escaped, particularly southern/central Texas; historically reported from Bell County",
+      "flowering": "Nearly throughout growing season",
+      "note": "Flora uses broad L. camara; horticultural hybrid Lantana × strigocamara is separately inventoried and should not be automatically synonymized or conflated.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1052,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    },
+    {
+      "id": "lantana-urticoides",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Lantana urticoides",
+      "page": 1053,
+      "habit": "Armed or unarmed shrub to 2 m",
+      "leaves": "Ovate to broadly ovate, upper surface strongly scabrous; coarse marginal teeth 2–5 mm (source key)",
+      "flowers": "Bractlets 4–9 × 1–2 mm, persistent, oblanceolate/spatulate (key); flowers yellow or orange changing red; corolla tube 7–10 mm, limb 5–9 mm wide",
+      "fruits": "Dark blue to black drupes",
+      "habitat": "Open areas, thickets, woods and roadsides; source says native central/southern Texas, but BONAP county proof pending",
+      "flowering": "Late Apr–Oct",
+      "synonyms": [
+        "Lantana horrida sensu Moldenke"
+      ],
+      "note": "Flora warns potential hybridization with L. camara.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1053,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    },
+    {
+      "id": "phyla-nodiflora",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Lippia nodiflora",
+      "page": 1054,
+      "habit": "Creeping or trailing to ascending perennial, rooting at nodes per family key",
+      "leaves": "Oblanceolate widest near apex, length 10–72 mm, mostly toothed only near apex; key width 4–25 mm",
+      "flowers": "Flowers in short axillary heads on peduncles 1.5–4× adjacent leaf length; heads 6–10 mm thick elongating to 3 cm in fruit; corollas white to rose-purple often yellow-eyed; floral bracts small 2–3 mm",
+      "fruits": "Genus treatment fruits split into two nutlets at maturity",
+      "habitat": "Low moist disturbed ground",
+      "flowering": "May–Oct",
+      "synonyms": [
+        "Lippia nodiflora",
+        "Phyla incisa"
+      ],
+      "note": "1999 flora explicitly chooses Lippia over segregate Phyla. Identification warning: Lippia/Phyla canescens should remain separate; bract and calyx hairs are diagnostic.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1054,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    },
+    {
+      "id": "verbena-scabra",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena scabra",
+      "page": 1058,
+      "habit": "Perennial, erect stems 0.3–1(–1.5) m",
+      "leaves": "Ovate and extremely scabrous above",
+      "flowers": "Slender elongate spikes; calyx 2.5–3 mm; corolla blue to pink/lavender, tube approximately equals calyx, limb ca. 2 mm wide",
+      "habitat": "Low ground; flora notes few TX specimens actually seen despite broad secondary reports",
+      "flowering": "Mar–Dec",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1058,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "verification_status": "1999_treatment_extracted_modern_name_and_BONAP_pending"
+    }
+  ],
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "taxonomic_review": [
+    {
+      "issue": "Callicarpa and Vitex placed in Verbenaceae by 1999 flora but assigned to Lamiaceae by active repository",
+      "action": "retain both family names, no route change"
+    },
+    {
+      "issue": "Lippia nodiflora / Phyla nodiflora",
+      "action": "record flora name and current repository name separately"
+    },
+    {
+      "issue": "Lantana camara and Lantana × strigocamara",
+      "action": "do not equate cultivar/hybrid material with source species treatment"
+    }
+  ],
+  "holds_carried_forward": [
+    "hedeoma-nana",
+    "physostegia-correllii",
+    "salvia-ballotiflora",
+    "salvia-pentstemonoides"
+  ],
+  "bonap_county_verification": "pending for all; no local native labels established from 1999 flora",
+  "site_changes": false,
+  "photo_changes": false
+}
