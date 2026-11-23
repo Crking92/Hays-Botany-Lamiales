@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "repository": "Crking92/Hays-Botany-Lamiales",
+  "branch": "staging/original-source-transfer",
+  "batch": "2026-11-23-09",
+  "type": "source-backed morphology extraction",
+  "records": [
+    {
+      "id": "proboscidea-louisianica",
+      "family": "Martyniaceae",
+      "flora_family": "Pedaliaceae",
+      "flora_name": "Proboscidea louisianica",
+      "reference": {
+        "title": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+        "file": "Flora of North Central Texas-Fab-Zygo.pdf",
+        "printed_page": 880
+      },
+      "habit": "Low, sticky glandular-hairy ill-scented annual",
+      "leaves": "Alternate or opposite, ovate to suborbicular, heart-shaped at base; densely pubescent petioles to 20 cm",
+      "flowers": "Long-pedicelled terminal racemes; calyx with five unequal united sepals; corolla to 55 mm, weakly bilabiate, tubular at base then wide-bell-shaped, dull white to lavender with purple/yellow inner mottling; four didynamous stamens",
+      "fruit": "Capsule up to 10 cm long and 2–3 cm thick; matures into two curved hooked horns",
+      "habitat": "Loose sandy soil",
+      "phenology": "May–Sep",
+      "synonyms": [
+        "Martynia louisianica"
+      ],
+      "taxon_note": "Historical flora uses Pedaliaceae and explicitly notes segregation as Martyniaceae; modern repository Martyniaceae.",
+      "verification": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending"
+    },
+    {
+      "id": "utricularia-gibba",
+      "family": "Lentibulariaceae",
+      "flora_family": "Lentibulariaceae",
+      "flora_name": "Utricularia gibba",
+      "reference": {
+        "title": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+        "file": "Flora of North Central Texas-Fab-Zygo.pdf",
+        "printed_page": 787
+      },
+      "habit": "Small glabrous perennial, aquatic/at water margin, forming mats in water or mud; minute bladder traps used for nutrient capture",
+      "leaves": "Filiform divided vegetative organs, forked one to three times; source notes their homology as leaves versus stem portions is uncertain",
+      "flowers": "One to four flowers; yellow bilabiate corollas 6–12 mm tall and 6–8 mm wide per key, spur relatively inconspicuous; two stamens",
+      "seeds": "Smooth, broadly winged",
+      "habitat": "Shallow water and mud",
+      "phenology": "May–Aug",
+      "synonyms": [
+        "Utricularia biflora"
+      ],
+      "taxon_note": "Flora includes U. biflora within U. gibba; preserve historical name application.",
+      "verification": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending"
+    },
+    {
+      "id": "tecoma-stans",
+      "family": "Bignoniaceae",
+      "flora_name": "Tecoma stans",
+      "references": [
+        {
+          "title": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+          "file": "Flora of North Central Texas-Acanth-Euph.pdf",
+          "printed_page": 440,
+          "scope": "Brief introductory mention only; not detailed morphology"
+        },
+        {
+          "title": "Flora of the Hawaiian Islands, Smithsonian National Museum of Natural History",
+          "url": "https://naturalhistory2.si.edu/botany/hawaiianflora/speciesdescr.cfm?genus=Tecoma&species=stans",
+          "scope": "Detailed morphology of species broadly"
+        }
+      ],
+      "habit": "Shrub to small tree; height variable regionally; the 1999 flora describes a less-than-one-meter form near its Texas western range, not a universal height",
+      "leaves": "Compound leaves with usually five to seven sharply serrate leaflets per Kew POWO Caribbean flora account; source range and variety may alter widths",
+      "flowers": "Terminal racemose flowers, yellow corollas typically 3.5–6 cm with reddish throat lines, cup-shaped five-toothed calyces; four stamens",
+      "fruit": "Long narrow capsule, about 7–21 cm long and 0.5–1 cm thick in secondary regional treatments",
+      "taxon_note": "Species-wide record; narrow-leaved var. angustata separated below. Texas local nativity not established by flora region 4 citation.",
+      "verification": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending"
+    },
+    {
+      "id": "tecoma-stans-var-angustata",
+      "family": "Bignoniaceae",
+      "flora_name": "Tecoma stans var. angustata",
+      "references": [
+        {
+          "title": "World Flora Online: Tecoma stans var. angustatum (as spelled on treatment)",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000780508",
+          "scope": "Narrow-leaved variety morphological diagnosis"
+        },
+        {
+          "title": "Kew POWO: Tecoma stans var. angustata Rehder",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:249863-2",
+          "scope": "Accepted variety/name and southwestern range"
+        }
+      ],
+      "habit": "Woody shrub or small tree according to species, but variety-specific height not sourced",
+      "leaves": "Narrower, more deeply and sharply serrate leaflets than typical T. stans, narrow lanceolate to near-linear, 1.6–7(–10) × 0.4–1.5(–1.9) cm, sometimes deeply pinnatifid and appearing partially bipinnate",
+      "flowers": null,
+      "fruit": null,
+      "taxon_note": "Only variety-level foliage diagnostic asserted; flowers, fruit and phenology held pending variety-specific treatment; historical 1999 flora mentions T. stans without this variety.",
+      "verification": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending"
+    },
+    {
+      "id": "paulownia-tomentosa",
+      "family": "Paulowniaceae",
+      "flora_name": "Paulownia tomentosa",
+      "references": [
+        {
+          "title": "Flora of China: Paulownia tomentosa",
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020800",
+          "scope": "Detailed species morphology"
+        }
+      ],
+      "habit": "Deciduous tree to around 20 m according to Flora of China; broad crown",
+      "leaves": "Large cordate blade around 40 cm, hairy beneath and sparsely hairy above, tip acute",
+      "flowers": "Purple funnel- to bell-shaped corolla 5–7.5 cm long, outside glandular, before or near spring leaf emergence",
+      "fruit": "Ovoid capsule 3–4.5 cm, viscid glandular pubescence, persistent calyx",
+      "nativity": "Introduced to North America from East Asia; BONAP local assessment separately pending",
+      "taxon_note": "Not individually treated in uploaded 1999 flora; secondary botanical flora used, not transferred from a similarly named species.",
+      "verification": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending"
+    },
+    {
+      "id": "catalpa-bignonioides",
+      "family": "Bignoniaceae",
+      "flora_name": "Catalpa bignonioides",
+      "references": [
+        {
+          "title": "Kew POWO: Catalpa bignonioides; morphology from Flora of Tropical East Africa",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30194969-2/general-information",
+          "scope": "Species-specific habit leaves flowers fruit"
+        }
+      ],
+      "habit": "Tree to around 10 m with rounded crown, as described in Flora of Tropical East Africa",
+      "leaves": "Large simple ovate leaf blades 7–30 × 7–30 cm, truncate to somewhat cordate base",
+      "flowers": "White corolla with purple and yellow markings",
+      "fruit": "Narrow cylindrical ridged capsule up to 40 cm",
+      "taxon_note": "1999 local flora treats C. speciosa rather than this species. Measurements from separate Catalpa bignonioides treatment; no conflation.",
+      "verification": "treatment extracted; later cross-source morphology and BONAP county-level auditing pending"
+    }
+  ],
+  "remaining_holds_snapshot": [
+    "buddleja-racemosa",
+    "forestiera-angustifolia",
+    "fraxinus-berlandieriana",
+    "fraxinus-greggii",
+    "hedeoma-nana",
+    "aloysia-virgata",
+    "lantana-x-strigocamara",
+    "leucophyllum-frutescens",
+    "linaria-texana",
+    "penstemon-baccharifolius",
+    "penstemon-tenuis",
+    "physostegia-correllii",
+    "salvia-ballotiflora",
+    "salvia-pentstemonoides",
+    "seymeria-bipinnatisecta"
+  ],
+  "notes": [
+    "Six new species not previously extracted; exact name crosswalks preserved",
+    "Historical 1999 placements differ from current families for Proboscidea",
+    "No photos, image attribution, site data or other repositories modified",
+    "One short 1999 reference for Tecoma stans is not represented as full flora treatment"
+  ],
+  "bonap": "No county nativity claims verified"
+}
