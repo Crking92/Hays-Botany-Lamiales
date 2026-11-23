@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "project": "Hays Botany — Lamiales",
+  "phase": "Targeted botanical reconciliation and finalization",
+  "date": "2026-11-23",
+  "scope": "Only documented botanical disagreements and missing characteristics. Original extraction, normalized manifest and public site remain unchanged. No county-level nativity or distribution audit performed.",
+  "prior_research": {
+    "inventory": 102,
+    "extraction_files": 11,
+    "manifest": "research/authoritative-extraction/normalized-lamiales-manifest-2026-11-23.json",
+    "previous_audit": "research/authoritative-extraction/extraction-coverage-audit-2026-11-23.json"
+  },
+  "resolved": [
+    {
+      "species_id": "castilleja-lindheimeri",
+      "type": "taxonomic_rank_and_historical_name",
+      "finalization": "nomenclature_finalized_with_authority_qualification",
+      "accepted_repository_name": "Castilleja lindheimeri A.Gray",
+      "historical_source_name": "Castilleja purpurea var. lindheimeri (A.Gray) Shinners",
+      "equivalence": "homotypic synonym, accepted as species by Kew POWO following Flora of North America 2019; ITIS continues to recognize varietal taxon",
+      "morphology": "Retain existing historical variety-level morphological record with scope clearly marked; do not generalize to entire C. purpurea",
+      "sources": [
+        {
+          "title": "Kew POWO — Castilleja lindheimeri",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:801028-1"
+        },
+        {
+          "title": "Kew POWO — historical variety synonym",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:49695-2"
+        },
+        {
+          "title": "Diggs, Lipscomb & O'Kennon, Illustrated Flora of North Central Texas (1999)",
+          "file": "Flora of North Central Texas-Fab-Zygo.pdf",
+          "printed_page": 998
+        }
+      ],
+      "remaining_species_photo_ID_review": "No photo identification certification performed"
+    },
+    {
+      "species_id": "linaria-texana",
+      "type": "genus_transfer_homotypic_synonym_and_source_page",
+      "finalization": "nomenclature_finalized_with_authority_qualification",
+      "accepted_repository_name": "Linaria texana Scheele",
+      "historical_source_name": "Nuttallanthus texanus (Scheele) D.A.Sutton",
+      "equivalence": "homotypic synonyms; Kew accepts Linaria texana; 2019 FNA and several regional floras accept Nuttallanthus texanus",
+      "morphology": "Existing floral-spur and seed-ridge characters from 1999 flora apply under the crosswalk; no re-extraction",
+      "source_page_correction": {
+        "generic_key_printed_page": 1004,
+        "species_treatment_printed_page": 1006,
+        "reason": "Previous normalized manifest recorded only 1004 for the species; source-specific printed page is 1006"
+      },
+      "sources": [
+        {
+          "title": "Kew POWO — Linaria texana",
+          "url": "https://powo.science.kew.org/taxon/279678-2"
+        },
+        {
+          "title": "Kew POWO — Nuttallanthus texanus synonym",
+          "url": "https://powo.science.kew.org/taxon/281420-2"
+        },
+        {
+          "title": "Diggs et al. 1999",
+          "file": "Flora of North Central Texas-Fab-Zygo.pdf",
+          "printed_pages": [
+            1004,
+            1006
+          ]
+        }
+      ]
+    },
+    {
+      "species_id": "lantana-x-strigocamara",
+      "type": "hybrid_identity_and_l_cam_confusion",
+      "finalization": "nomenclature_finalized; diagnostic_species_traits_still_provisional",
+      "accepted_repository_name": "Lantana × strigocamara R.W.Sanders",
+      "equivalence": "Kew recognizes accepted hybrid; Lantana camara sensu lato has a history of misapplied naming; do not treat this taxon as L. camara sensu stricto or L. urticoides",
+      "source_supported_hybrid_formula": "L. camara × L. nivea × L. scabrida × L. splendens (Kew POWO)",
+      "morphology": "Retain source-specific hybrid description as provisional, without asserting it is individually diagnostic against all related taxa",
+      "sources": [
+        {
+          "title": "Kew POWO — Lantana × strigocamara",
+          "url": "https://powo.science.kew.org/taxon/60444377-2"
+        },
+        {
+          "title": "University of Florida IFAS — Lantana nomenclatural guidance",
+          "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/lantana/"
+        },
+        {
+          "title": "R.W. Sanders (2006), Sida 22:381–421",
+          "citation": "Taxonomy of Lantana sect. Lantana I; cited by Kew POWO"
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "species_id": "stachys-agraria",
+      "kind": "taxon_circumscription_and_historical_misapplication",
+      "status": "hold_character_transfer",
+      "evidence": "Kew tentatively synonymizes Stachys crenata under S. agraria; 1999 flora explicitly uses Stachys agraria auct. non Cham. & Schltdl., and ITIS uses S. crenata for that application. Turner (1994) cautions Stachys crenata is poorly described and difficult to typify.",
+      "required": "Specimen or revision-grade crosswalk of the North American S. crenata application to S. agraria; do not label flora-derived diagnostic characters as confirmed for authentic S. agraria",
+      "sources": [
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:459272-1"
+        },
+        {
+          "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=32324"
+        },
+        {
+          "url": "https://beta.biodiversitylibrary.org/partpdf/5571",
+          "citation": "Turner 1994, Phytologia 77:338–377"
+        },
+        {
+          "file": "Flora of North Central Texas-Fab-Zygo.pdf",
+          "printed_pages": [
+            780,
+            782
+          ]
+        }
+      ]
+    },
+    {
+      "species_id": "hedeoma-nana",
+      "kind": "infraspecific_scope",
+      "status": "hold_subspecies_level_diagnostic_generalization",
+      "evidence": "Kew and ITIS recognize subspecies; earlier field account represents a regional population and cannot safely support a universal Texas species key.",
+      "required": "FNA/Lamiaceae monographic description with subspecies-specific leaf, calyx and corolla measurements and voucher context",
+      "sources": [
+        {
+          "url": "https://powo.science.kew.org/taxon/51012153-1"
+        },
+        {
+          "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=502893"
+        }
+      ]
+    },
+    {
+      "species_id": "buddleja-racemosa",
+      "kind": "species_versus_subspecies_character_scope",
+      "status": "hold_unsupported_full_species_measurements",
+      "evidence": "Kew accepts species and synonymizes subsp. incana; Wildflower Center entry refers specifically to subsp. racemosa, so individual floral and leaf metrics must remain subspecies-bound.",
+      "required": "Verified original Flora of North America Buddleja racemosa treatment with full plant/leaf/flower dimensions",
+      "sources": [
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:545866-1"
+        },
+        {
+          "url": "https://www.wildflower.org/plants/result.php?id_plant=BURAR"
+        }
+      ]
+    },
+    {
+      "species_id": "seymeria-bipinnatisecta",
+      "kind": "species_specific_morphology",
+      "status": "hold_all_unsupported_morphology",
+      "evidence": "Kew and ITIS establish Seymeria bipinnatisecta name and synonym Seymeria havardii; USFWS confirms species name, but the reviewed records do not support quantitative habit, stem, leaf, flower or capsule descriptions.",
+      "required": "An individual Seymeria bipinnatisecta monographic or FNA treatment, preferably including diagnostic comparison to other Seymeria",
+      "sources": [
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:235347-2"
+        },
+        {
+          "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=505195"
+        },
+        {
+          "url": "https://www.fws.gov/species/eagle-pass-blacksenna-seymeria-bipinnatisecta"
+        }
+      ]
+    }
+  ],
+  "citation_corrections": [
+    {
+      "id": "linaria-texana",
+      "issue": "Manifest stored 1004 as treatment printed page",
+      "correct_species_treatment_page": 1006,
+      "generic_treatment_page": 1004,
+      "applies_to": "future normalized integration, not mutation of original batch"
+    }
+  ],
+  "verification_totals": {
+    "inventory_species_records": 102,
+    "priority_issues_reviewed": 7,
+    "resolved_taxon_issues": 3,
+    "open_botanical_conflicts": 4,
+    "remaining_source_gaps": 3,
+    "source_gaps_note": "Buddleja racemosa full species metrics; Hedeoma nana subspecies-level metrics; Seymeria bipinnatisecta species description. Stachys additionally requires taxon name-application resolution.",
+    "fully_botanically_finalized_total": "not independently certified across all 102 records; do not equate 102 research entries with 102 final profiles",
+    "public_species_profiles_updated": 0,
+    "public_photos_added": 0
+  },
+  "completion": "Targeted reconciliation pass complete; stop, leave four holds with source requirements. Do not launch repeat audit or BONAP until coordinated project phase."
+}
