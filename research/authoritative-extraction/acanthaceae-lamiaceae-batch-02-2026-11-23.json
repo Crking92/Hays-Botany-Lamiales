@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "collection_id": "lamiales",
+  "batch_id": "2026-11-23-02-acanthaceae-lamiaceae",
+  "source_documents": [
+    {
+      "title": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "printed_pages": [
+        218
+      ]
+    },
+    {
+      "title": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "printed_pages": [
+        758,
+        759,
+        762,
+        765
+      ]
+    },
+    {
+      "title": "PlantNET Flora of New South Wales",
+      "url": "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Hygrophila~costata&page=nswfl"
+    }
+  ],
+  "taxonomy_references": [
+    {
+      "name": "Kew POWO Justicia pilosella",
+      "url": "https://powo.science.kew.org/taxon/962380-1"
+    },
+    {
+      "name": "Kew POWO Hedeoma serpyllifolia",
+      "url": "https://powo.science.kew.org/taxon/447686-1"
+    },
+    {
+      "name": "ITIS Hedeoma serpyllifolia",
+      "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=514478"
+    },
+    {
+      "name": "Kew POWO Hygrophila costata",
+      "url": "https://powo.science.kew.org/taxon/49672-1"
+    }
+  ],
+  "records": [
+    {
+      "id": "hygrophila-costata",
+      "family": "Acanthaceae",
+      "repository_name": "Hygrophila costata",
+      "reference_name": "Hygrophila costata",
+      "printed_page": null,
+      "source": "PlantNET Flora of New South Wales, Hygrophila costata treatment; Kew POWO",
+      "source_url": "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Hygrophila~costata&page=nswfl",
+      "habit": "Herb up to 2 m",
+      "stems": "Bluntly 4-angled, often reddish, glabrous; lower nodes swollen and rooting on ground contact",
+      "flowers": "Axillary clusters of 3–4 sessile flowers; bracts 6–9 × 1.5–3 mm, sparsely hairy; calyx five equal linear lobes 5–9 mm in flower, to 12 mm in fruit; white corolla 5.5–10 mm",
+      "fruit": "Sessile glabrous narrowly oblong capsule 8–13 mm",
+      "historical_synonyms": [
+        "Hygrophila brasiliensis"
+      ],
+      "phenology": null,
+      "habitat": "Wetland/riparian habitat reported by other authorities; not established from 1999 flora",
+      "verification": "alternative_flora_extracted_not_1999",
+      "uncertainties": [
+        "No entry located in the supplied 1999 north-central Texas Acanthaceae treatment; Australian descriptive flora is not direct proof of Central Texas phenology or occurrence",
+        "BONAP target counties unchecked"
+      ]
+    },
+    {
+      "id": "justicia-pilosella",
+      "family": "Acanthaceae",
+      "repository_name": "Justicia pilosella",
+      "reference_name": "Siphonoglossa pilosella",
+      "printed_page": 218,
+      "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "habit": "Low suffrutescent perennial",
+      "leaves": "Subsessile, ovate to oval blades to 4 cm long",
+      "flowers": "Solitary axillary or short-peduncled, peduncle <=4 mm, no floral bracts; calyx bractlets to 2.5 mm; lavender, rose or white corolla to 28 mm, slender cylindrical elongated tube, upper lip entire or 2-lobed, much larger 3-lobed lower lip with white patch and purple basal spots; stamens inserted near corolla mouth",
+      "fruit": "Capsule 8–9 mm",
+      "habitat": "Rocky, sandy or grassy ground",
+      "phenology": "Apr–Oct",
+      "historical_synonyms": [
+        "Siphonoglossa pilosella (Nees) Torr."
+      ],
+      "verification": "1999_flora_extracted_modern_name_POWO_checked",
+      "taxonomic_note": "1999 source uses Siphonoglossa; Kew POWO and ITIS accept Justicia pilosella."
+    },
+    {
+      "id": "hedeoma-acinoides",
+      "family": "Lamiaceae",
+      "repository_name": "Hedeoma acinoides",
+      "reference_name": "Hedeoma acinoides",
+      "printed_page": 758,
+      "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "habit": "Delicate ephemeral annual, 5–30 cm",
+      "roots": "Slender taproot",
+      "leaves": "Basal leaves often purplish; petioles 1–4 mm; flora key gives ovate to elliptic 3.5–8 mm wide",
+      "flowers": "Calyx 5–6 mm, lower third of tube saccate; pink corolla 9–13 mm, not inflated; flora key notes corolla upper lip bent at right angle",
+      "habitat": "Rocky limestone soils",
+      "phenology": "Apr–May",
+      "verification": "1999_flora_extracted"
+    },
+    {
+      "id": "hedeoma-drummondii",
+      "family": "Lamiaceae",
+      "repository_name": "Hedeoma drummondii",
+      "reference_name": "Hedeoma drummondii",
+      "printed_page": 758,
+      "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "habit": "Annual or robust perennial, 15–45 cm",
+      "leaves": "Usually essentially linear, 5–11 × 1–4 mm, entire",
+      "flowers": "Finely hirsute calyx 5–6 mm, tube saccate ca. 2/3; blue corolla 7–11 mm; key: peppermint aroma, strongly convergent upper/lower calyx teeth",
+      "habitat": "Disturbed habitats",
+      "phenology": "Jun–Sep",
+      "taxonomic_note": "Flora reports possible hybridization with H. reverchonii per Irving (1980)",
+      "verification": "1999_flora_extracted"
+    },
+    {
+      "id": "hedeoma-reverchonii",
+      "family": "Lamiaceae",
+      "repository_name": "Hedeoma reverchonii",
+      "reference_name": "Hedeoma reverchonii var. reverchonii",
+      "printed_page": 758,
+      "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "habit": "Woody-based robust perennial 15–60 cm; prior-season shoots persist",
+      "leaves": "Elliptic-oblong, 6–14 × 2.2–5 mm; gray-green in var. reverchonii",
+      "flowers": "Lemon-scented; calyx 6–7 mm; white or lavender corolla 10–15 mm with upward-expanded tube",
+      "habitat": "Open exposed calcareous outcrops",
+      "phenology": "Jun–Sep",
+      "historical_synonyms": [
+        "Hedeoma drummondii var. reverchonii"
+      ],
+      "verification": "1999_flora_extracted_at_variety_level",
+      "taxonomic_note": "Do not automatically import characters of var. serpyllifolium into modern narrower H. reverchonii."
+    },
+    {
+      "id": "hedeoma-serpyllifolia",
+      "family": "Lamiaceae",
+      "repository_name": "Hedeoma serpyllifolia",
+      "reference_name": "Hedeoma reverchonii var. serpyllifolium",
+      "printed_page": 758,
+      "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "habit": "Woody-based perennial; species group 15–60 cm",
+      "leaves": "Elliptic-oblong 6–14 × 2.2–5 mm in species treatment; dark green for var. serpyllifolium",
+      "flowers": "Camphor-scented; calyx 5–6 mm; mainly white, occasionally lavender corolla 8–10 mm, tube only slightly dilated",
+      "habitat": "Open exposed calcareous outcrops",
+      "phenology": "Jun–Sep",
+      "historical_synonyms": [
+        "Hedeoma reverchonii var. serpyllifolium",
+        "Hedeoma drummondii var. serpyllifolium"
+      ],
+      "verification": "1999_flora_extracted_taxonomic_conflict",
+      "taxonomic_note": "POWO accepts Hedeoma serpyllifolia at species rank; ITIS accepts H. reverchonii var. serpyllifolia; retained source's narrower variety characters."
+    },
+    {
+      "id": "lamium-amplexicaule",
+      "family": "Lamiaceae",
+      "repository_name": "Lamium amplexicaule",
+      "reference_name": "Lamium amplexicaule",
+      "printed_page": 759,
+      "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "habit": "Low pubescent annual; stems decumbent basally, often rooting at lower nodes; flowering portion erect/flexuous, 10–45 cm (genus treatment)",
+      "leaves": "Triangular-ovate, blunt coarsely crenate/lobed; upper floral leaf-like bracts sessile and clasping, often wider than long",
+      "flowers": "Dense whorls; densely villous calyces; 2-lipped hooded reddish-pubescent pinkish-purple corolla 10–20 mm (genus treatment), 4 stamens; closed cleistogamous flowers Nov–Feb",
+      "fruit": "Mericarps yellowish to olive-brown with white scaly mottling (genus treatment)",
+      "habitat": "Gardens, lawns, roadsides, disturbed areas",
+      "phenology": "Feb–May; sometimes year-round",
+      "verification": "1999_flora_extracted",
+      "nativity_in_1999_flora": "Introduced from Europe/Mediterranean to Iran; not BONAP county finding"
+    },
+    {
+      "id": "lamium-purpureum",
+      "family": "Lamiaceae",
+      "repository_name": "Lamium purpureum",
+      "reference_name": "Lamium purpureum",
+      "printed_page": 759,
+      "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "habit": "Low pubescent annual; stems basal decumbent and ascending above, 10–45 cm (genus treatment)",
+      "leaves": "Petioled floral leaf-like bracts longer than wide, often reflexed; blades and bracts green often tinged purple; crenate rather than lobed",
+      "flowers": "Dense whorls; calyces glabrous or sparsely hairy; 2-lipped hooded purple corolla 10–20 mm (genus treatment), 4 stamens",
+      "fruit": "Mericarps yellowish to olive-brown with white scaly mottling (genus treatment)",
+      "habitat": "Disturbed ground",
+      "phenology": "Late Mar–Apr(–Sep)",
+      "taxonomic_note": "Var. purpureum vs var. incisum distinguished by shallow regular crenation vs deep irregular incisions in flora",
+      "verification": "1999_flora_extracted",
+      "nativity_in_1999_flora": "Introduced from Europe/Mediterranean; not BONAP county finding"
+    },
+    {
+      "id": "marrubium-vulgare",
+      "family": "Lamiaceae",
+      "repository_name": "Marrubium vulgare",
+      "reference_name": "Marrubium vulgare",
+      "printed_page": 762,
+      "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "habit": "Aromatic perennial 0.3–0.7(–1) m, conspicuous white tomentum often with stellate hairs; old plants woody-rooted",
+      "leaves": "Broadly ovate to suborbicular 1.5–5 cm long, petiolate, toothed, wrinkled venation",
+      "flowers": "Spaced dense axillary clusters; calyx 4–5 mm usually with 10 teeth, some hooked; bilabiate white corolla 5–6 mm, often rose-purple spotted, 4 stamens",
+      "habitat": "Eroding or disturbed limestone soils, waste land, high-nitrogen livestock spots",
+      "phenology": "Apr–Jul, less freely later",
+      "verification": "1999_flora_extracted",
+      "nativity_in_1999_flora": "Introduced from Eurasia, Mediterranean and Macaronesia; not BONAP county finding"
+    },
+    {
+      "id": "monarda-citriodora",
+      "family": "Lamiaceae",
+      "repository_name": "Monarda citriodora",
+      "reference_name": "Monarda citriodora",
+      "printed_page": 765,
+      "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "habit": "Pubescent annual 15–80 cm",
+      "leaves": "Aromatic, toothed and gland-dotted (genus treatment)",
+      "flowers": "Interrupted spikes of 2–7 floral heads (key); hispid-margined bracts and calyces; often-purple bract inner surfaces and 2–5 mm spinose bristle; calyx teeth bristle-tipped 2–7 mm; white/pink/lavender corolla with purple dots, tube 7–19 mm; genus: 2 stamens and bilabiate corolla",
+      "habitat": "Prairies, savannas, roadsides",
+      "phenology": "Mainly May–Jul",
+      "verification": "1999_flora_extracted"
+    }
+  ],
+  "holds": [
+    {
+      "id": "hedeoma-nana",
+      "reason": "Accepted by POWO; no matching treatment found in supplied 1999 north-central Texas flora; requires regionally appropriate source before morphology extraction",
+      "url": "https://powo.science.kew.org/taxon/51012153-1"
+    }
+  ],
+  "nativity": "BONAP county-level evaluation separately pending for every record. No family-wide or Texas-wide assumption.",
+  "data_handling": "Standalone researched source facts only; no alteration to original species, images, credits or public site."
+}
