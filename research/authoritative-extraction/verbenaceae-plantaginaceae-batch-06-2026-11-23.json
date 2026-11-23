@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "project": "Hays Botany Lamiales",
+  "batch_id": "2026-11-23-06-verbenaceae-plantaginaceae",
+  "research_only": true,
+  "source": {
+    "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "document": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "printed_pages": [
+      884,
+      886,
+      994,
+      1012,
+      1014,
+      1056,
+      1058
+    ]
+  },
+  "records": [
+    {
+      "id": "verbena-brasiliensis",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena brasiliensis",
+      "printed_page": 1056,
+      "habit": "Large stout perennial, distinctly four-sided erect stems 1–2.5 m",
+      "leaves": "Elliptic to lanceolate",
+      "inflorescence": "Spikes 0.5–4 cm long",
+      "flowers": "Calyx 2.5–3.5 mm or more; purple or lilac corolla tube slightly longer than calyx, limb ca. 2.5 mm across",
+      "habitat": "Waste places and creek margins",
+      "phenology": "May–Oct",
+      "regional_status_in_flora": "Introduced from South America, spreading in north-central Texas",
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    },
+    {
+      "id": "verbena-canescens",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena canescens",
+      "printed_page": 1056,
+      "habit": "Perennial from woody root, stems spreading to erect to 46 cm; foliage gray-pubescent",
+      "leaves": "Lower blades typically narrow elongate oblong-lanceolate to spatulate, incised-dentate/pinnatifid; broadly margined or semi-clasping at base (flora key)",
+      "inflorescence": "Floral bracts ovate, acuminate, typically slightly longer than calyx (flora key)",
+      "flowers": "Calyx 2–3 mm; blue/lavender/purple corolla tube slightly longer than calyx; limb 4–6 mm across",
+      "habitat": "Limestone outcrops",
+      "phenology": "Apr–Oct",
+      "historical_synonyms": [
+        "Verbena canescens var. roemeriana"
+      ],
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    },
+    {
+      "id": "verbena-halei",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena halei",
+      "printed_page": 1056,
+      "habit": "Erect perennial flowering first year, to 1 m",
+      "leaves": "Few, petiolate, oblanceolate or obovate, toothed or lobed",
+      "inflorescence": "Flowers becoming well spaced along axis",
+      "flowers": "Calyx 3–3.5 mm; lavender-blue corolla rarely white, tube slightly longer than calyx; limb 6–7 mm across",
+      "habitat": "Prairies and disturbed sites",
+      "phenology": "Apr–Oct",
+      "historical_synonyms": [
+        "Verbena officinalis subsp. halei"
+      ],
+      "taxonomy_note": "Treat historical Verbena officinalis subsp. halei as a name crosswalk, not a reason to apply V. officinalis morphology.",
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    },
+    {
+      "id": "verbena-xutha",
+      "family": "Verbenaceae",
+      "flora_family": "Verbenaceae",
+      "flora_name": "Verbena xutha",
+      "printed_page": 1058,
+      "habit": "Coarse pubescent perennial with stems to 2 m",
+      "flowers": "Calyx 3–4 mm; blue-purple corolla with tube about as long as calyx and limb 5–8 mm across",
+      "habitat": "Stream bottoms and roadsides",
+      "phenology": "Jun–Oct",
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    },
+    {
+      "id": "plantago-helleri",
+      "family": "Plantaginaceae",
+      "flora_family": "Plantaginaceae",
+      "flora_name": "Plantago helleri",
+      "printed_page": 884,
+      "habit": "Annual",
+      "stems": "Flower stalks with conspicuously long spreading hairs",
+      "inflorescence": "Short stout spikes to ca. 4 cm long, 8–12 mm thick",
+      "flowers": "Conspicuous corolla lobes; source key 2.7–4 mm, spreading to reflexed after flowering, bracts at base not keeled or clasping",
+      "habitat": "Limestone outcrops",
+      "phenology": "Apr–Jun",
+      "diagnostic": "Plant usually darkens conspicuously on drying; compare P. rhodosperma",
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    },
+    {
+      "id": "plantago-rhodosperma",
+      "family": "Plantaginaceae",
+      "flora_family": "Plantaginaceae",
+      "flora_name": "Plantago rhodosperma",
+      "printed_page": 886,
+      "habit": "Annual",
+      "leaves": "Frequently toothed or lobed",
+      "inflorescence": "Dense spikes to 20 cm long and ca. 10 mm thick; flower stalk hairs spreading at right angles (key)",
+      "flowers": "Basal spike bracts keeled and clasping, bracts (2.2–)2.8–5.2(–5.4) mm; abaxial sepals acuminate with extended green midvein; corolla lobes 2–3 mm (key)",
+      "seeds": "Red to reddish-black, (1.7–)2–2.8 mm, with transparent margin (source key)",
+      "habitat": "Prairies, pastures, roadsides and disturbed sites",
+      "phenology": "Apr–May",
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    },
+    {
+      "id": "bacopa-monnieri",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Bacopa monnieri",
+      "printed_page": 994,
+      "habit": "Mat-forming succulent glabrous wetland perennial (source genus)",
+      "leaves": "Opposite, sessile, spatulate, to ca. 20 mm, essentially entire; single prominent vein and wedge-shaped non-clasping base (key)",
+      "flowers": "Axillary single flower per node on stalks to 25 mm with two narrow bracts below calyx; white to pale blue or lilac corolla 8–10 mm; genus 4 stamens",
+      "fruits": "Capsule 5–7 mm, shorter than sepals",
+      "habitat": "Low wet ground, ditches, streams",
+      "phenology": "Apr–Sep",
+      "taxonomy_note": "1999 placed Bacopa in Scrophulariaceae; modern family Plantaginaceae under repository routing.",
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    },
+    {
+      "id": "veronica-anagallis-aquatica",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Veronica anagallis-aquatica",
+      "printed_page": 1012,
+      "habit": "Usually perennial; stems sprawling, decumbent or erect, to 100 cm",
+      "leaves": "Opposite, sessile clasping oblong-lanceolate blades shallowly toothed",
+      "inflorescence": "Axillary peduncled racemes often over 30 flowers (source key)",
+      "flowers": "Pedicels 4–6(–8) mm; pale lavender to blue corolla 5–6 mm across",
+      "fruits": "Nearly orbicular capsule",
+      "habitat": "Wet ground and running water",
+      "phenology": "Apr–Jun",
+      "regional_status_in_flora": "Historical flora labels introduced, native Europe and northern Asia",
+      "taxonomy_note": "Modern family Plantaginaceae; historical flora treated Veronica in Scrophulariaceae. Historical nativity not a substitute for BONAP.",
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    },
+    {
+      "id": "veronica-persica",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Veronica persica",
+      "printed_page": 1014,
+      "habit": "Annual decumbent basally then ascending, up to 40 cm",
+      "inflorescence": "Solitary axillary long-pedicelled flowers; pedicels 15–30 mm, often longer than leaves (source key)",
+      "flowers": "Violet-blue corolla, 8–12 mm across (key)",
+      "fruits": "Capsule lobes spreading outwards (source key)",
+      "habitat": "Lawns and waste places",
+      "phenology": "Feb–May",
+      "regional_status_in_flora": "Introduced from Eurasia",
+      "taxonomy_note": "Historical family Scrophulariaceae vs modern Plantaginaceae.",
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    },
+    {
+      "id": "veronica-polita",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Veronica polita",
+      "printed_page": 1014,
+      "habit": "Annual with prostrate/reclining stems to 30 cm",
+      "inflorescence": "Solitary axillary flowers; fruiting pedicels 5–12 mm",
+      "flowers": "Blue corollas 3–6 mm across; source key: usually blue throughout, unlike bicolored V. agrestis",
+      "fruits": "Capsule lobes erect, glandular and eglandular hairs; style exceeding capsule notch (source key)",
+      "habitat": "Lawns and waste places",
+      "phenology": "Feb–Mar",
+      "regional_status_in_flora": "Introduced from Europe",
+      "taxonomy_note": "Jones et al. (1997) lumped V. polita with V. agrestis; 1999 flora retains distinct species. Family formerly Scrophulariaceae.",
+      "source_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification_status": "source_treatment_and_key_extracted; modern_taxonomy_BONAP_pending"
+    }
+  ],
+  "unmatched_species": [
+    {
+      "species_id": "aloysia-virgata",
+      "status": "HOLD_not_found_in_1999_treatment",
+      "needed": "Separate authoritative regional or monographic account and name reconciliation"
+    },
+    {
+      "species_id": "lantana-x-strigocamara",
+      "status": "HOLD_not_found_in_1999_treatment",
+      "needed": "Hybrid-specific botanical circumscription and original description; do not copy L. camara data"
+    }
+  ],
+  "family_routing_note": "Keep assigned repository family modern; capture family printed in source as flora_family",
+  "bonap": "County level nativity unverified for all; 1999 notes retained as historical claims only",
+  "safety": "No photo or public site modification"
+}
