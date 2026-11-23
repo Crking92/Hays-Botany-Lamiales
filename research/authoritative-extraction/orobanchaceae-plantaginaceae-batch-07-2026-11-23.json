@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "collection": "lamiales",
+  "batch_id": "2026-11-23-07",
+  "source": {
+    "citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "pages": [
+      993,
+      996,
+      998,
+      1000,
+      1002,
+      1003,
+      1007,
+      1008,
+      1010
+    ]
+  },
+  "research_only": true,
+  "records": [
+    {
+      "id": "agalinis-edwardsiana",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Agalinis edwardsiana",
+      "page": 993,
+      "habit": "Root-hemiparasitic herb, 40–80 cm (genus treatment)",
+      "stems": "Often reddish-purple",
+      "flowers": "Pedicels to 30 mm, calyx lobes to 0.5 mm; pink/purple corolla 20–23 mm with two yellow throat lines and many small red-purple dots; source key short racemes 3–4 pairs of pedicels and internal narrow hair line below posterior sinus",
+      "fruit": "Capsules 6–7 mm",
+      "habitat": "Thin limestone soils, Edwards Plateau",
+      "phenology": "Aug–Oct",
+      "synonyms": [
+        "Gerardia edwardsiana",
+        "Agalinis edwardsiana var. glabra"
+      ],
+      "note": "Source states Texas endemic; independent county-level BONAP verification pending",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "agalinis-heterophylla",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Agalinis heterophylla",
+      "page": 993,
+      "habit": "Root-hemiparasitic herb 30–100 cm (genus treatment)",
+      "leaves": "Mostly narrow/linear, sometimes basally lobed (key)",
+      "flowers": "Pedicels 1–3 mm; calyx tube 3.5–5 mm with acute lobes; corolla 20–32 mm, deep pink to white/lavender tinged, two yellow lines and small dark-purple throat spots; key calyx lobes as long or longer than tube",
+      "fruit": "Capsule 5–8 mm",
+      "habitat": "Prairies and open woodlands",
+      "phenology": "Jun–Oct",
+      "synonyms": [
+        "Gerardia heterophylla"
+      ],
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "buchnera-americana",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Buchnera americana",
+      "page": 996,
+      "habit": "Slender scabrous-pilose root-hemiparasitic perennial to ca. 80 cm, usually unbranched erect stems",
+      "leaves": "Opposite/subopposite sessile elliptic-linear-lanceolate blades to 10 cm, entire to coarsely few-toothed, dark green blackening in drying, larger three-ribbed",
+      "flowers": "Terminal nearly leafless spikes, purple/violet/lavender-pink rarely white four-unequal-lobed corolla with tube 7–15 mm and lobes 3–8 mm",
+      "fruit": "Capsules 5–7 mm",
+      "habitat": "Sandy soils, prairies, open woods, wet ground",
+      "phenology": null,
+      "synonyms": [
+        "Buchnera floridana"
+      ],
+      "note": "No flowering time stated in individual 1999 treatment; leave null",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "castilleja-indivisa",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Castilleja indivisa",
+      "page": 996,
+      "continuation_page": 998,
+      "habit": "Hemiparasitic annual from slender taproot; pubescent (genus/key)",
+      "leaves": "Sessile/subsessile, mostly entire except lowermost; bracts entire or with small apical lobes",
+      "flowers": "Dense terminal bracted spike with usually orange-red to red showy bract/calyx tips; corolla 20–28 mm, upper hood 6–9 mm",
+      "habitat": "Sandy or silty open woods, prairies, disturbed sites",
+      "phenology": "Apr–May",
+      "note": "Flora describes rare light-yellow plants and reports natural hybridization/introgression with C. purpurea",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "castilleja-lindheimeri",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Castilleja purpurea var. lindheimeri",
+      "page": 998,
+      "habit": "Root-hemiparasitic perennial with woody root (species group/key)",
+      "leaves": "Narrow, usually lobed (source genus key)",
+      "flowers": "Corollas 25–40 mm, hood 9–13 mm (C. purpurea group), bract/calyx tips yellowish orange, brownish-orange, orangish-red or red; lower lip typically 1.5–3(–4) mm (variety key)",
+      "habitat": "Calcareous gravelly, sandy or clay soils",
+      "phenology": "Mar–May",
+      "taxonomy": "CRITICAL crosswalk: repository species Castilleja lindheimeri versus 1999 C. purpurea var. lindheimeri. The flora calls it weakly differentiated and reports a sharp geographic transition; do not assume current rank without verification.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "castilleja-purpurea",
+      "family": "Orobanchaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Castilleja purpurea",
+      "page": 998,
+      "habit": "Root-hemiparasitic perennial with woody root",
+      "leaves": "Narrow lobed leaves (source key)",
+      "flowers": "Variable colored floral bracts and calyx tips; corollas 25–40 mm, hood 9–13 mm; source distinguishes vars. citrina, lindheimeri, purpurea by tip color and lower corolla lip size",
+      "habitat": "Calcareous prairie, rocky or sandy sites depending on variety",
+      "phenology": "Mar–May in vars. lindheimeri/purpurea; Apr–May in var. citrina",
+      "taxonomy": "Source is broad species covering three varieties; potential hybridization with C. indivisa and among varieties documented.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "leucospora-multifida",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Leucospora multifida",
+      "page": 1000,
+      "continuation_page": 1002,
+      "habit": "Low annual 10–15(–20) cm, unbranched to much branched",
+      "leaves": "Opposite petiolate blades triangular-ovate in outline, 1–3 cm long, pinnately to bipinnately parted",
+      "flowers": "Single or paired axillary flowers on pedicels 5–10 mm, pink/pale lavender tubular corollas 3–5 mm, shorter than to barely exceeding calyces; 4 didynamous stamens",
+      "fruit": "Ovoid capsule 3.5–4.5 mm",
+      "habitat": "Wet low ground and urban weedy sites",
+      "phenology": "Jun–Oct",
+      "synonyms": [
+        "Capraria multifida",
+        "Conobea multifida",
+        "Stemodia multifida"
+      ],
+      "taxonomy": "Source notes uncertain generic limits of Leucospora/Stemodia complex; modern status requires separate taxon check.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "maurandella-antirrhiniflora",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Maurandya antirrhiniflora",
+      "page": 1002,
+      "continuation_page": 1003,
+      "habit": "Twining much-branched glabrous perennial herbaceous vine; leaf petioles coiling",
+      "leaves": "Subopposite to generally alternate, hastate to sagittate blades 15–25 mm, entire, petioles 10–30 mm",
+      "flowers": "Solitary axillary flowers, pedicels 10–30(–47) mm, bilabiate corollas 20–25 mm, pale tube and violet/blue/purple lobes; 4 stamens and capsules ~6 mm per continuation",
+      "habitat": "Sandy/rocky disturbed sites, Burnet and Travis region (historical flora)",
+      "phenology": "Feb–Oct",
+      "synonyms": [
+        "Maurandya antirrhiniflora",
+        "Asarina antirrhiniflora"
+      ],
+      "taxonomy": "Historical authors explicitly rejected segregation into Maurandella despite Kartesz treatment. Repository now uses Maurandella; source's description under Maurandya.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "mecardonia-procumbens",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Mecardonia procumbens",
+      "page": 1003,
+      "habit": "Often basal-branched glabrous procumbent to ascending wet-site perennial, stems four-angled to 40 cm",
+      "leaves": "Opposite ovate to obovate blades 10–25 mm, serrate above middle; glandular-punctate",
+      "flowers": "Pedicels longer than subtending leaf; outer sepals over three times width of inner; yellow corollas 6–12 mm with dark venation; genus two bractlets at pedicel base",
+      "fruit": "Many-seeded capsule per genus",
+      "habitat": "Wet low ground or shallow water",
+      "phenology": "Mar–Nov",
+      "synonyms": [
+        "Mecardonia vandellioides auct. non (Kunth) Pennell"
+      ],
+      "taxonomy": "Do not treat misapplied M. vandellioides usage as secure homotypic synonym.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "penstemon-cobaea",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Penstemon cobaea",
+      "page": 1007,
+      "habit": "Finely densely pubescent perennial 20–50(–65) cm",
+      "leaves": "Ovate-elliptic to obovate blades sharply toothed or subentire, mid-stem usually 25–50 mm wide",
+      "flowers": "Large white to lavender corollas with red-purple internal nectar guides; lanceolate to lance-ovate calyx lobes; genus staminode present",
+      "habitat": "Limestone prairies, rock outcrops and sandy open woods",
+      "phenology": "Apr–May",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "penstemon-triflorus",
+      "family": "Plantaginaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Penstemon triflorus subsp. integrifolius",
+      "page": 1008,
+      "habit": "Puberulent perennial 30–65 cm",
+      "leaves": "Mid-stem toothed blades (10–)15–30 mm wide",
+      "flowers": "Corollas lavender/pink/rose or red, throat white with red stripes; source key corolla 30–35 mm and sepals 8–11 mm; staminode lightly yellow-bearded on terminal half in lumped taxon",
+      "habitat": "Calcareous soils of Edwards Plateau and southwestern north-central Texas",
+      "phenology": "Apr–May",
+      "synonyms": [
+        "Penstemon helleri (sensu lumped)"
+      ],
+      "taxonomy": "1999 flora treats subsp. integrifolius and lumps P. helleri while citing possible distinctness; red-flowered P. triflorus versus lavender/pink P. helleri differentiated by staminode and corolla. No conflating subspecies/species-wide.",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    },
+    {
+      "id": "verbascum-thapsus",
+      "family": "Scrophulariaceae",
+      "flora_family": "Scrophulariaceae",
+      "flora_name": "Verbascum thapsus",
+      "page": 1010,
+      "habit": "Stout biennial 0.7–2 m, densely gray felted/woolly with stellate or tree-branched hairs",
+      "leaves": "Largest rosette blades to 50 cm, progressively smaller up stem, stem leaves sessile and decurrent",
+      "flowers": "Terminal densely bracted spike, subsessile yellow corollas 12–30(–35) mm across; genus 5 stamens",
+      "fruit": "Capsules densely tomentose with branched hairs, numerous seeds (genus)",
+      "habitat": "Roadsides, pastures, disturbed ground",
+      "phenology": "May–Jul, sometimes later",
+      "nativity_note": "Flora identifies Eurasian introduction",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "verification": "1999_flora_transcribed_taxonomic_reconciliation_and_BONAP_pending"
+    }
+  ],
+  "holds": [
+    {
+      "species": "penstemon-baccharifolius",
+      "reason": "No exact match in uploaded 1999 flora; seek FNA/POWO and regional reference"
+    },
+    {
+      "species": "penstemon-tenuis",
+      "reason": "No exact match in uploaded 1999 flora; seek region-specific source"
+    },
+    {
+      "species": "linaria-texana",
+      "reason": "No exact match under Linaria in 1999 flora; historical transfer possible"
+    },
+    {
+      "species": "leucophyllum-frutescens",
+      "reason": "No individual treatment found in 1999 flora"
+    }
+  ],
+  "bonap": "No Hays or west/north county native claim yet: requires BONAP map verification",
+  "photo_public_site_edits": false
+}
