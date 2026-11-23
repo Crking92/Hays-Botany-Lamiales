@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "project": "Hays Botany Lamiales",
+  "batch": "04",
+  "date": "2026-11-23",
+  "research_only": true,
+  "source": {
+    "name": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "pages": [
+      768,
+      776,
+      778,
+      779,
+      780,
+      782,
+      783
+    ]
+  },
+  "records": [
+    {
+      "id": "salvia-roemeriana",
+      "reference_name": "Salvia roemeriana",
+      "page": 776,
+      "family": "Lamiaceae",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 776,
+      "verification_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "habit": "Herbaceous perennial to ca. 0.7 m",
+      "leaves": "Foliage often conspicuously white-hairy; upper leaves and lower terminal leaflets suborbicular to reniform-cordate, 2.5–5 cm wide, coarsely crenate or undulate",
+      "flowers": "Elongate racemes, calyces to 15 mm glabrous internally, corollas 25–35 mm; Salvia genus 2 stamens",
+      "habitat": "Limestone rocks, cedar brakes and woodland",
+      "flowering": "Mar–Aug"
+    },
+    {
+      "id": "salvia-texana",
+      "reference_name": "Salvia texana",
+      "page": 776,
+      "family": "Lamiaceae",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 776,
+      "verification_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "habit": "Perennial 10–40 cm from woody root, stems spreading-pilose",
+      "leaves": "Subsessile lanceolate, to 6 × 2 cm, entire or slightly toothed",
+      "flowers": "Floral bracts exceed calyx and calyx throat has white bristly ring (source key); calyces hispid-pilose outside; purplish-blue corolla ca. 16.5–21.5 mm; lower lip 6.5–8.5 mm with two prominent white basal areas",
+      "habitat": "Limestone prairies and rock outcrops",
+      "flowering": "Apr–May"
+    },
+    {
+      "id": "scutellaria-drummondii",
+      "reference_name": "Scutellaria drummondii",
+      "page": 778,
+      "family": "Lamiaceae",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 778,
+      "verification_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "habit": "Annual or short-lived perennial 20–30 cm, old plants small multi-stemmed bushy clumps, upper stems glandular-pubescent",
+      "leaves": "1–3(–4) cm long; lower leaves with petioles 4–18 mm (key)",
+      "flowers": "Violet, 5–11(–13) mm corollas (key); conspicuously spreading often gland-tipped hairs on upper stems and calyces; Scutellaria calyx bears scutellum (genus)",
+      "fruit": "Dark nutlets with overlapping lamella-like projections",
+      "flowering": "Apr–May",
+      "taxonomy": "1999 flora recognizes vars. drummondii and edwardsiana distinguished by gland-tipped versus mostly eglandular lower stem hairs; hybrid/intergrade evidence with S. wrightii cited. Avoid inferring variety from species alone."
+    },
+    {
+      "id": "scutellaria-ovata",
+      "reference_name": "Scutellaria ovata",
+      "page": 779,
+      "family": "Lamiaceae",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 779,
+      "verification_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "habit": "Perennial to ca. 85(–100) cm; stems often prominent spreading/recurved pubescence (key)",
+      "leaves": "Cordate-ovate blades to 13 cm, crenate-serrate and long-petiolate; upper leaf surfaces pubescent; abrupt change to smaller floral bracts",
+      "flowers": "Racemes from upper nodes; bracts 4–9 × 3–6 mm; blue-violet corollas 17–23 mm with whitish lower lip; genus calyx scutellum",
+      "habitat": "Wooded or thicketed sandy or rocky slopes",
+      "flowering": "Apr–Jul",
+      "taxonomy": "1999 flora distinguishes subsp. bracteata from mexicana by glandular hairs on mid/lower stems; Lane 1986 questioned infraspecific divisions."
+    },
+    {
+      "id": "scutellaria-wrightii",
+      "reference_name": "Scutellaria wrightii",
+      "page": 780,
+      "family": "Lamiaceae",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 780,
+      "verification_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "habit": "Perennial ca. 15–20 cm; several stems from woody base; minute downcurved/appressed stem hairs requiring lens",
+      "leaves": "Relatively small, with minute pubescence often downcurved; lower leaves sessile or with petioles to 4 mm (source key)",
+      "flowers": "Deep violet-blue corollas 12–23 mm; calyces short-pubescent, usually lacking gland-tipped hairs; genus has scutellum",
+      "fruit": "Black nutlets minutely evenly and closely tuberculate",
+      "habitat": "Calcareous areas or sandy loam, prairies, slopes, open woods",
+      "flowering": "Mar–Jul",
+      "taxonomy": "Flora recognizes S. wrightii separate from S. resinosa based especially on fine direction of stem hairs; some earlier authorities lumped them.",
+      "synonyms": [
+        "Scutellaria brevifolia",
+        "Scutellaria integrifolia var. brevifolia",
+        "Scutellaria resinosa var. brevifolia"
+      ]
+    },
+    {
+      "id": "stachys-agraria",
+      "reference_name": "Stachys crenata",
+      "page": 780,
+      "continuation_page": 782,
+      "verification": "flora_extracted_name_application_hold",
+      "family": "Lamiaceae",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 780,
+      "verification_status": "flora_extracted_name_application_hold",
+      "habit": "Slender pubescent annual or biennial to 30 cm; several erect or decumbent stems",
+      "leaves": "Ovate or oblong-ovate blades to 4 cm; lower leaf petioles nearly as long as or longer than blade, gradually reduced above; margins crenate, apex obtuse (key)",
+      "flowers": "Few-flowered whorls with upper bracts smaller; calyx 3–5 mm; light lavender-pink, pink or bluish (rare white) corolla; 5–6 mm from key",
+      "habitat": "Ditches, damp woods, weedy areas",
+      "flowering": "Apr–May",
+      "taxonomy": "HIGH PRIORITY: 1999 flora explicitly says Stachys agraria of authors, not Cham. & Schltdl.; Kew POWO treats Stachys crenata Raf. as tentative synonym of Stachys agraria Schltdl. & Cham. and ITIS treats auct. non usage separately. Verify specimen/circumscription before transferring facts to accepted binomial."
+    },
+    {
+      "id": "teucrium-canadense",
+      "reference_name": "Teucrium canadense",
+      "page": 782,
+      "family": "Lamiaceae",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 782,
+      "verification_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "habit": "Rhizomatous perennial 30–150 cm",
+      "leaves": "Ovate to lanceolate 6–10 × 2–4 cm; lower surfaces silver-pubescent, toothed",
+      "flowers": "Terminal spike-like racemes with silvery appressed hairs; bracts approximately as long as calyces; subsessile or pedicels <=2 mm; calyx 5–9 mm, lavender (rare white) corolla 10–18 mm, dark spots (genus key), Teucrium distinctive near one-lipped corolla and 4 stamens",
+      "habitat": "Stream-bottom woods and low open ground",
+      "flowering": "Jun–Aug"
+    },
+    {
+      "id": "teucrium-cubense",
+      "reference_name": "Teucrium cubense var. laevigatum",
+      "page": 782,
+      "continuation_page": 783,
+      "family": "Lamiaceae",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 782,
+      "verification_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "habit": "Perennial, possibly annual, bushy herb with several stems from taproot to 70 cm",
+      "leaves": "Median leaves mostly 3–5 lobed nearly to midrib; floral bracts 3-parted nearly to base and often longer than calyx",
+      "flowers": "Pedicels 4–12 mm; flowering calyces 5–10 mm; corollas 6–15 mm; genus near one-lipped corolla with 4 stamens",
+      "habitat": "Low open ground",
+      "flowering": "Jun–Oct",
+      "taxonomy": "1999 treatment specific to var. laevigatum; var. cubense described separately with shallower median-leaf lobes and less-divided bracts. No species-wide conflation."
+    },
+    {
+      "id": "perilla-frutescens",
+      "reference_name": "Perilla fructescens [spelling as printed]",
+      "page": 768,
+      "family": "Lamiaceae",
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 768,
+      "verification_status": "1999_flora_extracted_modern_taxonomy_BONAP_pending",
+      "habit": "Aromatic coarse annual, stems 0.2–1 m, sometimes purple",
+      "leaves": "Ovate to suborbicular 4–15 × 3–10 cm, coarse serrate/crenate, sometimes crinkled, acute/acuminate apex; tiny glands beneath, petioles 1–8 cm",
+      "flowers": "One-sided elongate racemes 5–15 cm of flowers singly at axils of tiny bracts; calyx 2–3 mm in bloom, elongating 8–12 mm in fruit, somewhat inflated and villous basally; white/lavender bilabiate 5-lobed corolla 2.5–3 mm; 4 stamens",
+      "habitat": "Wet areas, low woods, streams, low pastures",
+      "flowering": "Jul–Nov",
+      "taxonomy": "1999 flora spells epithet 'fructescens' in text, while plate and modern accepted usage are 'frutescens'; transcribed printed text faithfully and flagged probable orthographic error.",
+      "nativity_note": "1999 flora explicitly describes as introduced from Himalaya to East Asia"
+    }
+  ],
+  "crosswalk_sources": [
+    {
+      "authority": "POWO",
+      "taxon": "Stachys agraria",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:459272-1"
+    },
+    {
+      "authority": "ITIS",
+      "taxon": "Stachys crenata",
+      "url": "https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=505351"
+    }
+  ],
+  "holds": [
+    {
+      "species": "salvia-pentstemonoides",
+      "reason": "Not located in supplied 1999 flora; USFWS confirms native Edwards Plateau streams and narrow canyons, species morphology requires detailed authoritative treatment",
+      "url": "https://www.fws.gov/species/big-red-sage-salvia-pentstemonoides"
+    }
+  ],
+  "bonap_status": "pending; no county-level nativity decisions",
+  "photo_metadata_changed": false,
+  "public_site_changed": false
+}
