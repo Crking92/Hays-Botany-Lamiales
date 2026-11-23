@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "collection": "lamiales",
+  "batch": "2026-11-23-08-bignoniaceae-oleaceae",
+  "source": {
+    "citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "files": [
+      "Flora of North Central Texas-Acanth-Euph.pdf",
+      "Flora of North Central Texas-Fab-Zygo.pdf"
+    ],
+    "printed_pages": [
+      442,
+      443,
+      848,
+      849,
+      850,
+      852
+    ]
+  },
+  "records": [
+    {
+      "id": "bignonia-capreolata",
+      "family": "Bignoniaceae",
+      "flora_name": "Bignonia capreolata",
+      "printed_page": 442,
+      "habit": "High-climbing woody evergreen vine",
+      "leaves": "Usually two leaflets per leaf; disk-bearing branched tendril terminal, leaflet bases cordate, petiole 1–2 cm",
+      "flowers": "Axillary clusters; red-orange corolla lighter within, 4–5 cm long",
+      "fruits": "Flat linear capsules 10–17 cm",
+      "habitat": "Moist woods, especially eastern Texas; cultivated and sometimes spreads or escapes in north-central Texas",
+      "flowering": "Mar–Jul",
+      "synonyms": [
+        "Anisostichus capreolata"
+      ],
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "campsis-radicans",
+      "family": "Bignoniaceae",
+      "flora_name": "Campsis radicans",
+      "printed_page": 442,
+      "habit": "Shrubby climber with aerial adventitious rootlets, to 10 m or more",
+      "leaves": "Odd-pinnately compound",
+      "flowers": "Terminal panicles; calyx teeth ca. 1/5 of tube; orange to orange-red corolla 2–2.5 cm with 5 short recurved lobes",
+      "fruits": "Cylindrical-oblong capsule 8–12 cm",
+      "habitat": "Stream banks, disturbed areas, fence lines, cultivation; eastern half of Texas",
+      "flowering": "Jun–Aug",
+      "note": "Use exact source corolla measurement despite potential discrepancy with other floras; later crosscheck explicitly.",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "catalpa-speciosa",
+      "family": "Bignoniaceae",
+      "flora_name": "Catalpa speciosa",
+      "printed_page": 443,
+      "habit": "Deciduous tree to 30 m",
+      "leaves": "Ovate to ovate-oblong blades 15–30 cm, truncate to cordate base and acuminate tip; petioles to 15 cm",
+      "flowers": "Few-flowered showy panicle; white corollas ca. 50 mm with yellow lines and brown-purple internal markings",
+      "fruits": "Cylindrical capsule 20–45(–60) cm long, about 1.5 cm thick",
+      "seeds": "Flat, 30–40 mm long and 4–5(–8) mm wide",
+      "habitat": "Cultivated, roadsides, streams; historical escapes east Texas",
+      "flowering": "May",
+      "source_distribution": "Flora considers native to Mississippi Valley, cultivated and escaping in Texas",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "chilopsis-linearis",
+      "family": "Bignoniaceae",
+      "flora_name": "Chilopsis linearis",
+      "printed_page": 443,
+      "habit": "Shrub or small tree to 10 m",
+      "leaves": "Opposite or alternate, narrow linear-lanceolate entire blades",
+      "flowers": "Terminal racemes to 30 cm; white/purple/yellow patterned corollas varying widely, some flowers sterile",
+      "fruits": "Capsules to 30 cm long, usually ca. 6 mm thick",
+      "habitat": "Cultivated highway and landscape plant, persists and sometimes escapes in north-central Texas; historically native farther west",
+      "flowering": "May–Sep",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "forestiera-pubescens",
+      "family": "Oleaceae",
+      "flora_name": "Forestiera pubescens",
+      "printed_page": 848,
+      "habit": "Deciduous shrub with looping, sometimes half-vining stems",
+      "leaves": "Blades acute or obtuse, 2.5–4 cm, petioles 1–7 mm; glabrous in var. glabrifolia, pubescent in var. pubescens",
+      "flowers": "Sexes generally separate; flowers before leaves; female umbels/corymbs 3–12 flowers; filament 1–4 mm (source key)",
+      "fruits": "Dark glaucous drupes 5–7 mm",
+      "habitat": "Limestone outcrops, pastures, brushy prairies",
+      "flowering": "Jan–Mar",
+      "taxonomy": "1999 recognizes two varieties glabrifolia and pubescens; variety-specific pubescence must not be universalized.",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "fraxinus-pennsylvanica",
+      "family": "Oleaceae",
+      "flora_name": "Fraxinus pennsylvanica",
+      "printed_page": 849,
+      "habit": "Deciduous tree to 20 m, usually glabrous in north-central Texas",
+      "leaves": "Opposite odd-pinnate with 5–7 leaflets; leaf bases decurrent, lateral petiolules 0–7 mm according to key",
+      "flowers": "Flowers in panicles before or with leaves, corolla absent; genus often dioecious",
+      "fruits": "Samara 3–7.5 cm, lanceolate to oblong-ovate; wing strongly decurrent along fruit body",
+      "habitat": "Stream-bottom woods and slopes",
+      "flowering": "Feb–Mar",
+      "synonyms": [
+        "Fraxinus pennsylvanica var. integerrima"
+      ],
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "fraxinus-albicans",
+      "family": "Oleaceae",
+      "flora_name": "Fraxinus texensis",
+      "printed_page": 849,
+      "habit": "Small deciduous tree to ca. 16 m, glabrous",
+      "leaves": "Leaflets mostly 5 (range 5–7), often drooping, suborbicular-ovate to obovate or narrowly elliptic; key usually <6(–8) cm, 1.75–2.5× as long as wide",
+      "flowers": "Early spring, corollas absent as in genus",
+      "fruits": "Winged samaras 1.5–2.7(–3) cm, wing not decurrent on body (key)",
+      "habitat": "Limestone slopes and bluffs",
+      "flowering": "Feb–Mar",
+      "synonyms": [
+        "Fraxinus texensis",
+        "Fraxinus americana subsp. texensis",
+        "Fraxinus americana var. texensis"
+      ],
+      "taxonomy": "Kew POWO and USDA GRIN synonymize Fraxinus texensis under accepted F. albicans; 1999 flora treats F. texensis distinct but allied to F. americana. Crosswalk evidence recorded, and separate identity confirmation for actual plants still needed.",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "ligustrum-lucidum",
+      "family": "Oleaceae",
+      "flora_name": "Ligustrum lucidum",
+      "printed_page": 850,
+      "habit": "Evergreen shrub/small tree to ca. 10 m",
+      "leaves": "Glossy glabrous blades (6–)10–15 cm, usually 6–8 distinct lateral veins per side, acuminate; petioles 10–20 mm (key)",
+      "flowers": "Dense terminal panicles of white flowers, corolla tube approximately equals lobes (key)",
+      "fruits": "Black-blue drupes (genus treatment)",
+      "habitat": "Cultivated and escaped",
+      "flowering": "Late summer",
+      "nativity": "Introduced from China and Korea according to 1999 flora",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "ligustrum-quihoui",
+      "family": "Oleaceae",
+      "flora_name": "Ligustrum quihoui",
+      "printed_page": 850,
+      "habit": "Shrub to ca. 2 m, branches almost horizontal",
+      "leaves": "Very short-petioled dark-green lanceolate to oblanceolate glabrous blades; source key length generally 2–6(–7) cm and twigs pubescent",
+      "flowers": "Open panicle with separated whorl-like flower clusters on terminal and paired lateral branchlets; corolla tube equals lobes, stamens exserted",
+      "fruits": "Black-blue drupe (genus)",
+      "habitat": "Cultivated and naturalized",
+      "flowering": "Late May–Jul",
+      "nativity": "Introduced from China according to flora",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "ligustrum-sinense",
+      "family": "Oleaceae",
+      "flora_name": "Ligustrum sinense",
+      "printed_page": 850,
+      "habit": "Shrub to ca. 4 m",
+      "leaves": "Short-petioled rhombic-elliptic to ovate leaves, usually hairs on abaxial midrib, typically 2–6(–7) cm by key; twigs pubescent",
+      "flowers": "Compact panicles; distinctly stalked flowers; corolla tube shorter than lobes, stamens exserted",
+      "fruits": "Black-blue drupe (genus)",
+      "habitat": "Cultivated and naturalized, invasive understorey in native habitats",
+      "flowering": "Late Apr–May",
+      "nativity": "Introduced from China according to flora",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "menodora-heterophylla",
+      "family": "Oleaceae",
+      "flora_name": "Menodora heterophylla",
+      "printed_page": 850,
+      "continuation_page": 852,
+      "habit": "Low mostly glabrous perennial to 25 cm, spreading in patches from creeping branching roots",
+      "leaves": "Sessile/subsessile, narrow to elliptic-obovate, entire to deeply pinnatifid",
+      "flowers": "Solitary axillary/terminal, 5–8 mm pedicels recurved at fruiting, bright red unopened buds; corolla to 15 mm, yellow interior/red exterior",
+      "fruits": "Circumscissile two-loculed capsule 6–10 mm",
+      "habitat": "Rocky, silty or sandy ground",
+      "flowering": "Apr–Jun, sometimes Sep (possibly Jan farther south)",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    },
+    {
+      "id": "menodora-longiflora",
+      "family": "Oleaceae",
+      "flora_name": "Menodora longiflora",
+      "printed_page": 852,
+      "habit": "Low herbaceous/near-herbaceous perennial inferred from Menodora family key; individual treatment does not supply height",
+      "leaves": "Mostly entire, occasionally 2–3-lobed near base",
+      "flowers": "Numerous terminal flowers with bright yellow corollas 30–60 mm",
+      "fruits": "Pedicels erect in fruit (unlike recurved in M. heterophylla)",
+      "habitat": "Regional western/central Texas; habitat not separately specified in brief flora note",
+      "flowering": null,
+      "taxonomy": "Short comparative note only; do not borrow M. heterophylla height, fruit size, flowering, or habitat.",
+      "reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_verification": "direct_treatment_extracted; additional_source_and_BONAP_review_pending"
+    }
+  ],
+  "modern_name_sources": [
+    {
+      "taxon": "Fraxinus albicans",
+      "source": "Kew POWO",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:608909-1"
+    },
+    {
+      "taxon": "Fraxinus texensis synonym of F. albicans",
+      "source": "USDA GRIN",
+      "url": "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=449333"
+    },
+    {
+      "taxon": "Fraxinus berlandieriana accepted distinct",
+      "source": "Kew POWO",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:608933-1"
+    }
+  ],
+  "holds": [
+    {
+      "id": "catalpa-bignonioides",
+      "reason": "Not treated in uploaded 1999 Bignoniaceae treatment; seek FNA/source"
+    },
+    {
+      "id": "forestiera-angustifolia",
+      "reason": "No exact species treatment in 1999 flora; separate from F. pubescens"
+    },
+    {
+      "id": "fraxinus-berlandieriana",
+      "reason": "Accepted taxon not in 1999 flora; do not import F. pennsylvanica description"
+    },
+    {
+      "id": "fraxinus-greggii",
+      "reason": "Not in uploaded 1999 flora; requires species-specific source"
+    }
+  ],
+  "bonap": "County-level native-area decisions not yet checked",
+  "public_site_changes": false,
+  "photo_changes": false
+}
