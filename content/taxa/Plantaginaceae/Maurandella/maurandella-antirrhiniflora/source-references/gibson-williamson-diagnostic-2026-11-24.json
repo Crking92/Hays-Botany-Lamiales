@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_authoritative_botanical_character_extraction",
+  "review_date": "2026-11-24",
+  "species_id": "maurandella-antirrhiniflora",
+  "original_record": "content/taxa/Plantaginaceae/Maurandella/maurandella-antirrhiniflora/species.json",
+  "source": {
+    "author": "A.C. Gibson",
+    "title": "Vascular Plants of Williamson County: Maurandella antirrhiniflora subsp. antirrhiniflora",
+    "pages": [
+      1,
+      2
+    ],
+    "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Maurandella%20antirrhiniflora%20antirhiniflora",
+    "source_taxon": "Maurandella antirrhiniflora subsp. antirrhiniflora",
+    "notes": "Applies explicitly to the nominate subspecies and is a regional Texas descriptive treatment"
+  },
+  "name_crosswalk": {
+    "accepted_species": "Maurandella antirrhiniflora (Humb. & Bonpl. ex Willd.) Rothm.",
+    "historical_name": "Maurandya antirrhiniflora Humb. & Bonpl. ex Willd.",
+    "corroboration": "Kew POWO and ITIS",
+    "kew_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:805502-1"
+  },
+  "source_reported_morphology": {
+    "growth_habit": "Perennial vine scrambling over plants and twining by petioles, branching from axillary buds",
+    "stems": "Cylindric, slender and usually glabrous, to 2 mm diameter",
+    "leaves": "Helically alternate, subopposite low on stem; often three-lobed, triangular-hastate or sagittate; blade (4.5–)6–27 × (4.5–)5–30 mm; long petioles to 19 mm, which may coil around support",
+    "flowers": "Solitary axillary, bilateral, flower approximately 15–18 mm across; two-lipped five-lobed corolla about 20 mm long, blue to violet-blue lobes and whitish to pale violet spotted throat",
+    "calyx": "Five lobes, mostly 10–12.5 × 1.6–2.5 mm",
+    "stamens": "4 in two unequal pairs",
+    "capsule": "Two-chambered globose dehiscent capsule ca. 5–6 × 5–6.5 mm, persistent angled style-derived beak ca. 2–3.3 mm",
+    "seeds": "Dull brown, ca. 1–1.3 × 0.8–1 mm with corky winglike coverings"
+  },
+  "status": "REGIONAL_SUBSPECIES_MORPHOLOGY_EXTRACTED_NAME_CROSSWALK_RESOLVED",
+  "limitations": [
+    "Subspecies-level measurements should not be asserted for every different Maurandella taxonomic concept without checking scope.",
+    "No independently verified diagnosis of gallery photographs or source-license review.",
+    "Do not infer Hays nativity from a Williamson regional description."
+  ],
+  "bonap_status": "DEFERRED_BY_OWNER",
+  "preservation": "Additive only; species.json/gallery/images/source credits left untouched"
+}
